@@ -6279,7 +6279,7 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Hello, Sir",
+   "category": "Sir",
    "choices": [
     {
      "correct": false,
@@ -6298,14 +6298,14 @@
      "text": "Paul McCartney"
     }
    ],
-   "clue": "“Bow”s to no one",
+   "clue": "David Bowie wurde nicht zum Ritter geschlagen",
    "id": "109717",
    "isEasy": false,
-   "question": "Which of the following musicians was NOT knighted by Queen Elizabeth II?",
+   "question": "Welcher der folgenden Musiker wurde NICHT von Queen Elizabeth II. zum Ritter geschlagen?",
    "theme": "CASTLE"
   },
   {
-   "category": "Comic Knights",
+   "category": "Comic-Ritter",
    "choices": [
     {
      "correct": false,
@@ -6324,10 +6324,10 @@
      "text": "Misty Knight"
     }
    ],
-   "clue": "Tek is from The Boys",
+   "clue": "Tek stammt aus „The Boys“",
    "id": "109719",
    "isEasy": false,
-   "question": "Which of these is NOT a hero from Marvel comics?",
+   "question": "Welcher dieser Charaktere ist KEIN Held aus den Marvel-Comics?",
    "theme": "CASTLE"
   },
   {
@@ -6383,29 +6383,29 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Lunar Cycles",
+   "category": "Mondzyklen",
    "choices": [
     {
      "correct": false,
-     "text": "Two hours"
+     "text": "Zwei Stunden"
     },
     {
      "correct": false,
-     "text": "Two days"
+     "text": "Zwei Tage"
     },
     {
      "correct": true,
-     "text": "Two weeks"
+     "text": "Zwei Wochen"
     },
     {
      "correct": false,
-     "text": "Two months"
+     "text": "Zwei Monate"
     }
    ],
-   "clue": "It’s half a lunar cycle, which is a month",
+   "clue": "Es ist ein halber Mondzyklus, ein ganzer enspricht einem Monat",
    "id": "109722",
    "isEasy": false,
-   "question": "How long is an average night on Earth’s moon?",
+   "question": "Wie lang ist eine durchschnittliche Nacht auf dem Mond?",
    "theme": "CEMETERY"
   },
   {
@@ -6435,29 +6435,29 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Meats",
+   "category": "Fleisch",
    "choices": [
     {
      "correct": true,
-     "text": "Loin"
+     "text": "Lende"
     },
     {
      "correct": false,
-     "text": "Flank"
+     "text": "Flanke"
     },
     {
      "correct": false,
-     "text": "Shank"
+     "text": "Hüfte"
     },
     {
      "correct": false,
-     "text": "Rump"
+     "text": "Nacken"
     }
    ],
-   "clue": "Fed to a dyslexic lion",
+   "clue": "Dein Genuss ist des Rindes (L)Ende",
    "id": "109724",
    "isEasy": false,
-   "question": "What part of the cow does a T-bone steak come from?",
+   "question": "Aus welchem Teil des Rindes stammt ein T-Bone-Steak?",
    "theme": "DESERT"
   },
   {
@@ -6565,29 +6565,29 @@
    "theme": "DESERT"
   },
   {
-   "category": "Tiny Bones",
+   "category": "Kleine Knochen",
    "choices": [
     {
      "correct": true,
-     "text": "Malleus (hammer)"
+     "text": "der Hammer (Malleus)"
     },
     {
      "correct": false,
-     "text": "Corti (cone)"
+     "text": "der Kegel (Corti)"
     },
     {
      "correct": false,
-     "text": "Humerus (clamp)"
+     "text": "die Klemme (Humerus)"
     },
     {
      "correct": false,
-     "text": "Metacarpal (wrench)"
+     "text": "der Schraubenschlüssel (Metacarpal)"
     }
    ],
-   "clue": "Let’s go to the mall!",
+   "clue": "Diese Frage ist der Hammer!",
    "id": "109731",
    "isEasy": false,
-   "question": "Your middle ear bones are the incus (anvil), the stapes (stirrup), and the…",
+   "question": "Die Mittelohrknochen sind der Amboss (Incus), der Steigbügel (Stapes) und…",
    "theme": "DESERT"
   },
   {
@@ -6617,29 +6617,29 @@
    "theme": "DESERT"
   },
   {
-   "category": "Sliding Sports",
+   "category": "Rutschsportarten",
    "choices": [
     {
      "correct": true,
-     "text": "Face down, head-first"
+     "text": "mit dem Gesicht nach unten und dem Kopf voran"
     },
     {
      "correct": false,
-     "text": "Face up, feet-first"
+     "text": "mit dem Gesicht nach oben und den Füßen voran"
     },
     {
      "correct": false,
-     "text": "Face down, feet-first"
+     "text": "mit dem Gesicht nach unten und den Füßen voran"
     },
     {
      "correct": false,
-     "text": "Face up, head-first"
+     "text": "mit dem Gesicht nach oben und dem Kopf voran"
     }
    ],
-   "clue": "Like how Superman flies!",
+   "clue": "So wie Superman fliegt!",
    "id": "109735",
    "isEasy": false,
-   "question": "In the skeleton Olympic event, athletes sled down a track…",
+   "question": "Bei der olympischen Disziplin Skeleton rasen die Athleten eine Bahn hinunter...",
    "theme": "DESERT"
   },
   {
@@ -6669,15 +6669,15 @@
    "theme": "DESERT"
   },
   {
-   "category": "Animal Defense",
+   "category": "Tierverteidigung",
    "choices": [
     {
      "correct": false,
-     "text": "Hedgehog"
+     "text": "Igel"
     },
     {
      "correct": false,
-     "text": "Porcupine"
+     "text": "Stachelschwein"
     },
     {
      "correct": false,
@@ -6685,17 +6685,17 @@
     },
     {
      "correct": true,
-     "text": "Vole"
+     "text": "Lemming"
     }
    ],
-   "clue": "Vole your conscience",
+   "clue": "Wehrlos wie die Lämmer...",
    "id": "109737",
    "isEasy": false,
-   "question": "Which of these li’l creatures doesn’t have protective spines?",
+   "question": "Welches dieser kleinen Tierchen hat keine schützenden Stacheln?",
    "theme": "DESERT"
   },
   {
-   "category": "Fighting Games",
+   "category": "Kampfspiele",
    "choices": [
     {
      "correct": false,
@@ -6711,17 +6711,17 @@
     },
     {
      "correct": true,
-     "text": "It’s a fake game from [i]The Simpsons[/i]"
+     "text": "Es ist ein fiktives Spiel aus [i]Die Simpsons[/i]"
     }
    ],
-   "clue": "It’s a classic episode",
+   "clue": "Die Folge ist ein Klassiker!",
    "id": "109738",
    "isEasy": true,
-   "question": "Which video game company makes [i]Bonestorm[/i]?",
+   "question": "Welches Videospielunternehmen entwickelte [i]Bonestorm[/i]?",
    "theme": "DESERT"
   },
   {
-   "category": "Classic Disney",
+   "category": "Klassisches Disney",
    "choices": [
     {
      "correct": false,
@@ -6737,17 +6737,17 @@
     },
     {
      "correct": false,
-     "text": "None of the above"
+     "text": "Keinem davon"
     }
    ],
-   "clue": "Think happy thoughts",
+   "clue": "Niemals alt werden, schön und grausam zu gleich",
    "id": "109740",
    "isEasy": true,
-   "question": "Which Disney character had to have their shadow reattached by needle and thread?",
+   "question": "Welcher Disney-Figur musste der Schatten mit Nadel und Faden wieder angenäht werden?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Great Darkness",
+   "category": "Große Dunkelheit",
    "choices": [
     {
      "correct": false,
@@ -6766,10 +6766,10 @@
      "text": "0"
     }
    ],
-   "clue": "You need help, no shade",
+   "clue": "Du tappst wohl im Dunkeln, wenn du mich um Rate fragst",
    "id": "109741",
    "isEasy": false,
-   "question": "Roughly, how many hours of darkness does Antarctica get on Christmas?",
+   "question": "Wie viele Stunden Dunkelheit hat die Antarktis an Weihnachten ungefähr?",
    "theme": "CEMETERY"
   },
   {
@@ -6799,33 +6799,33 @@
    "theme": "DESERT"
   },
   {
-   "category": "Stellar Sights",
+   "category": "Stellare Sehenswürdigkeiten",
    "choices": [
     {
      "correct": true,
-     "text": "Solar eclipse"
+     "text": "Sonnenfinsternis"
     },
     {
      "correct": false,
-     "text": "Lunar eclipse"
+     "text": "Mondfinsternis"
     },
     {
      "correct": false,
-     "text": "Polar eclipse"
+     "text": "Polarfinsternis"
     },
     {
      "correct": false,
-     "text": "Ulnar eclipse"
+     "text": "Ulnarfinsternis"
     }
    ],
-   "clue": "Sol close, but so far",
+   "clue": "So'ne schwere Frage...",
    "id": "109744",
    "isEasy": false,
-   "question": "What kind of eclipse is happening if the moon is casting its shadow on Earth?",
+   "question": "Welche Art von Finsternis findet statt, wenn der Mond seinen Schatten auf die Erde wirft?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Mythic Parents",
+   "category": "Mythische Eltern",
    "choices": [
     {
      "correct": true,
@@ -6833,25 +6833,25 @@
     },
     {
      "correct": false,
-     "text": "Time"
+     "text": "Chronos"
     },
     {
      "correct": false,
-     "text": "Death"
+     "text": "Thanatos"
     },
     {
      "correct": false,
-     "text": "Light"
+     "text": "Eros"
     }
    ],
-   "clue": "There’s no order to these answers",
+   "clue": "Die Reihenfolge dieser Antworten ist willkürlich",
    "id": "109745",
    "isEasy": false,
-   "question": "In Greek mythology, Erebus, the personification of darkness, is the son of...",
+   "question": "In der griechischen Mythologie ist Erebos, die Personifikation der Dunkelheit, der Sohn von...",
    "theme": "CEMETERY"
   },
   {
-   "category": "Email History",
+   "category": "Email-Geschichte",
    "choices": [
     {
      "correct": false,
@@ -6867,13 +6867,13 @@
     },
     {
      "correct": false,
-     "text": "Xfinity"
+     "text": "GMX"
     }
    ],
    "clue": "Look here!",
    "id": "109748",
    "isEasy": false,
-   "question": "Email provider Hotmail was discontinued in 2013 and became...",
+   "question": "Der E-Mail-Anbieter Hotmail wurde 2013 eingestellt und wurde zu...",
    "theme": "DESERT"
   },
   {
@@ -6903,7 +6903,7 @@
    "theme": "DESERT"
   },
   {
-   "category": "Musical Duos",
+   "category": "Musikduos",
    "choices": [
     {
      "correct": false,
@@ -6922,36 +6922,36 @@
      "text": "Noel & Lyle"
     }
    ],
-   "clue": "Joel isn’t one of them",
+   "clue": "Joel gehört nicht dazu",
    "id": "109828",
    "isEasy": false,
-   "question": "Who are the two brothers in Oasis?",
+   "question": "Wer sind die beiden Brüder in [i]Oasis[/i]",
    "theme": "DESERT"
   },
   {
-   "category": "Greek Curses",
+   "category": "Griechische Flüche",
    "choices": [
     {
      "correct": false,
-     "text": "Eternally pushing boulder"
+     "text": "Ewiges Schieben eines Felsbrockens"
     },
     {
      "correct": false,
-     "text": "Constantly eaten by eagle"
+     "text": "Ständig von Adlern aufgefressen werden"
     },
     {
      "correct": false,
-     "text": "Forever stuck in tree"
+     "text": "Ewig auf einem Baum festsitzen"
     },
     {
      "correct": true,
-     "text": "Always thirsty, can never drink"
+     "text": "Immer durstig sein, aber nie trinken können"
     }
    ],
-   "clue": "The water... so tantalizingly close...",
+   "clue": "Dabei soll griechischer Wein so gut wie das Blut der Erde sein",
    "id": "109829",
    "isEasy": false,
-   "question": "How was Tantalus punished in Greek mythology?",
+   "question": "Wie wurde Tantalos in der griechischen Mythologie bestraft?",
    "theme": "CEMETERY"
   },
   {
@@ -7114,108 +7114,108 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Armageddon Army",
+   "category": "Armageddon-Armee",
    "choices": [
     {
      "correct": false,
-     "text": "Death, Sin, Famine, Pain"
+     "text": "Tod, Sünde, Hunger, Leid"
     },
     {
      "correct": true,
-     "text": "Conquest, War, Famine, Death"
+     "text": "Sieg, Krieg, Hunger, Tod"
     },
     {
      "correct": false,
-     "text": "Wrath, Gluttony, Envy, Death"
+     "text": "Zorn, Völlerei, Neid, Tod"
     },
     {
      "correct": false,
-     "text": "War, Famine, Death, Pain"
+     "text": "Krieg, Hunger, Tod, Leid"
     }
    ],
-   "clue": "Pain isn’t one of them",
+   "clue": "Leid ist keines davon",
    "id": "109841",
    "isEasy": false,
-   "question": "What do the Four Horsemen of the Apocalypse represent?",
+   "question": "Was symbolisieren die vier apokalyptischen Reiter?",
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Literary Characters",
+   "category": "Literaturfiguren",
    "choices": [
     {
      "correct": false,
-     "text": "A misnomer"
+     "text": "Eine Falschbezeichnung"
     },
     {
      "correct": false,
-     "text": "An aptonym"
+     "text": "Ein sprechender Name"
     },
     {
      "correct": true,
-     "text": "A palindrome"
+     "text": "Ein Palindrom"
     },
     {
      "correct": false,
-     "text": "A spoonerism"
+     "text": "Ein Spoonerismus"
     }
    ],
-   "clue": "He could’ve carried her up it backwards AND forwards just the same",
+   "clue": "Er hätte sie genauso gut RÜCKWÄRTS wie VORWÄRTS hinauftragen können",
    "id": "109847",
    "isEasy": false,
-   "question": "Stanley Yelnats, who never carried Madame Zeroni up the mountain, is an example of what?",
+   "question": "Stanley Yelnats, der Madame Zeroni nie den Berg hinaufgetragen hat, ist ein Beispiel für was?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Olympic Moves",
+   "category": "Olympische Spiele",
    "choices": [
     {
      "correct": false,
-     "text": "High dive"
+     "text": "Turmspringen"
     },
     {
      "correct": true,
-     "text": "High jump"
+     "text": "Hochsprung"
     },
     {
      "correct": false,
-     "text": "High beam"
+     "text": "Weitblick"
     },
     {
      "correct": false,
-     "text": "Equestrian show jumping"
+     "text": "Springreiten"
     }
    ],
-   "clue": "This’ll be a high bar to clear!",
+   "clue": "Da hängt die Messlatte höher als bei anderen Sportarten!",
    "id": "109863",
    "isEasy": false,
-   "question": "In which Olympic event will you see the “Fosbury flop”?",
+   "question": "Bei welcher olympischen Disziplin kann man den „Fosbury Flop“ sehen?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Basic Chemistry",
+   "category": "Grundlagen der Chemie",
    "choices": [
     {
      "correct": true,
-     "text": "Carbon dioxide"
+     "text": "Kohlenstoffdioxid"
     },
     {
      "correct": false,
-     "text": "Carbon monoxide"
+     "text": "Kohlenstoffmonoxid"
     },
     {
      "correct": false,
-     "text": "Carbon trioxide"
+     "text": "Kohlenstofftrioxid"
     },
     {
      "correct": false,
-     "text": "Carbon quadroxide"
+     "text": "Kohlenstoffquadroxid"
     }
    ],
-   "clue": "TWO oxygen atoms",
+   "clue": "ZWEI Sauerstoffatome",
    "id": "109888",
    "isEasy": false,
-   "question": "Alchemy Check: What’s dry ice the solid form of?",
+   "question": "Alchemie-Check: Wovon ist Trockeneis die feste Form?",
    "theme": "CASTLE"
   },
   {
@@ -7271,15 +7271,15 @@
    "theme": "FOREST"
   },
   {
-   "category": "Animated Literature",
+   "category": "Animierte Literatur",
    "choices": [
     {
      "correct": false,
-     "text": "[i]The Princess and the Frog[/i]"
+     "text": "[i]Küss den Frosch[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Tangled[/i]"
+     "text": "[i]Rapunzel – Neu verföhnt[/i]"
     },
     {
      "correct": true,
@@ -7287,13 +7287,13 @@
     },
     {
      "correct": false,
-     "text": "[i]Snow White[/i]"
+     "text": "[i]Schneewittchen und die sieben Zwerge[/i]"
     }
    ],
-   "clue": "It’s the most recently released.",
+   "clue": "Es ist der zuletzt veröffentlichte.",
    "id": "109932",
    "isEasy": false,
-   "question": "Which Disney movie is NOT inspired by a Grimm Brothers fairy tale?",
+   "question": "Welcher Disney-Film ist NICHT von einem Märchen der Gebrüder Grimm inspiriert?",
    "theme": "FOREST"
   },
   {
@@ -7429,29 +7429,29 @@
    "theme": "FOREST"
   },
   {
-   "category": "MEETING NEW PEOPLE",
+   "category": "LEUTE KENNENLERNEN",
    "choices": [
     {
      "correct": false,
-     "text": "Lazy"
+     "text": "faul macht"
     },
     {
      "correct": true,
-     "text": "Anti-social"
+     "text": "introvertiert werden lässt"
     },
     {
      "correct": false,
-     "text": "Literate"
+     "text": "das Lesen und Schreiben lehrt"
     },
     {
      "correct": false,
-     "text": "Smell better"
+     "text": "besser riechen lässt"
     }
    ],
-   "clue": "This is my excuse for missing parties.",
+   "clue": "Das ist meine Ausrede dafür, nicht auf Partys zu gehen.",
    "id": "109951",
    "isEasy": false,
-   "question": "The Skogsrå is a Swedish mythical creature with tree bark skin that lures men into the forest and makes them...",
+   "question": "Die Skogsrå ist ein schwedisches Fabelwesen mit einer Haut aus Baumrinde, das Männer in den Wald lockt und sie ...",
    "theme": "CASTLE"
   },
   {
@@ -7509,15 +7509,11 @@
    "theme": "FOREST"
   },
   {
-   "category": "A SCARY PLACE",
+   "category": "GRUSELIGE ORTE",
    "choices": [
     {
      "correct": true,
      "text": "Derry"
-    },
-    {
-     "correct": false,
-     "text": "Dairy"
     },
     {
      "correct": false,
@@ -7526,12 +7522,16 @@
     {
      "correct": false,
      "text": "Darry"
+    },
+    {
+     "correct": false,
+     "text": "Perry"
     }
    ],
-   "clue": "The right answer is dairy-free",
+   "clue": "Die richtige Stadt ist NICHT Dubidubiduba... Perry!",
    "id": "109954",
    "isEasy": false,
-   "question": "What fictional town is the setting in Stephen King’s [i]It[/i]?",
+   "question": "In welcher fiktiven Stadt spielt Stephen Kings Roman [i]Es[/i]?",
    "theme": "CASTLE"
   },
   {
@@ -7588,55 +7588,55 @@
    "theme": "FOREST"
   },
   {
-   "category": "AN ISLAND",
+   "category": "INSELN",
    "choices": [
     {
      "correct": false,
-     "text": "North of Morocco"
+     "text": "Nördlich von Marokko"
     },
     {
      "correct": false,
-     "text": "West of Italy"
+     "text": "Westlich von Italien"
     },
     {
      "correct": true,
-     "text": "South of Turkey"
+     "text": "Südlich der Türkei"
     },
     {
      "correct": false,
-     "text": "East of Egypt"
+     "text": "Östlich von Ägypten"
     }
    ],
-   "clue": "Ironically, the weather is almost never fowl",
+   "clue": "Zypern ist westlich von Syrien im Mittelmeer.",
    "id": "109958",
    "isEasy": false,
-   "question": "Cyprus is an island with strong connections to mythology... but it’s real! Where is it?",
+   "question": "Zypern ist eine Insel, die eng mit Mythologie verflochten ist... aber sie ist echt! Wo liegt sie?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Oddly Specific Facts",
+   "category": "Seltsam spezifische Fakten",
    "choices": [
     {
      "correct": false,
-     "text": "1 in 100"
+     "text": "1 von 100"
     },
     {
      "correct": false,
-     "text": "1 in 1,000"
+     "text": "1 von 1.000"
     },
     {
      "correct": true,
-     "text": "1 in 10,000"
+     "text": "1 von 10.000"
     },
     {
      "correct": false,
-     "text": "1 in 1,000,000"
+     "text": "1 von 1.000.000"
     }
    ],
-   "clue": "Answer’s got as many zeros as there are Golden Girls",
+   "clue": "Die Antwort hat genauso viele Nullen wie es Mitglieder bei TKKG gibt",
    "id": "109960",
    "isEasy": false,
-   "question": "On average, how many acorns will actually grow into an oak tree?",
+   "question": "Wie viele Eicheln wachsen im Durchschnitt tatsächlich zu einer Eiche heran?",
    "theme": "FOREST"
   },
   {
@@ -7718,7 +7718,7 @@
    "theme": "FOREST"
   },
   {
-   "category": "Theater Crushes",
+   "category": "Theater-Crushes",
    "choices": [
     {
      "correct": false,
@@ -7730,17 +7730,17 @@
     },
     {
      "correct": true,
-     "text": "Rosaline"
+     "text": "Rosalinde"
     },
     {
      "correct": false,
-     "text": "Rosalind"
+     "text": "Rosalina"
     }
    ],
-   "clue": "Straight line to the right answer",
+   "clue": "Doch als er Julia erblickte, erwuchs seine Liebe wie ein europäischer Laubbaum",
    "id": "110052",
    "isEasy": false,
-   "question": "Who did Romeo thirst after before seeing Juliet?",
+   "question": "Nach wem sehnte sich Romeo, bevor er Julia traf?",
    "theme": "DESERT"
   },
   {
@@ -7875,55 +7875,55 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Norse Myths",
+   "category": "Nordische Mythen",
    "choices": [
     {
      "correct": false,
-     "text": "Mauled by shapeshifting bears"
+     "text": "Gestaltwandlerbären zerfleischt werden"
     },
     {
      "correct": true,
-     "text": "Eaten by giant wolves"
+     "text": "riesigen Wölfen gefressen werden"
     },
     {
      "correct": false,
-     "text": "Trampled by six-legged horses"
+     "text": "sechsbeinigen Pferden zertrampelt werden"
     },
     {
      "correct": false,
-     "text": "Pecked to death by Odin’s ravens"
+     "text": "Odins Raben zu Tode gepickt werden"
     }
    ],
-   "clue": "Also Little Red Riding Hood’s enemy",
+   "clue": "Zufällig auch der Erzfeind von Rotkäppchen",
    "id": "110061",
    "isEasy": false,
-   "question": "In Norse mythology, if your party was killed by Fenrir, Skoll and Hati, you would be...",
+   "question": "In der nordischen Mythologie würde eure abenteuerliche Gruppe, wenn sie von Fenrir, Skalli und Hati getötet wird, von... ",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Bodies of Water",
+   "category": "Gewässer",
    "choices": [
     {
      "correct": false,
-     "text": "The Red Sea"
+     "text": "Das Rote Meer"
     },
     {
      "correct": false,
-     "text": "The Baltic Sea"
+     "text": "Die Ostsee"
     },
     {
      "correct": false,
-     "text": "The Atlantic Ocean"
+     "text": "Der Atlantische Ozean"
     },
     {
      "correct": true,
-     "text": "Don Juan Pond"
+     "text": "Der Don-Juan-See"
     }
    ],
-   "clue": "Neither sea nor ocean",
+   "clue": "Weder Meer noch Ozean",
    "id": "110062",
    "isEasy": false,
-   "question": "What’s saltier than the Dead Sea?",
+   "question": "Was ist salziger als das Tote Meer?",
    "theme": "DESERT"
   },
   {
@@ -7953,29 +7953,29 @@
    "theme": "DESERT"
   },
   {
-   "category": "Animal Anatomy",
+   "category": "Tieranatomie",
    "choices": [
     {
      "correct": false,
-     "text": "Spike on its tail"
+     "text": "Giftsporn am Schwanz"
     },
     {
      "correct": true,
-     "text": "Spike behind its leg"
+     "text": "Giftsporn am Hinterbein"
     },
     {
      "correct": false,
-     "text": "Spike on its forehead"
+     "text": "Giftsporn auf der Stirn"
     },
     {
      "correct": false,
-     "text": "Spike in its armpit"
+     "text": "Giftsporn in der Achselhöhle"
     }
    ],
-   "clue": "Don’t grab one from behind (or at all)",
+   "clue": "Nicht von hinten greifen (oder überhaupt)",
    "id": "111267",
    "isEasy": false,
-   "question": "Have you heard of the terrifying platypus, with its webbed feet, duck-like bill and its venomous...",
+   "question": "Kennt ihr das furchterregende Schnabeltier mit seinen Schwimmhäuten, seinem entenähnlichen Schnabel und seinem giftigen...",
    "theme": "DESERT"
   },
   {

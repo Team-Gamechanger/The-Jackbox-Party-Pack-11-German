@@ -2970,6 +2970,735 @@
    "isEasy": false,
    "question": "Wer hätte 1976 beinahe wegen des Zurückschneidens eines Baumes einen Krieg begonnen?",
    "theme": "CASTLE"
+  },
+  {
+   "category": "Sir",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mick Jagger"
+    },
+    {
+     "correct": true,
+     "text": "David Bowie"
+    },
+    {
+     "correct": false,
+     "text": "Elton John"
+    },
+    {
+     "correct": false,
+     "text": "Paul McCartney"
+    }
+   ],
+   "clue": "David Bowie wurde nicht zum Ritter geschlagen",
+   "id": "109717",
+   "isEasy": false,
+   "question": "Welcher der folgenden Musiker wurde NICHT von Queen Elizabeth II. zum Ritter geschlagen?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Comic-Ritter",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Moon Knight"
+    },
+    {
+     "correct": false,
+     "text": "Black Knight"
+    },
+    {
+     "correct": true,
+     "text": "Tek Knight"
+    },
+    {
+     "correct": false,
+     "text": "Misty Knight"
+    }
+   ],
+   "clue": "Tek stammt aus „The Boys“",
+   "id": "109719",
+   "isEasy": false,
+   "question": "Welcher dieser Charaktere ist KEIN Held aus den Marvel-Comics?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Mondzyklen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Zwei Stunden"
+    },
+    {
+     "correct": false,
+     "text": "Zwei Tage"
+    },
+    {
+     "correct": true,
+     "text": "Zwei Wochen"
+    },
+    {
+     "correct": false,
+     "text": "Zwei Monate"
+    }
+   ],
+   "clue": "Es ist ein halber Mondzyklus, ein ganzer enspricht einem Monat",
+   "id": "109722",
+   "isEasy": false,
+   "question": "Wie lang ist eine durchschnittliche Nacht auf dem Mond?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Fleisch",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Lende"
+    },
+    {
+     "correct": false,
+     "text": "Flanke"
+    },
+    {
+     "correct": false,
+     "text": "Hüfte"
+    },
+    {
+     "correct": false,
+     "text": "Nacken"
+    }
+   ],
+   "clue": "Dein Genuss ist des Rindes (L)Ende",
+   "id": "109724",
+   "isEasy": false,
+   "question": "Aus welchem Teil des Rindes stammt ein T-Bone-Steak?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Kleine Knochen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "der Hammer (Malleus)"
+    },
+    {
+     "correct": false,
+     "text": "der Kegel (Corti)"
+    },
+    {
+     "correct": false,
+     "text": "die Klemme (Humerus)"
+    },
+    {
+     "correct": false,
+     "text": "der Schraubenschlüssel (Metacarpal)"
+    }
+   ],
+   "clue": "Diese Frage ist der Hammer!",
+   "id": "109731",
+   "isEasy": false,
+   "question": "Die Mittelohrknochen sind der Amboss (Incus), der Steigbügel (Stapes) und…",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Rutschsportarten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "mit dem Gesicht nach unten und dem Kopf voran"
+    },
+    {
+     "correct": false,
+     "text": "mit dem Gesicht nach oben und den Füßen voran"
+    },
+    {
+     "correct": false,
+     "text": "mit dem Gesicht nach unten und den Füßen voran"
+    },
+    {
+     "correct": false,
+     "text": "mit dem Gesicht nach oben und dem Kopf voran"
+    }
+   ],
+   "clue": "So wie Superman fliegt!",
+   "id": "109735",
+   "isEasy": false,
+   "question": "Bei der olympischen Disziplin Skeleton rasen die Athleten eine Bahn hinunter...",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tierverteidigung",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Igel"
+    },
+    {
+     "correct": false,
+     "text": "Stachelschwein"
+    },
+    {
+     "correct": false,
+     "text": "Echidna"
+    },
+    {
+     "correct": true,
+     "text": "Lemming"
+    }
+   ],
+   "clue": "Wehrlos wie die Lämmer...",
+   "id": "109737",
+   "isEasy": false,
+   "question": "Welches dieser kleinen Tierchen hat keine schützenden Stacheln?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Kampfspiele",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nintendo"
+    },
+    {
+     "correct": false,
+     "text": "Blizzard"
+    },
+    {
+     "correct": false,
+     "text": "Ubisoft"
+    },
+    {
+     "correct": true,
+     "text": "Es ist ein fiktives Spiel aus [i]Die Simpsons[/i]"
+    }
+   ],
+   "clue": "Die Folge ist ein Klassiker!",
+   "id": "109738",
+   "isEasy": true,
+   "question": "Welches Videospielunternehmen entwickelte [i]Bonestorm[/i]?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Klassisches Disney",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Alice"
+    },
+    {
+     "correct": true,
+     "text": "Peter Pan"
+    },
+    {
+     "correct": false,
+     "text": "Christopher Robin"
+    },
+    {
+     "correct": false,
+     "text": "Keinem davon"
+    }
+   ],
+   "clue": "Niemals alt werden, schön und grausam zu gleich",
+   "id": "109740",
+   "isEasy": true,
+   "question": "Welcher Disney-Figur musste der Schatten mit Nadel und Faden wieder angenäht werden?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Große Dunkelheit",
+   "choices": [
+    {
+     "correct": false,
+     "text": "24"
+    },
+    {
+     "correct": false,
+     "text": "16"
+    },
+    {
+     "correct": false,
+     "text": "8"
+    },
+    {
+     "correct": true,
+     "text": "0"
+    }
+   ],
+   "clue": "Du tappst wohl im Dunkeln, wenn du mich um Rate fragst",
+   "id": "109741",
+   "isEasy": false,
+   "question": "Wie viele Stunden Dunkelheit hat die Antarktis an Weihnachten ungefähr?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Stellare Sehenswürdigkeiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Sonnenfinsternis"
+    },
+    {
+     "correct": false,
+     "text": "Mondfinsternis"
+    },
+    {
+     "correct": false,
+     "text": "Polarfinsternis"
+    },
+    {
+     "correct": false,
+     "text": "Ulnarfinsternis"
+    }
+   ],
+   "clue": "So'ne schwere Frage...",
+   "id": "109744",
+   "isEasy": false,
+   "question": "Welche Art von Finsternis findet statt, wenn der Mond seinen Schatten auf die Erde wirft?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Mythische Eltern",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Chaos"
+    },
+    {
+     "correct": false,
+     "text": "Chronos"
+    },
+    {
+     "correct": false,
+     "text": "Thanatos"
+    },
+    {
+     "correct": false,
+     "text": "Eros"
+    }
+   ],
+   "clue": "Die Reihenfolge dieser Antworten ist willkürlich",
+   "id": "109745",
+   "isEasy": false,
+   "question": "In der griechischen Mythologie ist Erebos, die Personifikation der Dunkelheit, der Sohn von...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Email-Geschichte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Gmail"
+    },
+    {
+     "correct": true,
+     "text": "Outlook"
+    },
+    {
+     "correct": false,
+     "text": "Yahoo Mail"
+    },
+    {
+     "correct": false,
+     "text": "GMX"
+    }
+   ],
+   "clue": "Look here!",
+   "id": "109748",
+   "isEasy": false,
+   "question": "Der E-Mail-Anbieter Hotmail wurde 2013 eingestellt und wurde zu...",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Musikduos",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Joel & Liam"
+    },
+    {
+     "correct": false,
+     "text": "Joel & Noah"
+    },
+    {
+     "correct": true,
+     "text": "Noel & Liam"
+    },
+    {
+     "correct": false,
+     "text": "Noel & Lyle"
+    }
+   ],
+   "clue": "Joel gehört nicht dazu",
+   "id": "109828",
+   "isEasy": false,
+   "question": "Wer sind die beiden Brüder in [i]Oasis[/i]?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Griechische Flüche",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ewiges Schieben eines Felsbrockens"
+    },
+    {
+     "correct": false,
+     "text": "Ständig von Adlern aufgefressen werden"
+    },
+    {
+     "correct": false,
+     "text": "Ewig auf einem Baum festsitzen"
+    },
+    {
+     "correct": true,
+     "text": "Immer durstig sein, aber nie trinken können"
+    }
+   ],
+   "clue": "Dabei soll griechischer Wein so gut wie das Blut der Erde sein",
+   "id": "109829",
+   "isEasy": false,
+   "question": "Wie wurde Tantalos in der griechischen Mythologie bestraft?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Armageddon-Armee",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tod, Sünde, Hunger, Leid"
+    },
+    {
+     "correct": true,
+     "text": "Sieg, Krieg, Hunger, Tod"
+    },
+    {
+     "correct": false,
+     "text": "Zorn, Völlerei, Neid, Tod"
+    },
+    {
+     "correct": false,
+     "text": "Krieg, Hunger, Tod, Leid"
+    }
+   ],
+   "clue": "Leid ist keines davon",
+   "id": "109841",
+   "isEasy": false,
+   "question": "Was symbolisieren die vier apokalyptischen Reiter?",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Literaturfiguren",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Eine Falschbezeichnung"
+    },
+    {
+     "correct": false,
+     "text": "Ein sprechender Name"
+    },
+    {
+     "correct": true,
+     "text": "Ein Palindrom"
+    },
+    {
+     "correct": false,
+     "text": "Ein Spoonerismus"
+    }
+   ],
+   "clue": "Er hätte sie genauso gut RÜCKWÄRTS wie VORWÄRTS hinauftragen können",
+   "id": "109847",
+   "isEasy": false,
+   "question": "Stanley Yelnats, der Madame Zeroni nie den Berg hinaufgetragen hat, ist ein Beispiel für was?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Olympische Spiele",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Turmspringen"
+    },
+    {
+     "correct": true,
+     "text": "Hochsprung"
+    },
+    {
+     "correct": false,
+     "text": "Weitblick"
+    },
+    {
+     "correct": false,
+     "text": "Springreiten"
+    }
+   ],
+   "clue": "Da hängt die Messlatte höher als bei anderen Sportarten!",
+   "id": "109863",
+   "isEasy": false,
+   "question": "Bei welcher olympischen Disziplin kann man den „Fosbury Flop“ sehen?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Grundlagen der Chemie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kohlenstoffdioxid"
+    },
+    {
+     "correct": false,
+     "text": "Kohlenstoffmonoxid"
+    },
+    {
+     "correct": false,
+     "text": "Kohlenstofftrioxid"
+    },
+    {
+     "correct": false,
+     "text": "Kohlenstoffquadroxid"
+    }
+   ],
+   "clue": "ZWEI Sauerstoffatome",
+   "id": "109888",
+   "isEasy": false,
+   "question": "Alchemie-Check: Wovon ist Trockeneis die feste Form?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Animierte Literatur",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Küss den Frosch[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Rapunzel – Neu verföhnt[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Encanto[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Schneewittchen und die sieben Zwerge[/i]"
+    }
+   ],
+   "clue": "Es ist der zuletzt veröffentlichte.",
+   "id": "109932",
+   "isEasy": false,
+   "question": "Welcher Disney-Film ist NICHT von einem Märchen der Gebrüder Grimm inspiriert?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "LEUTE KENNENLERNEN",
+   "choices": [
+    {
+     "correct": false,
+     "text": "faul macht"
+    },
+    {
+     "correct": true,
+     "text": "introvertiert werden lässt"
+    },
+    {
+     "correct": false,
+     "text": "das Lesen und Schreiben lehrt"
+    },
+    {
+     "correct": false,
+     "text": "besser riechen lässt"
+    }
+   ],
+   "clue": "Das ist meine Ausrede dafür, nicht auf Partys zu gehen.",
+   "id": "109951",
+   "isEasy": false,
+   "question": "Die Skogsrå ist ein schwedisches Fabelwesen mit einer Haut aus Baumrinde, das Männer in den Wald lockt und sie ...",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "GRUSELIGE ORTE",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Derry"
+    },
+    {
+     "correct": false,
+     "text": "Darrey"
+    },
+    {
+     "correct": false,
+     "text": "Darry"
+    },
+    {
+     "correct": false,
+     "text": "Perry"
+    }
+   ],
+   "clue": "Die richtige Stadt ist NICHT Dubidubiduba... Perry!",
+   "id": "109954",
+   "isEasy": false,
+   "question": "In welcher fiktiven Stadt spielt Stephen Kings Roman [i]Es[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "INSELN",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nördlich von Marokko"
+    },
+    {
+     "correct": false,
+     "text": "Westlich von Italien"
+    },
+    {
+     "correct": true,
+     "text": "Südlich der Türkei"
+    },
+    {
+     "correct": false,
+     "text": "Östlich von Ägypten"
+    }
+   ],
+   "clue": "Zypern ist westlich von Syrien im Mittelmeer.",
+   "id": "109958",
+   "isEasy": false,
+   "question": "Zypern ist eine Insel, die eng mit Mythologie verflochten ist... aber sie ist echt! Wo liegt sie?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Seltsam spezifische Fakten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "1 von 100"
+    },
+    {
+     "correct": false,
+     "text": "1 von 1.000"
+    },
+    {
+     "correct": true,
+     "text": "1 von 10.000"
+    },
+    {
+     "correct": false,
+     "text": "1 von 1.000.000"
+    }
+   ],
+   "clue": "Die Antwort hat genauso viele Nullen wie es Mitglieder bei TKKG gibt",
+   "id": "109960",
+   "isEasy": false,
+   "question": "Wie viele Eicheln wachsen im Durchschnitt tatsächlich zu einer Eiche heran?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Theater-Crushes",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Rose"
+    },
+    {
+     "correct": false,
+     "text": "Rosa"
+    },
+    {
+     "correct": true,
+     "text": "Rosalinde"
+    },
+    {
+     "correct": false,
+     "text": "Rosalina"
+    }
+   ],
+   "clue": "Doch als er Julia erblickte, erwuchs seine Liebe wie ein europäischer Laubbaum",
+   "id": "110052",
+   "isEasy": false,
+   "question": "Nach wem sehnte sich Romeo, bevor er Julia traf?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Nordische Mythen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Gestaltwandlerbären zerfleischt werden"
+    },
+    {
+     "correct": true,
+     "text": "riesigen Wölfen gefressen werden"
+    },
+    {
+     "correct": false,
+     "text": "sechsbeinigen Pferden zertrampelt werden"
+    },
+    {
+     "correct": false,
+     "text": "Odins Raben zu Tode gepickt werden"
+    }
+   ],
+   "clue": "Zufällig auch der Erzfeind von Rotkäppchen",
+   "id": "110061",
+   "isEasy": false,
+   "question": "In der nordischen Mythologie würde eure abenteuerliche Gruppe, wenn sie von Fenrir, Skalli und Hati getötet wird, von... ",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Gewässer",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Das Rote Meer"
+    },
+    {
+     "correct": false,
+     "text": "Die Ostsee"
+    },
+    {
+     "correct": false,
+     "text": "Der Atlantische Ozean"
+    },
+    {
+     "correct": true,
+     "text": "Der Don-Juan-See"
+    }
+   ],
+   "clue": "Weder Meer noch Ozean",
+   "id": "110062",
+   "isEasy": false,
+   "question": "Was ist salziger als das Tote Meer?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tieranatomie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Giftsporn am Schwanz"
+    },
+    {
+     "correct": true,
+     "text": "Giftsporn am Hinterbein"
+    },
+    {
+     "correct": false,
+     "text": "Giftsporn auf der Stirn"
+    },
+    {
+     "correct": false,
+     "text": "Giftsporn in der Achselhöhle"
+    }
+   ],
+   "clue": "Nicht von hinten greifen (oder überhaupt)",
+   "id": "111267",
+   "isEasy": false,
+   "question": "Kennt ihr das furchterregende Schnabeltier mit seinen Schwimmhäuten, seinem entenähnlichen Schnabel und seinem giftigen...",
+   "theme": "DESERT"
   }
  ]
 }
