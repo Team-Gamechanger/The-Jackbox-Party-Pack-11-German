@@ -1,0 +1,3172 @@
+{
+ "content": [
+  {
+   "category": "King Books",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]The Ruins[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Summer People[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Green Mile[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Day of the Triffids[/i]"
+    }
+   ],
+   "clue": "It ruins his streak",
+   "id": "107966",
+   "isEasy": false,
+   "question": "Which two books feature plants eating people?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Echte Wunder",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Feuer"
+    },
+    {
+     "correct": true,
+     "text": "Erdbeben"
+    },
+    {
+     "correct": false,
+     "text": "Stürme"
+    },
+    {
+     "correct": false,
+     "text": "Kriege"
+    }
+   ],
+   "clue": "Früher war dein Bogen heiß, jetzt bist du zittrig",
+   "id": "109328",
+   "isEasy": false,
+   "question": "*Knirsch**Knirsch*.... Welche zwei Dinge haben die meisten der sieben Weltwunder zerstört?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Metallologie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kupfer"
+    },
+    {
+     "correct": false,
+     "text": "Eisen"
+    },
+    {
+     "correct": false,
+     "text": "Gold"
+    },
+    {
+     "correct": true,
+     "text": "Zinn"
+    }
+   ],
+   "clue": "Becher werden oft aus diesen beiden Metallen hergestellt",
+   "id": "109673",
+   "isEasy": false,
+   "question": "Meine Kochtöpfe aus Bronze bestehen hauptsächlich aus einer Legierung aus welchen beiden Metallen?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Weltraumkram",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Merkur"
+    },
+    {
+     "correct": true,
+     "text": "Venus"
+    },
+    {
+     "correct": false,
+     "text": "Mars"
+    },
+    {
+     "correct": false,
+     "text": "Saturn"
+    }
+   ],
+   "clue": "Rasierer-Werbung in der Münchener Zeitung",
+   "id": "109674",
+   "isEasy": false,
+   "question": "Welche zwei Planeten haben KEINE Monde?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Naturprüfung",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ägypten"
+    },
+    {
+     "correct": true,
+     "text": "Vereinigte Staaten von Amerika"
+    },
+    {
+     "correct": false,
+     "text": "Australien"
+    },
+    {
+     "correct": true,
+     "text": "China"
+    }
+   ],
+   "clue": "Die anderen beiden haben Krokodile",
+   "id": "109871",
+   "isEasy": false,
+   "question": "In welchen beiden Ländern kommen Alligatoren heimisch vor?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Reality TV",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Vanderpump Rules[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Real Housewives of Atlanta[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Southern Charm[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Married to Medicine[/i]"
+    }
+   ],
+   "clue": "The two that reference spouses/weddings",
+   "countrySpecific": true,
+   "id": "109872",
+   "isEasy": false,
+   "question": "Phaedra Parks has been a regular on what two Bravo! reality shows?",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Wappen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Koala"
+    },
+    {
+     "correct": true,
+     "text": "Känguru"
+    },
+    {
+     "correct": true,
+     "text": "Emu"
+    },
+    {
+     "correct": false,
+     "text": "Ameisenigel"
+    }
+   ],
+   "clue": "Beide reimen sich auf „ScoobyDoo“",
+   "id": "109873",
+   "isEasy": false,
+   "question": "Das Wappen Australiens zeigt einen Schild, der von welchen beiden Tieren gehalten wird?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "2000er-Kino",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Shrek 2[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]X-Men 2[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]2 Fast 2 Furious[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Spider-Man 2[/i]"
+    }
+   ],
+   "clue": "Der tollkühne Spinnenmann kehrt zurück!",
+   "id": "109874",
+   "isEasy": false,
+   "question": "Welche zwei der folgenden Filme kamen 2004 heraus?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Mixology",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Gin"
+    },
+    {
+     "correct": true,
+     "text": "Drambuie"
+    },
+    {
+     "correct": false,
+     "text": "Amaro"
+    },
+    {
+     "correct": true,
+     "text": "Scotch"
+    }
+   ],
+   "clue": "Scottish Dams",
+   "id": "109875",
+   "isEasy": false,
+   "question": "What are the two ingredients in a Rusty Nail?",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Bierkunden",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Vereinigtes Königreich"
+    },
+    {
+     "correct": false,
+     "text": "Irland"
+    },
+    {
+     "correct": true,
+     "text": "Nigeria"
+    },
+    {
+     "correct": false,
+     "text": "Vereinigte Staaten von Amerika"
+    }
+   ],
+   "clue": "Eine Antwort ist vielleicht unerwartet",
+   "id": "109876",
+   "isEasy": false,
+   "question": "Welche beiden Länder sind die größten Konsumenten des Stout-Biers Guinness?",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Southern Geography",
+   "choices": [
+    {
+     "correct": false,
+     "text": "South Australia"
+    },
+    {
+     "correct": true,
+     "text": "Western Australia"
+    },
+    {
+     "correct": false,
+     "text": "New South Wales"
+    },
+    {
+     "correct": true,
+     "text": "Victoria"
+    }
+   ],
+   "clue": "It’s kind of ironic... in a western way",
+   "id": "109933",
+   "isEasy": false,
+   "question": "Which Australian states do NOT share a border with Queensland?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "DIE UNTOTEN",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Evil Dead[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Braindead[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Dead Silence[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Land of the Dead[/i]"
+    }
+   ],
+   "clue": "Herr, lass es in diesem Lande Hirn regnen",
+   "id": "110092",
+   "isEasy": false,
+   "question": "In welchen beiden dieser Filme kommen Zombies vor?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "PRODUKTE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "iPod"
+    },
+    {
+     "correct": false,
+     "text": "Xbox"
+    },
+    {
+     "correct": true,
+     "text": "Swiffer"
+    },
+    {
+     "correct": true,
+     "text": "SodaStream"
+    }
+   ],
+   "clue": "Der StaubStream hört nie auf!",
+   "id": "110094",
+   "isEasy": false,
+   "question": "Welche beiden Produkte wurden vor dem Jahr 2000 erfunden?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "DIE SCHMIEDE",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Stahl"
+    },
+    {
+     "correct": false,
+     "text": "Eisen"
+    },
+    {
+     "correct": false,
+     "text": "Blei"
+    },
+    {
+     "correct": true,
+     "text": "Bronze"
+    }
+   ],
+   "clue": "Ich stahl die Bronzemedaille",
+   "id": "110095",
+   "isEasy": false,
+   "question": "*Schmatz*.... Welche dieser beiden knusprigen Snacks sind Legierungen?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Krankheiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Tollwut"
+    },
+    {
+     "correct": false,
+     "text": "Streptokokken-Halsentzündung"
+    },
+    {
+     "correct": true,
+     "text": "Windpocken"
+    },
+    {
+     "correct": false,
+     "text": "Fußpilz"
+    }
+   ],
+   "clue": "Die mit Körperteilen im Namen sind falsch",
+   "id": "110096",
+   "isEasy": false,
+   "question": "Welche zwei dieser Krankheiten werden durch Viren verursacht?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Classic Bards",
+   "choices": [
+    {
+     "correct": true,
+     "text": "“Time”"
+    },
+    {
+     "correct": true,
+     "text": "“Money”"
+    },
+    {
+     "correct": false,
+     "text": "“Death”"
+    },
+    {
+     "correct": false,
+     "text": "“Happiness”"
+    }
+   ],
+   "clue": "Song 1 = Song 2",
+   "id": "110097",
+   "isEasy": false,
+   "question": "Pick the two songs on Pink Floyd’s [i]The Dark Side of the Moon[/i].",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Cartoon-Tode",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gaston in [i]Die Schöne und das Biest[/i]"
+    },
+    {
+     "correct": false,
+     "text": "Scar in [i]Der König der Löwen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "Syndrome in [i]Die Unglaublichen[/i]"
+    },
+    {
+     "correct": true,
+     "text": "Muntz in [i]Oben[/i]"
+    }
+   ],
+   "clue": "Niemand fällt so gut nach UNTEN wie Gaston!",
+   "id": "110113",
+   "isEasy": false,
+   "question": "Welche zwei Bösewichte stürzen in den Tod?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Filmmusik",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Superman[/i] (1978)"
+    },
+    {
+     "correct": false,
+     "text": "[i]Terminator[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Zurück in die Zukunft[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Star Wars: Das Erwachen der Macht[/i]"
+    }
+   ],
+   "clue": "Er ist ein Super-Star",
+   "id": "110116",
+   "isEasy": false,
+   "question": "Beide Filme mit Musik von John Williams",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "VULKANE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mount Everest"
+    },
+    {
+     "correct": false,
+     "text": "Zugspitze"
+    },
+    {
+     "correct": true,
+     "text": "Fuji"
+    },
+    {
+     "correct": true,
+     "text": "Kilimandscharo"
+    }
+   ],
+   "clue": "In Tansania und Japan sind die immerhin weit weg von uns...",
+   "id": "111657",
+   "isEasy": false,
+   "question": "Welche zwei dieser Berge sind gleichzeitig auch Vulkane?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Prähistorische Epochen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Jura"
+    },
+    {
+     "correct": false,
+     "text": "Känozoikum"
+    },
+    {
+     "correct": true,
+     "text": "Trias"
+    },
+    {
+     "correct": false,
+     "text": "Paläozoikum"
+    }
+   ],
+   "clue": "Anwälte kämpfen für dreibeinige Brachiosaurier",
+   "id": "111662",
+   "isEasy": false,
+   "question": "In welchen beiden Zeitaltern hätte man einen Dinosaurier streicheln (oder essen) können?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Workout Culture",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Your quads"
+    },
+    {
+     "correct": false,
+     "text": "Your lats"
+    },
+    {
+     "correct": false,
+     "text": "Your delts"
+    },
+    {
+     "correct": true,
+     "text": "Your hams"
+    }
+   ],
+   "clue": "In college we ate ham sandwiches on the quad",
+   "id": "111663",
+   "isEasy": false,
+   "question": "Which two muscles do you work out on leg day?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Gruselfilme",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nicht fluchen"
+    },
+    {
+     "correct": true,
+     "text": "Kein Alkohol"
+    },
+    {
+     "correct": true,
+     "text": "Kein Sex"
+    },
+    {
+     "correct": false,
+     "text": "Annehmen, dass der Mörder noch lebt"
+    }
+   ],
+   "clue": "Zölibat UND nüchtern?!",
+   "id": "111665",
+   "isEasy": false,
+   "question": "Wählt die beiden Regeln zum Überleben eines Horrorfilms in [i]Scream[/i] aus.",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Berühmte Persönlichkeiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Pharao Tutanchamun"
+    },
+    {
+     "correct": true,
+     "text": "Jeanne d’Arc"   
+    },
+    {
+     "correct": false,
+     "text": "Queen Elizabeth I"
+    },
+    {
+     "correct": false,
+     "text": "Wolfgang Amadeus Mozart"
+    }
+   ],
+   "clue": "Der Kindkönig und die Ritterin",
+   "id": "111666",
+   "isEasy": false,
+   "question": "Welche beiden historischen Persönlichkeiten haben es nicht bis zum 30. Lebensjahr geschafft?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Modern Sitcoms",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Single-ish[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Jew-ish[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Grown-ish[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Mixed-ish[/i]"
+    }
+   ],
+   "clue": "It’s a mix of sequel and prequel.",
+   "countrySpecific": true,
+   "id": "111686",
+   "isEasy": false,
+   "question": "What are the two sitcom spin-offs of [i]Black-ish[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Arachniden-Fakten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Springspinnen"
+    },
+    {
+     "correct": false,
+     "text": "Vogelspinnen"
+    },
+    {
+     "correct": true,
+     "text": "Wolfspinnen"
+    },
+    {
+     "correct": false,
+     "text": "Witwenspinnen"
+    }
+   ],
+   "clue": "Vielleicht zu beschäftigt mit Springen und Heulen?",
+   "id": "111687",
+   "isEasy": false,
+   "question": "Welche Spinnen bauen keine Netze?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Tierkreis-Kalender",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Weihnachten"
+    },
+    {
+     "correct": false,
+     "text": "Valentinstag"
+    },
+    {
+     "correct": false,
+     "text": "Allerheiligen"
+    },
+    {
+     "correct": true,
+     "text": "Neujahr"
+    }
+   ],
+   "clue": "Die Steinbock-Saison endet am 19. Januar",
+   "id": "111688",
+   "isEasy": false,
+   "question": "Welche Feiertage fallen in die Steinbock-Saison?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "BOOK CHARACTERS",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Countess Begar"
+    },
+    {
+     "correct": true,
+     "text": "Esmé Squalor"
+    },
+    {
+     "correct": true,
+     "text": "Mr. Poe"
+    },
+    {
+     "correct": false,
+     "text": "Dr. Dali"
+    }
+   ],
+   "clue": "The poet yes, the artist no",
+   "id": "111689",
+   "isEasy": false,
+   "question": "What are two character names in [i]A Series of Unfortunate Events[/i]?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Sport Legacies",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Atlanta Falcons"
+    },
+    {
+     "correct": false,
+     "text": "Buffalo Bills"
+    },
+    {
+     "correct": true,
+     "text": "Cleveland Browns"
+    },
+    {
+     "correct": true,
+     "text": "Detroit Lions"
+    }
+   ],
+   "clue": "These are our true colors, no lyin’.",
+   "countrySpecific": true,
+   "id": "111750",
+   "isEasy": false,
+   "question": "Pick the two teams who have never even been to the Super Bowl.",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Arachniden-Fakten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Braune Einsiedlerspinne"
+    },
+    {
+     "correct": true,
+     "text": "Rotrückenspinne"
+    },
+    {
+     "correct": false,
+     "text": "Orangenkopfspinne"
+    },
+    {
+     "correct": false,
+     "text": "Weiße Admiralsspinne"
+    }
+   ],
+   "clue": "Vielleicht ein bisschen rotbraun?",
+   "id": "111751",
+   "isEasy": false,
+   "question": "Welche zwei davon sind echte Giftspinnen?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Meeresmessungen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mondfisch"
+    },
+    {
+     "correct": false,
+     "text": "Sommerflunder"
+    },
+    {
+     "correct": true,
+     "text": "Beluga-Stör"
+    },
+    {
+     "correct": false,
+     "text": "Leopard-Katzenhai"
+    }
+   ],
+   "clue": "Sört dich der Mond?",
+   "id": "111752",
+   "isEasy": false,
+   "question": "Welche beiden Fische sind größer (länger/schwerer/sättigender) als ihr?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Blaxploitation",
+   "choices": [
+    {
+     "correct": false,
+     "text": "“The street sleuth trackin’ down the truth”"
+    },
+    {
+     "correct": true,
+     "text": "“The cat who won’t cop out”"
+    },
+    {
+     "correct": false,
+     "text": "“This hunk can’t sweat no punk”"
+    },
+    {
+     "correct": true,
+     "text": "“He’s a complicated man”"
+    }
+   ],
+   "clue": "He’s cat and man.",
+   "id": "111757",
+   "isEasy": false,
+   "question": "What are two ways Shaft is described in the Academy Award-winning “Theme From Shaft”?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Protagonisten-Probleme",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]True Grit[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Mad Max[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Million Dollar Baby[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Drachenzähmen leicht gemacht[/i]"
+    }
+   ],
+   "clue": "Wahre Antworten leicht gemacht!",
+   "id": "111823",
+   "isEasy": false,
+   "question": "Wählt die beiden Filme aus, in denen der junge Protagonist ein Gliedmaß verliert",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Pseudowissenschaft",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Krypton"
+    },
+    {
+     "correct": false,
+     "text": "Adamant"
+    },
+    {
+     "correct": false,
+     "text": "Vibranium"
+    },
+    {
+     "correct": true,
+     "text": "Einsteinium"
+    }
+   ],
+   "clue": "Ein echtes klingt Super, aber es bedeutet auf Griechisch einfach „versteckt“",
+   "id": "111825",
+   "isEasy": false,
+   "question": "Welche beiden Elemente sind echt? (Ich weiß es, ich habe sie schon gegessen)",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Female Poets",
+   "choices": [
+    {
+     "correct": true,
+     "text": "“Because I could not stop for Death”"
+    },
+    {
+     "correct": false,
+     "text": "“Let’s pretend this Never Happened”"
+    },
+    {
+     "correct": false,
+     "text": "“The last black Unicorn”"
+    },
+    {
+     "correct": true,
+     "text": "“I’m Nobody! Who are you?”"
+    }
+   ],
+   "clue": "Stop for nobody!",
+   "id": "111845",
+   "isEasy": false,
+   "question": "Pick the two Emily Dickinson poem titles?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Founding Fathers",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Lightning rod"
+    },
+    {
+     "correct": true,
+     "text": "Swim fins"
+    },
+    {
+     "correct": false,
+     "text": "Harmonica"
+    },
+    {
+     "correct": false,
+     "text": "Syphilis"
+    }
+   ],
+   "clue": "Nobody “invented” syphilis, and if they did, it was a bad idea.",
+   "id": "111859",
+   "isEasy": false,
+   "question": "Which two inventions are credited to French cuisine fan Ben Franklin?",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Wahlsprüche",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gleichheit"
+    },
+    {
+     "correct": false,
+     "text": "Demokratie"
+    },
+    {
+     "correct": false,
+     "text": "Integrität"
+    },
+    {
+     "correct": true,
+     "text": "Brüderlichkeit"
+    }
+   ],
+   "clue": "Dafür kämpften sie einst in der Französischen Revolution",
+   "id": "111861",
+   "isEasy": false,
+   "question": "Welche beiden Wörter sind im Wahlspruch Frankreichs enthalten? Geburtsort des Croissants! Lecker!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Double Play",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Michael Jordan"
+    },
+    {
+     "correct": false,
+     "text": "Randy Moss"
+    },
+    {
+     "correct": true,
+     "text": "Deion Sanders"
+    },
+    {
+     "correct": false,
+     "text": "Brett Favre"
+    }
+   ],
+   "clue": "One played for the Bulls; the other the Braves",
+   "countrySpecific": true,
+   "id": "111862",
+   "isEasy": false,
+   "question": "Which two athletes were two-sport pro athletes?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Canadian Territories",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Glosette"
+    },
+    {
+     "correct": true,
+     "text": "Yukon"
+    },
+    {
+     "correct": true,
+     "text": "Nunavut"
+    },
+    {
+     "correct": false,
+     "text": "Jervis Bay Territory"
+    }
+   ],
+   "clue": "U know the answers have a “u”",
+   "countrySpecific": false,
+   "id": "111873",
+   "isEasy": false,
+   "question": "Which two territories are Canadian territories?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Candy Companies",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Almond Joy"
+    },
+    {
+     "correct": true,
+     "text": "Reese’s"
+    },
+    {
+     "correct": false,
+     "text": "Snickers"
+    },
+    {
+     "correct": false,
+     "text": "3 Musketeers"
+    }
+   ],
+   "clue": "One of the two tastes like coconut",
+   "id": "111874",
+   "isEasy": false,
+   "question": "Which two types of candy.....mmmm candy.... are made by Hershey?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Chalamet Roles",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Paul Atreides"
+    },
+    {
+     "correct": false,
+     "text": "Abacus Crunch"
+    },
+    {
+     "correct": true,
+     "text": "Theodore “Laurie” Laurence"
+    },
+    {
+     "correct": false,
+     "text": "Duncan Idaho"
+    }
+   ],
+   "clue": "It’s not crunch time",
+   "id": "111875",
+   "isEasy": false,
+   "question": "Which two names are characters Timothée Chalamet has played?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Musik",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Modern Talking"
+    },
+    {
+     "correct": false,
+     "text": "Imagine Dragons"
+    },
+    {
+     "correct": false,
+     "text": "Scooter"
+    },
+    {
+     "correct": true,
+     "text": "Wham!"
+    }
+   ],
+   "clue": "Last Christmas I gave my heart to a cherry cherry lady",
+   "id": "111876",
+   "isEasy": false,
+   "question": "Welche beiden Bands sind Duos?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Literarische Figuren",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Irene Adler"
+    },
+    {
+     "correct": false,
+     "text": "Fräulein Rose MacClare"
+    },
+    {
+     "correct": false,
+     "text": "Henry Talbot"
+    },
+    {
+     "correct": true,
+     "text": "James Moriarty"
+    }
+   ],
+   "clue": "Meide die dornige Antwort",
+   "id": "111877",
+   "isEasy": false,
+   "question": "Welche zwei der folgenden sind Figuren aus [i]Sherlock Holmes[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Tiermünder",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Schnabeltier"
+    },
+    {
+     "correct": false,
+     "text": "Erdferkel"
+    },
+    {
+     "correct": true,
+     "text": "Ameisenbär"
+    },
+    {
+     "correct": false,
+     "text": "Sonic the Hedgehog"
+    }
+   ],
+   "clue": "Isst die Ameisen von der Erde",
+   "id": "111899",
+   "isEasy": false,
+   "question": "Wählt die beiden Tiere aus, die KEINE Zähne haben",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Hintergrundmusik",
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Into You“ von Ariana Grande"
+    },
+    {
+     "correct": false,
+     "text": "„Rolling in the Deep“ von Adele"
+    },
+    {
+     "correct": true,
+     "text": "„The Edge of Glory“ von Lady Gaga"
+    },
+    {
+     "correct": true,
+     "text": "„Last Friday Night“ von Katy Perry"
+    }
+   ],
+   "clue": "Was für eine glorreiche Nacht!",
+   "id": "111915",
+   "isEasy": false,
+   "question": "In welchen beiden Popsongs gibt es ein geschmackvolles Saxophon-Solo?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Kunst-Hintergrund",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Eine Brücke"
+    },
+    {
+     "correct": true,
+     "text": "Ein See"
+    },
+    {
+     "correct": false,
+     "text": "Ein Buch"
+    },
+    {
+     "correct": false,
+     "text": "Ein Vogel"
+    }
+   ],
+   "clue": "Nicht weit von der [i]Mona Lisa[/i] befindet sich der Pont des Arts, ein berühmtes Beispiel für eine der richtigen Antworten",
+   "id": "111927",
+   "isEasy": false,
+   "question": "Abgesehen von einer lächelnden Dame, welche zwei Dinge kann man auf dem Gemälde „Mona Lisa“ erkennen?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Einfache Mathematik",
+   "choices": [
+    {
+     "correct": true,
+     "text": "5(5/-5) ="
+    },
+    {
+     "correct": false,
+     "text": "-1(10/-2) ="
+    },
+    {
+     "correct": true,
+     "text": "-1(10 - 5) ="
+    },
+    {
+     "correct": false,
+     "text": "2(5 -10) +15 ="
+    }
+   ],
+   "clue": "Wenn eine „2“ darin vorkommt, ist es falsch",
+   "id": "111929",
+   "isEasy": false,
+   "question": "Welche beiden Gleichungen haben die Lösung „-5“?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Fancy Colors",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Turquosie"
+    },
+    {
+     "correct": true,
+     "text": "Cerulean"
+    },
+    {
+     "correct": false,
+     "text": "Burgandy"
+    },
+    {
+     "correct": true,
+     "text": "Mauve"
+    }
+   ],
+   "clue": "Tell Maud, we’re out of prinker ink",
+   "id": "111973",
+   "isEasy": false,
+   "question": "Which two colors are spelled correctly?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Musical Adaptations",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Death Becomes Her[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Craft[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Ghost[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Practical Magic[/i]"
+    }
+   ],
+   "clue": "They found an afterlife on the stage",
+   "id": "111981",
+   "isEasy": false,
+   "question": "As of 2025, which two spooky ’90s movies were turned into Broadway musicals?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Dance Moves",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hip step"
+    },
+    {
+     "correct": true,
+     "text": "Ball change"
+    },
+    {
+     "correct": true,
+     "text": "Cramp roll"
+    },
+    {
+     "correct": false,
+     "text": "Thrust pound"
+    }
+   ],
+   "clue": "Did you know that balls can roll?",
+   "id": "111984",
+   "isEasy": false,
+   "question": "Pick the two real tap dancing moves... that I could totally do!",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Romantische Biologie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Rechter Vorhof"
+    },
+    {
+     "correct": false,
+     "text": "Rechtes Medial"
+    },
+    {
+     "correct": false,
+     "text": "Linker Katharer"
+    },
+    {
+     "correct": true,
+     "text": "Linke Kammer"
+    }
+   ],
+   "clue": "Diese Kammern haben Höfe",
+   "id": "111986",
+   "isEasy": false,
+   "question": "Wenn ihr dieses Spiel von ganzem Herzen liebt, welche zwei davon sind darin enthalten?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Gewürzwissenschaften",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Natrium"
+    },
+    {
+     "correct": false,
+     "text": "Kohlenstoff"
+    },
+    {
+     "correct": false,
+     "text": "Schwefel"
+    },
+    {
+     "correct": true,
+     "text": "Chlor"
+    }
+   ],
+   "clue": "Eines zum Enteisen von Straßen, eines zum Desinfizieren von Schwimmbädern",
+   "id": "111988",
+   "isEasy": false,
+   "question": "Aus welchen beiden Elementen besteht Speisesalz, alias das Salz, das ich auf euch streuen werde?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Games of Chance",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Trouble"
+    },
+    {
+     "correct": true,
+     "text": "Life"
+    },
+    {
+     "correct": true,
+     "text": "Sorry!"
+    },
+    {
+     "correct": false,
+     "text": "Backgammon"
+    }
+   ],
+   "clue": "A cereal and a Justin Bieber song",
+   "id": "112001",
+   "isEasy": false,
+   "question": "I’ve eaten all the cubes... so which of these games can you still play because they don’t need dice?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Historische Orte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Entdeckung von Penicillin"
+    },
+    {
+     "correct": true,
+     "text": "Landung in der Normandie"
+    },
+    {
+     "correct": false,
+     "text": "Absturz der Hindenburg"
+    },
+    {
+     "correct": false,
+     "text": "Geburt von George Washington"
+    }
+   ],
+   "clue": "Der Engländer Alexander Fleming hat die Wirkung von Penicillin öffentlichkeitswirksam entdeckt",
+   "id": "112002",
+   "isEasy": false,
+   "question": "Welche beiden historischen Ereignisse fanden auf dem europäischen Kontinent statt?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Patented Products",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Bowler hat"
+    },
+    {
+     "correct": true,
+     "text": "Mason jar"
+    },
+    {
+     "correct": false,
+     "text": "Snickers bar"
+    },
+    {
+     "correct": false,
+     "text": "Dr. Pepper"
+    }
+   ],
+   "clue": "Eat out of a jar or a bowl",
+   "id": "112008",
+   "isEasy": false,
+   "question": "Pick the two inventions named after their creators.",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Astronomisches Verhalten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die Gravitationskraft"
+    },
+    {
+     "correct": false,
+     "text": "Die Geschwindigkeitskraft"
+    },
+    {
+     "correct": false,
+     "text": "Die Wärme"
+    },
+    {
+     "correct": true,
+     "text": "Die elektromagnetische Wechselwirkung"
+    }
+   ],
+   "clue": "Sie ziehen Dinge herunter und ziehen andere Dinge an",
+   "id": "112009",
+   "isEasy": false,
+   "question": "Was sind zwei der grundlegendsten Kräfte des Universums? (Oder: Warum verhalten sich Dinge so, wie sie sich verhalten?)",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Mathe in Filmen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Der Beweis – Liebe zwischen Genie und Wahnsinn[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]A Beautiful Mind – Genie und Wahnsinn[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Hidden Figures – Unerkannte Heldinnen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Cube[/i]"
+    }
+   ],
+   "clue": "Die Antworten verbergen sich unerkannt zwischen Genie und Wahnsinn",
+   "id": "112012",
+   "isEasy": false,
+   "question": "Welche beiden Filme handeln von echten Mathematikern?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Not-Famous Chrises",
+   "choices": [
+    {
+     "correct": false,
+     "text": "John Legend"
+    },
+    {
+     "correct": true,
+     "text": "Frank Ocean"
+    },
+    {
+     "correct": true,
+     "text": "Ludacris"
+    },
+    {
+     "correct": false,
+     "text": "Drake"
+    }
+   ],
+   "clue": "To be frank, it’s not Drake.",
+   "id": "112172",
+   "isEasy": false,
+   "question": "Two of these people are actually named Christopher. Eat them! I mean... Identify them!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Double Booked",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Pride and Prejudice[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]War and Peace[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Franny and Zooey[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Sense and Sensibility[/i]"
+    }
+   ],
+   "clue": "The author is Jane Austen",
+   "id": "112191",
+   "isEasy": false,
+   "question": "Which two books have the same author?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Flaggen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mexiko"
+    },
+    {
+     "correct": false,
+     "text": "Uganda"
+    },
+    {
+     "correct": true,
+     "text": "Ägypten"
+    },
+    {
+     "correct": false,
+     "text": "Spanien"
+    }
+   ],
+   "clue": "Auf der spanischen Flagge ist ein Löwe abgebildet, kein Adler",
+   "id": "112261",
+   "isEasy": false,
+   "question": "Welche beiden Länder haben einen köstlichen Adler auf ihrer Flagge?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Two Handers",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]The Last Five Years[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Waiting for Godot[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Tuesdays with Morrie[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Who’s Afraid of Virginia Woolf?[/i]"
+    }
+   ],
+   "clue": "Speaking roles in [i]Virginia Woolf[/i] include George, Martha, Nick & Honey",
+   "id": "112264",
+   "isEasy": false,
+   "question": "Which two plays have only two characters?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "HORROR ACTORS",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Saw"
+    },
+    {
+     "correct": false,
+     "text": "Saw II"
+    },
+    {
+     "correct": false,
+     "text": "Saw V"
+    },
+    {
+     "correct": true,
+     "text": "Saw VII"
+    }
+   ],
+   "clue": "Once in 2004, once in 2010",
+   "id": "112315",
+   "isEasy": false,
+   "question": "Which Saw films does [i]Princess Bride[/i] actor Cary Elwes appear in?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "The Talk",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ichthyologist"
+    },
+    {
+     "correct": true,
+     "text": "Melittologist"
+    },
+    {
+     "correct": true,
+     "text": "Ornithologist"
+    },
+    {
+     "correct": false,
+     "text": "Dendrologist"
+    }
+   ],
+   "clue": "Dendrologists study trees, not bees.",
+   "id": "112316",
+   "isEasy": false,
+   "question": "If we need experts on the birds and the bees, which two people should we get?",
+   "theme": "FOREST",
+   "x": true
+  },
+  {
+   "category": "Name Meanings",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Dunstan"
+    },
+    {
+     "correct": true,
+     "text": "Peter"
+    },
+    {
+     "correct": false,
+     "text": "Jason"
+    },
+    {
+     "correct": false,
+     "text": "Dwayne"
+    }
+   ],
+   "clue": "“Petrified” wood stands very still",
+   "id": "112354",
+   "isEasy": false,
+   "question": "Which two of these names mean “rock” or “stone”?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Cheer Terms",
+   "choices": [
+    {
+     "correct": true,
+     "text": "High V"
+    },
+    {
+     "correct": false,
+     "text": "High C"
+    },
+    {
+     "correct": false,
+     "text": "Low M"
+    },
+    {
+     "correct": true,
+     "text": "Broken T"
+    }
+   ],
+   "clue": "You’ll need both right answers if you want to spell VICTORY!",
+   "countrySpecific": true,
+   "id": "112356",
+   "isEasy": false,
+   "question": "Which of these two are NCA cheerleading poses you make with your arms?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Always Fashionable",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mermaid"
+    },
+    {
+     "correct": false,
+     "text": "Dolphin"
+    },
+    {
+     "correct": false,
+     "text": "Foam"
+    },
+    {
+     "correct": true,
+     "text": "Bubble"
+    }
+   ],
+   "clue": "One of the right answers seems half-fishy... but the other one really pops!",
+   "id": "112357",
+   "isEasy": false,
+   "question": "Which of these are two classic types of skirts?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Giftgeschichte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kleopatra"
+    },
+    {
+     "correct": false,
+     "text": "Michelangelo"
+    },
+    {
+     "correct": false,
+     "text": "Martin Luther"
+    },
+    {
+     "correct": true,
+     "text": "Sokrates"
+    }
+   ],
+   "clue": "4-silbiger Name und 3-silbiger Name",
+   "id": "112386",
+   "isEasy": false,
+   "question": "Welche zwei berühmten Persönlichkeiten starben vor sehr langer Zeit an einer Vergiftung?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tiergeographie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Dromedar"
+    },
+    {
+     "correct": false,
+     "text": "Alligator"
+    },
+    {
+     "correct": true,
+     "text": "Dorkasgazelle"
+    },
+    {
+     "correct": false,
+     "text": "Murmeltier"
+    }
+   ],
+   "clue": "Der Lebensraum ist die Sahara-Wüste",
+   "id": "112387",
+   "isEasy": false,
+   "question": "Welche beiden Arten teilen sich einen Lebensraum?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "SPICES",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Allspice"
+    },
+    {
+     "correct": true,
+     "text": "Garam masala"
+    },
+    {
+     "correct": true,
+     "text": "Chili powder"
+    },
+    {
+     "correct": false,
+     "text": "Grains of Paradise"
+    }
+   ],
+   "clue": "“Allspice” is kind of a phony",
+   "id": "112406",
+   "isEasy": false,
+   "question": "Spicy! Which of the following spices are actually blends of multiple spices?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "CELEBRITIES",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Alexander Skarsgard"
+    },
+    {
+     "correct": true,
+     "text": "Zoe Kravitz"
+    },
+    {
+     "correct": false,
+     "text": "Padma Lakshmi"
+    },
+    {
+     "correct": false,
+     "text": "Ariana Grande"
+    }
+   ],
+   "clue": "don’t worry about Padma",
+   "id": "112407",
+   "isEasy": false,
+   "question": "Which of the following celebrity names are missing their accents?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Spy Movies",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Dead"
+    },
+    {
+     "correct": false,
+     "text": "Spectre"
+    },
+    {
+     "correct": true,
+     "text": "Ghost"
+    },
+    {
+     "correct": false,
+     "text": "Shadow"
+    }
+   ],
+   "clue": "007 fights Spectre, not Ethan Hunt",
+   "id": "112408",
+   "isEasy": false,
+   "question": "Which words are in the title of one of *BURP* Tom Cruise’s [i]Mission Impossible[/i] movies?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "TIERE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Grüner Leguan"
+    },
+    {
+     "correct": true,
+     "text": "Oktopus"
+    },
+    {
+     "correct": false,
+     "text": "Fledermaus"
+    },
+    {
+     "correct": true,
+     "text": "Pfeilschwanzkrebs"
+    }
+   ],
+   "clue": "Etwas, an das du denken kannst, wenn du das nächste Mal Calamari bestellst",
+   "id": "112409",
+   "isEasy": false,
+   "question": "Welche beiden Tiere haben leckeres BLAUES Blut?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "VIDEO GAMES",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]The Legend of Zelda: Breath of the Wild[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Hades[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Astro Bot[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Legend of Zelda: Tears of the Kingdom[/i]"
+    }
+   ],
+   "clue": "Only room for one Zelda",
+   "id": "112410",
+   "isEasy": false,
+   "question": "Which two games won Game of the Year at the Video Game Awards?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Side Characters",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Sideshow Bob"
+    },
+    {
+     "correct": false,
+     "text": "Disco Stu"
+    },
+    {
+     "correct": false,
+     "text": "Comic Book Guy"
+    },
+    {
+     "correct": true,
+     "text": "“Bleeding Gums” Murphy"
+    }
+   ],
+   "clue": "Sax and attacks",
+   "id": "112569",
+   "isEasy": false,
+   "question": "What two [i]Simpsons[/i] characters appeared in the first season? *Burp!*",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Funky Flags",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Switzerland"
+    },
+    {
+     "correct": false,
+     "text": "Ireland"
+    },
+    {
+     "correct": false,
+     "text": "Denmark"
+    },
+    {
+     "correct": true,
+     "text": "Vatican City"
+    }
+   ],
+   "clue": "One flag has a plus on it; the other, two crossed keys",
+   "id": "112598",
+   "isEasy": false,
+   "question": "What are the only two countries with a square-shaped flag?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Proper Names",
+   "choices": [
+    {
+     "correct": true,
+     "text": "The element represented by Ag"
+    },
+    {
+     "correct": true,
+     "text": "Jay-Z’s real first name"
+    },
+    {
+     "correct": false,
+     "text": "A shape with 12 sides"
+    },
+    {
+     "correct": false,
+     "text": "Catch-22 author’s last name"
+    }
+   ],
+   "clue": "Ag is the chemical symbol for silver",
+   "id": "112888",
+   "isEasy": false,
+   "question": "Which two names start with the letter “S”?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Game Locations",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Australia"
+    },
+    {
+     "correct": true,
+     "text": "Italy"
+    },
+    {
+     "correct": false,
+     "text": "Mexico"
+    },
+    {
+     "correct": true,
+     "text": "Japan"
+    }
+   ],
+   "clue": "Never assassinated down under",
+   "id": "112987",
+   "isEasy": false,
+   "question": "As of 2025, which two countries have been the setting for an [i]Assassin’s Creed[/i] game?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Comic Books",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Electro"
+    },
+    {
+     "correct": false,
+     "text": "Magneto"
+    },
+    {
+     "correct": true,
+     "text": "Mysterio"
+    },
+    {
+     "correct": false,
+     "text": "Bizarro"
+    }
+   ],
+   "clue": "No mystery here",
+   "id": "112988",
+   "isEasy": false,
+   "question": "Which two comic book villains are part of the Sinister Six?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Animal Classification",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Turkey"
+    },
+    {
+     "correct": true,
+     "text": "Duck"
+    },
+    {
+     "correct": false,
+     "text": "Emu"
+    },
+    {
+     "correct": true,
+     "text": "Goose"
+    }
+   ],
+   "clue": "No Thanksgiving special",
+   "id": "112989",
+   "isEasy": false,
+   "question": "If I saw a section of a menu called “Anseriforms,” which two birds would I find under it?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Wet Fruits",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Cantaloupe"
+    },
+    {
+     "correct": false,
+     "text": "Pear"
+    },
+    {
+     "correct": true,
+     "text": "Strawberries"
+    },
+    {
+     "correct": false,
+     "text": "Grapes"
+    }
+   ],
+   "clue": "Use your melon",
+   "id": "112990",
+   "isEasy": false,
+   "question": "Which two fruits are made up of at least 90% water?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Reality TV",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Rihanna"
+    },
+    {
+     "correct": false,
+     "text": "Vin Deisel"
+    },
+    {
+     "correct": true,
+     "text": "Kate Winslet"
+    },
+    {
+     "correct": true,
+     "text": "Barack Obama"
+    }
+   ],
+   "clue": "Secret Service was somehow okay with this",
+   "countrySpecific": true,
+   "id": "112991",
+   "isEasy": false,
+   "question": "Which two celebrities survived a two-day wilderness scenario on [i]Running Wild with Bear Grylls[/i]?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Animal Babies",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Hammerhead shark"
+    },
+    {
+     "correct": false,
+     "text": "American eagle"
+    },
+    {
+     "correct": false,
+     "text": "Mahi-mahi"
+    },
+    {
+     "correct": true,
+     "text": "Komodo dragon"
+    }
+   ],
+   "clue": "Take a moment and hammer this one out",
+   "id": "112992",
+   "isEasy": false,
+   "question": "Which two animals can create offspring without a male partner through a process called parthenogenesis?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Fast Food Menus",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Fries"
+    },
+    {
+     "correct": false,
+     "text": "Burgers"
+    },
+    {
+     "correct": true,
+     "text": "Chicken fingers"
+    },
+    {
+     "correct": false,
+     "text": "Biscuits"
+    }
+   ],
+   "clue": "They do a nice crinkle cut",
+   "countrySpecific": true,
+   "id": "112994",
+   "isEasy": false,
+   "question": "I love Raising Cane’s streamlined menu! What two items can I get there?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Pulitzer Prizes",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Ernest Hemingway"
+    },
+    {
+     "correct": false,
+     "text": "Octavia Butler"
+    },
+    {
+     "correct": false,
+     "text": "Karl Marx"
+    },
+    {
+     "correct": true,
+     "text": "Kendrick Lamar"
+    }
+   ],
+   "clue": "Pulitzer Prizes aren’t just for books",
+   "countrySpecific": false,
+   "id": "112995",
+   "isEasy": false,
+   "question": "Which two people have won a Pulitzer Prize?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Cannibal Animals",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Praying mantis"
+    },
+    {
+     "correct": true,
+     "text": "Anaconda"
+    },
+    {
+     "correct": false,
+     "text": "Honey bee"
+    },
+    {
+     "correct": false,
+     "text": "Stingray"
+    }
+   ],
+   "clue": "Drone bees die for their queen... but she doesn’t eat them!",
+   "id": "113013",
+   "isEasy": false,
+   "question": "In which two animal species does the female often eat her mate?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Artistic Arachnids",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Some Pig"
+    },
+    {
+     "correct": false,
+     "text": "Brilliant"
+    },
+    {
+     "correct": true,
+     "text": "Humble"
+    },
+    {
+     "correct": false,
+     "text": "Check Out This Dope Pig I Found"
+    }
+   ],
+   "clue": "Wilbur was indeed Some Pig.",
+   "id": "113058",
+   "isEasy": false,
+   "question": "Which two messages does Charlotte write in her web in [i]Charlotte’s Web[/i]?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Island Holidays",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Memorial Island"
+    },
+    {
+     "correct": true,
+     "text": "Easter Island"
+    },
+    {
+     "correct": false,
+     "text": "Thanksgiving Island"
+    },
+    {
+     "correct": true,
+     "text": "Christmas Island"
+    }
+   ],
+   "clue": "The fall holiday is incorrect.",
+   "id": "113062",
+   "isEasy": false,
+   "question": "Which two islands are real, recognized territories?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Animal Teeth",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Saltwater crocodile"
+    },
+    {
+     "correct": true,
+     "text": "Giant armadillo"
+    },
+    {
+     "correct": false,
+     "text": "Lion"
+    },
+    {
+     "correct": true,
+     "text": "Bottlenose dolphin"
+    }
+   ],
+   "clue": "Only one is a water-dweller",
+   "id": "113098",
+   "isEasy": false,
+   "question": "Which two tooth-rich animals have over 80 teeth?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Famous Dogs",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Susan"
+    },
+    {
+     "correct": true,
+     "text": "Buzz"
+    },
+    {
+     "correct": false,
+     "text": "Wyatt"
+    },
+    {
+     "correct": false,
+     "text": "Luna"
+    }
+   ],
+   "clue": "Like Sarandon & Aldrin",
+   "id": "113099",
+   "isEasy": false,
+   "question": "Which two are actual names of the many Corgis Queen Elizabeth owned?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Global Cuisine",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Somen"
+    },
+    {
+     "correct": false,
+     "text": "Dangmyeon"
+    },
+    {
+     "correct": false,
+     "text": "Spaetzle"
+    },
+    {
+     "correct": true,
+     "text": "Tagliatelle"
+    }
+   ],
+   "clue": "Italian and Japanese",
+   "id": "113146",
+   "isEasy": false,
+   "question": "SLUUUURP. Of these noodles, which two are wheat-based?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Movie Ratings",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Gladiator[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]The Dark Knight Rises[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Avatar[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Star Wars: Episode II: Attack of the Clones[/i]"
+    }
+   ],
+   "clue": "One is the first installment in a franchise",
+   "countrySpecific": true,
+   "id": "113148",
+   "isEasy": false,
+   "question": "I love popcorn films! Which two blockbuster movies are rated PG-13?!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Animal Speeds",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ostrich"
+    },
+    {
+     "correct": false,
+     "text": "Horse"
+    },
+    {
+     "correct": true,
+     "text": "Bison"
+    },
+    {
+     "correct": true,
+     "text": "Giraffe"
+    }
+   ],
+   "clue": "Not typically farm animals",
+   "id": "113152",
+   "isEasy": false,
+   "question": "I can run up to 40 mph. Which two morsels could I catch at full speed and feast upon?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Classic Games",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Pink"
+    },
+    {
+     "correct": true,
+     "text": "Orange"
+    },
+    {
+     "correct": false,
+     "text": "Red"
+    },
+    {
+     "correct": false,
+     "text": "Purple"
+    }
+   ],
+   "clue": "No primary colors here",
+   "id": "113153",
+   "isEasy": false,
+   "question": "Which two are colors of the original Hasbro “Hungry Hungry Hippos”?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Bones",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Pitala"
+    },
+    {
+     "correct": false,
+     "text": "Fabula"
+    },
+    {
+     "correct": true,
+     "text": "Tibia"
+    },
+    {
+     "correct": true,
+     "text": "Femur"
+    }
+   ],
+   "clue": "They are NOT in a fab-ulous pit",
+   "id": "113154",
+   "isEasy": false,
+   "question": "If one were to eat your leg, which two bones would I have to pick out?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "The Golden Peninsula",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Constance Wu"
+    },
+    {
+     "correct": false,
+     "text": "Jackie Chan"
+    },
+    {
+     "correct": true,
+     "text": "Michelle Yeoh"
+    },
+    {
+     "correct": true,
+     "text": "Ronny Chieng"
+    }
+   ],
+   "clue": "Both names have a “y” in them",
+   "id": "113158",
+   "isEasy": false,
+   "question": "Which two actors were born in Malaysia?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Digestive Alchemy",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Hydrogen"
+    },
+    {
+     "correct": true,
+     "text": "Chlorine"
+    },
+    {
+     "correct": false,
+     "text": "Sodium"
+    },
+    {
+     "correct": false,
+     "text": "Oxygen"
+    }
+   ],
+   "clue": "It’s hydrochloric acid, stomach acid is hydrochloric acid",
+   "id": "113162",
+   "isEasy": false,
+   "question": "What two elements make up the gastric acid that will soon be digesting you?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Animal Powers",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Lanternfish"
+    },
+    {
+     "correct": true,
+     "text": "Anglerfish"
+    },
+    {
+     "correct": false,
+     "text": "Angelfish"
+    },
+    {
+     "correct": false,
+     "text": "Furnacefish"
+    }
+   ],
+   "clue": "One prefix you hold and one prefix you grab with.",
+   "id": "113903",
+   "isEasy": false,
+   "question": "Which fish in this seafood buffet are glowing... because they’re bioluminescent?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Horror Movies",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Her[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Him[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Us[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Them[/i]"
+    }
+   ],
+   "clue": "Also known as “he” and “we”",
+   "id": "113904",
+   "isEasy": false,
+   "question": "Which two films were directed and/or produced by Jordan Peeling you open... I mean, Peele!?!",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Deadly Movies",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Tanning bed"
+    },
+    {
+     "correct": false,
+     "text": "Slot machine"
+    },
+    {
+     "correct": false,
+     "text": "Waterslide"
+    },
+    {
+     "correct": true,
+     "text": "MRI machine"
+    }
+   ],
+   "clue": "Magnets and spinning, two unbeatable opponents",
+   "id": "113906",
+   "isEasy": false,
+   "question": "Which two things have killed characters in a [i]Final Destination[/i] movie?",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Global Sports",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Spain"
+    },
+    {
+     "correct": false,
+     "text": "Uruguay"
+    },
+    {
+     "correct": true,
+     "text": "Portugal"
+    },
+    {
+     "correct": true,
+     "text": "Belgium"
+    }
+   ],
+   "clue": "Does this port pair with waffles?",
+   "id": "113907",
+   "isEasy": false,
+   "question": "Boo! Empty Cups! Which two countries have NEVER won the World Cup?!",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Basic Chemistry",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Carbon"
+    },
+    {
+     "correct": true,
+     "text": "Radon"
+    },
+    {
+     "correct": false,
+     "text": "Boron"
+    },
+    {
+     "correct": true,
+     "text": "Neon"
+    }
+   ],
+   "clue": "Neon colors are radical!",
+   "id": "113908",
+   "isEasy": false,
+   "question": "Which of these two elements are gassy... *BURP* ...I mean, GASES at room temperature?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Magnets? How?!?",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Iron"
+    },
+    {
+     "correct": true,
+     "text": "Nickel"
+    },
+    {
+     "correct": false,
+     "text": "Silver"
+    },
+    {
+     "correct": false,
+     "text": "Aluminum"
+    }
+   ],
+   "clue": "There’s a nick, but we can iron it out",
+   "id": "113909",
+   "isEasy": false,
+   "question": "My novelty fridge magnets would stick to which of these two metals?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "PC Awards",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Best Villain"
+    },
+    {
+     "correct": false,
+     "text": "Best Explosion"
+    },
+    {
+     "correct": false,
+     "text": "Best LOL Moment"
+    },
+    {
+     "correct": true,
+     "text": "Best Shirtless Performance"
+    }
+   ],
+   "clue": "Zac Efron won one of the right answers, twice",
+   "countrySpecific": true,
+   "id": "113910",
+   "isEasy": false,
+   "question": "Which two categories have described real MTV Movie Awards?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Fictional Meals",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Pigeon Pie"
+    },
+    {
+     "correct": false,
+     "text": "Summer Mush"
+    },
+    {
+     "correct": false,
+     "text": "Fleacrumb Muffin"
+    },
+    {
+     "correct": true,
+     "text": "Bowl of Brown"
+    }
+   ],
+   "clue": "Use pi to find circumference of bowl",
+   "id": "113911",
+   "isEasy": false,
+   "question": "Which of these two scrumptious-sounding meals were served in the [i]Game of Thrones[/i] series?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Novel Snacks",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Lembas bread"
+    },
+    {
+     "correct": false,
+     "text": "Bantha biscuit"
+    },
+    {
+     "correct": false,
+     "text": "Regova egg"
+    },
+    {
+     "correct": true,
+     "text": "Cram"
+    }
+   ],
+   "clue": "Let them cram bread!",
+   "id": "113913",
+   "isEasy": false,
+   "question": "Which of these two fictional, filling snacks can be found in [i]The Lord of the Rings[/i] series?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Wine Pairings",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sultana"
+    },
+    {
+     "correct": true,
+     "text": "Malbec"
+    },
+    {
+     "correct": true,
+     "text": "Sangiovese"
+    },
+    {
+     "correct": false,
+     "text": "Riesling"
+    }
+   ],
+   "clue": "I’ll bec you can really sing!",
+   "id": "113916",
+   "isEasy": false,
+   "question": "I think I’ll consume you with a red wine... so what TWO kinds of grapes will I need?",
+   "theme": "MOUNTAIN",
+   "x": true
+  },
+  {
+   "category": "Endangered Animals",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kangaroo"
+    },
+    {
+     "correct": true,
+     "text": "Camel"
+    },
+    {
+     "correct": false,
+     "text": "Koala"
+    },
+    {
+     "correct": false,
+     "text": "Hammerhead shark"
+    }
+   ],
+   "clue": "They may punch or kick back",
+   "id": "113917",
+   "isEasy": false,
+   "question": "In 2025, what two animals can I legally hunt — and eat! — in Australia?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Natures Predators",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Leopard seal"
+    },
+    {
+     "correct": false,
+     "text": "Artic fox"
+    },
+    {
+     "correct": false,
+     "text": "Polar bear"
+    },
+    {
+     "correct": true,
+     "text": "Orca"
+    }
+   ],
+   "clue": "Artic foxes and polar bears live on the opposite side of the world",
+   "id": "113918",
+   "isEasy": false,
+   "question": "Which of these two predators are known for eating tasty penguins?",
+   "theme": ""
+  },
+  {
+   "category": "Rom Com Numbers",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]27 Dresses[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]50 First Dates[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]52 Pick-Up[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]100 Girls[/i]"
+    }
+   ],
+   "clue": "Both answers added together equals 127",
+   "id": "113920",
+   "isEasy": false,
+   "question": "Not to gush, but which two of these romantic comedies star the incomparable Katherine Heigl?!",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Funny Spoofs",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Airplane![/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Spaceballs[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Blazing Saddles[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Naked Gun[/i]"
+    }
+   ],
+   "clue": "Save space for these saddles",
+   "id": "113922",
+   "isEasy": false,
+   "question": "Pick the two funny movies directed by Mel Brooks.",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Nutty Recipes",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Pad Thai"
+    },
+    {
+     "correct": false,
+     "text": "Tom Yum Soup"
+    },
+    {
+     "correct": true,
+     "text": "Kung Pao Chicken"
+    },
+    {
+     "correct": false,
+     "text": "Mango Sticky Rice"
+    }
+   ],
+   "clue": "All the chickens hang at my pad",
+   "id": "113923",
+   "isEasy": false,
+   "question": "My allergies! Which of these two dishes traditionally contains peanuts?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Sweet Treats",
+   "choices": [
+    {
+     "correct": false,
+     "text": "3 Musketeers"
+    },
+    {
+     "correct": true,
+     "text": "Milky Way"
+    },
+    {
+     "correct": false,
+     "text": "Almond Joy"
+    },
+    {
+     "correct": true,
+     "text": "Whatchamacallit"
+    }
+   ],
+   "clue": "Way? What Way?!?",
+   "countrySpecific": true,
+   "id": "113926",
+   "isEasy": false,
+   "question": "Mmmmm, sweet! Which of these two candy bars contain caramel?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Popular Albums",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Loud[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Voice It[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]I’m Speaking[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Talk that Talk[/i]"
+    }
+   ],
+   "clue": "Share your thoughts! Talk Loud!!!",
+   "id": "113927",
+   "isEasy": false,
+   "question": "I’m always Breakin’ Dishes! What are two Rihanna albums?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Youth Music",
+   "choices": [
+    {
+     "correct": true,
+     "text": "“Water”"
+    },
+    {
+     "correct": false,
+     "text": "“Slide”"
+    },
+    {
+     "correct": true,
+     "text": "“Jump”"
+    },
+    {
+     "correct": false,
+     "text": "“Float”"
+    }
+   ],
+   "clue": "Slide past the wrong answers and hop to one of the right ones",
+   "id": "113929",
+   "isEasy": false,
+   "question": "Okay, kids... pick out the two Tyla songs! You know, Tyla? “The Queen of Popiano”?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Land Mass",
+   "choices": [
+    {
+     "correct": false,
+     "text": "India"
+    },
+    {
+     "correct": true,
+     "text": "Brazil"
+    },
+    {
+     "correct": false,
+     "text": "Mexico"
+    },
+    {
+     "correct": true,
+     "text": "The United States"
+    }
+   ],
+   "clue": "Hey Bra, you with US?",
+   "id": "113931",
+   "isEasy": false,
+   "question": "I got a big stick, so I like a big country... which of these two are bigger than Australia?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Disney Toons",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Dating a cyborg"
+    },
+    {
+     "correct": true,
+     "text": "Fighting a mummy"
+    },
+    {
+     "correct": true,
+     "text": "Painting a continent"
+    },
+    {
+     "correct": false,
+     "text": "Dancing on Neptune"
+    }
+   ],
+   "clue": "Fighting is an art",
+   "id": "113934",
+   "isEasy": false,
+   "question": "According to the theme song, what are two things [i]Phineas and Ferb[/i] are doing over the summer?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Highest Honors",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Chemistry"
+    },
+    {
+     "correct": false,
+     "text": "Engineering"
+    },
+    {
+     "correct": true,
+     "text": "Literature"
+    },
+    {
+     "correct": false,
+     "text": "Journalism"
+    }
+   ],
+   "clue": "Lit up a bunsen burner to do it",
+   "id": "113935",
+   "isEasy": false,
+   "question": "In which two categories could you win a Nobel prize?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Celebrities in Songs",
+   "choices": [
+    {
+     "correct": true,
+     "text": "“Uptown Funk” by Mark Ronson & Bruno Mars"
+    },
+    {
+     "correct": false,
+     "text": "“Truth Hurts” by Lizzo"
+    },
+    {
+     "correct": true,
+     "text": "“Riptide” by Vance Joy"
+    },
+    {
+     "correct": false,
+     "text": "“Moves Like Jagger” by Maroon 5"
+    }
+   ],
+   "clue": "RIP Funk",
+   "id": "113936",
+   "isEasy": false,
+   "question": "What two songs name drop Michelle Pfeiffer in their lyrics?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Historical Warfare",
+   "choices": [
+    {
+     "correct": true,
+     "text": "The Hundred Years’ War"
+    },
+    {
+     "correct": false,
+     "text": "The Franco-Prussian War"
+    },
+    {
+     "correct": false,
+     "text": "The Seven Years’ War"
+    },
+    {
+     "correct": true,
+     "text": "World War I"
+    }
+   ],
+   "clue": "Both have numbers, both have a “1” in them",
+   "id": "113975",
+   "isEasy": false,
+   "question": "Which of these two conflicts were French victories?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Singers in Movies",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nicki Minaj"
+    },
+    {
+     "correct": true,
+     "text": "Bad Bunny"
+    },
+    {
+     "correct": true,
+     "text": "Ja Rule"
+    },
+    {
+     "correct": false,
+     "text": "Eminem"
+    }
+   ],
+   "clue": "Those drivers are bad at following road rules",
+   "id": "113979",
+   "isEasy": false,
+   "question": "Which of these two musical artists have appeared in a [i]Fast & Furious[/i] movie?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Pop Art",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kellogg’s corn flakes"
+    },
+    {
+     "correct": false,
+     "text": "McDonald’s milkshake"
+    },
+    {
+     "correct": true,
+     "text": "Campbell’s soup"
+    },
+    {
+     "correct": false,
+     "text": "Lime Jell-o"
+    }
+   ],
+   "clue": "These answers are meals, not desserts",
+   "id": "113983",
+   "isEasy": false,
+   "question": "Which of these two foods were subjects of Andy Warhol pop art pieces?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Novelty Snacks",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hip Hop Honeycomb"
+    },
+    {
+     "correct": false,
+     "text": "Super Marshmallow Bros."
+    },
+    {
+     "correct": true,
+     "text": "The Tonight Dough"
+    },
+    {
+     "correct": true,
+     "text": "Lights! Caramel! Action!"
+    }
+   ],
+   "clue": "Both right answers have a word that rhymes with “right”",
+   "id": "113995",
+   "isEasy": false,
+   "question": "Ice cream! Which of these two are real Ben & Jerry’s flavors?",
+   "theme": "CASTLE"
+  }
+ ]
+}

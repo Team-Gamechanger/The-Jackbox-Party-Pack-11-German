@@ -1,0 +1,2975 @@
+{
+ "content": [
+  {
+   "category": "Kinderbücher",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Die Wunderflöte[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Das Frühlingswunder[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Das Wunder von Narnia[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Wunderbare Fehler & Männer[/i]"
+    }
+   ],
+   "clue": "Der deutsche Titel scheint sehr unkreativ.",
+   "id": "106852",
+   "isEasy": false,
+   "question": "Welches dieser Bücher gehört zur Reihe [i]Die Chroniken von Narnia[/i]?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Substanzen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Formaldehyd"
+    },
+    {
+     "correct": false,
+     "text": "Hypochlorit"
+    },
+    {
+     "correct": false,
+     "text": "Arsen"
+    },
+    {
+     "correct": true,
+     "text": "Psilocybin"
+    }
+   ],
+   "clue": "Das P ist Pstill.",
+   "id": "106853",
+   "isEasy": false,
+   "question": "Was macht Magic Mushrooms so „magisch“?",
+   "theme": "FOREST",
+   "x": true
+  },
+  {
+   "category": "Cartoon-Pferde",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Freundschaft ist Magie[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Magic & Me[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Einfach magisch![/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Von Märchen und Magie[/i]"
+    }
+   ],
+   "clue": "Frag deine Freunde.",
+   "id": "106854",
+   "isEasy": false,
+   "question": "Wie lautet der Untertitel der Zeichentrickserie „My Little Pony“ aus dem Jahr 2010?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Historische Figuren",
+   "choices": [
+    {
+     "correct": false,
+     "text": "In den 1890ern"
+    },
+    {
+     "correct": false,
+     "text": "In den 1910ern"
+    },
+    {
+     "correct": true,
+     "text": "In den 1920ern"
+    },
+    {
+     "correct": false,
+     "text": "In den 1940ern"
+    }
+   ],
+   "clue": "1926, um genau zu sein.",
+   "id": "106855",
+   "isEasy": true,
+   "question": "Wann starb der berühmte Magie-Benutzer Harry Houdini?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Magische Michaels",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Magic Mike XXL[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Magic Mike: Encore[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Magic Mike - The Last Dance[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Magic Mike & Friends[/i]"
+    }
+   ],
+   "clue": "Der Film dreht sich ums Tanzen.",
+   "id": "106856",
+   "isEasy": false,
+   "question": "Wie hieß der dritte [i]Magic Mike[/i]-Film?",
+   "theme": "FOREST",
+   "x": true
+  },
+  {
+   "category": "Klassische Opern",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mozart"
+    },
+    {
+     "correct": false,
+     "text": "Beethoven"
+    },
+    {
+     "correct": false,
+     "text": "Chopin"
+    },
+    {
+     "correct": false,
+     "text": "Bach"
+    }
+   ],
+   "clue": "Er schrieb sie im nicht ganz so zarten Alter von 45 Jahren.",
+   "id": "106857",
+   "isEasy": true,
+   "question": "Wer hat die Oper [i]Die Zauberflöte[/i] geschrieben?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Magische Wunder",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Scarlet Witch"
+    },
+    {
+     "correct": false,
+     "text": "Black Panther"
+    },
+    {
+     "correct": false,
+     "text": "Blue Beetle"
+    },
+    {
+     "correct": false,
+     "text": "Grüner Kobold"
+    }
+   ],
+   "clue": "Witchcraft",
+   "id": "106867",
+   "isEasy": false,
+   "question": "Welcher Marvel-Charakter beherrscht die Chaos-Magie?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Magischer Realismus",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Emma[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Jane Eyre[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Lolita[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Menschenkind[/i]"
+    }
+   ],
+   "clue": "Love it",
+   "id": "106869",
+   "isEasy": false,
+   "question": "Welches dieser Werke ist ein Beispiel für das Genre des Magischen Realismus?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Wahrzeichen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Die Freiheitsstatue"
+    },
+    {
+     "correct": true,
+     "text": "Der Eiffelturm"
+    },
+    {
+     "correct": false,
+     "text": "Die Sphinx"
+    },
+    {
+     "correct": false,
+     "text": "Der Schiefe Turm von Pisa"
+    }
+   ],
+   "clue": "Es ist ein eiserner Turm.",
+   "id": "106871",
+   "isEasy": false,
+   "question": "Welche Touristenattraktion trägt den Spitznamen „Die Eiserne Dame“??",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Chemie-Grundlagen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Aminosäuren"
+    },
+    {
+     "correct": false,
+     "text": "Schwefelsäuren"
+    },
+    {
+     "correct": false,
+     "text": "Ameisensäuren"
+    },
+    {
+     "correct": false,
+     "text": "Zitronensäuren"
+    }
+   ],
+   "clue": "A steht für „Außergewöhnlich bedeutend“.",
+   "id": "106877",
+   "isEasy": false,
+   "question": "Welche Säuren sind als „Bausteine des Lebens“ bekannt?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Kleine Cartoons",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Paw Patrol[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Die Oktonauten[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]PJ Masks – Pyjamahelden[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Spidey und seine Super-Freunde[/i]"
+    }
+   ],
+   "clue": "Nacht? Zeit für Pyjamas!",
+   "id": "106886",
+   "isEasy": false,
+   "question": "In welcher Vorschul-Zeichentrickserie kommen Bösewichte namens Luna Girl und Nachtninja vor?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Echte Kriege",
+   "choices": [
+    {
+     "correct": true,
+     "text": "den englischen Thron"
+    },
+    {
+     "correct": false,
+     "text": "den französischen Thron"
+    },
+    {
+     "correct": false,
+     "text": "den spanischen Thron"
+    },
+    {
+     "correct": false,
+     "text": "die Kontrolle über die Kirche"
+    }
+   ],
+   "clue": "Englische Rosen haben spitze Dornen.",
+   "id": "106887",
+   "isEasy": false,
+   "question": "Der historische „Rosenkrieg“ war kein Kampf um Blumen, sondern ein Kampf um…",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Produktursprung",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Malcolm & Malcolm"
+    },
+    {
+     "correct": true,
+     "text": "Mars & Murrie"
+    },
+    {
+     "correct": false,
+     "text": "Markus & Max"
+    },
+    {
+     "correct": false,
+     "text": "Melting & Mouth"
+    }
+   ],
+   "clue": "Gründer: Frank C. Mars",
+   "id": "106890",
+   "isEasy": false,
+   "question": "Wofür stehen die „M“ in M&M’s?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Dramatische Hexen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hamlet"
+    },
+    {
+     "correct": true,
+     "text": "Macbeth"
+    },
+    {
+     "correct": false,
+     "text": "Romeo"
+    },
+    {
+     "correct": false,
+     "text": "Othello"
+    }
+   ],
+   "clue": "Die richtige Antwort endet nicht auf -o.",
+   "id": "107646",
+   "isEasy": false,
+   "question": "Welcher von Shakespeares Figuren wurden von Hexen Prophezeiungen gemacht?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Volkstümlicher Schrecken",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Russland"
+    },
+    {
+     "correct": false,
+     "text": "Japan"
+    },
+    {
+     "correct": false,
+     "text": "Frankreich"
+    },
+    {
+     "correct": false,
+     "text": "Indien"
+    }
+   ],
+   "clue": "Sie ist eine slawische Zauberin, die in einem Mörser fliegt.",
+   "id": "107648",
+   "isEasy": false,
+   "question": "Aus der Sagenwelt welchen Landes stammt Baba Jaga?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Artus-Sage",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mortiria da Rose"
+    },
+    {
+     "correct": false,
+     "text": "Morgana Morticia"
+    },
+    {
+     "correct": true,
+     "text": "Morgan le Fay"
+    },
+    {
+     "correct": false,
+     "text": "Gundel Gaukeley"
+    }
+   ],
+   "clue": "Sie ist vor allem gefayt.",
+   "id": "107649",
+   "isEasy": true,
+   "question": "Wie heißt die Zauberin aus der Artus-Sage?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Epische Hexen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Männer in Schweine verwandeln"
+    },
+    {
+     "correct": false,
+     "text": "Seeleute zu Felsen locken"
+    },
+    {
+     "correct": false,
+     "text": "Das Trojanische Pferd inspirieren"
+    },
+    {
+     "correct": false,
+     "text": "Schiffe mit Taifunen versenken"
+    }
+   ],
+   "clue": "Hexen verwandeln Menschen in Tiere.",
+   "id": "107650",
+   "isEasy": false,
+   "question": "Was hat Kirke in Homers [i]Odyssee[/i] getan?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Pilotinnen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "England"
+    },
+    {
+     "correct": false,
+     "text": "Frankreich"
+    },
+    {
+     "correct": true,
+     "text": "Sowjetunion"
+    },
+    {
+     "correct": false,
+     "text": "USA"
+    }
+   ],
+   "clue": "Genau wie Baba Jaga",
+   "id": "107652",
+   "isEasy": false,
+   "question": "Die „Nachthexen“ waren im Zweiten Weltkrieg Pilotinnen der Luftwaffe welchen Landes??",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Anime-Hexen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Didi"
+    },
+    {
+     "correct": false,
+     "text": "Mimi"
+    },
+    {
+     "correct": true,
+     "text": "Kiki"
+    },
+    {
+     "correct": false,
+     "text": "Zizi"
+    }
+   ],
+   "clue": "Sie war ganz O.K.",
+   "id": "107653",
+   "isEasy": false,
+   "question": "Hayao Miyazaki drehte einen Film über eine Hexe mit einem Lieferservice namens...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Edle Nachrede",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die Blutgräfin"
+    },
+    {
+     "correct": false,
+     "text": "Der Racheengel"
+    },
+    {
+     "correct": false,
+     "text": "Die Nachtkönigin"
+    },
+    {
+     "correct": false,
+     "text": "Die Flammenfürstin"
+    }
+   ],
+   "clue": "Blutgräfin? Besser als Rotzgräfin alle mal...",
+   "id": "107655",
+   "isEasy": false,
+   "question": "Unter welchem Spitznamen war die Adlige und (mögliche) Serienmörderin Elisabeth Báthory aus dem 16. Jahrhundert bekannt?",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Alte Heilmittel",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Zauberveilchen"
+    },
+    {
+     "correct": true,
+     "text": "Zaubernuss"
+    },
+    {
+     "correct": false,
+     "text": "Zauber-Bernstein"
+    },
+    {
+     "correct": false,
+     "text": "Zauber-Stachelbeeren"
+    }
+   ],
+   "clue": "Am Ende sind es doch eh wieder Steinfrüchte...",
+   "id": "107657",
+   "isEasy": false,
+   "question": "Mit welchem blühenden Strauch behandeln manche Menschen Hämorrhoiden??",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Horror-Orte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schottland"
+    },
+    {
+     "correct": false,
+     "text": "Amsterdam"
+    },
+    {
+     "correct": false,
+     "text": "Frankreich"
+    },
+    {
+     "correct": true,
+     "text": "USA"
+    }
+   ],
+   "clue": "H.P. Lovecraft ist ein US-amerikanischer Autor.",
+   "id": "107659",
+   "isEasy": false,
+   "question": "[i]Das Grauen von Dunwich[/i] ist eine Kurzgeschichte von H.P. Lovecraft. Wo liegt Dunwich?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Folklore-Begriffe",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Madagaskar"
+    },
+    {
+     "correct": false,
+     "text": "Russland"
+    },
+    {
+     "correct": true,
+     "text": "Japan"
+    },
+    {
+     "correct": false,
+     "text": "Indien"
+    }
+   ],
+   "clue": "Dargestellt als alte Frau in einem Kimono.",
+   "id": "107660",
+   "isEasy": false,
+   "question": "Yamauba ist eine Berghexe aus der Folklore welches Landes??",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Brot",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Putenfleisch"
+    },
+    {
+     "correct": false,
+     "text": "Rindfleisch"
+    },
+    {
+     "correct": true,
+     "text": "Schinken"
+    },
+    {
+     "correct": false,
+     "text": "Blattsalat"
+    }
+   ],
+   "clue": "Es ist ein Monsieur, also wäre es „Jambon“.",
+   "id": "107664",
+   "isEasy": false,
+   "question": "Was findet man traditionell auf einem Croque-Monsieur-Sandwich?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Sandwich-Beläge",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Baguette"
+    },
+    {
+     "correct": false,
+     "text": "Bagel"
+    },
+    {
+     "correct": false,
+     "text": "Brioche"
+    },
+    {
+     "correct": false,
+     "text": "Toast"
+    }
+   ],
+   "clue": "Französische Fusion.",
+   "id": "107665",
+   "isEasy": false,
+   "question": "Welches Brot wird traditionell für Bánh mì, eine Art vietnamesisches Sandwich, verwendet?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Hexen-Süßkram",
+   "choices": [
+    {
+     "correct": false,
+     "text": "der Roten Hexe"
+    },
+    {
+     "correct": true,
+     "text": "der Weißen Hexe"
+    },
+    {
+     "correct": false,
+     "text": "der Schwarzen Hexe"
+    },
+    {
+     "correct": false,
+     "text": "der Unsichtbaren Hexe"
+    }
+   ],
+   "clue": "Die Süßigkeit ist von weißem Zucker umhüllt.",
+   "id": "107666",
+   "isEasy": true,
+   "question": "In Narnia wird Edmund türkischer Honig angeboten von...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Haustier-Sidekicks",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schauer"
+    },
+    {
+     "correct": false,
+     "text": "Rauch"
+    },
+    {
+     "correct": false,
+     "text": "Augit"
+    },
+    {
+     "correct": true,
+     "text": "Salem"
+    }
+   ],
+   "clue": "Er wurde nach einem Ort benannt.",
+   "id": "107667",
+   "isEasy": true,
+   "question": "Wie heißt der Kater in [i]Sabrina – Total Verhext![/i]?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Öko-Logisch",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Trugalug-Bäume"
+    },
+    {
+     "correct": false,
+     "text": "Trambola-Bäume"
+    },
+    {
+     "correct": true,
+     "text": "Truffula-Bäume"
+    },
+    {
+     "correct": false,
+     "text": "Zizzer-Bäume"
+    }
+   ],
+   "clue": "Immer feste Truff... ula?",
+   "id": "107669",
+   "isEasy": false,
+   "question": "Für welche Art von Bäumen setzt sich [i]Der Lorax[/i] ein?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Sci-Fi-Epen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Baum der Seelen"
+    },
+    {
+     "correct": false,
+     "text": "Baum der Balance"
+    },
+    {
+     "correct": false,
+     "text": "Baum des Lebens"
+    },
+    {
+     "correct": false,
+     "text": "Weltenbaum"
+    }
+   ],
+   "clue": "Ein Baum und eine Seele",
+   "id": "107672",
+   "isEasy": false,
+   "question": "Für wessen Schutz kämpfen die Na’vi in [i]Avatar - Aufbruch nach Pandora[/i]?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Naturenergie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "CO2 & Sonnenlicht"
+    },
+    {
+     "correct": false,
+     "text": "Sauerstoff & Kohlenstoff"
+    },
+    {
+     "correct": false,
+     "text": "CO2 & H20"
+    },
+    {
+     "correct": true,
+     "text": "Sauerstoff & Zucker"
+    }
+   ],
+   "clue": "Auch bekannt als Glukose.",
+   "id": "107675",
+   "isEasy": false,
+   "question": "Alchemie-Check: Was sind die Hauptprodukte, die durch die Photosynthese eines Baumes entstehen?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Fremde Geschenke",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Eine Puppe"
+    },
+    {
+     "correct": false,
+     "text": "Eine Taschenuhr"
+    },
+    {
+     "correct": false,
+     "text": "Eine Medaille"
+    },
+    {
+     "correct": false,
+     "text": "Eine Kaugummi-Packung"
+    }
+   ],
+   "clue": "Keine winzigen Holzmenschen im Baum.",
+   "id": "107677",
+   "isEasy": false,
+   "question": "Welches dieser Geschenke wurde in [i]Wer die Nachtigall stört[/i] NICHT für Scout und Jem in einem Baum hinterlassen?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Baum-Rekorde",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Südamerika"
+    },
+    {
+     "correct": true,
+     "text": "Nordamerika"
+    },
+    {
+     "correct": false,
+     "text": "China"
+    },
+    {
+     "correct": false,
+     "text": "Afrika"
+    }
+   ],
+   "clue": "Er steht in Kalifornien.",
+   "id": "107678",
+   "isEasy": true,
+   "question": "Wo steht der höchste Baum der Welt?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Sagenhafte Orte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mirkwood Forest"
+    },
+    {
+     "correct": true,
+     "text": "Sherwood Forest"
+    },
+    {
+     "correct": false,
+     "text": "Wildwood Forest"
+    },
+    {
+     "correct": false,
+     "text": "Bushwood Forest"
+    }
+   ],
+   "clue": "Er versteckt sich vor dem SHERiff!",
+   "id": "107679",
+   "isEasy": true,
+   "question": "Wo versteckt sich Robin Hood?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Baum-Maskottchen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Timberland"
+    },
+    {
+     "correct": false,
+     "text": "Burberry"
+    },
+    {
+     "correct": false,
+     "text": "Patagonia"
+    },
+    {
+     "correct": false,
+     "text": "Birkenstock"
+    }
+   ],
+   "clue": "Gut beschuht in Wald und Wiese...",
+   "id": "107681",
+   "isEasy": false,
+   "question": "Welches dieser Unternehmen hat einen Baum in seinem Logo?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Buddhistische Tradition",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Feigenbaum"
+    },
+    {
+     "correct": false,
+     "text": "Mangobaum"
+    },
+    {
+     "correct": false,
+     "text": "Apfelbaum"
+    },
+    {
+     "correct": false,
+     "text": "Waldkiefer"
+    }
+   ],
+   "clue": "Buddha war defintiv nicht feige!",
+   "id": "107684",
+   "isEasy": false,
+   "question": "Laut [i]Siddhartha[/i] meditierte Buddha 49 Tage lang unter welcher Baumart?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Nordischer Kram",
+   "choices": [
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": false,
+     "text": "6"
+    },
+    {
+     "correct": true,
+     "text": "9"
+    },
+    {
+     "correct": false,
+     "text": "21"
+    }
+   ],
+   "clue": "Es ist eine ungerade einstellige Zahl.",
+   "id": "107685",
+   "isEasy": false,
+   "question": "Wie viele Welten verbindet die Weltenesche in der nordischen Mythologie?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Häufige Bäume",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Palme"
+    },
+    {
+     "correct": true,
+     "text": "Wacholder"
+    },
+    {
+     "correct": false,
+     "text": "Kiefer"
+    },
+    {
+     "correct": false,
+     "text": "Eiche"
+    }
+   ],
+   "clue": "Dennoch ist Abstand halten angesagt, Beeren und Nadeln dieses Baumes können giftig sein.",
+   "id": "107687",
+   "isEasy": false,
+   "question": "Was ist der am häufigsten vorkommende Baum der Welt?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Zeichentrick-Nebenfiguren",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Wasserbändiger"
+    },
+    {
+     "correct": true,
+     "text": "Erdbändiger"
+    },
+    {
+     "correct": false,
+     "text": "Luftbändiger"
+    },
+    {
+     "correct": false,
+     "text": "Feuerbändiger"
+    }
+   ],
+   "clue": "Er konnte Felsbrocken heben und Erde in Treibsand verwandeln.",
+   "id": "107962",
+   "isEasy": false,
+   "question": "König Bumi aus [i]Avatar - Der Herr der Elemente[/i] ist ein sehr mächtiger…",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Klassisches Kino",
+   "choices": [
+    {
+     "correct": false,
+     "text": "1990er"
+    },
+    {
+     "correct": false,
+     "text": "1970er"
+    },
+    {
+     "correct": false,
+     "text": "1950er"
+    },
+    {
+     "correct": true,
+     "text": "1930er"
+    }
+   ],
+   "clue": "Noch vor dem zweiten Weltkrieg.",
+   "id": "107965",
+   "isEasy": true,
+   "question": "Wann kam der erste [i]King Kong[/i]-Film heraus?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Einheimische Tiere",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Westafrika"
+    },
+    {
+     "correct": true,
+     "text": "Südostasien"
+    },
+    {
+     "correct": false,
+     "text": "Nordaustralien"
+    },
+    {
+     "correct": false,
+     "text": "Nördliches Südamerika"
+    }
+   ],
+   "clue": "Und Teile Chinas!",
+   "id": "107967",
+   "isEasy": false,
+   "question": "Eure Gruppe stößt auf eine Königskobra. Wo befindet ihr euch?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Kulturküche",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ein Kronenkuchen"
+    },
+    {
+     "correct": false,
+     "text": "Ein Krippenkuchen"
+    },
+    {
+     "correct": true,
+     "text": "Ein Dreikönigskuchen"
+    },
+    {
+     "correct": false,
+     "text": "Ein Bescherungskuchen"
+    }
+   ],
+   "clue": "Der Kuchen gehört jedoch nicht nur Caspar, Melchior und Balthasar.",
+   "id": "107969",
+   "isEasy": false,
+   "question": "Eure Gruppe ist in Spanien und ihr findet eine winzige Jesusfigur in eurem Dessert. Was esst ihr?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Spielehelden",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kairi"
+    },
+    {
+     "correct": true,
+     "text": "Sora"
+    },
+    {
+     "correct": false,
+     "text": "Cloud"
+    },
+    {
+     "correct": false,
+     "text": "Donald Duck"
+    }
+   ],
+   "clue": "Ein Name mit vier Buchstaben",
+   "id": "107989",
+   "isEasy": false,
+   "question": "Wer ist die Hauptfigur der erfolgreichen Videospielreihe [i]Kingdom Hearts[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Mythische Machthaber",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Er befreite einen Gott"
+    },
+    {
+     "correct": false,
+     "text": "Er hat eine Chimäre erschlagen"
+    },
+    {
+     "correct": true,
+     "text": "Er war nett zu einem Satyr"
+    },
+    {
+     "correct": false,
+     "text": "Er hat einen wirklich coolen Korb gefunden"
+    }
+   ],
+   "clue": "Nett zu sein ist kostenlos ... aber Midas hat es ALLES gekostet!",
+   "id": "107990",
+   "isEasy": true,
+   "question": "Warum wurde König Midas in [i]Metamorphosen[/i] mit der Kraft, alles in Gold zu verwandeln, „gesegnet“?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Krabben-Größe",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schneekrabbe"
+    },
+    {
+     "correct": true,
+     "text": "Japanische Riesenkrabbe"
+    },
+    {
+     "correct": false,
+     "text": "Kalifornischer Taschenkrebs"
+    },
+    {
+     "correct": false,
+     "text": "Große Steinkrabbe"
+    }
+   ],
+   "clue": "Die Ausmaße der Krabbe werden auch im Namen ersichtlich.",
+   "id": "107995",
+   "isEasy": true,
+   "question": "Im Durchschnitt, welches dieser Tiere ist größer als die Königskrabbe?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Energiequellen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "dichtes Erdreich"
+    },
+    {
+     "correct": false,
+     "text": "lockeres Erdreich"
+    },
+    {
+     "correct": true,
+     "text": "dichtes Gestein"
+    },
+    {
+     "correct": false,
+     "text": "lockeres Gestein"
+    }
+   ],
+   "clue": "Je dichter der Dichter, desto besser das Fracking... oder so.",
+   "id": "108005",
+   "isEasy": false,
+   "question": "Beim Fracking pumpt man unter hohem Druck Flüssigkeit in...",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Mythic Literature",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Boromir"
+    },
+    {
+     "correct": false,
+     "text": "Éomer"
+    },
+    {
+     "correct": true,
+     "text": "Aragon"
+    },
+    {
+     "correct": false,
+     "text": "Saruman"
+    }
+   ],
+   "clue": "Warum sich nicht mal ein Königreich gon'n?",
+   "id": "108010",
+   "isEasy": true,
+   "question": "Wer ist der titelgebende König in [i]Der Herr der Ringe: Die Rückkehr des Königs[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Bibelkönige",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Salomo"
+    },
+    {
+     "correct": false,
+     "text": "Saul"
+    },
+    {
+     "correct": false,
+     "text": "Silas"
+    },
+    {
+     "correct": false,
+     "text": "Samuel"
+    }
+   ],
+   "clue": "Weder Saul noch Samuel, gaben jemals einen Befehl.",
+   "id": "108012",
+   "isEasy": false,
+   "question": "Welcher biblische König folgte auf David und war für seine Weisheit bekannt?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Historische Könige",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Heinrich VII."
+    },
+    {
+     "correct": true,
+     "text": "Georg VI."
+    },
+    {
+     "correct": false,
+     "text": "Heinrich VIII."
+    },
+    {
+     "correct": false,
+     "text": "Georg IV."
+    }
+   ],
+   "clue": "Heinrich VII. herrschte in den 1500ern.",
+   "id": "108013",
+   "isEasy": false,
+   "question": "Wer war während des Zweiten Weltkriegs König von England?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Königskram",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Norwegen"
+    },
+    {
+     "correct": false,
+     "text": "Spanien"
+    },
+    {
+     "correct": true,
+     "text": "Griechenland"
+    },
+    {
+     "correct": false,
+     "text": "Belgien"
+    }
+   ],
+   "clue": "Spanien und Norwegen sind konstitutionelle Monarchien.",
+   "id": "108014",
+   "isEasy": false,
+   "question": "Welches dieser Länder hat im Jahr 2025 KEINEN König?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Philosophie & Parabeln",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Platon"
+    },
+    {
+     "correct": false,
+     "text": "Sokrates"
+    },
+    {
+     "correct": false,
+     "text": "Nietzsche"
+    },
+    {
+     "correct": false,
+     "text": "Konfuzius"
+    }
+   ],
+   "clue": "Plateaus können Höhlen haben.",
+   "id": "108015",
+   "isEasy": true,
+   "question": "Welchem Philosophen wird das „Höhlengleichnis“ zugeschrieben?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Militärische Niederlagen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Stalingrad"
+    },
+    {
+     "correct": true,
+     "text": "Waterloo"
+    },
+    {
+     "correct": false,
+     "text": "Normandie"
+    },
+    {
+     "correct": false,
+     "text": "Thermopylen"
+    }
+   ],
+   "clue": "ABBA hat davon gesungen.",
+   "id": "108016",
+   "isEasy": false,
+   "question": "Wo erlitt Napoleon eine entscheidende Niederlage gegen die Preußen und den Duke of Wellington?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Disney-Cartoons",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Die Glückshöhle"
+    },
+    {
+     "correct": false,
+     "text": "Die Höhle der Geheimnisse"
+    },
+    {
+     "correct": true,
+     "text": "Die Wunderhöhle"
+    },
+    {
+     "correct": false,
+     "text": "Die Höhle der Weisen"
+    }
+   ],
+   "clue": "Eine wahrlich wunderbare Höhle.",
+   "id": "108017",
+   "isEasy": false,
+   "question": "Wo hat Aladdin in Disneys [i]Aladdin[/i] die Wunderlampe des Dschinns gefunden?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Höhlenmalereien",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Bisons"
+    },
+    {
+     "correct": false,
+     "text": "Hirsche"
+    },
+    {
+     "correct": false,
+     "text": "Mammuts"
+    },
+    {
+     "correct": true,
+     "text": "Pferde"
+    }
+   ],
+   "clue": "Ein alter Freund des Menschen.",
+   "id": "108018",
+   "isEasy": false,
+   "question": "Die Höhle von Lascaux ist voller prähistorischer Malereien und Gravuren. Welches Tier kommt in den Kunstwerken am häufigsten vor?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Einfache Mathematik",
+   "choices": [
+    {
+     "correct": false,
+     "text": "undurchsichtig ist"
+    },
+    {
+     "correct": false,
+     "text": "durchsichtig ist"
+    },
+    {
+     "correct": false,
+     "text": "nach außen gewölbt ist"
+    },
+    {
+     "correct": true,
+     "text": "nach innen gewölbt ist"
+    }
+   ],
+   "clue": "Wie eine Schüssel!",
+   "id": "108022",
+   "isEasy": false,
+   "question": "Wenn etwas konkav ist, bedeutet das, dass es…",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Alte Bergwerke",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kohlenmonoxid"
+    },
+    {
+     "correct": false,
+     "text": "Chlorwasserstoff"
+    },
+    {
+     "correct": false,
+     "text": "Stickstoffdioxid"
+    },
+    {
+     "correct": false,
+     "text": "Radon"
+    }
+   ],
+   "clue": "Die Kanarienvögel saßen wie auf glühenden Kohlen.",
+   "id": "108023",
+   "isEasy": true,
+   "question": "Welches Gas tötete normalerweise Kanarienvögel in Kohlebergwerken??",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Erfolgsgeschichten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Laos"
+    },
+    {
+     "correct": true,
+     "text": "Thailand"
+    },
+    {
+     "correct": false,
+     "text": "Vietnam"
+    },
+    {
+     "correct": false,
+     "text": "Kambodscha"
+    }
+   ],
+   "clue": "Es war ein Land.",
+   "id": "108026",
+   "isEasy": false,
+   "question": "In welchem Land fand 2018 die Rettung von 12 Kindern aus dem Höhlensystem Tham Luang statt?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "",
+   "choices": [
+    {
+     "correct": false,
+     "text": "“Feel Good Inc.”"
+    },
+    {
+     "correct": true,
+     "text": "“Mr. Brightside”"
+    },
+    {
+     "correct": false,
+     "text": "“Icky Thump”"
+    },
+    {
+     "correct": false,
+     "text": "“Time to Pretend”"
+    }
+   ],
+   "clue": "Warum so förmlich?",
+   "id": "108031",
+   "isEasy": false,
+   "question": "Brandon Flowers ist ein Barde in einer Band, die welchen Song singt?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Junkfood-Zutaten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Coffein"
+    },
+    {
+     "correct": true,
+     "text": "Aceton"
+    },
+    {
+     "correct": false,
+     "text": "Taurin"
+    },
+    {
+     "correct": false,
+     "text": "L-Carnitin"
+    }
+   ],
+   "clue": "",
+   "id": "108044",
+   "isEasy": false,
+   "question": "Was ist kein Inhaltsstoff von Monster Energy Drinks?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Mythische Bestien",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Schlangenschwanz"
+    },
+    {
+     "correct": false,
+     "text": "Menschengesicht"
+    },
+    {
+     "correct": false,
+     "text": "Löwenkörper"
+    },
+    {
+     "correct": false,
+     "text": "Flügel einer Fledermaus"
+    }
+   ],
+   "clue": "Vergiss die Säugetiere.",
+   "id": "108046",
+   "isEasy": false,
+   "question": "Welches Körperteil würde man bei dem fiktiven Monster Mantikor NICHT finden?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Kleines Latinum",
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Nutze den Tag“"
+    },
+    {
+     "correct": false,
+     "text": "„Früh zu Bette gehen“"
+    },
+    {
+     "correct": true,
+     "text": "„Möge der Käufer sich in Acht nehmen“"
+    },
+    {
+     "correct": false,
+     "text": "„Hier verweilen Monster“"
+    }
+   ],
+   "clue": "Nimm dich vor der falschen Antwort in Acht!",
+   "id": "108088",
+   "isEasy": false,
+   "question": "Was bedeutet der lateinische Ausdruck „caveat emptor“?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Griechische Geschichten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Einen Zyklop"
+    },
+    {
+     "correct": false,
+     "text": "Kerberos"
+    },
+    {
+     "correct": false,
+     "text": "Medusa"
+    },
+    {
+     "correct": false,
+     "text": "Das Goldene Vlies"
+    }
+   ],
+   "clue": "Der eine mit nur einem Auge.",
+   "id": "108090",
+   "isEasy": true,
+   "question": "Was finden Odysseus und seine Männer in der Höhle des Polyphem in [i]Odyssee[/i]?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Religiöse Traditionen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Samuel"
+    },
+    {
+     "correct": true,
+     "text": "Elija"
+    },
+    {
+     "correct": false,
+     "text": "Jesaja"
+    },
+    {
+     "correct": false,
+     "text": "Jona"
+    }
+   ],
+   "clue": "Weder Jesaja noch Jona.",
+   "id": "108092",
+   "isEasy": false,
+   "question": "Bei einem Sederabend wird ein Platz für welchen Propheten frei gehalten?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Knofensa"
+    },
+    {
+     "correct": false,
+     "text": "Lapras"
+    },
+    {
+     "correct": true,
+     "text": "Digda"
+    },
+    {
+     "correct": false,
+     "text": "Relaxo"
+    }
+   ],
+   "clue": "Eine Höhle wurde sogar nach dem benannt, checkst du's nicht, DIGDA!?",
+   "id": "108093",
+   "isEasy": false,
+   "question": "In den Spielen der ersten Generation, welches dieser Pokémon kann man in einer Höhle finden?",
+   "theme": ""
+  },
+  {
+   "category": "Retro-Monsterfilme",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Hund"
+    },
+    {
+     "correct": false,
+     "text": "Vogel"
+    },
+    {
+     "correct": false,
+     "text": "Katze"
+    },
+    {
+     "correct": false,
+     "text": "Kind"
+    }
+   ],
+   "clue": "Guter Junge!",
+   "id": "108103",
+   "isEasy": false,
+   "question": "In John Carpenters [i]The Thing[/i] sieht das Publikum das Monster zunächst getarnt als...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Pop-Star-Diven",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Taylor Swift"
+    },
+    {
+     "correct": false,
+     "text": "Miley Cyrus"
+    },
+    {
+     "correct": false,
+     "text": "Britney Spears"
+    },
+    {
+     "correct": true,
+     "text": "Lady Gaga"
+    }
+   ],
+   "clue": "Enthält „Bad Romance“.",
+   "id": "108105",
+   "isEasy": false,
+   "question": "[i]The Fame Monster[/i] war ein Album aus dem Jahr 2009 von welcher Bardin?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Disney-Klassiker",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Blume ist eine Katze"
+    },
+    {
+     "correct": false,
+     "text": "Blume ist ein Streifenhörnchen"
+    },
+    {
+     "correct": false,
+     "text": "Blume ist ein Waschbär"
+    },
+    {
+     "correct": true,
+     "text": "Blume kommt nur in [i]Bambi[/i] vor"
+    }
+   ],
+   "clue": "Stinktier und Reh sind Freunde.",
+   "id": "108113",
+   "isEasy": false,
+   "question": "Wer oder was ist Blume in Disneys [i]Cap und Capper[/i]?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Grünzeug",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tomate"
+    },
+    {
+     "correct": false,
+     "text": "Zwiebel"
+    },
+    {
+     "correct": false,
+     "text": "Kohl"
+    },
+    {
+     "correct": true,
+     "text": "Brokkoli"
+    }
+   ],
+   "clue": "Ist doch GlasKKlar!",
+   "id": "108114",
+   "isEasy": false,
+   "question": "Naturkunde: Welches „Gemüse“ besteht genau genommen aus Blütenknospen?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Sportverletzungen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schwimmen"
+    },
+    {
+     "correct": false,
+     "text": "Tennis"
+    },
+    {
+     "correct": false,
+     "text": "Bogenschießen"
+    },
+    {
+     "correct": true,
+     "text": "Boxen"
+    }
+   ],
+   "clue": "Entsteht durch wiederholte Schläge.",
+   "id": "108115",
+   "isEasy": false,
+   "question": "In welcher Sportart besteht für Champions das Risiko, ein „Blumenkohlohr“ zu bekommen?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Biologiebegriffe",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Troglobiont"
+    },
+    {
+     "correct": false,
+     "text": "Cenobite"
+    },
+    {
+     "correct": false,
+     "text": "Aqualoxen"
+    },
+    {
+     "correct": false,
+     "text": "Faunalomorph"
+    }
+   ],
+   "clue": "z.B.: Höhlenmenschen nannte man früher auch „Troglodyten“.",
+   "id": "108118",
+   "isEasy": false,
+   "question": "Eine Tierart, die ausschließlich unterirdisch oder in Höhlen lebt, ist ein...",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Felsformationen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Stalaktit"
+    },
+    {
+     "correct": false,
+     "text": "Stalagmit"
+    },
+    {
+     "correct": false,
+     "text": "Stalagtit"
+    },
+    {
+     "correct": false,
+     "text": "Stalakmit"
+    }
+   ],
+   "clue": "Das Wort enthält ein „k“.",
+   "id": "108120",
+   "isEasy": false,
+   "question": "Wie nennt man die Felsformation, die aus der Decke von Höhlen wächst?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Höhlenbegriffe",
+   "choices": [
+    {
+     "correct": false,
+     "text": "stockdunkel ist"
+    },
+    {
+     "correct": false,
+     "text": "bewohnt ist"
+    },
+    {
+     "correct": false,
+     "text": "giftig ist"
+    },
+    {
+     "correct": true,
+     "text": "am tiefsten ist"
+    }
+   ],
+   "clue": "Jeder Schacht, ob groß oder klein, ob beleuchtet oder nicht, hat diese Stelle.",
+   "id": "108121",
+   "isEasy": false,
+   "question": "Im Bergbau bezeichnet der Begriff „Sumpf“ einen Teil der Schachtes, der...",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Pixar-Persönlichkeiten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "2"
+    },
+    {
+     "correct": false,
+     "text": "3"
+    },
+    {
+     "correct": true,
+     "text": "4"
+    },
+    {
+     "correct": false,
+     "text": "8"
+    }
+   ],
+   "clue": "Sulley hat 2, Randall hat 2 und Mike hat 1.",
+   "id": "108516",
+   "isEasy": false,
+   "question": "Wie viele Augen haben Sulley und Randall aus [i]Die Monster AG[/i] insgesamt?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Jugendbücher",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Im Labyrinth des Zyklopen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Vater des Zyklopen[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Im Bann des Zyklopen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Lehre des Zyklopen[/i]"
+    }
+   ],
+   "clue": "Die Antwort ist „C“.",
+   "id": "108518",
+   "isEasy": false,
+   "question": "Wie heißt das zweite Buch der Percy-Jackson-Reihe?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Neuartige Tiere",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hase"
+    },
+    {
+     "correct": true,
+     "text": "Maus"
+    },
+    {
+     "correct": false,
+     "text": "Affe"
+    },
+    {
+     "correct": false,
+     "text": "Hund"
+    }
+   ],
+   "clue": "Er löst ein Labyrinth und erhält Käse.",
+   "id": "108581",
+   "isEasy": false,
+   "question": "In dem Roman [i]Blumen für Algernon[/i] – um welche Tierart handelt es sich bei Algernon?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Videospiel-Items",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Fallout[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Last of Us[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Monkey Island[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Minecraft[/i]"
+    }
+   ],
+   "clue": "Eine sehr blockige Rose.",
+   "id": "108587",
+   "isEasy": false,
+   "question": "In welcher Videospielreihe kommt eine Blume namens „Wither-Rose“ vor?",
+   "theme": ""
+  },
+  {
+   "category": "Gaming Memes",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Nella Nelke"
+    },
+    {
+     "correct": false,
+     "text": "Roswitha Rose"
+    },
+    {
+     "correct": false,
+     "text": "Naja Narzisse"
+    },
+    {
+     "correct": false,
+     "text": "Paule Petunie"
+    }
+   ],
+   "clue": "Sie ist orange-gelb.",
+   "id": "108588",
+   "isEasy": false,
+   "question": "Die [i]Cuphead[/i]-Blume, die in dem Meme schreit, heißt...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Royale Sehenswürdigkeiten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Queen Buckingham"
+    },
+    {
+     "correct": false,
+     "text": "Der Buckingham Bridge"
+    },
+    {
+     "correct": false,
+     "text": "Dem Lake Buckingham"
+    },
+    {
+     "correct": true,
+     "text": "Dem Duke of Buckingham"
+    }
+   ],
+   "clue": "Benannt nach einer Person.",
+   "id": "108615",
+   "isEasy": false,
+   "question": "Buckingham Palace wurde benannt nach...",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Fantasy-Inspiration",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Belle"
+    },
+    {
+     "correct": false,
+     "text": "Ariel"
+    },
+    {
+     "correct": false,
+     "text": "Rapunzel"
+    },
+    {
+     "correct": true,
+     "text": "Aurora"
+    }
+   ],
+   "clue": "Auch bekannt als Dornröschen",
+   "id": "108710",
+   "isEasy": false,
+   "question": "Das imposante Schloss Neuschwanstein war die Inspiration für das Schloss welcher Disney-Prinzessin?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Burgarchitektur",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Schlafzimmer"
+    },
+    {
+     "correct": false,
+     "text": "Waffenkammer"
+    },
+    {
+     "correct": false,
+     "text": "Küche"
+    },
+    {
+     "correct": true,
+     "text": "Toilette"
+    }
+   ],
+   "clue": "Der schreckliche Geruch hält jeden von diesem „Erker“ fern",
+   "id": "108717",
+   "isEasy": false,
+   "question": "Was versteht man unter einem „Aborterker“ in einer mittelalterlichen Burg?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Sprachunterricht",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Château"
+    },
+    {
+     "correct": false,
+     "text": "Castello"
+    },
+    {
+     "correct": true,
+     "text": "Castaño"
+    },
+    {
+     "correct": false,
+     "text": "Borg"
+    }
+   ],
+   "clue": "„Borg“ ist das norwegische Wort für Burg, und „castello“ ist das italienische Wort dafür",
+   "id": "108719",
+   "isEasy": false,
+   "question": "Welches dieser Wörter bedeutet NICHT „Burg“ auf Deutsch?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Historische Aufstände",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Heinrich IV."
+    },
+    {
+     "correct": false,
+     "text": "Karl X."
+    },
+    {
+     "correct": false,
+     "text": "Franz II."
+    },
+    {
+     "correct": true,
+     "text": "Ludwig XVI."
+    }
+   ],
+   "clue": "Aller guten Dinge sind 16",
+   "id": "108722",
+   "isEasy": false,
+   "question": "Welcher Monarch wurde durch die Französische Revolution gezwungen, aus dem Schloss Versailles nach Paris zu fliehen?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Burgarchitektur",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Hütte"
+    },
+    {
+     "correct": false,
+     "text": "Wehrgang"
+    },
+    {
+     "correct": true,
+     "text": "Bergfried"
+    },
+    {
+     "correct": false,
+     "text": "Maschikulis"
+    }
+   ],
+   "clue": "Kein Tipp! Wir haben unseren Frieden gefunden, finde du auch deinen",
+   "id": "108732",
+   "isEasy": false,
+   "question": "Das am stärksten befestigte – oder wehrhafteste – Bauwerk innerhalb einer Burg nennt man...",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "RPG-Orte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Schloss Tiefwasser"
+    },
+    {
+     "correct": false,
+     "text": "Schloss Steilberg"
+    },
+    {
+     "correct": false,
+     "text": "Schloss Niedertal"
+    },
+    {
+     "correct": false,
+     "text": "Schloss Winterkalt"
+    }
+   ],
+   "clue": "Wir lieben es, tiefgründige Fragen zu stellen",
+   "id": "108733",
+   "isEasy": false,
+   "question": "Welcher dieser Orte ist ein berühmter Schauplatz in der Lore von [i]Dungeons & Dragons[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Deadly Creatures",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Schlange"
+    },
+    {
+     "correct": false,
+     "text": "Spinne"
+    },
+    {
+     "correct": false,
+     "text": "Skorpion"
+    },
+    {
+     "correct": false,
+     "text": "Fisch"
+    }
+   ],
+   "clue": "Ernährt sich hauptsächlich von Schlangen",
+   "id": "108735",
+   "isEasy": false,
+   "question": "Was für ein Tier ist der giftige Indische Krait?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Juckreiz",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Semaglutid"
+    },
+    {
+     "correct": true,
+     "text": "Urushiol"
+    },
+    {
+     "correct": false,
+     "text": "Kreosot"
+    },
+    {
+     "correct": false,
+     "text": "Drachenblut"
+    }
+   ],
+   "clue": "Die richtige Antwort hat vier Silben",
+   "id": "108741",
+   "isEasy": false,
+   "question": "Medizincheck: Was steckt in Giftefeu und Giftsumach, das Juckreiz verursacht?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Giftige Frösche",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Goldener Blattsteiger"
+    },
+    {
+     "correct": false,
+     "text": "Erdbeerfröschchen"
+    },
+    {
+     "correct": false,
+     "text": "Dreistreifen-Baumsteiger"
+    },
+    {
+     "correct": false,
+     "text": "Goldbaumsteiger"
+    }
+   ],
+   "clue": "Der erste Platz erhält die Goldmedaille",
+   "id": "108742",
+   "isEasy": false,
+   "question": "Amphibien-Check: Wählt den giftigsten Frosch aus",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Taschenmonster",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Arkani"
+    },
+    {
+     "correct": true,
+     "text": "Smogon"
+    },
+    {
+     "correct": false,
+     "text": "Zapdos"
+    },
+    {
+     "correct": false,
+     "text": "Gierspenst"
+    }
+   ],
+   "clue": "Smog ist auch Gift",
+   "id": "108745",
+   "isEasy": false,
+   "question": "Welches der folgenden Pokémon ist ein Gift-Pokémon?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tödliche Geschichte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Arsen"
+    },
+    {
+     "correct": false,
+     "text": "Strychnin"
+    },
+    {
+     "correct": false,
+     "text": "Cyanid"
+    },
+    {
+     "correct": true,
+     "text": "Schierling"
+    }
+   ],
+   "clue": "Es gibt schier unendlich viele Antwortmöglichkeiten!",
+   "id": "108746",
+   "isEasy": false,
+   "question": "Welches Gift hat Sokrates getrunken, nachdem er zum Tode verurteilt worden war?",
+   "theme": "DESERT",
+   "x": true
+  },
+  {
+   "category": "Alltagsgifte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Arsen"
+    },
+    {
+     "correct": false,
+     "text": "Strychnin"
+    },
+    {
+     "correct": true,
+     "text": "Cyanid"
+    },
+    {
+     "correct": false,
+     "text": "Schierling"
+    }
+   ],
+   "clue": "Blausäure in MEINEM Apfel??!",
+   "id": "108747",
+   "isEasy": false,
+   "question": "Welches Gift ist in Apfelkernen enthalten?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Toxische Züge",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nervenenden"
+    },
+    {
+     "correct": false,
+     "text": "Nieren"
+    },
+    {
+     "correct": false,
+     "text": "Rote Blutkörperchen"
+    },
+    {
+     "correct": true,
+     "text": "Leber"
+    }
+   ],
+   "clue": "Hepar ist lateinisch für „Leber“",
+   "id": "108748",
+   "isEasy": false,
+   "question": "Achtung, Heiler! Was wird durch ein „Hepatototoxin“ besonders geschädigt?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Cartoon-Verbrechen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Nightmare Before Christmas[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Schneewittchen und die sieben Zwerge[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Coco – Lebendiger als das Leben![/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Cinderella[/i]"
+    }
+   ],
+   "clue": "Die gute Fee würde das niemals zulassen",
+   "id": "108749",
+   "isEasy": false,
+   "question": "In welchem dieser familienfreundlichen Disney-Filme wird niemand vergiftet?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Entfernte Monster",
+   "choices": [
+    {
+     "correct": true,
+     "text": "zu stillen"
+    },
+    {
+     "correct": false,
+     "text": "zu jonglieren"
+    },
+    {
+     "correct": false,
+     "text": "ihr Haus zu reparieren"
+    },
+    {
+     "correct": false,
+     "text": "sich zu entschuldigen"
+    }
+   ],
+   "clue": "Werde ernährt",
+   "id": "108779",
+   "isEasy": false,
+   "question": "Das vietnamesische Monster Ma Vú Dài ist dafür bekannt, dass es seine Opfer dazu zwingt,...",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Berühmte Handpuppen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Bob"
+    },
+    {
+     "correct": false,
+     "text": "Mel"
+    },
+    {
+     "correct": true,
+     "text": "Sid"
+    },
+    {
+     "correct": false,
+     "text": "Max"
+    }
+   ],
+   "clue": "Und Kekse hat er immer MIT!",
+   "id": "108781",
+   "isEasy": false,
+   "question": "Der echte Name des Krümelmonsters aus der [i]Sesamstraße[/i] lautet...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Gewürzproduktion",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vanille"
+    },
+    {
+     "correct": false,
+     "text": "Muskat"
+    },
+    {
+     "correct": false,
+     "text": "Kurkuma"
+    },
+    {
+     "correct": true,
+     "text": "Safran"
+    }
+   ],
+   "clue": "Und alles von Hand geerntet! Das rötliche Gewürz kostet bis zu 20.000 Euro pro Kilogramm!",
+   "id": "108801",
+   "isEasy": false,
+   "question": "Welches teure Gewürz benötigt bis zu 200.000 Blüten, um nur ein Kilo Endprodukt herzustellen?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Videospiel-Taxonomie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sonic"
+    },
+    {
+     "correct": true,
+     "text": "Knuckles"
+    },
+    {
+     "correct": false,
+     "text": "Shadow"
+    },
+    {
+     "correct": false,
+     "text": "Amy Rose"
+    }
+   ],
+   "clue": "Das rote Tier ist ein Echidna",
+   "id": "108923",
+   "isEasy": false,
+   "question": "Welcher dieser Charaktere ist KEIN Igel?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Theater-Spuk",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Hamlet[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Macbeth[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Julius Caesar[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Der Sturm[/i]"
+    }
+   ],
+   "clue": "In [i]Macbeth[/i] kommt ein stummer Geist vor",
+   "id": "108927",
+   "isEasy": false,
+   "question": "In welchem dieser Shakespeare-Stücke kommt ein nicht sprechender Geist vor?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Videospiel-Titel",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die Protagonisten"
+    },
+    {
+     "correct": false,
+     "text": "Die Antagonisten"
+    },
+    {
+     "correct": false,
+     "text": "Nebenfiguren"
+    },
+    {
+     "correct": false,
+     "text": "Verschwundene Atomwaffen"
+    }
+   ],
+   "clue": "Sie sind Profis",
+   "id": "108928",
+   "isEasy": false,
+   "question": "Im Spiel [i]Call of Duty: Ghosts[/i] sind die titelgebenden „Ghosts“...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Echte Bestien",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Löwen"
+    },
+    {
+     "correct": false,
+     "text": "Löwinnen"
+    },
+    {
+     "correct": false,
+     "text": "Tiger"
+    },
+    {
+     "correct": false,
+     "text": "Tigerinnen"
+    }
+   ],
+   "clue": "Für viele Jahre waren sie Experten in der Auffress-DoMÄHNE",
+   "id": "108929",
+   "isEasy": false,
+   "question": "[i]Der Geist und die Dunkelheit [/i] erzählt die wahre Geschichte der „Menschenfresser von Tsavo“, zwei Killer...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Kino-Monster",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Jason Voorhees, Chucky, Freddy Krueger"
+    },
+    {
+     "correct": false,
+     "text": "Freddy Krueger, Jason Voorhees, Chucky"
+    },
+    {
+     "correct": false,
+     "text": "Chucky, Freddy Krueger, Jason Voorhees"
+    },
+    {
+     "correct": true,
+     "text": "Jason Voorhees, Freddy Krueger, Chucky"
+    }
+   ],
+   "clue": "Zu gruselig vier mich",
+   "id": "108941",
+   "isEasy": false,
+   "question": "Basierend auf ihrem ersten Auftritt, wie lautet die richtige Reihenfolge dieser Filmmonster: Chucky, Jason Voorhees, Freddy Krueger?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Filmgeister",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Obi-Wan Kenobi"
+    },
+    {
+     "correct": true,
+     "text": "Imperator Palpatine"
+    },
+    {
+     "correct": false,
+     "text": "Anakin Skywalker"
+    },
+    {
+     "correct": false,
+     "text": "Yoda"
+    }
+   ],
+   "clue": "Einer war wohl zu sehr mit Bösewichts-Kram beschäftigt",
+   "id": "108954",
+   "isEasy": true,
+   "question": "Wen haben wir am Ende von [i]Die Rückkehr der Jedi-Ritter[/i] NICHT als Macht-Geist gesehen?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Anime",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ein Klon"
+    },
+    {
+     "correct": false,
+     "text": "Ein Roboter"
+    },
+    {
+     "correct": true,
+     "text": "Ein Cyborg"
+    },
+    {
+     "correct": false,
+     "text": "Nichts davon"
+    }
+   ],
+   "clue": "Sie verlor den Großteil ihres Körpers bei einem Unfall in ihrer Kindheit",
+   "id": "108960",
+   "isEasy": false,
+   "question": "Major Motoko Kusanagi im Manga/Anime [i]Ghost in the Shell[/i] ist...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Tödliche Legenden",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Um den Tod anzukündigen"
+    },
+    {
+     "correct": false,
+     "text": "Um den Tod abzuwehren"
+    },
+    {
+     "correct": false,
+     "text": "Um den Tod zu betrauern"
+    },
+    {
+     "correct": false,
+     "text": "Um dich zu töten"
+    }
+   ],
+   "clue": "Spoiler!",
+   "id": "108961",
+   "isEasy": false,
+   "question": "Warum schreien Banshees laut irischer Mythologie?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Tote Feiertage",
+   "choices": [
+    {
+     "correct": false,
+     "text": "31. Oktober"
+    },
+    {
+     "correct": false,
+     "text": "1. November"
+    },
+    {
+     "correct": true,
+     "text": "2. November"
+    },
+    {
+     "correct": false,
+     "text": "15. November"
+    }
+   ],
+   "clue": "Na dann, Hallezwoja!",
+   "id": "108981",
+   "isEasy": false,
+   "question": "Der Tag der Toten dauert eigentlich mehrere Tage. Wann wird „Allerseelen“ gefeiert?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Albumcover",
+   "choices": [
+    {
+     "correct": false,
+     "text": "John ist hinter Ringo"
+    },
+    {
+     "correct": true,
+     "text": "Ringo ist vor George"
+    },
+    {
+     "correct": false,
+     "text": "George ist vor Paul"
+    },
+    {
+     "correct": false,
+     "text": "Sie haben alle den linken Fuß vorne"
+    }
+   ],
+   "clue": "Ich glaube an die Ringo-Vorherrschaft, und du?",
+   "id": "109326",
+   "isEasy": false,
+   "question": "Welche dieser Aussagen über das ikonische Beatles-Albumcover von [i]Abbey Road[/i] ist richtig?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Klassische Phantastik",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kirschtorte mit der Aufschrift „Iss mich“"
+    },
+    {
+     "correct": false,
+     "text": "Glasflasche mit der Aufschrift „Trink mich“"
+    },
+    {
+     "correct": true,
+     "text": "Kleiner Kuchen mit der Aufschrift „Iss mich“"
+    },
+    {
+     "correct": false,
+     "text": "Tabletten mit der Aufschrift „Nicht anfassen“"
+    }
+   ],
+   "clue": "Da hat sie sich ein Stück vom Kuchen abgeschnitten...",
+   "id": "109339",
+   "isEasy": false,
+   "question": "Was lässt Alice in [i]Alice im Wunderland[/i] wachsen?",
+   "theme": "DESERT",
+   "x": true
+  },
+  {
+   "category": "Giftige Reptilien",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kobra"
+    },
+    {
+     "correct": false,
+     "text": "Königsnatter"
+    },
+    {
+     "correct": false,
+     "text": "Python"
+    },
+    {
+     "correct": true,
+     "text": "Klapperschlange"
+    }
+   ],
+   "clue": "Man kann sie kommen hören",
+   "id": "109342",
+   "isEasy": false,
+   "question": "Zoologie-Check: Ein Seitenwinder ist eine Art von...",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Filmzitate-Memes",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Grün"
+    },
+    {
+     "correct": true,
+     "text": "Pink"
+    },
+    {
+     "correct": false,
+     "text": "Schwarz"
+    },
+    {
+     "correct": false,
+     "text": "Hellblau"
+    }
+   ],
+   "clue": "Das Gift. Das Gift für Kuzco, das Gift das ausgesucht wurde, um Kuzco zu töten. Kuzcos Gift-Trunk. Das Gift... ist pink.",
+   "id": "109344",
+   "isEasy": false,
+   "question": "In [i]Ein Königreich für ein Lama[/i], welche Farbe hat das Gift? Das Gift für Kuzco, das Gift, das ausgesucht wurde, um Kuzco zu töten. Kuzcos Gift-Trunk.",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Energie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "den ersten Hauptsatz der Thermodynamik"
+    },
+    {
+     "correct": true,
+     "text": "den zweiten Hauptsatz der Thermodynamik"
+    },
+    {
+     "correct": false,
+     "text": "den dritten Hauptsatz der Thermodynamik"
+    },
+    {
+     "correct": false,
+     "text": "die Relativitätstheorie"
+    }
+   ],
+   "clue": "Nimm dir gerne zwei Momente Zeit und denke nach",
+   "id": "109368",
+   "isEasy": false,
+   "question": "Die Unfähigkeit, Energie mit 100% Wirkungsgrad umzuwandeln, ist ein Beispiel für...",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tipps für den Kessel",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Alkohol"
+    },
+    {
+     "correct": false,
+     "text": "Quecksilber"
+    },
+    {
+     "correct": false,
+     "text": "Olivenöl"
+    },
+    {
+     "correct": false,
+     "text": "Salzwasser"
+    }
+   ],
+   "clue": "Es wird auch Ethanol genannt",
+   "id": "109369",
+   "isEasy": false,
+   "question": "Welche Flüssigkeit hat einen NIEDRIGEREN Siedepunkt als Wasser?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Stadtwetter",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Tokyo"
+    },
+    {
+     "correct": false,
+     "text": "Shanghai"
+    },
+    {
+     "correct": true,
+     "text": "Bangkok"
+    },
+    {
+     "correct": false,
+     "text": "Istanbul"
+    }
+   ],
+   "clue": "Bei der Hitze wird einem ja Angst und Bang!",
+   "id": "109370",
+   "isEasy": false,
+   "question": "Welche dieser Städte ist, gemessen an der Durchschnittstemperatur, die heißeste?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Heißes Zeug",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vulkanausbruch"
+    },
+    {
+     "correct": false,
+     "text": "Schrotflinten-Schuss"
+    },
+    {
+     "correct": true,
+     "text": "Blitz"
+    },
+    {
+     "correct": false,
+     "text": "Alles davon"
+    }
+   ],
+   "clue": "Diese Frage ist nur etwas für Blitzmerker",
+   "id": "109392",
+   "isEasy": false,
+   "question": "Was kann heißer als die Oberfläche der Sonne sein?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Keuschheitswettbewerbe",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Love Island[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Adam sucht Eva[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Fboy Island[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Too Hot to Handle[/i]"
+    }
+   ],
+   "clue": "Die Antwort hat nichts mit Inseln zutun",
+   "id": "109396",
+   "isEasy": false,
+   "question": "Welche dieser Reality-TV-Shows bietet einen Geldpreis für sexuelle Enthaltsamkeit?",
+   "theme": "DESERT",
+   "x": true
+  },
+  {
+   "category": "Spielregeln",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Neutral Böse"
+    },
+    {
+     "correct": false,
+     "text": "Chaotisch Neutral"
+    },
+    {
+     "correct": true,
+     "text": "Rechtschaffen Böse"
+    },
+    {
+     "correct": false,
+     "text": "Wahrhaftig Neutral"
+    }
+   ],
+   "clue": "Sie werden sich an die Regeln halten... und dich töten.",
+   "id": "109400",
+   "isEasy": false,
+   "question": "Was sind Skelette laut dem [i]Dungeons & Dragons[/i] Monsterhandbuch?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Internationaler Konflikt",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Nord- & Südkorea"
+    },
+    {
+     "correct": false,
+     "text": "Ost- & Westdeutschland"
+    },
+    {
+     "correct": false,
+     "text": "Ost- & Westjugoslawien"
+    },
+    {
+     "correct": false,
+     "text": "Nord- & Süddakota"
+    }
+   ],
+   "clue": "Auch heute noch sind sich diese Länder spinnefeind",
+   "id": "109564",
+   "isEasy": false,
+   "question": "Wer hätte 1976 beinahe wegen des Zurückschneidens eines Baumes einen Krieg begonnen?",
+   "theme": "CASTLE"
+  }
+ ]
+}

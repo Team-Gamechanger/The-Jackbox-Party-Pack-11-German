@@ -1,0 +1,3097 @@
+{
+ "content": [
+  
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Armadillos",
+      "Armadillo",
+      "Gürteltiere"
+     ],
+     "answer": "Gürteltier"
+    },
+    {
+     "altSpellings": [
+      "Camels",
+      "Camel",
+      "Kamele"
+     ],
+     "answer": "Kamel"
+    },
+    {
+     "altSpellings": [
+      "Cats",
+      "Cat",
+      "Katzen",
+      "Kater"
+     ],
+     "answer": "Katze"
+    },
+    {
+     "altSpellings": [
+      "Donkeys",
+      "Donkey"
+     ],
+     "answer": "Esel"
+    },
+    {
+     "altSpellings": [
+      "Horses",
+      "Horse",
+      "Pferde"
+     ],
+     "answer": "Pferd"
+    },
+    {
+     "altSpellings": [
+      "Llamas",
+      "Llama",
+      "Lamas"
+     ],
+     "answer": "Lama"
+    },
+    {
+     "altSpellings": [
+      "Mules",
+      "Mule",
+      "Muli",
+      "Maultiere"
+     ],
+     "answer": "Maultier"
+    },
+    {
+     "altSpellings": [
+      "Parrots",
+      "Parrot",
+      "Papageien"
+     ],
+     "answer": "Papagei"
+    },
+    {
+     "altSpellings": [
+      "Wolves",
+      "Wölfe"
+     ],
+     "answer": "Wolf"
+    }
+   ],
+   "category": "Digitale Kameraden",
+   "id": "109997",
+   "question": "Tiere, die man in [i]Minecraft[/i] zähmen kann"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+        "Hydrogen"
+     ],
+     "answer": "Wasserstoff"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Helium"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Lithium"
+    },
+    {
+     "altSpellings": [
+      "Berylium"
+     ],
+     "answer": "Beryllium"
+    },
+    {
+     "altSpellings": [
+        "Boron"
+     ],
+     "answer": "Bor"
+    },
+    {
+     "altSpellings": [
+        "Carbon"
+     ],
+     "answer": "Kohlenstoff"
+    },
+    {
+     "altSpellings": [
+        "Nitrogen"
+     ],
+     "answer": "Stickstoff"
+    },
+    {
+     "altSpellings": [
+        "Oxygen"
+     ],
+     "answer": "Sauerstoff"
+    },
+    {
+     "altSpellings": [
+      "Fluoride",
+      "Fluorine",
+      "Fluorid"
+     ],
+     "answer": "Fluor"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Neon"
+    }
+   ],
+   "category": "WISSENSCHAFT",
+   "id": "109998",
+   "question": "Die ersten zehn Elemente des Periodensystems"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Toad"
+    },
+    {
+     "altSpellings": [
+      "King Koopa"
+     ],
+     "answer": "Bowser"
+    },
+    {
+     "altSpellings": [
+      "Donkey Kong",
+      "Donkey Kong Junior",
+      "D.K."
+     ],
+     "answer": "Donkey Kong Jr."
+    },
+    {
+     "altSpellings": [
+      "Koopa Troopa"
+     ],
+     "answer": "Koopa"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Luigi"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Mario"
+    },
+    {
+     "altSpellings": [
+      "Peach",
+      "Princess",
+      "Princess Toadstool",
+      "Princess Peach",
+      "Prinzessin",
+      "Prinzessin Toadstool"
+     ],
+     "answer": "Prinzessin Peach"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Yoshi"
+    }
+   ],
+   "category": "Schnelle Spiele",
+   "id": "111306",
+   "question": "Fahrer im ersten [i]Mario Kart[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mouse",
+      "Rat",
+      "Maus"
+     ],
+     "answer": "Ratte"
+    },
+    {
+     "altSpellings": [
+        "Ox",
+        "Ochs",
+        "Ochse"
+     ],
+     "answer": "Büffel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tiger"
+    },
+    {
+     "altSpellings": [
+        "Rabbit",
+        "Kaninchen"
+     ],
+     "answer": "Hase"
+    },
+    {
+     "altSpellings": [
+        "Dragon"
+     ],
+     "answer": "Drache"
+    },
+    {
+     "altSpellings": [
+        "Snake"
+     ],
+     "answer": "Schlange"
+    },
+    {
+     "altSpellings": [
+        "Horse"
+     ],
+     "answer": "Pferd"
+    },
+    {
+     "altSpellings": [
+      "Sheep",
+      "Ram",
+      "Goat",
+      "Ziege",
+      "Ziegenbock",
+      "Schafsbock"
+     ],
+     "answer": "Schaf"
+    },
+    {
+     "altSpellings": [
+        "Monkey"
+     ],
+     "answer": "Affe"
+    },
+    {
+     "altSpellings": [
+      "Chicken",
+      "Rooster",
+      "Huhn",
+      "Hühnchen"
+     ],
+     "answer": "Hahn"
+    },
+    {
+     "altSpellings": [
+        "Dog"
+     ],
+     "answer": "Hund"
+    },
+    {
+     "altSpellings": [
+        "Pig"
+     ],
+     "answer": "Schwein"
+    }
+   ],
+   "category": "Zodiac",
+   "id": "111394",
+   "question": "Tiere des chinesischen Tierkreises"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Phantom Menace",
+      "The Phantom Menace",
+      "Dunkle Bedrohung"
+     ],
+     "answer": "Die dunkle Bedrohung"
+    },
+    {
+     "altSpellings": [
+      "The Attack of the Clones",
+      "Attack of the Clones",
+      "Der Angriff der Klonkrieger"
+     ],
+     "answer": "Angriff der Klonkrieger"
+    },
+    {
+     "altSpellings": [
+      "The Revenge of the Sith",
+      "Revenge of the Sith",
+      "Rache der Sith"
+     ],
+     "answer": "Die Rache der Sith"
+    },
+    {
+     "altSpellings": [
+      "New Hope",
+      "A New Hope",
+      "Neue Hoffnung",
+      "Die neue Hoffnung"
+     ],
+     "answer": "Eine neue Hoffnung"
+    },
+    {
+     "altSpellings": [
+      "Empire Strikes Back",
+      "The Empire Strikes Back",
+      "Imperium schlägt zurück"
+     ],
+     "answer": "Das Imperium schlägt zurück"
+    },
+    {
+     "altSpellings": [
+      "The Return of the Jedi",
+      "Return of the Jedi",
+      "Rückkehr der Jedi-Ritter",
+      "Rückkehr der Jedi",
+      "Die Rückkehr der Jedi"
+     ],
+     "answer": "Die Rückkehr der Jedi-Ritter"
+    },
+    {
+     "altSpellings": [
+      "Force Awakens",
+      "The Force Awakens",
+      "Erwachen der Macht"
+     ],
+     "answer": "Das Erwachen der Macht"
+    },
+    {
+     "altSpellings": [
+      "Last Jedi",
+      "The Last Jedi",
+      "Letzte Jedi"
+     ],
+     "answer": "Die letzten Jedi"
+    },
+    {
+     "altSpellings": [
+      "Rise of Skywalker",
+      "The Rise of Skywalker",
+      "Aufstieg Skywalkers"
+     ],
+     "answer": "Der Aufstieg Skywalkers"
+    }
+   ],
+   "category": "Sci-Fi Franchise",
+   "id": "112116",
+   "question": "Die 9 Untertitel der Episoden I-IX der [i]Star Wars[/i]-Filme"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+        "France",
+        "Franzosen"
+     ],
+     "answer": "Frankreich"
+    },
+    {
+     "altSpellings": [
+        "Germany",
+        "Deutsche"
+     ],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [
+      "Luxamburg",
+      "Luxembourg",
+      "Luxemborg",
+      "Luxambourg",
+      "Luxenburg",
+      "Luxemburger"
+     ],
+     "answer": "Luxemburg"
+    },
+    {
+     "altSpellings": [
+        "Iceland",
+        "Isländer"
+     ],
+     "answer": "Island"
+    },
+    {
+     "altSpellings": [
+      "Greek",
+      "Greece",
+      "Griechen"
+     ],
+     "answer": "Griechenland"
+    },
+    {
+     "altSpellings": [
+        "Finland",
+        "Finnen"
+     ],
+     "answer": "Finnland"
+    },
+    {
+     "altSpellings": [
+        "Italy",
+        "Italiener"
+     ],
+     "answer": "Italien"
+    },
+    {
+     "altSpellings": [
+        "Switzerland",
+        "Schweitz",
+        "Schweizer"
+     ],
+     "answer": "Schweiz"
+    },
+    {
+     "altSpellings": [
+      "Czechia",
+      "Czech Republic",
+      "Tschechen",
+      "Tschechische Republik"
+     ],
+     "answer": "Tschechien"
+    },
+    {
+     "altSpellings": [
+        "Estonia",
+        "Republik Estland"
+     ],
+     "answer": "Estland"
+    },
+    {
+     "altSpellings": [
+      "The Netherlands",
+      "Holland",
+      "Netherlands",
+      "Die Niederlande",
+      "Niederländer"
+     ],
+     "answer": "Niederlande"
+    }
+   ],
+   "category": "Internationale Cuisine",
+   "id": "112119",
+   "question": "Länder mit dem höchsten Pro-Kopf-Verbrauch an Käse"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "FB"
+     ],
+     "answer": "Facebook"
+    },
+    {
+     "altSpellings": [
+      "You Tube"
+     ],
+     "answer": "YouTube"
+    },
+    {
+     "altSpellings": [
+      "Whats App"
+     ],
+     "answer": "WhatsApp"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Instagram"
+    },
+    {
+     "altSpellings": [
+      "Tik Tok"
+     ],
+     "answer": "TikTok"
+    },
+    {
+     "altSpellings": [
+      "We chat"
+     ],
+     "answer": "WeChat"
+    },
+    {
+     "altSpellings": [
+      "Linked In",
+      "Linkdin"
+     ],
+     "answer": "LinkedIn"
+    }
+   ],
+   "category": "Soziales",
+   "id": "112263",
+   "question": "Social-Media-Seiten mit 1 Milliarde aktiven Nutzern (Stand 2025)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fool",
+      "Folly",
+      "The Crocodile",
+      "The Fool",
+      "Narr"
+     ],
+     "answer": "Der Narr"
+    },
+    {
+     "altSpellings": [
+      "Magician",
+      "The Juggler",
+      "The Mountebank",
+      "The Magus",
+      "The Magician",
+      "Magier"
+     ],
+     "answer": "Der Magier"
+    },
+    {
+     "altSpellings": [
+      "Priestess",
+      "High Priestess",
+      "The Priestess",
+      "The Popess",
+      "Hohepriesterin",
+      "Die hohe Priesterin",
+      "Hohe Priesterin"
+     ],
+     "answer": "Die Hohepriesterin"
+    },
+    {
+     "altSpellings": [
+      "Empress",
+      "The Empress",
+      "Herrscherin"
+     ],
+     "answer": "Die Herrscherin"
+    },
+    {
+     "altSpellings": [
+      "Emperor",
+      "The Emperor",
+      "Herrscher"
+     ],
+     "answer": "Der Herrscher"
+    },
+    {
+     "altSpellings": [
+      "Hierophant",
+      "The Pope",
+      "The Hierophant",
+      "Hierophant"
+     ],
+     "answer": "Der Hierophant"
+    },
+    {
+     "altSpellings": [
+      "Lovers",
+      "Marriage",
+      "The Two Roads",
+      "The Lovers",
+      "Liebenden",
+      "Liebhaber",
+      "Die Liebhaber"
+     ],
+     "answer": "Die Liebenden"
+    },
+    {
+     "altSpellings": [
+      "Chariot",
+      "The Chariot of Osiris",
+      "Osiris Triumphant",
+      "The Chariot",
+      "Wagen",
+      "Die Kutsche",
+      "Kutsche"
+     ],
+     "answer": "Der Wagen"
+    },
+    {
+     "altSpellings": [
+      "Fortitude",
+      "Strength",
+      "Kraft"
+     ],
+     "answer": "Die Kraft"
+    },
+    {
+     "altSpellings": [
+      "Hermit",
+      "The Sage",
+      "The Wise Man",
+      "The Veiled Lamp",
+      "The Hermit",
+      "Eremit"
+     ],
+     "answer": "Der Eremit"
+    },
+    {
+     "altSpellings": [
+      "The Wheel of Fortune",
+      "The Sphinx",
+      "Wheel of Fortune",
+      "Rad des Schicksals",
+      "Schicksalsrad",
+      "Das Schicksalsrad"
+     ],
+     "answer": "Das Rad des Schicksals"
+    },
+    {
+     "altSpellings": [
+      "Themis",
+      "Justice",
+      "Gerechtigkeit"
+     ],
+     "answer": "Die Gerechtigkeit"
+    },
+    {
+     "altSpellings": [
+      "Hanged Man",
+      "Prudence",
+      "The People",
+      "The Hanged Man",
+      "Gehängte",
+      "Der gehängte Mann",
+      "Gehängter Mann"
+     ],
+     "answer": "Der Gehängte"
+    },
+    {
+     "altSpellings": [
+      "Grim Reaper",
+      "The Reaper",
+      "The Scythe",
+      "Death",
+      "Tod"
+     ],
+     "answer": "Der Tod"
+    },
+    {
+     "altSpellings": [
+      "Temprance",
+      "Temperance",
+      "Mäßigkeit"
+     ],
+     "answer": "Die Mäßigkeit"
+    },
+    {
+     "altSpellings": [
+      "Lucifer",
+      "Satan",
+      "Typhon",
+      "Devil",
+      "The Devil",
+      "Teufel"
+     ],
+     "answer": "Der Teufel"
+    },
+    {
+     "altSpellings": [
+      "Tower",
+      "The House of God",
+      "The Blasted Tower",
+      "The Beheaded Tower",
+      "The Tower",
+      "Turm"
+     ],
+     "answer": "Der Turm"
+    },
+    {
+     "altSpellings": [
+      "Star",
+      "The Dog Star",
+      "Osiris",
+      "The Star",
+      "Stern",
+      "Sterne"    ],
+     "answer": "Der Stern"
+    },
+    {
+     "altSpellings": [
+      "Moon",
+      "Twilight",
+      "The Twilight",
+      "The Moon",
+      "Mond"
+     ],
+     "answer": "Der Mond"
+    },
+    {
+     "altSpellings": [
+      "Sun",
+      "The Blazing Light",
+      "The Sun",
+      "Sonne"
+     ],
+     "answer": "Die Sonne"
+    },
+    {
+     "altSpellings": [
+      "Judgment",
+      "Judgement",
+      "Gericht"
+     ],
+     "answer": "Das Gericht"
+    },
+    {
+     "altSpellings": [
+      "World",
+      "The Universe",
+      "Universe",
+      "The World",
+      "Welt"
+     ],
+     "answer": "Die Welt"
+    }
+   ],
+   "category": "RELIGION",
+   "id": "112444",
+   "question": "Tarotkarten der Großen Arkana",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Cardiovascular",
+      "Circulatory",
+      "Cardiovascular System",
+      "Herz Kreislauf System",
+      "Herz Kreislauf",
+      "Herz-Kreislauf",
+      "Kreislauf-System",
+      "Kreislauf"
+     ],
+     "answer": "Herz-Kreislauf-System"
+    },
+    {
+     "altSpellings": [
+      "Digestive",
+      "Gastrointestinal",
+      "Digestion",
+      "Digestive System",
+      "Verdauungs System",
+      "Verdauungstrakt",
+      "Magen-Darm-Trakt",
+      "Gastrointestinaltrakt",
+      "Magen Darm Trakt",
+      "Verdauung",
+      "Verdauungsorgane"
+     ],
+     "answer": "Verdauungssystem"
+    },
+    {
+     "altSpellings": [
+      "Endocrine",
+      "Endocrine System",
+      "Endokrines",
+      "Hormonsystem",
+      "Hormone",
+      "Hormon"
+     ],
+     "answer": "Endokrines System"
+    },
+    {
+     "altSpellings": [
+      "Immune",
+      "Lymphatic",
+      "Lymphatic System",
+      "Immune System",
+      "Immun System",
+      "Immun-System",
+      "Lymphatisches System",
+      "Lymphatisch",
+      "Lymph"
+     ],
+     "answer": "Immunsystem"
+    },
+    {
+     "altSpellings": [
+      "Muscular",
+      "Muscular System",
+      "Bewegungsapparat",
+      "Bewegungsorgane",
+      "Bewegungssystem",
+      "Muskuloskelettal"
+     ],
+     "answer": "Muskuloskelettales System"
+    },
+    {
+     "altSpellings": [
+      "Nervous",
+      "Nerves",
+      "Nervous System",
+      "Nerven"
+     ],
+     "answer": "Nervensystem"
+    },
+    {
+     "altSpellings": [
+      "Integumentary",
+      "Skin",
+      "Dermis",
+      "Integumentary System",
+      "Integument"
+     ],
+     "answer": "Haut"
+    },
+    {
+     "altSpellings": [
+      "Reproductive",
+      "Reproduction",
+      "Reproductive System",
+      "Fortpflanzung",
+      "Fortpflanzungsorgane"
+     ],
+     "answer": "Fortpflanzungssystem"
+    },
+    {
+     "altSpellings": [
+      "Respiratory",
+      "Respiration",
+      "Respiratory System",
+      "Atmung",
+      "Atmungsorgane"
+     ],
+     "answer": "Atmungssystem"
+    },
+    {
+     "altSpellings": [
+      "Urinary",
+      "Waste",
+      "Urinary System",
+      "Harn"
+     ],
+     "answer": "Harnsystem"
+    }
+   ],
+   "category": "MENSCHLICHER KÖRPER",
+   "id": "112445",
+   "question": "Systeme des menschlichen Körpers"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Wider",
+      "Ram",
+      "Rams"
+     ],
+     "answer": "Widder"
+    },
+    {
+     "altSpellings": [
+      "Bulls",
+      "Bull",
+      "Stiere"
+     ],
+     "answer": "Stier"
+    },
+    {
+     "altSpellings": [
+      "Twin",
+      "Twins",
+      "Zwilling"
+     ],
+     "answer": "Zwillinge"
+    },
+    {
+     "altSpellings": [
+      "Crabs",
+      "Crab",
+      "Krebse"
+     ],
+     "answer": "Krebs"
+    },
+    {
+     "altSpellings": [
+      "Lions",
+      "Lion",
+      "Löwen"
+     ],
+     "answer": "Löwe"
+    },
+    {
+     "altSpellings": [
+      "Virgin",
+      "Maiden",
+      "Jungfrauen"
+     ],
+     "answer": "Jungfrau"
+    },
+    {
+     "altSpellings": [
+      "Balance",
+      "Scale",
+      "Scales",
+      "Waage"
+     ],
+     "answer": "Waage"
+    },
+    {
+     "altSpellings": [
+      "Scorpions",
+      "Scorpion",
+      "Skorpione"
+     ],
+     "answer": "Skorpion"
+    },
+    {
+     "altSpellings": [
+      "Arrow",
+      "Bow and arrow",
+      "Bow & Arrow",
+      "Archer",
+      "Bogen",
+      "Pfeil und Bogen",
+      "Pfeil & Bogen"
+     ],
+     "answer": "Schütze"
+    },
+    {
+     "altSpellings": [
+      "Goats",
+      "Goat",
+      "Steinböcke"
+     ],
+     "answer": "Steinbock"
+    },
+    {
+     "altSpellings": [
+      "Water holder",
+      "Water",
+      "Waterbearer",
+      "Water pot",
+      "Jug",
+      "Water Bearer",
+      "Wasser"
+     ],
+     "answer": "Wassermann"
+    },
+    {
+     "altSpellings": [
+      "Fishes",
+      "Two fish",
+      "2 fish",
+      "Fisch"
+     ],
+     "answer": "Fisch"
+    }
+   ],
+   "category": "ASTROLOGIE",
+   "id": "112446",
+   "question": "Westliche Sternzeichen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Snowwhite",
+      "Snow",
+      "Snow White",
+      "Schnee Wittchen"
+     ],
+     "answer": "Schneewittchen"
+    },
+    {
+     "altSpellings": [
+      "Cindarella"
+     ],
+     "answer": "Cinderella"
+    },
+    {
+     "altSpellings": [
+      "Sleeping Beauty",
+      "Dornröschen"
+     ],
+     "answer": "Aurora"
+    },
+    {
+     "altSpellings": [
+        "Ariel"
+     ],
+     "answer": "Arielle"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Belle"
+    },
+    {
+     "altSpellings": [
+        "Jasmine"
+     ],
+     "answer": "Jasmin"
+    },
+    {
+     "altSpellings": [
+      "Pocohontas",
+      "Pocahantas",
+      "Pocahontos",
+      "Pocohontos",
+      "Pocahontiss",
+      "Pocohontiss",
+      "Matoaka"
+     ],
+     "answer": "Pocahontas"
+    },
+    {
+     "altSpellings": [
+        "Fa Mulan"
+     ],
+     "answer": "Mulan"
+    },
+    {
+     "altSpellings": [
+      "Tiyana",
+      "Tianna"
+     ],
+     "answer": "Tiana"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Rapunzel"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Merida"
+    },
+    {
+     "altSpellings": [
+        "Moana"
+     ],
+     "answer": "Vaiana"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Raya"
+    }
+   ],
+   "category": "KINDERMEDIEN",
+   "id": "112447",
+   "question": "Offizielle „Disney Prinzessinnen“"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Prideful",
+      "Vainglory",
+      "Pride",
+      "Stolz",
+      "Eitelkeit",
+      "Übermut"
+     ],
+     "answer": "Hochmut"
+    },
+    {
+     "altSpellings": [
+      "Greedy",
+      "Covetousness",
+      "Greed",
+      "Habgier",
+      "Habsucht"
+     ],
+     "answer": "Geiz"
+    },
+    {
+     "altSpellings": [
+        "Lust",
+        "Ausschweifung",
+        "Genusssucht",
+        "Begehren",
+        "Unkeuschheit"
+     ],
+     "answer": "Wollust"
+    },
+    {
+     "altSpellings": [
+      "Jealously",
+      "Jealous",
+      "Envious",
+      "Envy",
+      "Eifersucht",
+      "Missgunst"
+     ],
+     "answer": "Neid"
+    },
+    {
+     "altSpellings": [
+      "Lazy",
+      "Laziness",
+      "Sloth",
+      "Überdruss",
+      "Trägheit des Herzens",
+      "Trägheit"
+     ],
+     "answer": "Faulheit"
+    },
+    {
+     "altSpellings": [
+      "Anger",
+      "Wraith",
+      "Wrath",
+      "Jähzorn",
+      "Wut",
+      "Rachsucht"
+     ],
+     "answer": "Zorn"
+    },
+    {
+     "altSpellings": [
+        "Gluttony",
+        "Gefräßigkeit",
+        "Maßlosigkeit",
+        "Unmäßigkeit",
+        "Selbstsucht"
+     ],
+     "answer": "Völlerei"
+    }
+   ],
+   "category": "THEOLOGIE",
+   "id": "112448",
+   "question": "Die 7 Todsünden",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "A",
+      "Retinol"
+     ],
+     "answer": "Vitamin A"
+    },
+    {
+     "altSpellings": [
+      "C",
+      "Ascorbinsäure"
+     ],
+     "answer": "Vitamin C"
+    },
+    {
+     "altSpellings": [
+      "D",
+      "Cholecalciferol"
+     ],
+     "answer": "Vitamin D"
+    },
+    {
+     "altSpellings": [
+      "E",
+      "Tocopherol"
+     ],
+     "answer": "Vitamin E"
+    },
+    {
+     "altSpellings": [
+      "K",
+      "Menachinon",
+      "Phyllochinon",
+      "Phyllochinon",
+      "Phyllochinon & Menachinon",
+      "Phyllochinon und Menachinon"
+     ],
+     "answer": "Vitamin K"
+    },
+    {
+     "altSpellings": [
+        "Thiamine",
+        "Vitamin B1",
+        "B1"
+     ],
+     "answer": "Thiamin"
+    },
+    {
+     "altSpellings": [
+        "B2",
+        "Vitamin B2"
+     ],
+     "answer": "Riboflavin"
+    },
+    {
+     "altSpellings": [
+        "Vitamin B3",
+        "B3",
+        "Nicotinsäureamid und Nicotinsäure",
+        "Nicotinsäureamid",
+        "Nicotinsäure",
+        "Nicotinsäureamid & Nicotinsäure"
+     ],
+     "answer": "Niacin"
+    },
+    {
+     "altSpellings": [
+        "Pantothenic Acid",
+        "Vitamin B5",
+        "B5"
+     ],
+     "answer": "Pantothensäure"
+    },
+    {
+     "altSpellings": [
+        "Vitamin B7",
+        "B7"
+     ],
+     "answer": "Biotin"
+    },
+    {
+     "altSpellings": [
+      "B-6",
+      "B6"
+     ],
+     "answer": "Vitamin B6"
+    },
+    {
+     "altSpellings": [
+      "B-12",
+      "B12",
+      "Vitamin B12"
+     ],
+     "answer": "Cobalamin"
+    },
+    {
+     "altSpellings": [
+        "Folate",
+        "Vitamin B9",
+        "B9"
+     ],
+     "answer": "Folsäure"
+    }
+   ],
+   "category": "MENSCHLICHER KÖRPER",
+   "id": "112450",
+   "question": "Die 13 lebensnotwendigen Vitamine"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Germany",
+      "Drittes Reich"
+     ],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [
+      "Italy"
+     ],
+     "answer": "Italien"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japan"
+    },
+    {
+     "altSpellings": [
+      "Hungary"
+     ],
+     "answer": "Ungarn"
+    },
+    {
+     "altSpellings": [
+      "Romania"
+     ],
+     "answer": "Rumänien"
+    },
+    {
+     "altSpellings": [
+      "Bulgaria"
+     ],
+     "answer": "Bulgarien"
+    },
+    {
+     "altSpellings": [
+      "Slovakia",
+      "Slovakei"
+     ],
+     "answer": "Slowakei"
+    },
+    {
+     "altSpellings": [
+      "Croatia"
+     ],
+     "answer": "Kroatien"
+    }
+   ],
+   "category": "WWII HISTORY",
+   "id": "112454",
+   "question": "Achsenmächte während des Zweiten Weltkriegs"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Zues"
+     ],
+     "answer": "Zeus"
+    },
+    {
+     "altSpellings": [
+      "Herra"
+     ],
+     "answer": "Hera"
+    },
+    {
+     "altSpellings": [
+      "Poseiden",
+      "Posidon"
+     ],
+     "answer": "Poseidon"
+    },
+    {
+     "altSpellings": [
+      "Thanos"
+     ],
+     "answer": "Thanatos"
+    },
+    {
+     "altSpellings": [
+      "Athina",
+      "Athena"
+     ],
+     "answer": "Athene"
+    },
+    {
+     "altSpellings": [
+      "Hellios"
+     ],
+     "answer": "Helios"
+    },
+    {
+     "altSpellings": [
+      "Hephastus",
+      "Hephaestus"
+     ],
+     "answer": "Hephaistos"
+    },
+    {
+     "altSpellings": [
+      "Aries"
+     ],
+     "answer": "Ares"
+    },
+    {
+     "altSpellings": [
+      "Persophone",
+      "Kore",
+      "Kora"
+     ],
+     "answer": "Persephone"
+    },
+    {
+     "altSpellings": [
+      "Hermmes"
+     ],
+     "answer": "Hermes"
+    },
+    {
+     "altSpellings": [
+      "Haddes"
+     ],
+     "answer": "Hades"
+    },
+    {
+     "altSpellings": [
+      "Ceryx"
+     ],
+     "answer": "Keryx"
+    },
+    {
+     "altSpellings": [
+      "Cronus",
+      "Cronos"
+     ],
+     "answer": "Kronos"
+    }
+   ],
+   "category": "GRIECHISCHE MYTHOLOGIE",
+   "id": "112503",
+   "question": "Griechische Götter, die man in den „God of War“-Spielen tötet"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "U.S.",
+      "US",
+      "The United States",
+      "The States",
+      "The U.S.",
+      "USA",
+      "U.S.A.",
+      "United States",
+      "Vereinigte Staaten",
+      "Amerika"
+     ],
+     "answer": "Vereinigte Staaten von Amerika"
+    },
+    {
+     "altSpellings": [
+      "Canada"
+     ],
+     "answer": "Kanada"
+    },
+    {
+     "altSpellings": [
+      "France"
+     ],
+     "answer": "Frankreich"
+    },
+    {
+     "altSpellings": [
+      "Italy"
+     ],
+     "answer": "Italien"
+    },
+    {
+     "altSpellings": [
+      "Germany"
+     ],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japan"
+    },
+    {
+     "altSpellings": [
+      "U.K.",
+      "The United Kingdom",
+      "England",
+      "The U.K.",
+      "Britain",
+      "Great Britain",
+      "United Kingdom",
+      "England"
+     ],
+     "answer": "Vereinigtes Königreich"
+    }
+   ],
+   "category": "LÄNDER",
+   "id": "112532",
+   "question": "Die sieben G7-Staaten"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nemo",
+      "Finding Nemo"
+     ],
+     "answer": "Findet Nemo"
+    },
+    {
+     "altSpellings": [
+      "Incredibles",
+      "The Incredibles",
+      "Unglaublichen"
+     ],
+     "answer": "Die Unglaublichen"
+    },
+    {
+     "altSpellings": [
+      "Ratatooie",
+      "Ratatouille"
+     ],
+     "answer": "Ratatouille"
+    },
+    {
+     "altSpellings": [
+      "Wall E",
+      "Wally",
+      "WALL-E",
+      "Der Letzte räumt die Erde auf",
+      "WALL-E Der Letzte räumt die Erde auf",
+      "WALL-E: Der Letzte räumt die Erde auf"
+     ],
+     "answer": "WALL-E - Der Letzte räumt die Erde auf"
+    },
+    {
+     "altSpellings": [
+      "Up"
+     ],
+     "answer": "Oben"
+    },
+    {
+     "altSpellings": [
+      "Toy Story Three",
+      "Toy Story 3",
+      "Toy Story Drei"
+     ],
+     "answer": "Toy Story 3"
+    },
+    {
+     "altSpellings": [
+      "Brave",
+      "Legende der Highlands",
+      "Merida",
+      "Merida Legende der Highlands",
+      "Merida: Legende der Highlands"
+     ],
+     "answer": "Merida - Legende der Highlands"
+    },
+    {
+     "altSpellings": [
+      "Inside Out"
+     ],
+     "answer": "Alles steht Kopf"
+    },
+    {
+     "altSpellings": [
+      "Coco",
+      "Cocoa",
+      "Coco - Lebendiger als das Leben",
+      "Lebendiger als das Leben",
+      "Lebendiger als das Leben!",
+      "Coco Lebendiger als das Leben!",
+      "Coco Lebendiger als das Leben",
+      "Coco: Lebendiger als das Leben!",
+      "Coco: Lebendiger als das Leben",
+      "Koko - Lebendiger als das Leben",
+      "Koko"
+     ],
+     "answer": "Coco - Lebendiger als das Leben!"
+    },
+    {
+     "altSpellings": [
+      "Toy Story Four",
+      "Toy Story 4",
+      "A Toy Story: Alles hört auf kein Kommando",
+      "Toy Story: Alles hört auf kein Kommando",
+      "Toy Story Vier"
+     ],
+     "answer": "Toy Story 4"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Soul"
+    }
+   ],
+   "category": "ANIMATIONSFILME",
+   "id": "112533",
+   "question": "Pixar-Filme, die den Oscar für den „Besten animierten Spielfilm“ gewonnen haben"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "100 meter dash",
+      "100 meters",
+      "100 meter",
+      "100-metre dash",
+      "100 metre dash",
+      "100 metres",
+      "100 metre",
+      "100",
+      "100m",
+      "100-meter dash",
+      "100-Meter Lauf",
+      "100 Meter-Lauf",
+      "100 Meter Lauf",
+      "100m-Lauf",
+      "100m Lauf"
+     ],
+     "answer": "100-Meter-Lauf"
+    },
+    {
+     "altSpellings": [
+      "400 meter dash",
+      "400 meters",
+      "400 meter",
+      "400-metre dash",
+      "400 metre dash",
+      "400 metres",
+      "400 metre",
+      "400",
+      "400m",
+      "400-Meter Lauf",
+      "400 Meter-Lauf",
+      "400 Meter Lauf",
+      "400m-Lauf",
+      "400m Lauf"
+     ],
+     "answer": "400-Meter-Lauf"
+    },
+    {
+     "altSpellings": [
+      "1500 meter run",
+      "1500 meters",
+      "1500 meter",
+      "1500-metre run",
+      "1500 metre run",
+      "1500 metres",
+      "1500 metre",
+      "1500",
+      "1500m",
+      "1500-Meter Lauf",
+      "1500 Meter-Lauf",
+      "1500 Meter Lauf",
+      "1500m-Lauf",
+      "1500m Lauf",
+      "1,5-Kilometer Lauf",
+      "1,5 Kilometer-Lauf",
+      "1,5 Kilometer Lauf",
+      "1,5km-Lauf",
+      "1,5km Lauf",
+      "1,5km",
+      "1,5 km",
+      "1,5 Kilometer"
+     ],
+     "answer": "1500-Meter-Lauf"
+    },
+    {
+     "altSpellings": [
+      "110 meter hurdles",
+      "110-meter hurdles",
+      "110-metre hurdles",
+      "110 metre hurdles",
+      "Hurdles",
+      "Hürden",
+      "Hürdenlauf",
+      "110 Meter Hürdenlauf",
+      "110-Meter Hürdenlauf",
+      "110 Meter-Hürdenlauf",
+      "110m-Hürdenlauf",
+      "110m Hürdenlauf"
+     ],
+     "answer": "110-Meter-Hürdenlauf"
+    },
+    {
+     "altSpellings": [
+      "Shotput",
+      "Shot put",
+      "Kugelstoß",
+      "Kugelstossen",
+      "Kugelstoss"
+     ],
+     "answer": "Kugelstoßen"
+    },
+    {
+     "altSpellings": [
+      "Long jump",
+      "Weitspringen"
+     ],
+     "answer": "Weitsprung"
+    },
+    {
+     "altSpellings": [
+      "High jump",
+      "Hochspringen"
+     ],
+     "answer": "Hochsprung"
+    },
+    {
+     "altSpellings": [
+      "Vault",
+      "Pole vault",
+      "Stab Hochsprung",
+      "Stabhoch sprung",
+      "Stab hoch sprung"
+     ],
+     "answer": "Stabhochsprung"
+    },
+    {
+     "altSpellings": [
+      "Discus",
+      "Discus throw",
+      "Diskuswerfen",
+      "Diskus"
+     ],
+     "answer": "Diskuswurf"
+    },
+    {
+     "altSpellings": [
+      "Javelin",
+      "Javelin throw",
+      "Speerwerfen"
+     ],
+     "answer": "Speerwurf"
+    }
+   ],
+   "category": "Sport",
+   "id": "112550",
+   "question": "Zehnkampf-Disziplinen"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "The hall",
+      "Hall",
+      "Halle"
+     ],
+     "answer": "Eingangshalle"
+    },
+    {
+     "altSpellings": [
+      "The lounge",
+      "Lounge",
+      "Gästehaus"
+     ],
+     "answer": "Salon"
+    },
+    {
+     "altSpellings": [
+      "The dining room",
+      "Dining Room"
+     ],
+     "answer": "Speisezimmer"
+    },
+    {
+     "altSpellings": [
+      "The kitchen",
+      "Kitchen"
+     ],
+     "answer": "Küche"
+    },
+    {
+     "altSpellings": [
+      "The ballroom",
+      "Ballroom",
+      "Terrasse"
+     ],
+     "answer": "Musikzimmer"
+    },
+    {
+     "altSpellings": [
+      "The conservatory",
+      "Conservatory",
+      "Wellnessraum"
+     ],
+     "answer": "Wintergarten"
+    },
+    {
+     "altSpellings": [
+      "The billiard room",
+      "Billiard Room",
+      "Billardzimmer",
+      "Heimkino"
+     ],
+     "answer": "Billardzimmer"
+    },
+    {
+     "altSpellings": [
+      "The library",
+      "Library",
+      "Wohnzimmer"
+     ],
+     "answer": "Bibliothek"
+    },
+    {
+     "altSpellings": [
+      "The study",
+      "Study",
+      "Observatorium"
+     ],
+     "answer": "Arbeitszimmer"
+    }
+   ],
+   "category": "Brettspiel",
+   "id": "113285",
+   "question": "Tatorte in [i]Cluedo[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Hungry",
+      "Food"
+     ],
+     "answer": "Hunger"
+    },
+    {
+     "altSpellings": [
+      "Sleep",
+      "Energy",
+      "Schlaf"
+     ],
+     "answer": "Energie"
+    },
+    {
+     "altSpellings": [
+      "Sit",
+      "Comfort",
+      "Sitzen"
+     ],
+     "answer": "Komfort"
+    },
+    {
+     "altSpellings": [
+      "Play",
+      "Fun",
+      "Vergnügen"
+     ],
+     "answer": "Spaß"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Hygiene"
+    },
+    {
+     "altSpellings": [
+      "Bathroom",
+      "Bladder",
+      "Toilette"
+     ],
+     "answer": "Harndrang"
+    },
+    {
+     "altSpellings": [
+      "Environment",
+      "Home",
+      "Room",
+      "Raum",
+      "Haus"
+     ],
+     "answer": "Umgebung"
+    },
+    {
+     "altSpellings": [
+      "Socializing",
+      "Interaction",
+      "Social",
+      "Sozialisieren",
+      "Interaktion"
+     ],
+     "answer": "Sozial"
+    }
+   ],
+   "category": "Sims-Gameplay",
+   "id": "113290",
+   "question": "Die 8 „Bedürfnisse“ eines Sims"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nintendo Entertainment System",
+      "Famicom"
+     ],
+     "answer": "NES"
+    },
+    {
+     "altSpellings": [
+      "Super Nintendo Entertainment System",
+      "Super Famicom"
+     ],
+     "answer": "SNES"
+    },
+    {
+     "altSpellings": [
+      "Nintendo 64",
+      "Nintendo Sixty Four",
+      "Nintendo Vierundsechzig",
+      "Nintendo Vierundsechtzig"
+     ],
+     "answer": "N64"
+    },
+    {
+     "altSpellings": [
+      "Nintendo GameCube"
+     ],
+     "answer": "GameCube"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Wii",
+      "Wee",
+      "Nintendo Wee"
+     ],
+     "answer": "Wii"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Wii-U",
+      "WiiU",
+      "Wee-U",
+      "Nintendo Wee-U",
+      "Wii-U",
+      "Nintendo Wii U"
+     ],
+     "answer": "Wii U"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Switch"
+     ],
+     "answer": "Switch"
+    },
+    {
+     "altSpellings": [
+      "Nintendo Switch 2",
+      "Nintendo Switch Two",
+      "Switch Two",
+      "Switch Zwei",
+      "Nintendo Switch Zwei"
+     ],
+     "answer": "Switch 2"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Virtual Boy"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Color TV-Game"
+    }
+   ],
+   "category": "Videospiel",
+   "id": "113306",
+   "question": "Nintendo-Heimkonsolen (Stand 2025)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "answer": "Royal Flush"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Straight Flush"
+    },
+    {
+     "altSpellings": [
+      "4 of a kind",
+      "Four-of-a-kind",
+      "4-of-a-kind",
+      "Four of a kind",
+      "Vierlinge",
+      "Viererling"
+     ],
+     "answer": "Vierling"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Full House"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Flush"
+    },
+    {
+     "altSpellings": [
+      "Straight",
+      "Strasse"
+     ],
+     "answer": "Straße"
+    },
+    {
+     "altSpellings": [
+      "3 of a kind",
+      "Three-of-a-kind",
+      "3-of-a-kind",
+      "Three of a kind",
+      "Drillinge",
+      "Dreierling"
+     ],
+     "answer": "Drilling"
+    },
+    {
+     "altSpellings": [
+      "2 pair",
+      "Two pair",
+      "Zwei Paar",
+      "2 Paare",
+      "2 Paar"
+     ],
+     "answer": "Zwei Paare"
+    },
+    {
+     "altSpellings": [
+      "One pair",
+      "1 pair",
+      "A pair",
+      "Pair",
+      "Paar",
+      "1 Paar",
+      "Ein Paar"
+     ],
+     "answer": "Ein Paar"
+    },
+    {
+     "altSpellings": [
+      "High card",
+      "Die höchste Karte"
+     ],
+     "answer": "Höchste Karte"
+    }
+   ],
+   "category": "Kartenspiele",
+   "id": "113308",
+   "question": "Die zehn Hände, die beim Poker gespielt werden können",
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Austria"
+     ],
+     "answer": "Österreich"
+    },
+    {
+     "altSpellings": [
+      "Canada"
+     ],
+     "answer": "Kanada"
+    },
+    {
+     "altSpellings": [
+      "People’s Republic of China",
+      "Volksrepublik China"
+     ],
+     "answer": "China"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Japan"
+    },
+    {
+     "altSpellings": [
+      "France"
+     ],
+     "answer": "Frankreich"
+    },
+    {
+     "altSpellings": [
+      "Italy"
+     ],
+     "answer": "Italien"
+    },
+    {
+     "altSpellings": [
+      "Germany"
+     ],
+     "answer": "Deutschland"
+    },
+    {
+     "altSpellings": [
+      "Norway"
+     ],
+     "answer": "Norwegen"
+    },
+    {
+     "altSpellings": [
+      "Russia"
+     ],
+     "answer": "Russland"
+    },
+    {
+     "altSpellings": [
+      "South Korea"
+     ],
+     "answer": "Südkorea"
+    },
+    {
+     "altSpellings": [
+      "Switzerland"
+     ],
+     "answer": "Schweiz"
+    },
+    {
+     "altSpellings": [
+      "USA",
+      "The US",
+      "U.S.A.",
+      "The U.S.A.",
+      "The U.S.",
+      "America",
+      "United States of America",
+      "U.S.",
+      "United States",
+      "Amerika",
+      "Vereinigte Staaten"
+     ],
+     "answer": "Vereinigte Staaten von Amerika"
+    },
+    {
+     "altSpellings": [
+      "Bosnia",
+      "Herzegovina",
+      "Yugoslavia",
+      "Bosnia & Herzegovina",
+      "Bosnia and Herzegovina",
+      "Bosnien & Herzegowina",
+      "Bosnien-Herzegowina",
+      "Bosnien",
+      "Herzegowina"
+     ],
+     "answer": "Bosnien und Herzegowina"
+    }
+   ],
+   "category": "Kalte Länder",
+   "id": "113366",
+   "question": "Gastgeberländer der Olympischen Winterspiele (Stand 2025)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Blueberry",
+      "Blueberries",
+      "Blaubeeren"
+     ],
+     "answer": "Blaubeere"
+    },
+    {
+     "altSpellings": [
+      "Coffee beans",
+      "Coffee",
+      "Kaffeebohne",
+      "Kaffeebohnen"
+     ],
+     "answer": "Kaffee"
+    },
+    {
+     "altSpellings": [
+      "Corn"
+     ],
+     "answer": "Mais"
+    },
+    {
+     "altSpellings": [
+      "Hop",
+      "Hops"
+     ],
+     "answer": "Hopfen"
+    },
+    {
+     "altSpellings": [
+      "Hot pepper",
+      "Pepper",
+      "Peppers",
+      "Red pepper",
+      "Red peppers",
+      "Hot peppers",
+      "Peperonis"
+     ],
+     "answer": "Peperoni"
+    },
+    {
+     "altSpellings": [
+      "Melon",
+      "Watermelon",
+      "Watermelons",
+      "Melons",
+      "Melonen",
+      "Wassermelonen",
+      "Wassermelone"
+     ],
+     "answer": "Melone"
+    },
+    {
+     "altSpellings": [
+      "Poppy",
+      "Poppy flower",
+      "Poppy flowers",
+      "Poppies",
+      "Mohnblume",
+      "Mohnblumen"
+     ],
+     "answer": "Mohn"
+    },
+    {
+     "altSpellings": [
+      "Radish",
+      "Radishes",
+      "Radieshen"
+     ],
+     "answer": "Radieschen"
+    },
+    {
+     "altSpellings": [
+      "Red cabbage",
+      "Cabbage",
+      "Cabbages",
+      "Red cabbages",
+      "Roter Kohl"
+     ],
+     "answer": "Rotkohl"
+    },
+    {
+     "altSpellings": [
+      "Starfruit",
+      "Star fruit",
+      "Star fruits",
+      "Starfruits",
+      "Sternfrüchte"
+     ],
+     "answer": "Sternfrucht"
+    },
+    {
+     "altSpellings": [
+      "Summer spangle",
+      "Spangle",
+      "Spangles",
+      "Summer spangles",
+      "Sommer Schmuck",
+      "Sommerschmücke",
+      "Sommerschmuck-Blumen",
+      "Sommerschmuck Blumen",
+      "Sommerschmuck-Blume",
+      "Sommerschmuck Blume"
+     ],
+     "answer": "Sommerschmuck"
+    },
+    {
+     "altSpellings": [
+      "Squash",
+      "Squashes",
+      "Summer squash",
+      "Sommer Kürbis",
+      "Sommerkürbisse"
+     ],
+     "answer": "Sommerkürbis"
+    },
+    {
+     "altSpellings": [
+      "Sunflower",
+      "Sun flower",
+      "Sun flowers",
+      "Sunflowers",
+      "Sonnenblumen"
+     ],
+     "answer": "Sonnenblume"
+    },
+    {
+     "altSpellings": [
+      "Tomato",
+      "Tomatos",
+      "Tomatoes",
+      "Tomaten"
+     ],
+     "answer": "Tomate"
+    },
+    {
+     "altSpellings": [
+      "Wheat"
+     ],
+     "answer": "Weizen"
+    }
+   ],
+   "category": "Landwirtschaft",
+   "id": "113564",
+   "question": "Sommer-Nutzpflanzen in [i]Stardew Valley[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Football",
+      "Soccer",
+      "Fussball"
+     ],
+     "answer": "Fußball"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Bowling"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Tennis"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Golf"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Basketball"
+    },
+    {
+     "altSpellings": [
+      "Swordplay",
+      "Swordfght",
+      "Swords",
+      "Fencing",
+      "Schwertkampf",
+      "Fechten",
+      "Schwerter",
+      "Kendo"
+     ],
+     "answer": "Chambara"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Volleyball"
+    },
+    {
+     "altSpellings": [
+      "Badmitten",
+      "Badmitton"
+     ],
+     "answer": "Badminton"
+    }
+   ],
+   "category": "Videospiel",
+   "id": "113877",
+   "question": "Sportarten in [i]Nintendo Switch Sports[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "English"
+     ],
+     "answer": "Englisch"
+    },
+    {
+     "altSpellings": [
+      "Mandarin Chinese",
+      "Mandarian",
+      "Nordchinesisch",
+      "Mandarin Chinesisch"
+     ],
+     "answer": "Mandarin"
+    },
+    {
+     "altSpellings": [
+      "Hindustani"
+     ],
+     "answer": "Hindi"
+    },
+    {
+     "altSpellings": [
+      "Spainish",
+      "Spanish"
+     ],
+     "answer": "Spanisch"
+    },
+    {
+     "altSpellings": [
+      "Arabic",
+      "Modern Standard Arabic",
+      "Standard Arabic",
+      "Modernes Standard-Arabisch",
+      "Arabische Sprache"
+     ],
+     "answer": "Arabisch"
+    },
+    {
+     "altSpellings": [
+      "French"
+     ],
+     "answer": "Französisch"
+    },
+    {
+     "altSpellings": [
+      "Bengali"
+     ],
+     "answer": "Bengalisch"
+    },
+    {
+     "altSpellings": [
+      "Portugues",
+      "Portuguse",
+      "Portuguese"
+     ],
+     "answer": "Portugiesisch"
+    },
+    {
+     "altSpellings": [
+      "Russian",
+      "Großrussisch"
+     ],
+     "answer": "Russisch"
+    },
+    {
+     "altSpellings": [
+      "Indonesian"
+     ],
+     "answer": "Indonesisch"
+    },
+    {
+     "altSpellings": [],
+     "answer": "Urdu"
+    }
+   ],
+   "category": "Sprachen",
+   "id": "113885",
+   "question": "Die zehn meistgesprochenen Sprachen der Welt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Flutes",
+      "Music",
+      "Flöten",
+      "Flötenspiel",
+      "Lyrik"
+     ],
+     "answer": "Musik"
+    },
+    {
+     "altSpellings": [
+      "History",
+      "Geschichte",
+      "Heldendichtung"
+     ],
+     "answer": "Geschichtsschreibung"
+    },
+    {
+     "altSpellings": [
+      "lyrics",
+      "lyric poetry",
+      "romantic and lyric poetry",
+      "romance",
+      "love poems",
+      "love poetry",
+      "Romantic Poetry",
+      "Liebesgedicht",
+      "Liebesgedichte",
+      "Romantik",
+      "Liebes Dichtung"
+     ],
+     "answer": "Liebesdichtung"
+    },
+    {
+     "altSpellings": [
+      "Tragic",
+      "Tragedy",
+      "Tragische Dichtung",
+      "Tragisches",
+      "Trauer",
+      "Trauergesang"
+     ],
+     "answer": "Tragödie"
+    },
+    {
+     "altSpellings": [
+      "Hymns",
+      "Mimics",
+      "Sacred Poetry",
+      "Hymnen",
+      "Hymnus"
+     ],
+     "answer": "Hymnendichtung"
+    },
+    {
+     "altSpellings": [
+      "Song",
+      "Choral song",
+      "Chorus",
+      "Dance and song",
+      "Dancing",
+      "Dance",
+      "Tanzen",
+      "Chorlyrik",
+      "Chorlieder",
+      "Lieder"
+     ],
+     "answer": "Tanz"
+    },
+    {
+     "altSpellings": [
+      "Comedy",
+      "Unterhaltung"
+     ],
+     "answer": "Komödie"
+    },
+    {
+     "altSpellings": [
+      "Astronomy",
+      "Sternkunde"
+     ],
+     "answer": "Astronomie"
+    },
+    {
+     "altSpellings": [
+      "Heroic Poetry",
+      "Heroes",
+      "Epic and heroic poetry",
+      "Epic poems",
+      "Epics",
+      "Epic Poetry",
+      "Epik",
+      "Epos",
+      "Elegie",
+      "Wissenschaft",
+      "Philosophie",
+      "Saitenspiel"
+     ],
+     "answer": "Epische Dichtung"
+    }
+   ],
+   "category": "",
+   "id": "113887",
+   "question": "Künste/Wissenschaften, die durch eine der neun griechischen Musen verkörpert werden"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Lola Loud"
+     ],
+     "answer": "Lola"
+    },
+    {
+     "altSpellings": [
+      "Lisa Loud"
+     ],
+     "answer": "Lisa"
+    },
+    {
+     "altSpellings": [
+      "Lyne",
+      "Lynne",
+      "Lynn Jr.",
+      "Lynn Loud"
+     ],
+     "answer": "Lynn"
+    },
+    {
+     "altSpellings": [
+      "Lenny",
+      "Lenni",
+      "Leni Loud"
+     ],
+     "answer": "Leni"
+    },
+    {
+     "altSpellings": [
+      "Luane",
+      "Luanne",
+      "Luan Loud"
+     ],
+     "answer": "Luan"
+    },
+    {
+     "altSpellings": [
+      "Luna Loud"
+     ],
+     "answer": "Luna"
+    },
+    {
+     "altSpellings": [
+      "Lauri",
+      "Lorri",
+      "Lori Loud"
+     ],
+     "answer": "Lori"
+    },
+    {
+     "altSpellings": [
+      "Lanna",
+      "Lana Loud"
+     ],
+     "answer": "Lana"
+    },
+    {
+     "altSpellings": [
+      "Lilly",
+      "Lily Loud"
+     ],
+     "answer": "Lily"
+    },
+    {
+     "altSpellings": [
+      "Lucille",
+      "Lucy Loud"
+     ],
+     "answer": "Lucy"
+    }
+   ],
+   "category": "Nickelodeon-Serien",
+   "id": "113888",
+   "question": "Schwestern in [i]Willkommen bei den Louds[/i] (2016)"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Luxuries",
+      "Luxury Items",
+      "Fashion",
+      "Jewelry",
+      "Luxury",
+      "Luxury - District 1",
+      "Luxuswaren",
+      "Schmuck",
+      "Luxusgegenstände",
+      "Luxuriöses",
+      "Edelsteine",
+      "Edelstein",
+      "Diamanten"
+     ],
+     "answer": "Luxuswaren - Distrikt 1"
+    },
+    {
+     "altSpellings": [
+      "Weapons",
+      "Weaponry",
+      "Masonry",
+      "Masons",
+      "Arms",
+      "Weaponry & Masonry",
+      "Defense",
+      "Defense - District 2",
+      "Waffen",
+      "Bergbau",
+      "Steinmetzhandwerk",
+      "Verteidigung"
+     ],
+     "answer": "Verteidigung - Distrikt 2"
+    },
+    {
+     "altSpellings": [
+      "Electronics",
+      "Electronic",
+      "Technology",
+      "Tech",
+      "Electronics - District 3",
+      "Technologie",
+      "Elektrische Geräte",
+      "Technik",
+      "Elektronik"
+     ],
+     "answer": "Elektronik - Distrikt 3"
+    },
+    {
+     "altSpellings": [
+      "Fishing",
+      "Fish",
+      "Fishing - District 4",
+      "Fischen",
+      "Fisch",
+      "Krabben",
+      "Fischerei"
+     ],
+     "answer": "Fischerei - Distrikt 4"
+    },
+    {
+     "altSpellings": [
+      "Electricity",
+      "Power",
+      "Power Plants",
+      "Batteries",
+      "Battery",
+      "Power Production",
+      "Dam",
+      "Dams",
+      "Power - District 5",
+      "Energie - Distrikt 5",
+      "Strom - Distrikt 5",
+      "Energie/Strom",
+      "Strom/Energie - Distrikt 5",
+      "Strom/Energie",
+      "Strom",
+      "Energie",
+      "Stromerzeugung",
+      "Batterien",
+      "Batterie",
+      "Kraftwerk",
+      "Kraftwerke",
+      "Staudamm",
+      "Staudämme",
+      "Damm",
+      "Dämme",
+      "Elektrizität"
+     ],
+     "answer": "Energie/Strom - Distrikt 5"
+    },
+    {
+     "altSpellings": [
+      "Transport",
+      "Transoportation",
+      "Train",
+      "Railroad",
+      "Hovercrafts",
+      "Ships",
+      "Transportation",
+      "Transportation - District 6",
+      "Züge",
+      "Schiffe"
+     ],
+     "answer": "Transport - Distrikt 6"
+    },
+    {
+     "altSpellings": [
+      "Lumber",
+      "Wood",
+      "Trees",
+      "Lumber - District 7",
+      "Holzfällerei",
+      "Bäume",
+      "Holz",
+      "Holzfäller",
+      "Holzverarbeitung",
+      "Möbel"
+     ],
+     "answer": "Holz - Distrikt 7"
+    },
+    {
+     "altSpellings": [
+      "Textiles",
+      "Textile",
+      "Clothing",
+      "Fabrics",
+      "Clothes",
+      "Textiles - District 8",
+      "Textilien",
+      "Textil",
+      "Kleidung",
+      "Stoff",
+      "Stoffe",
+      "Kleider"
+     ],
+     "answer": "Textilien - Distrikt 8"
+    },
+    {
+     "altSpellings": [
+      "Grain",
+      "Grains",
+      "Grain production",
+      "Bread",
+      "Bread basket",
+      "Grain - District 9",
+      "Getreide",
+      "Getreideanbau",
+      "Körner",
+      "Korn",
+      "Brot",
+      "Brote",
+      "Mehl",
+      "Bier",
+      "Stroh"
+     ],
+     "answer": "Getreide - Distrikt 9"
+    },
+    {
+     "altSpellings": [
+      "Livestock",
+      "Cattle",
+      "Meat",
+      "Butcher",
+      "Meats",
+      "Animals",
+      "Livestock - District 10",
+      "Viehzucht",
+      "Fleisch",
+      "Tiere",
+      "Wurst",
+      "Eier",
+      "Milch",
+      "Tier",
+      "Vieh",
+      "Schlachter"
+     ],
+     "answer": "Viehzucht - Distrikt 10"
+    },
+    {
+     "altSpellings": [
+      "Orchards",
+      "Agriculture",
+      "Crops",
+      "Farming",
+      "Farms",
+      "Agriculture - District 11",
+      "Landwirtschaft",
+      "Bauernhof",
+      "Obst",
+      "Gemüse",
+      "Bauernhöfe",
+      "Farmen"
+     ],
+     "answer": "Landwirtschaft - Distrikt 11"
+    },
+    {
+     "altSpellings": [
+      "Coal",
+      "Coal Mining",
+      "Mining",
+      "Medicine",
+      "Coal - District 12",
+      "Bergbau",
+      "Kohle",
+      "Kohleabbau",
+      "Bergwerk",
+      "Bergwerke",
+      "Minen",
+      "Kohlebergbau"
+     ],
+     "answer": "Kohle - Distrikt 12"
+    },
+    {
+     "altSpellings": [
+      "Nuclear Power",
+      "Nuclear Weapons",
+      "Nukes",
+      "Nuclear",
+      "Nuclear - District 13",
+      "Atomwaffen",
+      "Atomwaffe",
+      "Graphit"
+     ],
+     "answer": "Atomwaffen - Distrikt 13"
+    }
+   ],
+   "category": "Fiktive Volkswirtschaften",
+   "id": "114122",
+   "question": "Industrie-Distrikte in [i]Die Tribute von Panem[/i]"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Pepper",
+      "Black Pepper",
+      "Pfeffer",
+      "Pfefferkörner"
+     ],
+     "answer": "Schwarzer Pfeffer"
+    },
+    {
+     "altSpellings": [
+      "Golden Turmeric",
+      "Tumeric",
+      "Turmeric",
+      "Kurkume",
+      "Curcuma",
+      "Kurcuma",
+      "Safranwurz",
+      "Safranwurzel",
+      "Gelbwurz",
+      "Gelbwurzel",
+      "Gelber Ingwer",
+      "Gilbwurz",
+      "Gilbwurzel"
+     ],
+     "answer": "Kurkuma"
+    },
+    {
+     "altSpellings": [
+      "Cumin",
+      "Kumin",
+      "Römischer Kümmel",
+      "Kümmel"
+     ],
+     "answer": "Kreuzkümmel"
+    },
+    {
+     "altSpellings": [
+      "Cilantro",
+      "Coriander",
+      "Echter Koriander"
+     ],
+     "answer": "Koriander"
+    },
+    {
+     "altSpellings": [
+      "Paprika",
+      "Chili",
+      "Chilis",
+      "Chili Powder",
+      "Cayenne",
+      "Cayennepfeffer"
+     ],
+     "answer": "Chilipulver"
+    },
+    {
+     "altSpellings": [
+      "Gingerroot",
+      "Ginger",
+      "Ingber",
+      "Imber",
+      "Immerwurzel",
+      "Ingwerwurzel"
+     ],
+     "answer": "Ingwer"
+    },
+    {
+     "altSpellings": [
+      "Garlic",
+      "Garlic Powder",
+      "Knoblauchpulver"
+     ],
+     "answer": "Knoblauch"
+    },
+    {
+     "altSpellings": [
+      "Cinnamon Stick",
+      "Cinnamon",
+      "Echter Zimt",
+      "Zimtstange",
+      "Zimtstangen",
+      "Zimmet"
+     ],
+     "answer": "Zimt"
+    },
+    {
+     "altSpellings": [
+      "Echter Dost",
+      "Dorst",
+      "Dost",
+      "Dostenkraut"
+     ],
+     "answer": "Oregano"
+    },
+    {
+     "altSpellings": [
+      "Time",
+      "Thyme",
+      "Echter Thymian",
+      "Tymian"
+     ],
+     "answer": "Thymian"
+    },
+    {
+     "altSpellings": [
+      "Cardamon",
+      "Cardamom"
+     ],
+     "answer": "Kardamom"
+    }
+   ],
+   "category": "Internationale Cuisine",
+   "id": "114123",
+   "question": "Die zehn beliebtesten Gewürze der Welt"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Joy"
+     ],
+     "answer": "Freude"
+    },
+    {
+     "altSpellings": [
+      "Sadness",
+      "Trauer"
+     ],
+     "answer": "Kummer"
+    },
+    {
+     "altSpellings": [
+      "Anger"
+     ],
+     "answer": "Wut"
+    },
+    {
+     "altSpellings": [
+      "Disgust"
+     ],
+     "answer": "Ekel"
+    },
+    {
+     "altSpellings": [
+      "Fear"
+     ],
+     "answer": "Angst"
+    },
+    {
+     "altSpellings": [
+      "Anxiety"
+     ],
+     "answer": "Zweifel"
+    },
+    {
+     "altSpellings": [
+      "Envy"
+     ],
+     "answer": "Neid"
+    },
+    {
+     "altSpellings": [
+      "Onwee",
+      "Ennui",
+      "Null Bock",
+      "Kein Bock",
+      "Keine Lust"
+     ],
+     "answer": "Ennui/Null Bock"
+    },
+    {
+     "altSpellings": [
+      "Nostalgia"
+     ],
+     "answer": "Nostalgie"
+    },
+    {
+     "altSpellings": [
+      "Embarrass",
+      "Embarrassed",
+      "Embarrassment",
+      "Peinlichkeit",
+      "Scham"
+     ],
+     "answer": "Peinlich"
+    }
+   ],
+   "category": "Emotionale Filme",
+   "id": "114127",
+   "question": "Rileys Emotionen in [i]Alles steht Kopf[/i] 1 & 2"
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "A-",
+      "A -",
+      "A Negative",
+      "A-Negativ"
+     ],
+     "answer": "A Negativ"
+    },
+    {
+     "altSpellings": [
+      "A+",
+      "A +",
+      "A Positive",
+      "A-Positiv"
+     ],
+     "answer": "A Positiv"
+    },
+    {
+     "altSpellings": [
+      "B-",
+      "B -",
+      "B Negative",
+      "B-Negativ"
+     ],
+     "answer": "B Negativ"
+    },
+    {
+     "altSpellings": [
+      "B+",
+      "B +",
+      "B Positive",
+      "B-Positiv"
+     ],
+     "answer": "B Positiv"
+    },
+    {
+     "altSpellings": [
+      "AB -",
+      "AB-",
+      "AB Negative",
+      "AB-Negativ"
+     ],
+     "answer": "AB Negativ"
+    },
+    {
+     "altSpellings": [
+      "AB+",
+      "AB +",
+      "AB Positive",
+      "AB-Positiv"
+     ],
+     "answer": "AB Positiv"
+    },
+    {
+     "altSpellings": [
+      "O -",
+      "O-",
+      "O Negative",
+      "O-Negativ"
+     ],
+     "answer": "O Negativ"
+    },
+    {
+     "altSpellings": [
+      "O+",
+      "O +",
+      "O Positive",
+      "O-Positiv"
+     ],
+     "answer": "O Positiv"
+    }
+   ],
+   "category": "MENSCHLICHER KÖRPER",
+   "id": "114160",
+   "question": "Menschliche Blutgruppen (Landsteiner-System)"
+  }
+ ]
+}

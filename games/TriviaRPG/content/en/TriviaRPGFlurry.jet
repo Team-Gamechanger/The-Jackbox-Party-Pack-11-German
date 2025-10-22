@@ -1,0 +1,329 @@
+{
+ "content": [
+  {
+   "countrySpecific": true,
+   "id": "112889",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Altair",
+        "Bellatrix",
+        "Schedir",
+        "Wega",
+        "Pollux"
+       ],
+       "category": "Name eines Sterns"
+      },
+      {
+       "answers": [
+        "Dralion",
+        "Alegria",
+        "Quidam",
+        "Ka",
+        "Zarkana"
+       ],
+       "category": "Show des Cirque du Soleil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Accupro",
+        "Viagra",
+        "Norvasc",
+        "Champix",
+        "Edronax"
+       ],
+       "category": "Medikament von Pfizer"
+      },
+      {
+       "answers": [
+        "Zumanity",
+        "Varekai",
+        "Saltimbanco",
+        "O",
+        "Luzia"
+       ],
+       "category": "Show des Cirque du Soleil"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Murzim",
+        "Rigel",
+        "Syrma",
+        "Adhil",
+        "Asterion"
+       ],
+       "category": "Name eines Sterns"
+      },
+      {
+       "answers": [
+        "Xalatan",
+        "Genotropin",
+        "Unacid",
+        "Sortis",
+        "Centrum"
+       ],
+       "category": "Medikament von Pfizer"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113530",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Amar",
+        "Repaz",
+        "Kamolrf",
+        "Zarbex",
+        "Rewinside",
+        "Zombey"
+       ],
+       "category": "Beliebter Twitch-Streamer"
+      },
+      {
+       "answers": [
+        "Lustigt",
+        "Stockholm",
+        "Skruvby",
+        "Varmblixt",
+        "Dejsa",
+        "Nordkisa"
+       ],
+       "category": "IKEA-Produkt"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Staiy",
+        "Pokimane",
+        "Trymacs",
+        "Revedtv",
+        "Bastighg",
+        "Elotrix"
+       ],
+       "category": "Beliebter Twitch-Streamer"
+      },
+      {
+       "answers": [
+        "Vulptereen",
+        "Ewok",
+        "Zabrak",
+        "Marit",
+        "Wookiee",
+        "Sarlacc"
+       ],
+       "category": "Alien-Spezies in [i]Star Wars[/i]"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Kallax",
+        "Tonstad",
+        "Smågöra",
+        "Vattenkar",
+        "Hauga",
+        "Vedbo"
+       ],
+       "category": "IKEA-Produkt"
+      },
+      {
+       "answers": [
+        "Gungan",
+        "Togruta",
+        "Jawa",
+        "Hutt",
+        "Tauntaun",
+        "Nalroni"
+       ],
+       "category": "Alien-Spezies in [i]Star Wars[/i]"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  },
+  {
+   "id": "113584",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Korfu",
+        "Ithaca",
+        "Thera",
+        "Paxos",
+        "Samothrace"
+       ],
+       "category": "Griechische Insel"
+      },
+      {
+       "answers": [
+        "Celonis",
+        "Ansys",
+        "Okta",
+        "Kyndryl",
+        "Oracle"
+       ],
+       "category": "Großes Softwareunternehmen"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Enviga",
+        "Acáo",
+        "Alani Nu",
+        "Oca",
+        "Semtex"
+       ],
+       "category": "Energydrink"
+      },
+      {
+       "answers": [
+        "Cythera",
+        "Salamis",
+        "Chios",
+        "Leucas",
+        "Kéa"
+       ],
+       "category": "Griechische Insel"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Twilio",
+        "Splunk",
+        "Toast",
+        "Fiserv",
+        "Atlassian"
+       ],
+       "category": "Großes Softwareunternehmen"
+      },
+      {
+       "answers": [
+        "28 Black",
+        "Kore",
+        "Reload",
+        "Sparks",
+        "Vault"
+       ],
+       "category": "Energydrink"
+      }
+     ]
+    }
+   ],
+   "theme": "MOUNTAIN"
+  },
+  {
+   "id": "114084",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Totem der Unsterblichkeit",
+        "Erfahrungsfläschchen",
+        "Netherstern",
+        "Phantomhaut",
+        "Enderkristall",
+        "Lohenrute"
+       ],
+       "category": "Minecraft-Item"
+      },
+      {
+       "answers": [
+        "Gedankenstein",
+        "Das Buch der Vishanti",
+        "Schatulle des ewigen Winters",
+        "Tesserakt",
+        "Auge von Agamotto",
+        "Sturmbrecher"
+       ],
+       "category": "Fiktives Objekt im Marvel-Universum"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Wunschkapsel",
+        "Deckenblitz",
+        "Thronjuwel",
+        "Popcornloop",
+        "Knetbeton",
+        "Haselherz"
+       ],
+       "category": "Produkt aus [i]Die Höhle der Löwen[/i]"
+      },
+      {
+       "answers": [
+        "Lavaeimer",
+        "Buch des Wissens",
+        "Chorusfrucht",
+        "Kirschholzboot",
+        "Endertruhe",
+        "Drachenatem"
+       ],
+       "category": "Minecraft-Item"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Sling Ring",
+        "Hofund",
+        "Echsen-Serum",
+        "Hammer-Drohne",
+        "Veronica",
+        "S.E.N.F."
+       ],
+       "category": "Fiktives Objekt im Marvel-Universum"
+      },
+      {
+       "answers": [
+        "Plöpper",
+        "Mind Cookies",
+        "Teppino",
+        "Wizardo Tier-Masken",
+        "Fenster-Schnapper",
+        "Man Upgrader Face"
+       ],
+       "category": "Produkt aus [i]Die Höhle der Löwen[/i]"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE"
+  }
+ ]
+}

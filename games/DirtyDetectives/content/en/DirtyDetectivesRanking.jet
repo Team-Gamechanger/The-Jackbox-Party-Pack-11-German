@@ -1,0 +1,473 @@
+{
+ "content": [
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Vampires",
+    "Zombies",
+    "Werewolves",
+    "Mummies"
+   ],
+   "evidence": "When fighting monsters, suspect would choose to fight {{SELECTION-1}} first and {{SELECTION-3}} last.",
+   "familiarity": "FRIENDS",
+   "id": "107564",
+   "interrogations": [
+    "What’s your plan for fighting monsters?",
+    "In your opinion, what’s the strongest monster of all?",
+    "Do you think you’d survive any of these fights?"
+   ],
+   "question": "Put these monsters in the order you’d be willing to fight them:",
+   "reminder": "Monster Fight",
+   "summary": "FIGHT: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Radfahren",
+    "Schwimmen",
+    "Laufen"
+   ],
+   "evidence": "Der Verdächtige denkt, er wäre am besten im {{SELECTION-1}} bei einem Triathlon, und am schlechtesten im {{SELECTION-3}}.",
+   "familiarity": "FRIENDS",
+   "id": "107570",
+   "interrogations": [],
+   "question": "Ordne diese Triathlon-Disziplinen danach, wie gut du sie deiner Meinung nach ohne Vorbereitung schaffen würdest, vom besten bis zum schlechtesten.",
+   "reminder": "Triathlon-Disziplinen",
+   "summary": "BESTE {{SELECTION-1}}, SCHLECHTESTE {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 4,
+   "choices": [
+    "Schlüssel",
+    "Geldbörse",
+    "Kopfhörer",
+    "Handy"
+   ],
+   "evidence": "Beim Verlassen des Hauses sind dem Verdächtigen {{SELECTION-1}} wichtiger als {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "107592",
+   "interrogations": [
+    "Welchen dieser Gegenstände hast du zuletzt vergessen?",
+    "Trägst du eine Tasche oder ist alles in den Taschen?"
+   ],
+   "question": "In welcher Reihenfolge überprüfst du, ob du diese Gegenstände dabei hast, bevor du das Haus verlässt?",
+   "reminder": "Taschen checken",
+   "summary": "{{SELECTION-2}} VOR {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "TESTIMONY",
+   "choiceLimit": 4,
+   "choices": [
+    "10 Mahlzeiten kochen",
+    "5 Stunden quatschen",
+    "Schimmlige Dachrinnen putzen",
+    "90 Minuten zum Flughafen fahren"
+   ],
+   "evidence": "Der Verdächtige würde lieber für seinen Nachbarn {{SELECTION-1}} als {{SELECTION-4}}.",
+   "familiarity": "FRIENDS",
+   "id": "107597",
+   "interrogations": [
+    "Also... hast du Nachbarn?",
+    "Geben dir lange Gespräche Energie?"
+   ],
+   "question": "Dein Nachbar braucht Hilfe im Haushalt. Ordne diese von \"würde ich am ehesten machen\" bis \"würde ich am wenigsten machen\":",
+   "reminder": "Nachbarn helfen",
+   "summary": "{{SELECTION-1}} VOR {{SELECTION-4}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 5,
+   "choices": [
+    "Neues Auto",
+    "Haus",
+    "Bildung",
+    "Luxus",
+    "Schuldenabbau"
+   ],
+   "evidence": "Der lottogewinnende Verdächtige würde {{SELECTION-1}} über {{SELECTION-4}} bevorzugen.",
+   "familiarity": "FRIENDS",
+   "id": "107598",
+   "interrogations": [
+    "Hast du ein Auge auf etwas Schönes in letzter Zeit?"
+   ],
+   "question": "Wenn du im Lotto gewonnen hättest, was würdest du mit dem Geld machen, und in welcher Reihenfolge?",
+   "reminder": "Lotto-Entscheidungen",
+   "summary": "{{SELECTION-1}} ÜBER {{SELECTION-4}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Füße",
+    "Furz",
+    "Fisch"
+   ],
+   "evidence": "Der Verdächtige bevorzugt den Geruch von {{SELECTION-1}} gegenüber dem Geruch von {{SELECTION-3}}.",
+   "familiarity": "FRIENDS",
+   "id": "108165",
+   "interrogations": [
+    "Großer Fan vom Zehengeruch, hm?",
+    "Schnupperst du mal, wenn du pupst?",
+    "Magst du Sushi?"
+   ],
+   "question": "Ordne diese Gerüche von bestem bis schlechtestem! NA LOS!",
+   "reminder": "Eklige Gerüche",
+   "starterContent": true,
+   "summary": "{{SELECTION-1}} GERUCH > {{SELECTION-3}} GERUCH"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Modedesigner",
+    "Sushi-Koch",
+    "Dentalhygieniker",
+    "Profi-Basketball-Trainer",
+    "Mathe-Lehrer"
+   ],
+   "evidence": "Der Verdächtige denkt, er ist eher vorbereitet, {{SELECTION-1}} zu sein als {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "108666",
+   "interrogations": [
+    "Hast du Erfahrung als Sporttrainer?",
+    "Wie ist deine Beziehung zur Modewelt?",
+    "Welche Mathenoten hattest du in der Schule?"
+   ],
+   "question": "Auf einer Skala von \"Toller Job!\" bis \"Gefeuert!\", ordne die folgenden Jobs danach, wie gut du ohne Vorbereitung darin wärst.",
+   "reminder": "Schwere Berufe",
+   "starterContent": false,
+   "summary": "BESSER ALS {{SELECTION-1}} ALS ALS {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "70er",
+    "80er",
+    "90er",
+    "2000er",
+    "2010er"
+   ],
+   "evidence": "Der Verdächtige liebt die Musik von {{SELECTION-1}} am meisten und die Musik von {{SELECTION-4}} am wenigsten.",
+   "familiarity": "FRIENDS",
+   "id": "108796",
+   "interrogations": [
+    "Welcher Boyband-Ära gefällt dir am besten?",
+    "Was war die erste Band, die dir gefallen hat?",
+    "Was war eines deiner schönsten Konzerterlebnisse?"
+   ],
+   "question": "Ordne die folgenden Zeiträume danach, wie sehr dir ihre Musik gefällt.",
+   "reminder": "Musikvorlieben",
+   "starterContent": false,
+   "summary": "LIEBT {{SELECTION-1}} MUSIK, {{SELECTION-5}} MUSIK NICHT SO WIRKLICH"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 6,
+   "choices": [
+    "Stärke",
+    "Geschicklichkeit",
+    "Konstitution",
+    "Intelligenz",
+    "Weisheit",
+    "Charisma"
+   ],
+   "evidence": "Bei D&D wäre der Verdächtige ein Charakter mit hoher {{SELECTION-1}}, niedriger {{SELECTION-6}}.",
+   "familiarity": "FRIENDS",
+   "id": "108798",
+   "interrogations": [
+    "Du musst an einem Wächter vorbei, was machst du?",
+    "Wie gut bist du darin, nach Fallen zu suchen?"
+   ],
+   "question": "Wenn du ein Dungeons & Dragons-Charakter wärst, ordne diese Kernfähigkeiten von deinen besten zu schlechtesten:",
+   "reminder": "D&D-Fähigkeiten",
+   "starterContent": true,
+   "summary": "VIEL {{SELECTION-1}}, WENIG {{SELECTION-6}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Ryan Gosling",
+    "Dirk Nowitzki",
+    "Lena Meyer-Landrut",
+    "Greta Thunberg",
+    "{{PLAYER}}"
+   ],
+   "evidence": "Der Verdächtige denkt, dass {{SELECTION-1}} cooler ist als {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "109029",
+   "interrogations": [
+    "Wer ist deiner Meinung nach der coolste Prominente?",
+    "Was ist das Coolste an {{PLAYER}}?"
+   ],
+   "question": "Ordne die folgenden Personen danach, wie cool du sie findest.",
+   "reminder": "Coole Leute",
+   "starterContent": false,
+   "summary": "{{SELECTION-1}} > {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 6,
+   "choices": [
+    "[i]Wer wird Millionär?[/i]",
+    "[i]Glücksrad[/i]",
+    "[i]Der Preis ist heiß[/i]",
+    "[i]Das große Backen[/i]",
+    "[i]7 vs. Wild[/i]",
+    "[i]Das Dschungelcamp[/i]"
+   ],
+   "evidence": "Der Verdächtige denkt, er wäre am schlechtesten bei {{SELECTION-6}}, dicht gefolgt von {{SELECTION-5}}.",
+   "familiarity": "FRIENDS",
+   "id": "109030",
+   "interrogations": [
+    "Was wäre ein cooler Preis in einer Spielshow?",
+    "Bitte antworte in Form einer Frage: Der Name des Verdächtigen."
+   ],
+   "question": "Ordne die folgenden Reality-/Spielshows danach, wie gut du denkst, dass du bei jeder abschneiden würdest.",
+   "reminder": "Reality-Gewinner",
+   "starterContent": false,
+   "summary": "VERLIERER BEI {{SELECTION-6}}, AUCH BEI {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "FORENSICS",
+   "choiceLimit": 7,
+   "choices": [
+    "Der Zweite Weltkrieg",
+    "Die Französische Revolution",
+    "Ukraine-Krieg",
+    "Infinity War",
+    "Die Konsolen-Kriege",
+    "Cake Wars",
+    "Krieg der Sterne"
+   ],
+   "evidence": "Der Verdächtige weiß vieeeeel mehr über {{SELECTION-1}} als über {{SELECTION-7}}.",
+   "familiarity": "FRIENDS",
+   "id": "109660",
+   "interrogations": [
+    "Bist du ein Geschichts-Nerd?",
+    "Hast du alle [i]Avengers[/i]-Filme gesehen?",
+    "Schaust du Back-Shows?"
+   ],
+   "question": "Ordne diese Kriege danach, wie viel du über sie weißt (von meisten zu wenigsten).",
+   "reminder": "Die Kunst der \"Kriege\"",
+   "starterContent": false,
+   "summary": "KENNT {{SELECTION-1}}, NICHT {{SELECTION-7}}",
+   "x": false
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 3,
+   "choices": [
+    "Weltall",
+    "Bremen",
+    "[i]Burger King[/i]"
+   ],
+   "countrySpecific": true,
+   "evidence": "Der Verdächtige würde zuerst zu {{SELECTION-1}} gehen, bevor er zu {{SELECTION-3}} geht.",
+   "familiarity": "STRANGERS",
+   "id": "114000",
+   "interrogations": [
+    "Wie gefällt dir Bremen?",
+    "Wie war dein letztes Essen bei [i]Burger King[/i]?",
+    "Was hältst du von der Raumfahrt?"
+   ],
+   "question": "Ordne diese nach der Reihenfolge, wie gerne du sie besuchen möchtest:",
+   "reminder": "Wohin geht's?",
+   "summary": "BEVORZUGT {{SELECTION-1}} VOR {{SELECTION-3}}"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "FORENSICS",
+   "choiceLimit": 3,
+   "choices": [
+    "Kölner Karneval",
+    "Antarktis",
+    "Love Island"
+   ],
+   "evidence": "Der Verdächtige würde zuerst zu {{SELECTION-1}} gehen, bevor er zu {{SELECTION-3}} geht.",
+   "familiarity": "STRANGERS",
+   "id": "114005",
+   "interrogations": [
+    "Was macht für dich eine gute Reise aus?",
+    "Was hältst du von gefrorenen Gegenden?",
+    "Magst du gerne Menschenmassen? Verkleidest du dich gerne?"
+   ],
+   "question": "Ordne diese nach der Reihenfolge, wie gerne du sie besuchen möchtest:",
+   "reminder": "Wohin geht's?",
+   "summary": "BEVORZUGT {{SELECTION-1}} VOR {{SELECTION-3}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 5,
+   "choices": [
+    "eine Karte",
+    "eine Kettensäge",
+    "Medizin",
+    "ein Pferd",
+    "Streichhölzer"
+   ],
+   "evidence": "Bei der Vorbereitung auf eine Zombie-Apokalypse möchte der Verdächtige vor allem {{SELECTION-1}} und am wenigsten {{SELECTION-5}}.",
+   "familiarity": "STRANGERS",
+   "id": "114022",
+   "interrogations": [
+    "Erzähl uns mal, wie du das mit dem Überleben angehst.",
+    "Glaubst du, du könntest eine Kettensäge bedienen?"
+   ],
+   "question": "Es ist die Zombie-Apokalypse. Ordne nach dem Grad Ihrer Notwendigkeit:",
+   "reminder": "Zombie-Kriegsbedarf",
+   "summary": "Zombies: {{SELECTION-1}} zuerst, {{SELECTION-5}} zuletzt"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "ein Spaziergang",
+    "ein Nickerchen",
+    "Filme und Serien",
+    "ein Bad",
+    "Lesen"
+   ],
+   "evidence": "Wenn es Zeit zum Energie tanken ist, bevorzugt der Verdächtige {{SELECTION-1}}, würde aber nur {{SELECTION-5}} als letzte Option wählen.",
+   "familiarity": "STRANGERS",
+   "id": "114046",
+   "interrogations": [
+    "Was bedeutet \"Auszeit\" für dich?",
+    "Kannst du leicht einschlafen?",
+    "Wo gehst du gerne spazieren?"
+   ],
+   "question": "Es ist Zeit, neue Energie zu tanken. Ordne diese Aktivitäten in der Reihenfolge, in der du sie in Betracht ziehen würdest:",
+   "reminder": "Energie-Tank",
+   "summary": "ENERGIE TANKEN: {{SELECTION-1}} zuerst, {{SELECTION-5}} zuletzt"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 5,
+   "choices": [
+    "Sauber",
+    "Schnell",
+    "Freundlich",
+    "Beliebt",
+    "In der Nähe"
+   ],
+   "evidence": "Bei der Auswahl eines Restaurants möchte der Verdächtige, dass es {{SELECTION-1}} ist, es ist ihm egal, ob es {{SELECTION-5}} ist.",
+   "familiarity": "STRANGERS",
+   "id": "114079",
+   "interrogations": [
+    "Erzähle uns von deinem Lieblingsrestaurant.",
+    "Wie wichtig ist dir Sauberkeit?",
+    "Wie weit würdest du reisen, um einen neuen Ort auszuprobieren?"
+   ],
+   "question": "Ordne diese Restaurantqualitäten nach ihrer Wichtigkeit für dich.",
+   "reminder": "Restaurantvorlieben",
+   "summary": "RESTAURANT: MÖCHTE {{SELECTION-1}} EHER ALS {{SELECTION-5}}"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Stau",
+    "Mücken",
+    "Steuern",
+    "Social Media"
+   ],
+   "evidence": "Wenn er die Wahl hätte, würde der Verdächtige zuerst {{SELECTION-1}} und zuletzt {{SELECTION-4}} loswerden wollen.",
+   "familiarity": "STRANGERS",
+   "id": "114118",
+   "interrogations": [
+    "Was stört dich im Alltag?",
+    "Wie viel denkst du über Finanzen nach?",
+    "Machst du dir Sorgen, dass du das empfindliche Gleichgewicht des Lebens stören könntest?"
+   ],
+   "question": "Wenn du Dinge komplett aus dem modernen Leben entfernen könntest, ordne sie in der Reihenfolge, in der du sie verschwinden lassen würdest:",
+   "reminder": "Mach es weg",
+   "summary": "LOSWERDEN: {{SELECTION-1}} ZUERST, {{SELECTION-4}} ZULETZT"
+  },
+  {
+   "appearance": "LATE",
+   "category": "TESTIMONY",
+   "choiceLimit": 4,
+   "choices": [
+    "Strand",
+    "Couch",
+    "Wald",
+    "Bücherei"
+   ],
+   "evidence": "Auf der Suche nach seinem \"Happy Place\" würde der Verdächtige {{SELECTION-1}} vor {{SELECTION-4}} bevorzugen.",
+   "familiarity": "STRANGERS",
+   "id": "114238",
+   "interrogations": [
+    "Erzähle uns mehr über deinen Lieblingsort.",
+    "Wie sieht ein typischer Strandbesuch für dich aus?",
+    "Was macht einen Ort für dich schön?"
+   ],
+   "question": "Ordne diese schönen Orte nach deiner Präferenz:",
+   "reminder": "Schöne Orte",
+   "summary": "SCHÖNE ORTE: {{SELECTION-1}} ZUERST, {{SELECTION-4}} ZULETZT"
+  },
+  {
+   "appearance": "LATE",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Handy",
+    "Hosen",
+    "Snacks",
+    "Seife"
+   ],
+   "evidence": "Für den Verdächtigen wäre es am schwierigsten, ohne \"{{SELECTION-1}}\" zu leben, aber nicht schwer, ohne \"{{SELECTION-4}}\" zu leben.",
+   "familiarity": "STRANGERS",
+   "id": "114373",
+   "interrogations": [
+    "Wie stehst du so zu Hosen?",
+    "Erzähl uns doch mal, wie du deine Entscheidungen getroffen hast, worauf du verzichten möchtest.",
+    "Hast du irgendwelche Lieblingssnacks?"
+   ],
+   "question": "Ordne diese Dinge danach, wie schwer es wäre, ohne sie zu leben.",
+   "reminder": "Kann nicht ohne leben",
+   "summary": "KANN NICHT OHNE LEBEN: {{SELECTION-1}} ZUERST, {{SELECTION-4}} ZULETZT"
+  },
+  {
+   "appearance": "EARLY",
+   "category": "PROFILE",
+   "choiceLimit": 4,
+   "choices": [
+    "Welpen",
+    "Brennholz",
+    "Seide",
+    "Zuckerwatte"
+   ],
+   "evidence": "Der Verdächtige hat ausgesagt, dass {{SELECTION-1}} sich besser anfühlt als {{SELECTION-4}}.",
+   "familiarity": "STRANGERS",
+   "id": "114419",
+   "interrogations": [
+    "Was macht etwas deiner Meinung nach angenehm anzufassen?",
+    "Sag uns deine Meinung zu Zuckerwatte.",
+    "Wann bist du das letzte Mal auf einen dieser Gegenstände gestoßen?"
+   ],
+   "question": "Ordne diese Dinge danach, wie schön sie sich anfühlen.",
+   "reminder": "Gute Gefühle",
+   "summary": "GEFÜHL: {{SELECTION-1}} BESSER ALS {{SELECTION-4}}"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "content": [
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Abwertenden Kommentaren"
+    },
+    {
+     "correct": false,
+     "text": "Abgelaufenen Lebensmitteln"
+    },
+    {
+     "correct": true,
+     "text": "Trivia"
+    },
+    {
+     "correct": false,
+     "text": "Kleinen Atomwaffen"
+    }
+   ],
+   "clue": "Dieses Spiel heißt Legends of...",
+   "id": "114180",
+   "isEasy": false,
+   "question": "Monster in diesem Reich greifen an mit...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ausdauer"
+    },
+    {
+     "correct": true,
+     "text": "Teamwork"
+    },
+    {
+     "correct": false,
+     "text": "Absolutes Gehör"
+    },
+    {
+     "correct": false,
+     "text": "Kenntnisse in Microsoft Excel"
+    }
+   ],
+   "clue": "Das hier ist ein TEAM-Spiel.",
+   "id": "114181",
+   "isEasy": false,
+   "question": "Dieses Spiel erfordert Wissen und...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Aktien"
+    },
+    {
+     "correct": false,
+     "text": "seltenen Briefmarken"
+    },
+    {
+     "correct": true,
+     "text": "Gold"
+    },
+    {
+     "correct": false,
+     "text": "schönen Familienfotos"
+    }
+   ],
+   "clue": "Du wirst lieben, wie es glitzert.",
+   "id": "114182",
+   "isEasy": false,
+   "question": "Sowohl eure Punktzahl als auch die eures Teams basieren auf dem Sammeln von...",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": false,
+     "text": "einen GEDANKENKRISTALL benutzt"
+    },
+    {
+     "correct": true,
+     "text": "mit dem Team REDET"
+    },
+    {
+     "correct": false,
+     "text": "es euch ganz doll WÜNSCHT"
+    },
+    {
+     "correct": false,
+     "text": "euer HIRN in die KI hochladet"
+    }
+   ],
+   "clue": "Kommunikation ist der Schlüssel!",
+   "id": "114192",
+   "isEasy": false,
+   "question": "Ihr könnt eure Überlegungen zu jeder Frage teilen, indem ihr...",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Tutorial",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Trivia-Fragen beantwortet"
+    },
+    {
+     "correct": false,
+     "text": "eure Kündigung einreicht"
+    },
+    {
+     "correct": false,
+     "text": "Diss-Tracks performt"
+    },
+    {
+     "correct": false,
+     "text": "sie ignoriert"
+    }
+   ],
+   "clue": "Brauchst du einen Hinweis für diese sehr knifflige TRIVIA-Frage?",
+   "id": "114211",
+   "isEasy": false,
+   "question": "Ihr könnt Monster verletzen, indem ihr...",
+   "theme": "FOREST"
+  }
+ ]
+}

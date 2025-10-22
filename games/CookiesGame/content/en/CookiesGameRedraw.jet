@@ -1,0 +1,652 @@
+{
+  "content": [
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112520",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es verführerischer!",
+      "weights": "DEFAULT",
+      "x": true
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112522",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es hübscher!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112524",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es trauriger.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112525",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Zieh ihm mehr Hosen an!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112527",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es fischiger!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112529",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es vieeeel zu niedlich!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114023",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es gefährlicher!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114024",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es patriotischer!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114026",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es geschäftsmäßiger!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114027",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es spiritueller!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114028",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es richtig derb!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114030",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach daraus „Wichtige Kunst!“",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114031",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es super minimalistisch!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114032",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es ... mundlastiger.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114033",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es viel anzüglicher.",
+      "weights": "DEFAULT",
+      "x": true
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114034",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es internationaler!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114036",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es sci-fi-iger!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114037",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es VIEL schlimmer anzusehen!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114039",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es mehr „Dad“-mäßig!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114040",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es französischer!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114041",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es VIEL, VIEL cooler!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114042",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach daraus eine Werbung für irgendwas!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114043",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es GRUSELIGER!!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114044",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es übelkeitserregender!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114045",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Zieh es für Coachella schick an!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114056",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es animehafter!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114057",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es provokanter.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114060",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es „historischer“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114061",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es „clowniger“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114062",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "MEHR HINTERN DRAUF.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114063",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es VIEL „respektloser“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114064",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es Arbeitsschutz-konformer!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114067",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es „normaler“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114068",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es viel deutscher!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114072",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es viel, viel abgedrehter!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114073",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es zum GENAUEN GEGENTEIL von dem, was es gerade ist.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114074",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es suuuuuuuper psychedelisch.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114075",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es mehr nach „mit KI gemacht“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114077",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es festlicher!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114262",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es um 50% „spaßiger“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114263",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es frecher!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114266",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Gib ihm einen Vibe, der sagt: „Das ist aus dem Ruder gelaufen.“",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114268",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Gib ihm mehr „cooler Onkel“-Vibes.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114274",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es bereit für eine große Partynacht!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114276",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es wissenschaftlicher!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114296",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es „romantischer“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114300",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es mehr „für Teens“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114302",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es sehr, sehr krank.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114305",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es MACHO-hafter!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114314",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es viel maritimer.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114315",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es mehr „nicht für Kinder“.",
+      "weights": "DEFAULT",
+      "x": true
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114320",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es mehr „Weltraum“-mäßig.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114331",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es richtig EDEL!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114337",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es tropischer!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114339",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es mehr „Business Casual“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114353",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es für „Pferdemädchen“ ansprechender.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114356",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Lass es in die Pubertät kommen.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114357",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es australischer!",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114362",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es für Nerds ansprechender.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114366",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es tragischer.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114387",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es ... einschüchternder.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114388",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es mehr „bereit, die Eltern kennenzulernen“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114389",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es noch mehr Misswahl-tauglich.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114390",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es „Low-Budget“-mäßiger.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114391",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es „inspirierender“.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114392",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach eine Paralleluniversums-Version von sich selbst daraus.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114393",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "starterContent": false,
+      "text": "Mach es so, dass es eher eine wertvolle Lektion vermittelt.",
+      "weights": "DEFAULT"
+    },
+    {
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "114394",
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "text": "Mach es viel snobistischer.",
+      "weights": "DEFAULT"
+    }
+  ]
+}

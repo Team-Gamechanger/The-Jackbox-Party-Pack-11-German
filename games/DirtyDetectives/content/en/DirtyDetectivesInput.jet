@@ -1,0 +1,963 @@
+{
+    "content": [
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "In einem Wort oder zwei beschreibt der Verdächtige seine Eltern als \"{{SELECTION}}\".",
+            "familiarity": "FRIENDS",
+            "id": "107175",
+            "interrogations": [
+                "Was bedeutet Familie für dich?",
+                "Bist du mit vielen Regeln aufgewachsen?"
+            ],
+            "question": "Beschreibe deine Eltern in ein oder zwei Worten.",
+            "reminder": "Meine Eltern sind...",
+            "summary": "ELTERN: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige glaubt, dass das beste Jahr seines Lebens {{SELECTION}} war.",
+            "familiarity": "STRANGERS",
+            "id": "107176",
+            "interrogations": [
+                "Sooooo...wie alt bist du?",
+                "Was denkst du über die frühen 2000er?"
+            ],
+            "question": "Welches Jahr war bisher das BESTE Jahr deines Lebens?",
+            "reminder": "Dein bestes Jahr",
+            "summary": "BESTES JAHR: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "TESTIMONY",
+            "evidence": "Die Heimatstadt des Verdächtigen, in einem Wort: \"{{SELECTION}}\"",
+            "familiarity": "STRANGERS",
+            "id": "107178",
+            "interrogations": [
+                "Wofür war deine Heimatstadt berühmt?",
+                "Welche Emotion verbindest du mit deiner Heimatstadt?"
+            ],
+            "question": "Mit welchem Adjektiv würdest du deine Heimatstadt beschreiben?",
+            "reminder": "Beschreibe deine Heimatstadt",
+            "summary": "HEIMATSTADT: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Wenn der Verdächtige sich ein Ein-Wort-Tattoo stechen lassen müsste, wäre es: \"{{SELECTION}}\"",
+            "familiarity": "FRIENDS",
+            "id": "107196",
+            "interrogations": [
+                "Was denkst du über Tattoos?",
+                "Welche Tattoos bei anderen hast du bewundert?",
+                "Was sollte ein Tattoo ausdrücken?"
+            ],
+            "question": "Wenn du dir ein Ein-Wort-Tattoo stechen lassen müsstest, welches Wort würdest du auf deinen Körper tätowieren?",
+            "reminder": "Ein-Wort-Tattoo",
+            "summary": "1-WORT TATTOO: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "EARLY",
+            "category": "TESTIMONY",
+            "evidence": "Der Verdächtige denkt, er sieht in Kleidung der Farbe {{SELECTION}} am Besten aus.",
+            "familiarity": "STRANGERS",
+            "id": "107324",
+            "interrogations": [
+                "Welcher \"Farbtyp\" bist du?",
+                "Welche Farbe bringt deine Augen zur Geltung?"
+            ],
+            "question": "Welche Kleidungsfarbe ist deine erste Wahl, wenn du gut aussehen willst?",
+            "reminder": "Angezogen in welcher Farbe?",
+            "summary": "BESTE FARBE: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Die am häufigsten benutzte App auf dem Handy des Verdächtigen ist: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107325",
+            "interrogations": [
+                "Postest du gerne oder schaust dir lieber Posts von anderen an?",
+                "Arbeitest du viel am Handy?"
+            ],
+            "question": "Welche App benutzt du am häufigsten auf deinem Handy?",
+            "reminder": "Meist benutzte App",
+            "summary": "MEIST BENUTZTE APP: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Das innere Tier des Verdächtigen (und wahrscheinliche Fursona) ist: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107327",
+            "interrogations": [
+                "Säugetier, Reptil, Fisch oder Vogel?",
+                "Hat dein Tier einen Schwanz?"
+            ],
+            "question": "Tief im Herzen, welche Art von Tier denkst du bist du? (Also deine Fursona.)",
+            "reminder": "Welches Tier?",
+            "summary": "TIER: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "TESTIMONY",
+            "evidence": "Das Gewässer, in das der Verdächtige zuletzt seine Zehen getaucht hat, war: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107328",
+            "interrogations": [
+                "War das Wasser kalt oder warm?",
+                "War das Gewässer künstlich oder natürlich?"
+            ],
+            "question": "In welches Gewässer hast du zuletzt deine Füße gesteckt?",
+            "reminder": "Füße ins Wasser",
+            "summary": "GEWÄSSER: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige liebt {{SELECTION}}, gibt aber zu, dass es ein sehr schlechter Film ist.",
+            "familiarity": "STRANGERS",
+            "id": "107331",
+            "interrogations": [
+                "Was ist dein liebster Filmgenre?",
+                "Aus welchem Jahr stammt der Film?"
+            ],
+            "question": "Welcher Film ist objektiv betrachtet schlecht, aber du liebst ihn trotzdem?",
+            "reminder": "Schlechter Film, den du liebst",
+            "summary": "SCHLECHTER FILM: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Das erste Album/Lied, das sich der Verdächtige selbst besorgt hat: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107332",
+            "interrogations": [
+                "In welchem Jahr hast du dir das Album geholt?",
+                "Von welcher Musikrichtung warst du damals Anhänger?"
+            ],
+            "question": "Was war das erste Lied/Album, das du dir selbst gekauft oder heruntergeladen hast? (Vinyl, CD, Kassette, MP3, etc.)",
+            "reminder": "Erstes Album/Lied",
+            "summary": "ERSTE MUSIK: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Was zuletzt im Mund des Verdächtigen war: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107452",
+            "interrogations": [
+                "Hast du kürzlich etwas gegessen?",
+                "Leidest du unter Pica, einer Störung, bei der man ungenießbare Dinge in den Mund nimmt?"
+            ],
+            "question": "Was hast du zuletzt in den Mund genommen?",
+            "reminder": "In deinem Mund",
+            "starterContent": false,
+            "summary": "IM MUND: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige kennt den vollständigen Text von \"{{SELECTION}}\".",
+            "familiarity": "STRANGERS",
+            "id": "107725",
+            "interrogations": [
+                "Zeig uns deine \"meistgehörten Songs\" auf deinem Handy.",
+                "Könntest du Karaoke ohne Text auf dem Bildschirm machen?"
+            ],
+            "question": "Von welchem Lied kennst du garantiert den vollständigen Text?",
+            "reminder": "Kennt jede Zeile von...",
+            "summary": "AUSWENDIG: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige denkt, er könnte die Leute davon überzeugen, ihn \"{{SELECTION}}\" zu nennen.",
+            "familiarity": "STRANGERS",
+            "id": "107727",
+            "interrogations": [
+                "Was erwartest du von einem Spitznamen?",
+                "Welchen Spitznamen von jemand anderem hast du bewundert?",
+                "Denk dir jetzt sofort einen Spitznamen für mich aus."
+            ],
+            "question": "Welchen neuen Spitznamen von dir würden die meisten deiner Bekannten akzeptieren?",
+            "reminder": "Spitzname?",
+            "starterContent": false,
+            "summary": "SPITZNAME: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige zeigt starke, unerschütterliche Markentreue zu: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107730",
+            "interrogations": [
+                "Gibt es ein Produkt, auf das du absolut schwörst?",
+                "Kaufst du Markenprodukte oder Eigenmarken?",
+                "Was ist dein liebstes Kleiderlabel?"
+            ],
+            "question": "Welcher Marke bist du besonders treu? Jede Marke!",
+            "reminder": "Markentreue",
+            "summary": "MARKE: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der verliebte Verdächtige hatte seinen ersten großen Promi-Schwarm für: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107732",
+            "interrogations": [
+                "Was ist der Hintergrund deines Schwarms? Schauspieler? Musiker?"
+            ],
+            "question": "Wer war dein erster Promi-Schwarm?",
+            "reminder": "Erster Promi-Schwarm",
+            "starterContent": true,
+            "summary": "SCHWARM: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Das letzte Live-Konzerterlebnis des Verdächtigen: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107733",
+            "interrogations": [
+                "Wer ist dein Lieblingskünstler?",
+                "Was war das beste Konzert, auf dem du je warst?"
+            ],
+            "question": "Welche Band oder welchen Künstler hast du zuletzt live gesehen?",
+            "reminder": "Letztes Live-Konzert",
+            "summary": "LIVE SHOW: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "FORENSICS",
+            "evidence": "Der dankbare Verdächtige hat einmal dieses tolle Geschenk erhalten: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107734",
+            "interrogations": [
+                "Warum schätzt du dieses Geschenk so sehr?",
+                "Ist finanzieller oder sentimentaler Wert wichtiger für dich?"
+            ],
+            "question": "Beschreibe in einem Wort das beste Geschenk, das du je erhalten hast.",
+            "reminder": "Bestes Geschenk",
+            "summary": "BESTES GESCHENK: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige beschreibt seine aktuelle Nachbarschaft als: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107736",
+            "interrogations": [
+                "Magst du, wo du wohnst?",
+                "Wie gut kennst du deine Nachbarn?",
+                "Wie lange wohnst du schon an deinem jetzigen Ort?"
+            ],
+            "question": "Mit welchem Wort würdest du deine aktuelle Nachbarschaft beschreiben?",
+            "reminder": "Beschreibe Nachbarschaft",
+            "summary": "NACHBARSCHAFT: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Jaaaaa! Der Lieblings-Muppet des Verdächtigen ist {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "107738",
+            "interrogations": [
+                "Lernen wir uns kennen, was ist dein liebster Muppet-Film?",
+                "Würdest du dich eher als Kermit oder Miss Piggy beschreiben?"
+            ],
+            "question": "Welcher Muppet ist dein Lieblings-Muppet?!",
+            "reminder": "Lieblings-Muppet",
+            "summary": "MUPPET: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "FORENSICS",
+            "evidence": "Igitt. Der Verdächtige kann den Gedanken nicht ertragen, {{SELECTION}} zu essen.",
+            "familiarity": "STRANGERS",
+            "id": "107743",
+            "interrogations": [
+                "Bist du gegen irgendetwas allergisch?",
+                "Was war die schlechteste Mahlzeit, die du je hattest?"
+            ],
+            "question": "Welches Essen kannst du nicht ausstehen?",
+            "reminder": "Ekliges Essen",
+            "starterContent": false,
+            "summary": "\"IGITT! {{SELECTION}}!\""
+        },
+        {
+            "appearance": "EARLY",
+            "category": "TESTIMONY",
+            "evidence": "Die erste Berufserfahrung des Verdächtigen war: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107745",
+            "interrogations": [
+                "Wo hast du in der Schule oder Uni gearbeitet?"
+            ],
+            "question": "Was war dein erster Job?",
+            "reminder": "Erster Job",
+            "summary": "ERSTER JOB: {{SELECTION}}",
+            "x": false
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Als Kind träumte der Verdächtige davon, {{SELECTION}} zu werden.",
+            "familiarity": "FRIENDS",
+            "id": "107746",
+            "interrogations": [
+                "Mit welchen Spielzeugen hast du als Kind am liebsten gespielt?",
+                "Wovon warst du als Kind besessen?"
+            ],
+            "question": "Was wolltest du als Kind werden, wenn du groß bist?",
+            "reminder": "Kindlicher Traumjob",
+            "summary": "TRAUMJOB: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "TESTIMONY",
+            "evidence": "Der Verdächtige könnte aus dem Stande einen Vortrag halten über: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107747",
+            "interrogations": [
+                "Irgendwelche aktuellen Popkultur-Obsessionen?",
+                "Gibt es ein Rabbid Hole, in das du dich als Teenager viel zu sehr vertieft hast?"
+            ],
+            "question": "Über welches Thema könntest du ohne Vorwarnung einen 15-Minuten-Vortrag halten?",
+            "reminder": "VORTRAG! VORTRAG!",
+            "starterContent": false,
+            "summary": "VORTRAG: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Wenn der Verdächtige ein Profi-Sportler in irgendeiner Sportart sein könnte, wäre es in: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107748",
+            "interrogations": [
+                "Welche Sportarten hast du als Kind gemacht?",
+                "Welche Sportart schaust du am liebsten?"
+            ],
+            "question": "Wenn du ein Profi-Sportler in irgendeiner Sportart sein könntest, welche wäre es?",
+            "reminder": "Sport-Profi?",
+            "starterContent": false,
+            "summary": "PROFI-SPORT: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige wünscht, er hätte jahrelange Erfahrung in: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "107757",
+            "interrogations": [
+                "Wenn du eine Zeitmaschine hättest, wozu würdest du dein jüngeres Ich ermutigen?",
+                "Worin wünschtest du gerne ein Experte?"
+            ],
+            "question": "In welcher Fähigkeit wünschtest du, du hättest bereits JAHRE an Erfahrung?",
+            "reminder": "Fähigkeiten, die du dir wünschst",
+            "starterContent": false,
+            "summary": "FÄHIGKEITS-WUNSCH: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der letzte ausgehende Anruf des Verdächtigen ging angeblich an: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "107764",
+            "interrogations": [
+                "Hast du deine Eltern kürzlich angerufen?",
+                "Wie oft telefonierst du?",
+                "Hast du kürzlich Termine vereinbart?"
+            ],
+            "question": "Ohne den Namen zu nennen, an wen war dein letzter ausgehender Anruf?",
+            "reminder": "Letzter ausgehender Anruf",
+            "starterContent": false,
+            "summary": "LETZTER ANRUF: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige präsentiert stolz {{SELECTION}} an einer seiner Wände.",
+            "familiarity": "STRANGERS",
+            "id": "107768",
+            "interrogations": [
+                "Rahmst du Kunstwerke ein?",
+                "Beschreibe deine Wohnästhetik.",
+                "Warst du schon mal auf einem Konzert?"
+            ],
+            "question": "Was hängt prominent an deinen Wänden zu Hause?",
+            "reminder": "Wandschmuck",
+            "starterContent": false,
+            "summary": "AN DER WAND: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige besitzt {{SELECTION}}, von allen Dingen! Wie einzigartig!",
+            "familiarity": "STRANGERS",
+            "id": "107947",
+            "interrogations": [
+                "Was ist dein wertvollster Besitz?",
+                "Was ist das seltsamste Ding in deinem Wohnzimmer gerade jetzt?"
+            ],
+            "question": "Was besitzt du, von dem du ziemlich sicher bist, dass es sonst niemand hier hat?",
+            "reminder": "Einzigartiger Gegenstand",
+            "starterContent": false,
+            "summary": "EINZIGARTIGER BESITZ: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige beschreibt seine Persönlichkeit als: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "108006",
+            "interrogations": [
+                "Wie ist deine generelle Lebenseinstellung?",
+                "Wie reagieren Menschen auf dich?"
+            ],
+            "question": "Mit welchem Wort würdest du deine Persönlichkeit beschreiben?",
+            "reminder": "Persönlichkeit?",
+            "starterContent": false,
+            "summary": "PERSÖNLICHKEIT: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Die erste Berufsbezeichnung des Verdächtigen: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "108145",
+            "interrogations": [
+                "Wie lange warst du in diesem Job?",
+                "Bist du in dieser Branche geblieben?"
+            ],
+            "question": "Wie war deine Berufsbezeichnung bei deinem allerersten Job?",
+            "reminder": "Erste Berufsbezeichnung",
+            "summary": "JOB-TITEL: {{SELECTION}}",
+            "x": false
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Der raumkrümmende Verdächtige wünscht, er könnte sich teleportieren nach: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "108146",
+            "interrogations": [
+                "Wünschtest du, du wärst an einem gemütlicheren Ort?"
+            ],
+            "question": "Wenn du dich sofort irgendwohin teleportieren könntest, wo würdest du hingehen?",
+            "reminder": "Teleportation",
+            "starterContent": false,
+            "summary": "TELEPORTIEREN: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Die Geburtsregion des Verdächtigen ist: \"{{SELECTION}}\".",
+            "familiarity": "STRANGERS",
+            "id": "108148",
+            "interrogations": [
+                "Welches Gewässer war dir am nächsten?",
+                "Gab es große Wahrzeichen in deiner Nähe?"
+            ],
+            "question": "Wie würdest du in wenigen Worten die Gegend nennen, in der du aufgewachsen bist?",
+            "reminder": "KINDHEITSREGION",
+            "summary": "REGION: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige denkt, er kann {{SELECTION}} Liegestütze in einer Minute schaffen.",
+            "familiarity": "FRIENDS",
+            "id": "108151",
+            "interrogations": [
+                "Ist heute Beintag oder Oberkörper?",
+                "Lust, an deiner Brust zu arbeiten?"
+            ],
+            "question": "Schnell! Wie viele Liegestütze denkst du, könntest du in einer Minute schaffen?",
+            "reminder": "LIEGESTÜTZE",
+            "starterContent": false,
+            "summary": "LIEGESTÜTZE: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Motiv des neuesten Fotos in der Bildergalerie des Verdächtigen: {{SELECTION}}.",
+            "familiarity": "STRANGERS",
+            "id": "108185",
+            "interrogations": [
+                "Machst du viele Selfies?",
+                "Du hast eine Katze oder einen Hund, stimmt's?",
+                "Wie denkst du über Food-Fotografie?"
+            ],
+            "question": "Beschreibe in ein oder zwei Worten das neueste Foto in deiner Bildergalerie.",
+            "reminder": "Letztes aufgenommenes Bild",
+            "starterContent": false,
+            "summary": "LETZTES BILD: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige verbindet das Wort \"ekelhaft\" mit: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "108688",
+            "interrogations": [
+                "Was ist etwas, das dich total anwidert?",
+                "Kannst du an etwas denken, bei dem dir leicht übel wird?"
+            ],
+            "question": "Wenn du an das Wort \"ekelhaft\" denkst, welches Bild kommt dir in den Sinn?",
+            "reminder": "\"Ekelhaft\"?",
+            "starterContent": false,
+            "summary": "\"EKELHAFT\": {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Die toxische Eigenschaft unseres Verdächtigen? {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "108755",
+            "interrogations": [
+                "Was ist deine größte Red Flag?",
+                "Welche freundliche Kritik hast du von engen Freunden oder Familie bekommen?"
+            ],
+            "question": "In ein oder zwei Worten, was ist deine toxische Eigenschaft?",
+            "reminder": "TOXISCHE EIGENSCHAFT",
+            "starterContent": false,
+            "summary": "TOXISCHE EIGENSCHAFT: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige träumt davon, Kapitän eines Schiffes namens \"{{SELECTION}}\" zu werden.",
+            "familiarity": "FRIENDS",
+            "id": "108756",
+            "interrogations": [
+                "Was macht einen guten Bootsnamen aus?",
+                "Schätzt du ein gutes nautisches Wortspiel?"
+            ],
+            "question": "Ahoy, Kapitän! Wenn du ein Boot hättest, wie würdest du es nennen?",
+            "reminder": "BOOTSNAME",
+            "starterContent": false,
+            "summary": "BOOTSNAME: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Das Wort \"Geheimnis\" erinnert den Verdächtigen an: {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "108783",
+            "interrogations": [
+                "Also was denkst du, will dir dein Unterbewusstsein sagen (oder UNS)?",
+                "War das wirklich dein ERSTER Gedanke oder was du denkst, dass wir hören wollten?"
+            ],
+            "question": "Schnell: Was ist das erste, was dir in den Sinn kommt, wenn du das Wort \"Geheimnis\" hörst?",
+            "reminder": "\"Geheimnis\"-Wort",
+            "starterContent": false,
+            "summary": "GEHEIMNIS: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Wenn der Verdächtige konvertieren müsste, würde er konvertieren zu: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "108790",
+            "interrogations": [
+                "Glaubst du an Reinkarnation?",
+                "Würdest du dich eher als religiös oder spirituell beschreiben?"
+            ],
+            "question": "Wenn du zu einer neuen Religion konvertieren müsstest, mit welcher könntest du dich anfreunden?",
+            "reminder": "Neue Religion",
+            "summary": "KONVERTIEREN ZU: {{SELECTION}}",
+            "x": false
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige behauptet, nichts über die TV-Serie [i]{{SELECTION}}[/i] zu wissen.",
+            "familiarity": "STRANGERS",
+            "id": "108837",
+            "interrogations": [
+                "Über welche Serie weißt du VIEL?",
+                "Wenn eine Serie populär ist, steigst du mit ein?"
+            ],
+            "question": "Über welche beliebte TV-Serie weißt du gar nichts?",
+            "reminder": "TV-Wissen",
+            "summary": "WEISS NICHTS: [i]{{SELECTION}}[/i]"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Das Bild des Verdächtigen steht neben dem Wort \"{{SELECTION}}\" im Wörterbuch.",
+            "familiarity": "FRIENDS",
+            "id": "108839",
+            "interrogations": [
+                "Warum würde dein Bild NICHT neben diesem Wort stehen?"
+            ],
+            "question": "Welches Wort würde, wenn du es im Wörterbuch nachschlägst, ein Bild von dir daneben haben?",
+            "reminder": "WÖRTERB. BILD",
+            "starterContent": false,
+            "summary": "DEFINITION VON: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Die Antwort des Verdächtigen darauf, wie lange er {{PLAYER}} schon kennt: {{SELECTION}}.",
+            "familiarity": "STRANGERS",
+            "id": "108917",
+            "interrogations": [
+                "Erzähl uns die Geschichte, wie ihr euch kennengelernt habt?"
+            ],
+            "question": "In ein oder zwei Worten, wie lange kennst du {{PLAYER}} schon?",
+            "reminder": "Seit wann bekannt?",
+            "starterContent": false,
+            "summary": "KENNT {{PLAYER}}: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Wie der Verdächtige eine zusätzliche Stunde seines Tages verbringen würde: {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "108993",
+            "interrogations": [
+                "Ist das wirklich, was du damit machen würdest, oder nur was du denkst, dass du machen würdest?"
+            ],
+            "question": "Wenn der Tag 25 statt 24 Stunden hätte, wie würdest du deine zusätzliche Stunde verbringen?",
+            "reminder": "Zusätzliche Stunde",
+            "starterContent": false,
+            "summary": "ZUSÄTZLICHE STUNDE: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Wenn der Verdächtige ein Videospiel-Boss wäre, wäre seine Schwachstelle: {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "109037",
+            "interrogations": [
+                "Warst du schon mal verletzt? Wo?",
+                "Hast du einen schwachen Magen?"
+            ],
+            "question": "Wenn du ein Videospiel-Boss wärst, wo wäre deine rot leuchtende Schwachstelle?",
+            "reminder": "Schwachstelle?",
+            "starterContent": false,
+            "summary": "SCHWACHSTELLE: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige sieht sich als \"Schutzpatron von {{SELECTION}}\"",
+            "familiarity": "STRANGERS",
+            "id": "109040",
+            "interrogations": [
+                "Wie würdest du deine Schutzbefohlenen unterstützen/beschützen?",
+                "Würdest du etwas abwehren oder etwas anziehen?"
+            ],
+            "question": "Wovon möchtest du der Schutzpatron sein? (Z.B.: ein Ort, eine Gruppe, ein Hobby, ein Zustand)",
+            "reminder": "Schutzpatron?",
+            "starterContent": false,
+            "summary": "Schutzpatron: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Telefonnummer, die der Verdächtige auswendig kennt, gehört zu: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "109045",
+            "interrogations": [
+                "Wähl sie für uns!",
+                "Erinnerst du dich an eine Telefonnummer wegen eines eingängigen Jingles?"
+            ],
+            "question": "Ohne den vollen Namen zu sagen, gibt es eine Person oder einen Ort, deren Telefonnummer du auswendig kennst? Wessen?",
+            "reminder": "Auswendig gelernte Tel.-Nr.",
+            "starterContent": false,
+            "summary": "TEL.-NR.: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige hat {{SELECTION}} in seinen Taschen!! Gerade jetzt!!!",
+            "familiarity": "FRIENDS",
+            "id": "109049",
+            "interrogations": [
+                "Leere deine Taschen!",
+                "Hast du Kaugummi dabei?",
+                "Wie groß ist deine Handtasche?"
+            ],
+            "question": "Was ist gerade in deiner Handtasche oder deinen Taschen?",
+            "reminder": "In deinen Taschen",
+            "starterContent": false,
+            "summary": "{{SELECTION}} IN TASCHEN"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige hat viel zu zeigen (und zu erzählen!) über: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "109050",
+            "interrogations": [
+                "Lass uns deine Show-and-Tell-Rede hören.",
+                "Bist du ein sentimentaler Mensch?",
+                "Behältst du Familienerbstücke?",
+                "Kaufst du normalerweise Reisesouvenirs?"
+            ],
+            "question": "Es ist Zeit für Erwachsenen-Show-and-Tell! Welchen Gegenstand würdest du uns gerne präsentieren?",
+            "reminder": "Show-and-Tell-Gegenstand",
+            "starterContent": false,
+            "summary": "SHOW-AND-TELL: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige würde total eine U-Bahn-Haltestange lecken für: {{SELECTION}}€",
+            "familiarity": "FRIENDS",
+            "id": "109315",
+            "interrogations": [
+                "Bist du ein Germophob oder Germophil?",
+                "Wirst du leicht krank?",
+                "Magst oder hasst du verrückte Mutproben?"
+            ],
+            "question": "Wie viel müsste dir jemand zahlen, damit du eine U-Bahn-Haltestange ableckst?",
+            "reminder": "€€ zum Lecken",
+            "starterContent": false,
+            "summary": "U-BAHN LECKEN FÜR: {{SELECTION}}€"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Menge an Bargeld, die der Verdächtige gerade dabei hat: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "109444",
+            "interrogations": [
+                "Na?? Zeig uns die Scheine!",
+                "Was hast du gerade in deinem Portemonnaie?"
+            ],
+            "question": "Wie viel Bargeld hast du gerade bei dir?",
+            "reminder": "Bargeld dabei",
+            "starterContent": false,
+            "summary": "BARGELD €€€: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige macht DIESE Sache nicht mehr so oft wie früher: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "109476",
+            "interrogations": [
+                "Hast du deine Ernährung in den letzten Jahren stark verändert?",
+                "Warst du früher Sportler?"
+            ],
+            "question": "Was ist etwas, das du früher häufig gemacht hast, aber jetzt nicht mehr machst?",
+            "reminder": "Macht ____ nicht mehr",
+            "summary": "FRÜHER GETAN: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der Verdächtige weiß genug über sich selbst, um zu wissen, dass er [i]zu sehr[/i] steht auf: {{SELECTION}}.",
+            "familiarity": "STRANGERS",
+            "id": "109521",
+            "interrogations": [
+                "Bist du normalerweise über aktuelle Ereignisse informiert?",
+                "Erzähl mir von einigen deiner größten Ärgernisse.",
+                "Wie lange kannst du in ein Gespräch gehen, ohne deinen Job zu erwähnen?"
+            ],
+            "question": "Was ist etwas (Hobby, Team, Fandom), worauf du ein bisschen ZU sehr stehst?",
+            "reminder": "Zu sehr auf ____",
+            "summary": "ZU TIEF DRIN IN: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Der Verdächtige denkt, die Ausstrahlung, die er hat, ist: {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "109757",
+            "interrogations": [
+                "Wie würdest du dein Auftreten beschreiben?",
+                "Wie würdest du GERNE wahrgenommen werden?"
+            ],
+            "question": "In ein oder zwei Worten, welche Ausstrahlung denkst du, bekommen die Leute von dir?",
+            "reminder": "Erste Ausstrahlung",
+            "summary": "AUSSTRAHLUNG: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Das möglicherweise-aspirative versteckte Talent des Verdächtigen: {{SELECTION}}",
+            "familiarity": "STRANGERS",
+            "id": "109758",
+            "interrogations": [
+                "Was ist etwas, das du kannst, das die Leute überraschen könnte?",
+                "Versteckst du dein Licht unter dem Scheffel?"
+            ],
+            "question": "Welches versteckte Talent hast du? Wenn du keins hast, welches würdest du gerne haben?",
+            "reminder": "Verstecktes Talent",
+            "summary": "VERSTECKTES TALENT: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Das Vorbild des Verdächtigen in seiner Jugend: {{SELECTION}}.",
+            "familiarity": "STRANGERS",
+            "id": "109760",
+            "interrogations": [
+                "Wer hat dich am meisten in deinem Leben beeinflusst?",
+                "Hast du zu Gleichaltrigen oder Autoritätspersonen aufgeschaut?"
+            ],
+            "question": "Wer war ein Vorbild, das du beim Aufwachsen hattest?",
+            "reminder": "Vorbild",
+            "starterContent": false,
+            "summary": "VORBILD: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "FORENSICS",
+            "evidence": "Der ohrstöpsel-suchende Verdächtige hasst den Klang von: {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "109762",
+            "interrogations": [
+                "(Kratz etwas Schiefertafel-ähnliches) Was, war das nervig?",
+                "Bist du toleranter oder leicht genervt?",
+                "Lebst du mit einem Schnarcher? Oder einem kleinen Kind?",
+                "Wie ist dein Gehör?"
+            ],
+            "question": "In ein oder zwei Worten, welches Geräusch kannst du einfach nicht ertragen?",
+            "reminder": "Schlechte Geräusche",
+            "summary": "SCHLIMMSTES GERÄUSCH: {{SELECTION}}"
+        },
+        {
+            "appearance": "EARLY",
+            "category": "TESTIMONY",
+            "evidence": "In der Schulzeit hasste der Verdächtige den Besuch von {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "109765",
+            "interrogations": [
+                "Warst du eines dieser Kinder, die es liebten, jeden Tag zur Schule zu gehen?",
+                "Willst du mir sagen, wofür KLAPKSTRI steht?"
+            ],
+            "question": "Welches Schulfach mochtest du in der Schule am wenigsten?",
+            "reminder": "Schlimmstes Fach",
+            "summary": "SCHLIMMSTES FACH: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige sagt folgendes: \"Als Kind war ich {{SELECTION}}.\"",
+            "familiarity": "STRANGERS",
+            "id": "109766",
+            "interrogations": [
+                "Erzähl uns von deiner Kindheit.",
+                "Kannst du eine Imitation von dir als Kind machen?",
+                "Wie sah ein typischer Tag aus deiner Kindheit aus?"
+            ],
+            "question": "Vervollständige in ein oder zwei Worten diesen Satz: \"Als Kind war ich...\"",
+            "reminder": "\"Als Kind...\"",
+            "starterContent": false,
+            "summary": "ALS KIND: \"{{SELECTION}}\""
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Eine Verschwörungstheorie, an die der Verdächtige so-irgendwie glaubt: {{SELECTION}}.",
+            "familiarity": "FRIENDS",
+            "id": "109768",
+            "interrogations": [
+                "Die Regierung ist ziemlich verrückt, nicht? Was denkst du??",
+                "Würdest du sagen, du bist beeinflussbar?"
+            ],
+            "question": "In wenigen Worten, welche Verschwörungstheorie glaubst du soooort von wahr ist?",
+            "reminder": "Verschwörungstheorie",
+            "starterContent": false,
+            "summary": "VERSCHWÖRUNG: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Der extrem sterbliche Verdächtige glaubt bezüglich des Jenseits: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "112432",
+            "interrogations": [
+                "Bist du ein religiöser Mensch?",
+                "Was denkst du, würdest du GERNE haben, dass dir nach dem Tod passiert?",
+                "Macht dir die Vorstellung vom Jenseits Angst?"
+            ],
+            "question": "In ein oder zwei Worten, was glaubst du passiert mit uns nach dem Tod?",
+            "reminder": "Nach dem Tod",
+            "summary": "JENSEITS: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "countrySpecific": false,
+            "evidence": "Ein Wort, das die Meinung des Verdächtigen über sein aktuelles Leben beschreibt: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "112433",
+            "interrogations": [
+                "Geht es dir besser oder schlechter als vor fünf Jahren?",
+                "Denkst du, deine Zukunft wird glücklicher oder trauriger?"
+            ],
+            "question": "Gib uns ein Wort, das beschreibt, wie du dich gerade bezüglich deines Lebens fühlst.",
+            "reminder": "Lebensgefühl",
+            "summary": "DAS LEBEN: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der Verdächtige ist bereit und vorbereitet, unters Messer zu gehen für: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "112434",
+            "interrogations": [
+                "Wie denkst du über Schönheitsoperationen?",
+                "Was würde dich im Alltag selbstbewusster machen?",
+                "Was ist deine Meinung zu extremen Piercings?"
+            ],
+            "question": "Wenn du gerade jetzt eine beliebige Wahleingriff bekommen könntest, welcher wäre es?",
+            "reminder": "Wahleingriff",
+            "summary": "OPERATION: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Der peinlich berührte Verdächtige wäre dankbar, wenn wir niemandem davon erzählen würden: {{SELECTION}}",
+            "familiarity": "FRIENDS",
+            "id": "112437",
+            "interrogations": [
+                "Bleiben peinliche Erinnerungen normalerweise lange bei dir hängen?",
+                "Lernst du etwas davon, peinlich berührt zu sein?",
+                "Würdest du dich als schamerfüllten Menschen betrachten?"
+            ],
+            "question": "Fasse in ein oder zwei Worten das Peinlichste zusammen, was du je getan hast. (Woran du denken kannst!)",
+            "reminder": "Peinliches Ereignis",
+            "summary": "PEINLICH: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "PROFILE",
+            "evidence": "Der pfennigfuchsende Verdächtige denkt, dass {{SELECTION}} heutzutage viel zu viel kostet.",
+            "familiarity": "FRIENDS",
+            "id": "112439",
+            "interrogations": [
+                "Ist etwas, das du magst, in den letzten Jahren unerwartet im Preis gestiegen?",
+                "Gibt es ein Produkt, das deiner Meinung nach gerade überhypt ist?",
+                "Gibt es eine Preiserhöhung, die dein tägliches Leben beeinflusst?"
+            ],
+            "question": "Was ist etwas, das deiner Meinung nach heutzutage VIEL zu teuer ist?",
+            "reminder": "Teure Sachen!",
+            "summary": "TEUER: {{SELECTION}}"
+        },
+        {
+            "appearance": "LATE",
+            "category": "TESTIMONY",
+            "evidence": "Der Verdächtige hat nur eine Sache zu euch allen zu sagen: \"{{SELECTION}}\"",
+            "familiarity": "FRIENDS",
+            "id": "112440",
+            "interrogations": [
+                "Was ist deine persönliche Verbindung zu diesem Wort?",
+                "Denkst du, dieses Wort soll Leute anwidern oder sie unwohl fühlen lassen?",
+                "Würdest du dieses Wort zu deiner Mutter sagen?"
+            ],
+            "question": "Was ist ein Nicht-Schimpfwort, von dem du denkst, dass es alle hier zum Winden bringen würde?",
+            "reminder": "Nicht-Schimpfwort",
+            "summary": "SCHLIMMES WORT: \"{{SELECTION}}\""
+        }
+    ]
+}

@@ -1,0 +1,969 @@
+{
+ "content": [
+  {
+   "category": "Impressionisten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Der Sternennacht-Typ"
+    },
+    {
+     "correct": false,
+     "text": "Der Sixtinische-Kapellen-Typ"
+    },
+    {
+     "correct": false,
+     "text": "Der Typ mit den schmelzenden Uhren"
+    },
+    {
+     "correct": false,
+     "text": "Die Frau mit dem Affen"
+    }
+   ],
+   "clue": "Verschwimmende Blumen, verschwimmende Sterne",
+   "id": "108025",
+   "isEasy": false,
+   "question": "Mich lieben Bilder von SONNENBLUMEN! WER ist berühmt für MALEN von schöne Bilder Sonnenblumen?!?!",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Bibelwissen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Das mit der Flut"
+    },
+    {
+     "correct": false,
+     "text": "Das mit den Geboten"
+    },
+    {
+     "correct": false,
+     "text": "Das mit dem siebenköpfigen Biest"
+    },
+    {
+     "correct": false,
+     "text": "Das, in dem David gegen einen großen Typen kämpft"
+    }
+   ],
+   "clue": "Die Antwort könnte einen Föhn vertragen",
+   "id": "109726",
+   "isEasy": false,
+   "question": "Menschliche RIPPEN lecker! In WAS FÜR BUCH von Bibel wurde Eva aus leckerer Rippe gemacht?",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Sternbilder",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Das, das wie ein Jäger aussieht"
+    },
+    {
+     "correct": true,
+     "text": "Das, das wie ein “W” aussieht"
+    },
+    {
+     "correct": false,
+     "text": "Das, das wie ein Bär aussieht"
+    },
+    {
+     "correct": false,
+     "text": "Das, das wie ein “R” aussieht"
+    }
+   ],
+   "clue": "Es ist einer der Buchstaben",
+   "id": "111870",
+   "isEasy": false,
+   "question": "Sterne schön... Kassler lecker. Welches Sternbild ist Kassiopeia?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Cuisine",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Wenn du PITA magst, dann sicherlich!"
+    },
+    {
+     "correct": false,
+     "text": "Wenn du BABA GHANOUSH magst, klaro!"
+    },
+    {
+     "correct": true,
+     "text": "Wenn du HUMMUS magst, dann ja!"
+    },
+    {
+     "correct": false,
+     "text": "Wenn du TSATSIKI magst, absolut!"
+    }
+   ],
+   "clue": "Hast du Hummger?",
+   "id": "112592",
+   "isEasy": false,
+   "question": "Ich mögen Kichererbsen? Ich denken ich mögen Kichererbsen.",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Skelett",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die MAXILLA?"
+    },
+    {
+     "correct": false,
+     "text": "Die CLAVICULA?"
+    },
+    {
+     "correct": false,
+     "text": "Der KOKZYX?"
+    },
+    {
+     "correct": false,
+     "text": "Die ULNA?"
+    }
+   ],
+   "clue": "Cousin to Godzilla",
+   "id": "112593",
+   "isEasy": false,
+   "question": "ICH SAUER! MICH BRECHEN EUER... EUER... ähh, der Knochen... direkt unter euer Nase drunter... klar?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Kochstunde",
+   "choices": [
+    {
+     "correct": false,
+     "text": "44 bis 47 Grad Celsius"
+    },
+    {
+     "correct": true,
+     "text": "48 bis 54 Grad Celsius"
+    },
+    {
+     "correct": false,
+     "text": "55 bis 59 Grad Celsius"
+    },
+    {
+     "correct": false,
+     "text": "65 bis 70 Grad Celsius"
+    }
+   ],
+   "clue": "Alles über 55 Grad Celsius ist zu durch.",
+   "id": "112594",
+   "isEasy": false,
+   "question": "ICH ESSEN EUER FLEISCH!!! MEDIUM RARE WIE STEAK!!! UND... und... was für Temperatur ich euch dafür kochen muss?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Warum ist das beliebt",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Klar... Böse Toiletten bekämpfen gute Kameraleute?"
+    },
+    {
+     "correct": false,
+     "text": "Ähh... Gute Toiletten bekämpfen böse Echsenleute?"
+    },
+    {
+     "correct": false,
+     "text": "Ich glaube... Böse Toiletten bekämpfen gute Eisverkäufer?"
+    },
+    {
+     "correct": false,
+     "text": "Es geht um gute Toiletten gegen dreckige Unterwäsche, richtig?"
+    }
+   ],
+   "clue": "Und Fernseher und Lautsprecher.",
+   "id": "112595",
+   "isEasy": false,
+   "question": "HAHAHAHAHAHAHA! ICH GESEHEN SKIBIDI TOILET HEUTE! IHR KENNEN DAS?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Urlaubsgebiete",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Entspann' dich. Sie ist nahe an NEAPEL"
+    },
+    {
+     "correct": false,
+     "text": "Alles gut. Geh' einfach nach NIZZA"
+    },
+    {
+     "correct": false,
+     "text": "Kein Problem. Sie ist direkt neben ATHEN"
+    },
+    {
+     "correct": false,
+     "text": "Ruhig, Großer. Sie ist bei BARCELONA"
+    }
+   ],
+   "clue": "Ob Mailand oder Madrid, hauptsache ITALIEN.",
+   "id": "112596",
+   "isEasy": false,
+   "question": "Mich AUFGEREGT. Nächsten Monat Urlaub. Amalfiküste. ABER MICH NICHT WISSEN WO DAS SEIN!!!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Krankheiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Entspann dich. Es ist ein EINGEWACHSENER ZEHENNAGEL"
+    },
+    {
+     "correct": false,
+     "text": "Alles gut. Es ist nur MUNDGERUCH"
+    },
+    {
+     "correct": false,
+     "text": "Keine Sorge. Es ist ZU VIEL OHRENSCHMALZ"
+    },
+    {
+     "correct": false,
+     "text": "Beruhig dich einfach. Das bedeutet HEUSCHNUPFEN"
+    }
+   ],
+   "clue": "Du lässt dich von dieser Frage aber nicht festnageln, oder?",
+   "id": "112639",
+   "isEasy": false,
+   "question": "O nein! Doktor sagt ich haben ONYCHOCRYPTOSIS!!! Was mich soll tun?!",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Kid Music",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Es ist COCOMELON. Du musst atmen."
+    },
+    {
+     "correct": false,
+     "text": "Das ist ein Lied von BLIPPI. Entspann' dich."
+    },
+    {
+     "correct": true,
+     "text": "Es ist auf PINKFONG, Großer"
+    },
+    {
+     "correct": false,
+     "text": "Schau' mal auf RYAN’S WORLD vorbei?"
+    }
+   ],
+   "clue": "Ob Babyhaie ins Meer PINKeln?",
+   "id": "112678",
+   "isEasy": false,
+   "question": "AH!!! MICH SO WÜTEND!!! MUSS ENTSPANNEN! BRAUCHE “BABY SHARK”!!! DAS BERÜHMTE. WO FINDEN DAS?!",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Historisches Fernsehen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "In der heutigen Ukraine"
+    },
+    {
+     "correct": false,
+     "text": "Im heutigen Belarus"
+    },
+    {
+     "correct": false,
+     "text": "In der heutigen Republik Moldau"
+    },
+    {
+     "correct": false,
+     "text": "Im heutigen Estland"
+    }
+   ],
+   "clue": "U steht für Uran-235 uuuuuunnnddd...",
+   "id": "112681",
+   "isEasy": false,
+   "question": "Ihr geschaut Sendung [i]Chernobyl[/i]? Krasses Zeug. Wo das passiert?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Fliegen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Keplersches Gesetz"
+    },
+    {
+     "correct": false,
+     "text": "Archimedisches Prinzip"
+    },
+    {
+     "correct": false,
+     "text": "Viertes Newtonsche Prinzip"
+    },
+    {
+     "correct": true,
+     "text": "Bernoulli-Gleichung"
+    }
+   ],
+   "clue": "Also ein Prinzip ist es prinzipiell nicht.",
+   "id": "112683",
+   "isEasy": false,
+   "question": "Entscheidet Wette für uns! Mein Esel sagt, Flugzeug fliegt mit Zauberei. Mich sagen, Druckunterschied verursacht Auftrieb, bekannt als...",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Cartoontiere",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Lustige Australian Cattle Dogs"
+    },
+    {
+     "correct": false,
+     "text": "Lustige Beagles"
+    },
+    {
+     "correct": false,
+     "text": "Lustige Retriever"
+    },
+    {
+     "correct": false,
+     "text": "Lustige Bulldoggen"
+    }
+   ],
+   "clue": "Diese Kinder aus Brisbane haben einfach immer gute Laune!",
+   "id": "112684",
+   "isEasy": false,
+   "question": "Mich wollen treffen [i]Bluey[/i] und Bingo! So lustige Hunde!!! Genauer sind spezifisch...",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Mythologisches Dating",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die haben KOPF und FLÜGEL wie ein ADLER und den KÖRPER eines LÖWEN"
+    },
+    {
+     "correct": false,
+     "text": "Die haben einen MENSCHLICHEN TORSO und die BEINE eines PFERDES"
+    },
+    {
+     "correct": false,
+     "text": "Die haben den KÖRPER eines DRACHENS und den KOPF eines WOLFES"
+    },
+    {
+     "correct": false,
+     "text": "Die haben den KOPF eines WOLFES und den KÖRPER einer SCHLANGE"
+    }
+   ],
+   "clue": "Dieser Troll würde den Löwenanteil der scharfen Flügel essen.",
+   "id": "112686",
+   "isEasy": false,
+   "question": "Mich haben auf Dating-App mit Greif gematcht, aber kein Bild da!!! Wie einer aussehen?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Schauspieler",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Der Typ, der groß und klein wird"
+    },
+    {
+     "correct": true,
+     "text": "Der Zauberer, der Portale macht"
+    },
+    {
+     "correct": false,
+     "text": "Der Baum mit den Weltraumleuten"
+    },
+    {
+     "correct": false,
+     "text": "Du weißt schon, der Typ im Katzenanzug"
+    }
+   ],
+   "clue": "Benedict Cumberbatch ist weder eine Katze, noch ein Baum",
+   "id": "112757",
+   "isEasy": false,
+   "question": "So VERWIRREND! Welcher SUPERHELD MARVEL-HELD ist auch kluger DETEKTIV HOLMES aus BBC-Serie?!",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Kleinkram",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ein Isotop"
+    },
+    {
+     "correct": false,
+     "text": "Ein Lanthanoid"
+    },
+    {
+     "correct": false,
+     "text": "Ein Ion"
+    },
+    {
+     "correct": true,
+     "text": "Ein Lepton"
+    }
+   ],
+   "clue": "Die richtige Antwort ist kein Tee, auch wenn sie ähnlich klingt.",
+   "id": "112901",
+   "isEasy": false,
+   "question": "Mich zerschlagen euch in KLEINE STÜCKE!! Kleiner als MOLEKÜL oder ATOM!!! Ähhm, was ist noch kleinerer?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Hirn-Wissenschaft",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Deine MEDULA OBLONGATA!"
+    },
+    {
+     "correct": true,
+     "text": "Deine AMYGDALA!"
+    },
+    {
+     "correct": false,
+     "text": "Dein OCCIPITALLAPPEN!"
+    },
+    {
+     "correct": false,
+     "text": "Dein THALAMUS!!!"
+    }
+   ],
+   "clue": "Im Zweifel, nimm eine kurze.",
+   "id": "112903",
+   "isEasy": false,
+   "question": "MICH SO WÜTEND!!! WELCHER TEIL VOM MEIN HIRN MACHT WUT?!",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Tier-Dating",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mit einem MÄNNLICHEN ESEL und einem WEIBLICHEN PFERD"
+    },
+    {
+     "correct": false,
+     "text": "Mit einem MÄNNLICHEN PFERD und einem WEIBLICHEN MAULESEL"
+    },
+    {
+     "correct": false,
+     "text": "Mit einem MÄNNLICHEN PFERD und einem WEIBLICHEN ESEL"
+    },
+    {
+     "correct": false,
+     "text": "Mit einem MÄNNLICHEN ESEL und einem WEIBLICHEN MAULESEL"
+    }
+   ],
+   "clue": "Manchmal lohnt es sich, das Pferd von hinten aufzuzäumen.",
+   "id": "112904",
+   "isEasy": false,
+   "question": "Ich und Esel streiten. Er sagt Menschen machten MAULTIERE... sind Hybriden. Wie macht man Maultier?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Antike Geschichte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Alexander der Große?"
+    },
+    {
+     "correct": false,
+     "text": "Tutanchamun?"
+    },
+    {
+     "correct": false,
+     "text": "Dschingis Khan?"
+    },
+    {
+     "correct": true,
+     "text": "Karl der Große?"
+    }
+   ],
+   "clue": "Diese Frage ist echt eine kaiserliche Ausgeburt.",
+   "id": "112905",
+   "isEasy": false,
+   "question": "Mich alt!!! Mich geboren in ERSTES JAHRHUNDERT N. CHR.!!! Wer auch geboren in gleiches Jahrhundert wie ich?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Menschliche Anatomie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "In die OBERE RECHTE Seite meines Bauches"
+    },
+    {
+     "correct": true,
+     "text": "Beiß in die UNTERE RECHTE Seite"
+    },
+    {
+     "correct": false,
+     "text": "Du musst dich LINKS UNTEN halten"
+    },
+    {
+     "correct": false,
+     "text": "Oben links befindet sich „Blinddarmhausen“"
+    }
+   ],
+   "clue": "Bei Trivia-Fragen wie in Labyrinthen: Im Zweifel immer rechts!",
+   "id": "113249",
+   "isEasy": false,
+   "question": "Mich essen euer Blinddarm als GAUMENFREUDE! Aber... wo muss in Bauch beißen, zum ihn finden?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Persönlichkeitstests",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Es ist ein Myers-Briggs-Test"
+    },
+    {
+     "correct": false,
+     "text": "Das ist ein Enneagramm-Test"
+    },
+    {
+     "correct": false,
+     "text": "Du hast einen DISG-Test gemacht, Großer"
+    },
+    {
+     "correct": false,
+     "text": "DU hast einen ISTQB-Test gemacht?!"
+    }
+   ],
+   "clue": "Der Test mit NEUN möglichen Ergebnissen ist FALSCH.",
+   "id": "113252",
+   "isEasy": false,
+   "question": "Mich haben total schweren Test gemacht und gefunden heraus, dass TOTALER INFP bin! Test hat geheißt… äh…",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Disney-Tiere",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Robin Hood[/i]?"
+    },
+    {
+     "correct": false,
+     "text": "[i]Pinocchio[/i]?"
+    },
+    {
+     "correct": true,
+     "text": "[i]Pocahontas[/i]?"
+    },
+    {
+     "correct": false,
+     "text": "[i]Zoomania[/i]?"
+    }
+   ],
+   "clue": "Versuche zu malen wie das Farbenspiel des Winds.",
+   "id": "113295",
+   "isEasy": false,
+   "question": "Grrr, ich HASSE Füchse! Mich wollen Disney-Film OHNE FÜCHSE!!",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Höhlen-Erdkunde",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Leb' doch in Frankreich"
+    },
+    {
+     "correct": false,
+     "text": "Leb' doch in Mexiko"
+    },
+    {
+     "correct": true,
+     "text": "Leb' doch in den USA"
+    },
+    {
+     "correct": false,
+     "text": "Leb' doch in China"
+    }
+   ],
+   "clue": "Es handelt sich um die Mammoth Cave.",
+   "id": "113296",
+   "isEasy": false,
+   "question": "SEUFZ. Mich einfach nur weglaufen wollen und leben in Land mit LÄNGSTER HÖHLE DER WELT!",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Waffenarten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Das ist ein Dao"
+    },
+    {
+     "correct": true,
+     "text": "Das ist ein Katana"
+    },
+    {
+     "correct": false,
+     "text": "Das ist ein Jian"
+    },
+    {
+     "correct": false,
+     "text": "Das ist ein Shotel"
+    }
+   ],
+   "clue": "Das Wort endet mit einem Vokal.",
+   "id": "113298",
+   "isEasy": false,
+   "question": "Hm... Was DAS in meine Kotze? Sieht aus wie... GEBOGENES SCHWERT? Aus JAPAN?!?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Modehäuser",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Coole GUCCI-Hose!"
+    },
+    {
+     "correct": false,
+     "text": "Wunderschöne DIOR-Hose!"
+    },
+    {
+     "correct": false,
+     "text": "Niedliche DOLCE & GABBANA-Hose!"
+    },
+    {
+     "correct": false,
+     "text": "Krasse PRADA-Hose!"
+    }
+   ],
+   "clue": "Zwei Silben voller Prunk.",
+   "id": "113299",
+   "isEasy": false,
+   "question": "Keine Komplimente für coole Oger-Hose?! Aber wurden von großer Modefirma aus Florenz gemacht!!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Tierfähigkeiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Richtig, die SCHLEIEREULE kann das auch nicht"
+    },
+    {
+     "correct": false,
+     "text": "Ja, der BELUGA kann das auch nicht"
+    },
+    {
+     "correct": false,
+     "text": "Jep, die LANGOHRFLEDERMAUS kann das auch nicht"
+    },
+    {
+     "correct": false,
+     "text": "Sicher, der SPINNERDELFIN kann das auch nicht"
+    }
+   ],
+   "clue": "Ein gefiedertes Wesen",
+   "id": "113300",
+   "isEasy": false,
+   "question": "OKAY, mich zum Jagen keine Echo-Ortung am benutzen. NA UND?! Mich nicht der Einzigste!",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Popmusik",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Logo, es ist ein Song von One Direction"
+    },
+    {
+     "correct": false,
+     "text": "Ja, es ist ein Song von den Jonas Brothers"
+    },
+    {
+     "correct": true,
+     "text": "Genau, es ist ein Song von BTS"
+    },
+    {
+     "correct": false,
+     "text": "Entspann dich, es ist ein Song von Sabrina Carpenter"
+    }
+   ],
+   "clue": "Spül' die Butter mit etwas K-Pop herunter.",
+   "id": "113301",
+   "isEasy": false,
+   "question": "Mich verwirrt! Wissen, dass Butter von Kuh kommt! Aber manche am sagen, dass „Butter“ von Barde stammt?!?!",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Food History",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nach Hefeteig mit Quark-Vanillepudding-Schichten"
+    },
+    {
+     "correct": false,
+     "text": "Nach Mohnkuchen mit Äpfeln und Zuckerguss"
+    },
+    {
+     "correct": false,
+     "text": "Nach Mürbteigboden mit cremiger Quark-Eier-Masse"
+    },
+    {
+     "correct": true,
+     "text": "Nach Nuss-Baiser-Boden mit Kaffee-Buttercreme"
+    }
+   ],
+   "clue": "Wer denkt nicht gerne an Agnes Bernauer beim Genuss einer Mandel-Schichttorte?",
+   "id": "113305",
+   "isEasy": false,
+   "question": "Mich lieben AGNES-BERNAUER-TORTE... aber schmeckt gar nicht nach Agnes Bernauer! WONACH SCHMECKEN TORTE DANN!?!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "NOUVELLE VAGUE",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Ooh, Agnès Varda!"
+    },
+    {
+     "correct": false,
+     "text": "Es ist Jacques Cousteau!"
+    },
+    {
+     "correct": false,
+     "text": "Du denkst an Denis Villeneuve!"
+    },
+    {
+     "correct": false,
+     "text": "Schön, dass du ein Fan von Jane Campion bist."
+    }
+   ],
+   "clue": "C’est une femme!",
+   "id": "113307",
+   "isEasy": false,
+   "question": "Mich bewundern Ablehnung konventioneller Filmtechniken durch französische NOUVELLE VAGUE. Besonders vom Regisseur... er oder sie hieß... äh...",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Zahnmedizin",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Halitosis. Du hast Halitosis."
+    },
+    {
+     "correct": false,
+     "text": "Es ist Parodontitis, Kumpel."
+    },
+    {
+     "correct": false,
+     "text": "Hyperdontie bedeutet „Mundgeruch“."
+    },
+    {
+     "correct": false,
+     "text": "Das ist Bruxismus!"
+    }
+   ],
+   "clue": "„Hyperdontie“ bedeutet zu viele Zähne zu haben!",
+   "id": "113310",
+   "isEasy": false,
+   "question": "Mich kürzlich informiert, mich Atem riecht „schlecht“. Aber Zahnarzt benutzte schlaues Wort dafür... Wort war... urghhh...",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Autoteile",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kühlt den Motor deines Autos"
+    },
+    {
+     "correct": true,
+     "text": "Reduziert die Schadstoffemissionen deines Autos"
+    },
+    {
+     "correct": false,
+     "text": "Lagert die Bremsflüssigkeit deines Autos"
+    },
+    {
+     "correct": false,
+     "text": "Wandelt chemische in elektrische Energie um"
+    }
+   ],
+   "clue": "Dank des Katalysators kann dein Auto auch in die Umweltzone.",
+   "countrySpecific": false,
+   "id": "113452",
+   "isEasy": false,
+   "question": "Einst königlicher Ritter wurde ausgesandt, zum Stehlen vom mein KATALYSATOR! GRAH! Aber... was macht der überhaupt??",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Paarkurse",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die Geburt... Glückwunsch!!"
+    },
+    {
+     "correct": false,
+     "text": "Yoga für Paare... Gute Idee!"
+    },
+    {
+     "correct": false,
+     "text": "Gesellschaftstanz... Sehr schick!"
+    },
+    {
+     "correct": false,
+     "text": "Gemeinsame Finanzplanung als Paar... Clever!"
+    }
+   ],
+   "clue": "Es geht weder um Tanzen noch um Finanzen!",
+   "id": "113456",
+   "isEasy": false,
+   "question": "Mein Frau und mich haben angemeldet für LAMAZE-KURS! Wir lernen... äh... was wir lernen...?",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Wo ist das Fleisch",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Wagyu kommt aus Japan."
+    },
+    {
+     "correct": false,
+     "text": "Wagyu ist aus China!"
+    },
+    {
+     "correct": false,
+     "text": "Wagyu stammt aus Korea."
+    },
+    {
+     "correct": false,
+     "text": "Wagyu ist Rindfleisch aus Thailand!"
+    }
+   ],
+   "clue": "Die richtige Landesflagge hat einen Kreis!",
+   "id": "113464",
+   "isEasy": false,
+   "question": "Mich liebste Fleischsorte MENSCH und WAGYU! Gleich es lecker schmecker Mensch geben... aber wo mich finden Wagyu?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Historische Größen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sie regierte Schweden"
+    },
+    {
+     "correct": false,
+     "text": "Sie regierte Frankreich"
+    },
+    {
+     "correct": true,
+     "text": "Sie regierte Russland"
+    },
+    {
+     "correct": false,
+     "text": "Sie regierte das Britische Weltreich"
+    }
+   ],
+   "clue": "Sie ist in Deutschland geboren, regierte aber östlich ihrer Heimat.",
+   "id": "113478",
+   "isEasy": false,
+   "question": "Ehrlich, mich kein guter Troll, aber GROSS! Aber warum Katharina die Große SOOOOO VIEL MEHR GROSS gewesen?!?!",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Stilfarben",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Du bist ein FRÜHLING"
+    },
+    {
+     "correct": false,
+     "text": "Du bist ein SOMMER"
+    },
+    {
+     "correct": true,
+     "text": "Du bist ein HERBST"
+    },
+    {
+     "correct": false,
+     "text": "Du bist ein WINTER"
+    }
+   ],
+   "clue": "Verwelke bloß nicht in deiner Modefalle.",
+   "id": "113510",
+   "isEasy": false,
+   "question": "Mein Esel MODEGURU & STILIKONE! Er sagen, meine Merkmale sind warm, gedämpft UND kontrastarm... WAS DIES BEDEUTEN?!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Wissenschaft",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Vitamin A"
+    },
+    {
+     "correct": false,
+     "text": "Vitamin B"
+    },
+    {
+     "correct": true,
+     "text": "Vitamin D"
+    },
+    {
+     "correct": false,
+     "text": "Vitamin K"
+    }
+   ],
+   "clue": "Es ist ein Buchstabe, der in diesem Tipp enthalten ist.",
+   "id": "113531",
+   "isEasy": false,
+   "question": "Sonne so HEISS! Aber mich brauchen VITAMIN! Welche Vitamin!?!",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Griechische Mythologie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ja, Zeus' Vater war Poseidon."
+    },
+    {
+     "correct": true,
+     "text": "Sicher, Zeus' Vater war Kronos."
+    },
+    {
+     "correct": false,
+     "text": "Jep, Zeus' Vater war Uranus."
+    },
+    {
+     "correct": false,
+     "text": "Na logo, Zeus' Vater war Gaia."
+    }
+   ],
+   "clue": "Poseidon war sein Bruder.",
+   "id": "113533",
+   "isEasy": false,
+   "question": "Zeus Papi von griechische Göttern! Aber Zeus hatte auch PAPI?!",
+   "theme": "MOUNTAIN"
+  }
+ ]
+}

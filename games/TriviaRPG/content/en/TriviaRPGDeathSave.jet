@@ -1,0 +1,124 @@
+{
+ "content": [
+  {
+   "correct": true,
+   "id": "106983",
+   "question": "Die meisten Menschen haben 24 Rippen."
+  },
+  {
+   "correct": true,
+   "id": "106984",
+   "question": "Es gibt 7 Kontinente."
+  },
+  {
+   "correct": false,
+   "id": "106985",
+   "question": "Facebook kam vor MySpace auf den Markt."
+  },
+  {
+   "correct": true,
+   "id": "106987",
+   "question": "Lizzo hat den Song „Pink“ für den Film [i]Barbie[/i] aufgenommen."
+  },
+  {
+   "correct": true,
+   "id": "106988",
+   "question": "Der Satz des Pythagoras lautet a² + b² = c²."
+  },
+  {
+   "correct": true,
+   "id": "106989",
+   "question": "Muhammad Ali ist ein olympischer Goldmedaillengewinner."
+  },
+  {
+   "correct": true,
+   "id": "106990",
+   "question": "Der Boxeraufstand fand in China statt."
+  },
+  {
+   "correct": false,
+   "id": "106993",
+   "question": "Der Yukon ist ein Automodell von Ford."
+  },
+  {
+   "correct": true,
+   "id": "106996",
+   "question": "Aphrodite ist die griechische Göttin der Schönheit."
+  },
+  {
+   "correct": false,
+   "id": "106997",
+   "question": "H.G. Wells hat [i]20.000 Meilen unter dem Meer[/i] geschrieben."
+  },
+  {
+   "correct": true,
+   "id": "106999",
+   "question": "Paddington Bär wurde von der Familie Brown aufgenommen."
+  },
+  {
+   "correct": false,
+   "id": "107000",
+   "question": "Sashimi wird in Reis gerollt."
+  },
+  {
+   "correct": false,
+   "id": "107057",
+   "question": "Der weltberühmte Yellowstone-Nationalpark liegt zur Hälfte in Kanada."
+  },
+  {
+   "correct": true,
+   "id": "107059",
+   "question": "Snoopy ist ein Beagle."
+  },
+  {
+   "correct": false,
+   "id": "107060",
+   "question": "Scooby-Doo ist ein Bernhardiner."
+  },
+  {
+   "correct": true,
+   "id": "107061",
+   "question": "Lassie ist ein Collie."
+  },
+  {
+   "correct": true,
+   "id": "107062",
+   "question": "Der Sudan ist das Land mit den meisten Pyramiden."
+  },
+  {
+   "correct": false,
+   "id": "107066",
+   "question": "Gebiete Afrikas liegen in 3 der 4 Hemisphären."
+  },
+  {
+   "correct": false,
+   "id": "107067",
+   "question": "Ikterus ist eine Erkrankung, welche die Haut blau färbt."
+  },
+  {
+   "correct": false,
+   "id": "107068",
+   "question": "Lionel Messi spielte für Deutschland bei der Weltmeisterschaft 2005."
+  },
+  {
+   "correct": true,
+   "id": "107070",
+   "question": "Der Tyrannosaurus Rex lebte in der Kreidezeit."
+  },
+  {
+   "correct": true,
+   "id": "107071",
+   "question": "Die Atmosphäre der Venus besteht größtenteils aus Kohlendioxid."
+  },
+  {
+   "correct": true,
+   "id": "107072",
+   "question": "Der Hundertjährige Krieg dauerte 116 Jahre."
+  },
+  {
+   "correct": false,
+   "id": "107073",
+   "question": "Traditionell enthält Eierlikör eigentlich KEINE Eier."
+  }
+ ]
+}

@@ -1,0 +1,813 @@
+{
+ "content": [
+  {
+   "category": "Echte Wunder",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Feuer"
+    },
+    {
+     "correct": true,
+     "text": "Erdbeben"
+    },
+    {
+     "correct": false,
+     "text": "Stürme"
+    },
+    {
+     "correct": false,
+     "text": "Kriege"
+    }
+   ],
+   "clue": "Früher war dein Bogen heiß, jetzt bist du zittrig",
+   "id": "109328",
+   "isEasy": false,
+   "question": "*Knirsch**Knirsch*.... Welche zwei Dinge haben die meisten der sieben Weltwunder zerstört?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Metallologie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kupfer"
+    },
+    {
+     "correct": false,
+     "text": "Eisen"
+    },
+    {
+     "correct": false,
+     "text": "Gold"
+    },
+    {
+     "correct": true,
+     "text": "Zinn"
+    }
+   ],
+   "clue": "Becher werden oft aus diesen beiden Metallen hergestellt",
+   "id": "109673",
+   "isEasy": false,
+   "question": "Meine Kochtöpfe aus Bronze bestehen hauptsächlich aus einer Legierung aus welchen beiden Metallen?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Weltraumkram",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Merkur"
+    },
+    {
+     "correct": true,
+     "text": "Venus"
+    },
+    {
+     "correct": false,
+     "text": "Mars"
+    },
+    {
+     "correct": false,
+     "text": "Saturn"
+    }
+   ],
+   "clue": "Rasierer-Werbung in der Münchener Zeitung",
+   "id": "109674",
+   "isEasy": false,
+   "question": "Welche zwei Planeten haben KEINE Monde?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Naturprüfung",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ägypten"
+    },
+    {
+     "correct": true,
+     "text": "Vereinigte Staaten von Amerika"
+    },
+    {
+     "correct": false,
+     "text": "Australien"
+    },
+    {
+     "correct": true,
+     "text": "China"
+    }
+   ],
+   "clue": "Die anderen beiden haben Krokodile",
+   "id": "109871",
+   "isEasy": false,
+   "question": "In welchen beiden Ländern kommen Alligatoren heimisch vor?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Wappen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Koala"
+    },
+    {
+     "correct": true,
+     "text": "Känguru"
+    },
+    {
+     "correct": true,
+     "text": "Emu"
+    },
+    {
+     "correct": false,
+     "text": "Ameisenigel"
+    }
+   ],
+   "clue": "Beide reimen sich auf „ScoobyDoo“",
+   "id": "109873",
+   "isEasy": false,
+   "question": "Das Wappen Australiens zeigt einen Schild, der von welchen beiden Tieren gehalten wird?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "2000er-Kino",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Shrek 2[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]X-Men 2[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]2 Fast 2 Furious[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Spider-Man 2[/i]"
+    }
+   ],
+   "clue": "Der tollkühne Spinnenmann kehrt zurück!",
+   "id": "109874",
+   "isEasy": false,
+   "question": "Welche zwei der folgenden Filme kamen 2004 heraus?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Bierkunden",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Vereinigtes Königreich"
+    },
+    {
+     "correct": false,
+     "text": "Irland"
+    },
+    {
+     "correct": true,
+     "text": "Nigeria"
+    },
+    {
+     "correct": false,
+     "text": "Vereinigte Staaten von Amerika"
+    }
+   ],
+   "clue": "Eine Antwort ist vielleicht unerwartet",
+   "id": "109876",
+   "isEasy": false,
+   "question": "Welche beiden Länder sind die größten Konsumenten des Stout-Biers Guinness?",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "DIE UNTOTEN",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Evil Dead[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Braindead[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Dead Silence[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Land of the Dead[/i]"
+    }
+   ],
+   "clue": "Herr, lass es in diesem Lande Hirn regnen",
+   "id": "110092",
+   "isEasy": false,
+   "question": "In welchen beiden dieser Filme kommen Zombies vor?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "PRODUKTE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "iPod"
+    },
+    {
+     "correct": false,
+     "text": "Xbox"
+    },
+    {
+     "correct": true,
+     "text": "Swiffer"
+    },
+    {
+     "correct": true,
+     "text": "SodaStream"
+    }
+   ],
+   "clue": "Der StaubStream hört nie auf!",
+   "id": "110094",
+   "isEasy": false,
+   "question": "Welche beiden Produkte wurden vor dem Jahr 2000 erfunden?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "DIE SCHMIEDE",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Stahl"
+    },
+    {
+     "correct": false,
+     "text": "Eisen"
+    },
+    {
+     "correct": false,
+     "text": "Blei"
+    },
+    {
+     "correct": true,
+     "text": "Bronze"
+    }
+   ],
+   "clue": "Ich stahl die Bronzemedaille",
+   "id": "110095",
+   "isEasy": false,
+   "question": "*Schmatz*.... Welche dieser beiden knusprigen Snacks sind Legierungen?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Krankheiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Tollwut"
+    },
+    {
+     "correct": false,
+     "text": "Streptokokken-Halsentzündung"
+    },
+    {
+     "correct": true,
+     "text": "Windpocken"
+    },
+    {
+     "correct": false,
+     "text": "Fußpilz"
+    }
+   ],
+   "clue": "Die mit Körperteilen im Namen sind falsch",
+   "id": "110096",
+   "isEasy": false,
+   "question": "Welche zwei dieser Krankheiten werden durch Viren verursacht?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Cartoon-Tode",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gaston in [i]Die Schöne und das Biest[/i]"
+    },
+    {
+     "correct": false,
+     "text": "Scar in [i]Der König der Löwen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "Syndrome in [i]Die Unglaublichen[/i]"
+    },
+    {
+     "correct": true,
+     "text": "Muntz in [i]Oben[/i]"
+    }
+   ],
+   "clue": "Niemand fällt so gut nach UNTEN wie Gaston!",
+   "id": "110113",
+   "isEasy": false,
+   "question": "Welche zwei Bösewichte stürzen in den Tod?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Filmmusik",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]Superman[/i] (1978)"
+    },
+    {
+     "correct": false,
+     "text": "[i]Terminator[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Zurück in die Zukunft[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Star Wars: Das Erwachen der Macht[/i]"
+    }
+   ],
+   "clue": "Er ist ein Super-Star",
+   "id": "110116",
+   "isEasy": false,
+   "question": "Beide Filme mit Musik von John Williams",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "VULKANE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Mount Everest"
+    },
+    {
+     "correct": false,
+     "text": "Zugspitze"
+    },
+    {
+     "correct": true,
+     "text": "Fuji"
+    },
+    {
+     "correct": true,
+     "text": "Kilimandscharo"
+    }
+   ],
+   "clue": "In Tansania und Japan sind die immerhin weit weg von uns...",
+   "id": "111657",
+   "isEasy": false,
+   "question": "Welche zwei dieser Berge sind gleichzeitig auch Vulkane?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Prähistorische Epochen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Jura"
+    },
+    {
+     "correct": false,
+     "text": "Känozoikum"
+    },
+    {
+     "correct": true,
+     "text": "Trias"
+    },
+    {
+     "correct": false,
+     "text": "Paläozoikum"
+    }
+   ],
+   "clue": "Anwälte kämpfen für dreibeinige Brachiosaurier",
+   "id": "111662",
+   "isEasy": false,
+   "question": "In welchen beiden Zeitaltern hätte man einen Dinosaurier streicheln (oder essen) können?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Gruselfilme",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Nicht fluchen"
+    },
+    {
+     "correct": true,
+     "text": "Kein Alkohol"
+    },
+    {
+     "correct": true,
+     "text": "Kein Sex"
+    },
+    {
+     "correct": false,
+     "text": "Annehmen, dass der Mörder noch lebt"
+    }
+   ],
+   "clue": "Zölibat UND nüchtern?!",
+   "id": "111665",
+   "isEasy": false,
+   "question": "Wählt die beiden Regeln zum Überleben eines Horrorfilms in [i]Scream[/i] aus.",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Berühmte Persönlichkeiten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Pharao Tutanchamun"
+    },
+    {
+     "correct": true,
+     "text": "Jeanne d’Arc"   
+    },
+    {
+     "correct": false,
+     "text": "Queen Elizabeth I"
+    },
+    {
+     "correct": false,
+     "text": "Wolfgang Amadeus Mozart"
+    }
+   ],
+   "clue": "Der Kindkönig und die Ritterin",
+   "id": "111666",
+   "isEasy": false,
+   "question": "Welche beiden historischen Persönlichkeiten haben es nicht bis zum 30. Lebensjahr geschafft?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Arachniden-Fakten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Springspinnen"
+    },
+    {
+     "correct": false,
+     "text": "Vogelspinnen"
+    },
+    {
+     "correct": true,
+     "text": "Wolfspinnen"
+    },
+    {
+     "correct": false,
+     "text": "Witwenspinnen"
+    }
+   ],
+   "clue": "Vielleicht zu beschäftigt mit Springen und Heulen?",
+   "id": "111687",
+   "isEasy": false,
+   "question": "Welche Spinnen bauen keine Netze?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Tierkreis-Kalender",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Weihnachten"
+    },
+    {
+     "correct": false,
+     "text": "Valentinstag"
+    },
+    {
+     "correct": false,
+     "text": "Allerheiligen"
+    },
+    {
+     "correct": true,
+     "text": "Neujahr"
+    }
+   ],
+   "clue": "Die Steinbock-Saison endet am 19. Januar",
+   "id": "111688",
+   "isEasy": false,
+   "question": "Welche Feiertage fallen in die Steinbock-Saison?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Arachniden-Fakten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Braune Einsiedlerspinne"
+    },
+    {
+     "correct": true,
+     "text": "Rotrückenspinne"
+    },
+    {
+     "correct": false,
+     "text": "Orangenkopfspinne"
+    },
+    {
+     "correct": false,
+     "text": "Weiße Admiralsspinne"
+    }
+   ],
+   "clue": "Vielleicht ein bisschen rotbraun?",
+   "id": "111751",
+   "isEasy": false,
+   "question": "Welche zwei davon sind echte Giftspinnen?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Meeresmessungen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mondfisch"
+    },
+    {
+     "correct": false,
+     "text": "Sommerflunder"
+    },
+    {
+     "correct": true,
+     "text": "Beluga-Stör"
+    },
+    {
+     "correct": false,
+     "text": "Leopard-Katzenhai"
+    }
+   ],
+   "clue": "Sört dich der Mond?",
+   "id": "111752",
+   "isEasy": false,
+   "question": "Welche beiden Fische sind größer (länger/schwerer/sättigender) als ihr?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Protagonisten-Probleme",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]True Grit[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Mad Max[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Million Dollar Baby[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Drachenzähmen leicht gemacht[/i]"
+    }
+   ],
+   "clue": "Wahre Antworten leicht gemacht!",
+   "id": "111823",
+   "isEasy": false,
+   "question": "Wählt die beiden Filme aus, in denen der junge Protagonist ein Gliedmaß verliert",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Pseudowissenschaft",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Krypton"
+    },
+    {
+     "correct": false,
+     "text": "Adamant"
+    },
+    {
+     "correct": false,
+     "text": "Vibranium"
+    },
+    {
+     "correct": true,
+     "text": "Einsteinium"
+    }
+   ],
+   "clue": "Ein echtes klingt Super, aber es bedeutet auf Griechisch einfach „versteckt“",
+   "id": "111825",
+   "isEasy": false,
+   "question": "Welche beiden Elemente sind echt? (Ich weiß es, ich habe sie schon gegessen)",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Wahlsprüche",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gleichheit"
+    },
+    {
+     "correct": false,
+     "text": "Demokratie"
+    },
+    {
+     "correct": false,
+     "text": "Integrität"
+    },
+    {
+     "correct": true,
+     "text": "Brüderlichkeit"
+    }
+   ],
+   "clue": "Dafür kämpften sie einst in der Französischen Revolution",
+   "id": "111861",
+   "isEasy": false,
+   "question": "Welche beiden Wörter sind im Wahlspruch Frankreichs enthalten? Geburtsort des Croissants! Lecker!",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Musik",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Modern Talking"
+    },
+    {
+     "correct": false,
+     "text": "Imagine Dragons"
+    },
+    {
+     "correct": false,
+     "text": "Scooter"
+    },
+    {
+     "correct": true,
+     "text": "Wham!"
+    }
+   ],
+   "clue": "Last Christmas I gave my heart to a cherry cherry lady",
+   "id": "111876",
+   "isEasy": false,
+   "question": "Welche beiden Bands sind Duos?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Literarische Figuren",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Irene Adler"
+    },
+    {
+     "correct": false,
+     "text": "Fräulein Rose MacClare"
+    },
+    {
+     "correct": false,
+     "text": "Henry Talbot"
+    },
+    {
+     "correct": true,
+     "text": "James Moriarty"
+    }
+   ],
+   "clue": "Meide die dornige Antwort",
+   "id": "111877",
+   "isEasy": false,
+   "question": "Welche zwei der folgenden sind Figuren aus [i]Sherlock Holmes[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Tiermünder",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Schnabeltier"
+    },
+    {
+     "correct": false,
+     "text": "Erdferkel"
+    },
+    {
+     "correct": true,
+     "text": "Ameisenbär"
+    },
+    {
+     "correct": false,
+     "text": "Sonic the Hedgehog"
+    }
+   ],
+   "clue": "Isst die Ameisen von der Erde",
+   "id": "111899",
+   "isEasy": false,
+   "question": "Wählt die beiden Tiere aus, die KEINE Zähne haben",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Hintergrundmusik",
+   "choices": [
+    {
+     "correct": false,
+     "text": "„Into You“ von Ariana Grande"
+    },
+    {
+     "correct": false,
+     "text": "„Rolling in the Deep“ von Adele"
+    },
+    {
+     "correct": true,
+     "text": "„The Edge of Glory“ von Lady Gaga"
+    },
+    {
+     "correct": true,
+     "text": "„Last Friday Night“ von Katy Perry"
+    }
+   ],
+   "clue": "Was für eine glorreiche Nacht!",
+   "id": "111915",
+   "isEasy": false,
+   "question": "In welchen beiden Popsongs gibt es ein geschmackvolles Saxophon-Solo?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Kunst-Hintergrund",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Eine Brücke"
+    },
+    {
+     "correct": true,
+     "text": "Ein See"
+    },
+    {
+     "correct": false,
+     "text": "Ein Buch"
+    },
+    {
+     "correct": false,
+     "text": "Ein Vogel"
+    }
+   ],
+   "clue": "Nicht weit von der [i]Mona Lisa[/i] befindet sich der Pont des Arts, ein berühmtes Beispiel für eine der richtigen Antworten",
+   "id": "111927",
+   "isEasy": false,
+   "question": "Abgesehen von einer lächelnden Dame, welche zwei Dinge kann man auf dem Gemälde „Mona Lisa“ erkennen?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Einfache Mathematik",
+   "choices": [
+    {
+     "correct": true,
+     "text": "5(5/-5) ="
+    },
+    {
+     "correct": false,
+     "text": "-1(10/-2) ="
+    },
+    {
+     "correct": true,
+     "text": "-1(10 - 5) ="
+    },
+    {
+     "correct": false,
+     "text": "2(5 -10) +15 ="
+    }
+   ],
+   "clue": "Wenn eine „2“ darin vorkommt, ist es falsch",
+   "id": "111929",
+   "isEasy": false,
+   "question": "Welche beiden Gleichungen haben die Lösung „-5“?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Romantische Biologie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Rechter Vorhof"
+    },
+    {
+     "correct": false,
+     "text": "Rechtes Medial"
+    },
+    {
+     "correct": false,
+     "text": "Linker Katharer"
+    },
+    {
+     "correct": true,
+     "text": "Linke Kammer"
+    }
+   ],
+   "clue": "Diese Kammern haben Höfe",
+   "id": "111986",
+   "isEasy": false,
+   "question": "Wenn ihr dieses Spiel von ganzem Herzen liebt, welche zwei davon sind darin enthalten?",
+   "theme": "FOREST"
+  }
+ ]
+}

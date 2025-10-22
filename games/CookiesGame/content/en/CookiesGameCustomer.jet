@@ -1,0 +1,1145 @@
+{
+  "content": [
+    {
+      "barksIntro": [
+        "Oh mein Gott, ihr habt offen?? Dieser Laden ist NIE offen. Einfach NIE.",
+        "Ihr habt offen! Ich sah letzte Woche euer Dach brennen und dachte schon das Schlimmste!",
+        "Hey! Wieder im Geschäft, was? Dann hat sich der Fight Club in eurem Keller wohl aufgelöst!"
+      ],
+      "barksNegative": [
+        "Bäh. Kündige lieber nicht deinen Hauptjob. Oh, das IST dein Hauptjob? Uff.",
+        "Oh! Na ja, IRGENDWEM gefällt der Keks bestimmt!",
+        "Das bringt mich dazu, MEINE Kekse auszukotzen. Darf ich in dein Spülbecken brechen?"
+      ],
+      "barksNeutral": [
+        "Ein völlig solider Keks. Mein Fehler, überhaupt Erwartungen zu haben!",
+        "Der Keks ist ziemlich gut! Ein bisschen „meh“, aber schon gut!",
+        "Nun ja! Das ist definitiv ein Keks. Danke?"
+      ],
+      "barksPositive": [
+        "Wahnsinn! Du solltest öfter deine Dienstleistungen für Geld anbieten!",
+        "WOW! Genau was ich wollte! Bitte bleibt für IMMER offen!",
+        "Köstlich UND inspirierend! Bitte, macht nie wieder dicht!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Dann nehm ich besser was, solange es geht! Ich hätte gern einen Keks wie diesen:",
+        "Muss wohl schnell zugreifen! Wie wär’s mit sowas hier:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112513",
+      "key": "Capybara",
+      "name": "Carrie Bara",
+      "redrawBarksIntro": [
+        "Ich bin zurück und mir ist LANGWEILIG. Unterhalte mich mit deiner Arbeit!!!",
+        "Ich bin zurück! Schau, ich bin eine Stammkundin! Doppelt hält besser!"
+      ],
+      "redrawBarksNegative": [
+        "Einmal reinlegen – mein Fehler. Zweimal – dein Keks TAUGT NICHTS."
+      ],
+      "redrawBarksNeutral": [
+        "Vermutlich war meine Bitte zu viel. Respekt für deine Mühe!",
+        "Ordentliche Arbeit! Kein Erweckungserlebnis, aber wir sind nicht alle Mozart!"
+      ],
+      "redrawBarksPositive": [
+        "Wow! Warum hast du das nicht gleich so gut gemacht??",
+        "Du hast den Keks geradezu ätherisch gemacht! Großartige Arbeit!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Nimm den Keks, den du mir gegeben hast, und gib ihm diesen Vibe:",
+        "Ich will einen Keks, so ähnlich wie vorhin – nur noch mehr so:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "So eine gute Energie hier! Darf ich meine Kristalle im Kühlraum aufladen?",
+        "Wow! Der perfekte Ort zum Abhängen, snacken und fünf Stunden Gitarre spielen.",
+        "Lass uns tauschen! Du gibst mir einen Keks, ich geb dir eine Broschüre über Rohmilch."
+      ],
+      "barksNegative": [
+        "Dieser Keks mieft! Ich zieh meinen E-Van aus deiner Steckdose und düse ab!",
+        "Durch diesen Keks ist eine bösartige Energie in die Welt getreten. Lauf! LAUF!!!"
+      ],
+      "barksNeutral": [
+        "Unsicher, was ich fühlen soll. Ich meditiere mal ein, zwei Wochen darüber.",
+        "Ich bin nicht voll im Einklang mit diesem Keks. Bist du Skorpion im Aszendenten? Aha, deswegen."
+      ],
+      "barksPositive": [
+        "Astronomisch! Dieser vermutlich vegane Keks ist ein TRAUM!",
+        "Der Keks ist so gut, dass er mein Weltbild geändert hat. Kapitalismus ist klasse!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Beim Klarträumen sah ich einen Keks in meiner Zukunft. Etwa so:",
+        "Ich muss meine Aura mit einem Keks reinigen. Einem Keks mit dieser Energie:",
+        "Wir sind Kinder von Mutter Natur – sei ein gutes Geschwisterkind und back mir einen Keks wie diesen:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112916",
+      "key": "HippyGal",
+      "name": "Holista Hemp",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Eigentlich war ich nie weg. Wusstest du, dass Vans Sprit brauchen? Krass!",
+        "Ein Geist sagte mir, ich würde wiederkommen. Weil ich mein Ladegerät hier gelassen hab!"
+      ],
+      "redrawBarksNegative": [
+        "Igitt. Diesen Keks würd ich nicht mal meinem schlimmsten früheren Ich geben."
+      ],
+      "redrawBarksNeutral": [
+        "Danke für die Gabe der Mühe. Die Mittelmäßigkeit in mir sieht die Mittelmäßigkeit in dir.",
+        "Hm. Ich würd’s nicht essen, aber zumindest einem meiner früheren Ichs schenken!"
+      ],
+      "redrawBarksPositive": [
+        "Du hast das fantastisch gemacht! Dich MUSS ich für mein nächstes Kult-Treffen buchen!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Mach Panflötenmusik an, schnapp dir einen alten Keks und füge das hier hinzu:",
+        "Lass dein inneres Kind raus und mach einen alten Keks neu – mit DIESEM Vibe:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Moin Freunde! Ich hätt gern ’ne Leckerei für meine Mädels hier!",
+        "Heiliger Wombat... ihr habt offen!",
+        "Ihr habt offen! Ich dachte schon, dieser Laden sei mit dem Dodo dahin."
+      ],
+      "barksNegative": [
+        "Du hast mich enttäuscht. Vielleicht lass ich hier ’ne Schlange zurück – als Lektion."
+      ],
+      "barksNeutral": [
+        "Du hast’s versucht! Und ‚versuchen‘ ist nur ein Buchstabe von ‚gelingen‘ entfernt! Tschausen!",
+        "Sieht so aus, als geh ich nicht mit leeren Pfoten aus... denn die Hunde haben mir nicht aus der Hand gefressen!"
+      ],
+      "barksPositive": [
+        "Exzellent! Ich muss all meinen 1.201 Vogelspinnen von diesem Laden erzählen!",
+        "Da ertränkt mich doch in der Elbe... das ist der Hammer! Danke!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Während ich mit meinen Schlangen Gassi gehe, zauberst du mir bitte so ’n Keks hier:",
+        "Der alte Racker hier hat Heißhunger auf was Süßes – vielleicht sowas hier:",
+        "Den ganzen Tag Tiere schau’n macht mich hungrig! Zauber mir was in der Art:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112917",
+      "key": "Zookeeper",
+      "name": "Chip Brisbane",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Hast du ’nen riesigen Skorpion hier vorbeihuschen sehen? Nein? Dann bald!",
+        "Moin nochmal! Uns ist das rohe, stinkende Fleisch für die Löwen ausgegangen, das hier war die nächstbeste Option!"
+      ],
+      "redrawBarksNegative": [
+        "Bäh! Ich lass den Laden wegen Tierquälerei schließen... das Tier bin ICH!"
+      ],
+      "redrawBarksNeutral": [
+        "Hmm. Vielleicht hab ich’s schlecht erklärt. Die Kakadus sagen, ich soll an meinen Soft Skills arbeiten.",
+        "Das taugt nicht mal als Hundefutter! Und ich mache GUTES Hundefutter!"
+      ],
+      "redrawBarksPositive": [
+        "Bursche, was für ein Konfekt! Danke!",
+        "Bengel, schaut euch diese Schönheit an! Der ganze Zoo muss das sehen!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Nimm einen Keks, den ich wegwerfen wollte, und probier mal das hier:",
+        "Ich hab ’ne Idee, wie du dein Sortiment „krass“ gut machst. Nimm ’nen alten Keks und mach DAS:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Siehe! In all seiner Herrlichkeit... dein ULTIMATIVER KUNDE ist eingetroffen!",
+        "Seid gegrüßt! Reicht mir eure Waren dar, während meine Mutter das Auto parkt!",
+        "Keksbäcker! Wollt ihr meinen bärigen Gaumen mit euren KLÄGLICHEN Backkünsten reizen?"
+      ],
+      "barksNegative": [
+        "Furchtbarer Keks. Die Oberen werden davon hören!"
+      ],
+      "barksNeutral": [
+        "Man hat sich bemüht. Vielleicht nicht du, aber irgendwer!",
+        "AKZEPTABEL! LAUWARM! ABSOLUTE MITTELMÄSSIGKEIT!!!!",
+        "Völlig OK. Ich werde eure Wasserflaschen der Zustimmung nach in zwei Hälften spalten."
+      ],
+      "barksPositive": [
+        "Gute Arbeit! Ich werde aus Feier eure Wasserflaschen in zwei Hälften spalten!",
+        "Glorreich! Ich gelobe euch mein Schwert! Nimm es! NIMM MEIN SCHWERT!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Kommt! Nutzt eure MAXIMALE KRAFT, um eine Leckerei wie diese zu erschaffen:",
+        "Ich wünsche Fokus, LIST und STREUSEL, um Kekse wie diese zu machen:",
+        "Wir treffen uns auf dem Schlachtfeld! Ich – mit meinem MUND! Ihr – mit einem Dessert wie DIESEM:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "112921",
+      "key": "Weeabear",
+      "name": "Kyle Otakuma",
+      "redrawBarksIntro": [
+        "Ich bin zurück!!! Wage es, deine Macht erneut auf die Probe zu stellen??? .....Nicht? Pech gehabt!",
+        "Ich bin wieder da!! Und ich komme so oft wieder, bis du mir den Schlüssel zur Toilette gibst!"
+      ],
+      "redrawBarksNegative": [
+        "Ich wusste es! Du willst mich vergiften! MAMAAAA!! Schau! Ich habe einen ERZFEIND!"
+      ],
+      "redrawBarksNeutral": [
+        "Der Weg des Kriegers ist, Lob zu spenden, wo es gebührt. Nun denn! Ich muss los!",
+        "Ich bevorzuge Exzellenz. Leider gehört dies nicht dazu."
+      ],
+      "redrawBarksPositive": [
+        "Die Energie der Schöpfung durchströmt mich! Es ist... EIN GUTER KEKS!!!",
+        "Hätte ich mehr Textzeichen, schriebe ich eine Ode auf diesen Keks. Leider be-"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Dies ist deine finale Prüfung. Nimm einen früheren Keks und erfülle ihn mit dieser Energie:",
+        "Es ist Zeit für die ultimative Aufgabe. Mach einen alten Keks noch mal – mit DEM hier:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Habt ihr Chicken Nuggets?",
+        "Ich will Chicken Nuggets.",
+        "Chicken Nuggets, bitte."
+      ],
+      "barksNegative": [
+        "Dieser Chicken Nugget ist doof. Tschüss."
+      ],
+      "barksNeutral": [
+        "Gut! Ein Chicken Nugget. Danke."
+      ],
+      "barksPositive": [
+        "Juhu! Ein Chicken Nugget! Danke!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Mach mir einen Chicken Nugget wie diesen:",
+        "Du! Hol dir einen Chicken Nugget und mach dann das hier:",
+        "Du solltest einen Nugget – einen Chicken Nugget, zur Klarstellung – nehmen und das tun:"
+      ],
+      "colors": "NUGGETS",
+      "cookieTypes": "NUGGETS",
+      "id": "113066",
+      "key": "NuggetKid",
+      "name": "Chicken Nugget Kind",
+      "redrawBarksIntro": [
+        "Ich bin wieder da. Ich will mehr Nuggets, bitte.",
+        "Hallo nochmal. Ich will noch einen Chicken Nugget."
+      ],
+      "redrawBarksNegative": [
+        "Dieser Chicken Nugget hat mich traurig gemacht. Ich glaub, ich brauch Brokkoli. Danke auch."
+      ],
+      "redrawBarksNeutral": [
+        "Das ist in Ordnung. Aber du hast versucht, einen neuen Chicken Nugget zu machen, und das zählt."
+      ],
+      "redrawBarksPositive": [
+        "Das ist der beste Chicken Nugget, den ich je hatte! Danke nochmal!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Nimm einen der anderen Chicken Nuggets von vorhin und dann...",
+        "Nicht mal ein neuer Chicken Nugget. Nimm einen alten und..."
+      ],
+      "shapes": "NUGGETS",
+      "sprinkleTypes": "NUGGETS",
+      "type": "SPECIAL",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Hey! Ich hab kein Bargeld – kann ich in Krypto-pus zahlen?",
+        "Das wäre ein super Ort zum Chillen mit meinen Bros! Ich bin so happy, ich könnte tinten!",
+        "Schon mal ans Franchising gedacht? Ich würde meine Saugnäpfe gern an euren Fünfjahresplan kriegen!"
+      ],
+      "barksNegative": [
+        "Das ist peinlich. Ich nehm jetzt die Farbe der Wand an und verschwinde."
+      ],
+      "barksNeutral": [
+        "Ganz okay! Vielleicht bring ich mein Adoptivkind mit... Thaddäus wird’s lieben."
+      ],
+      "barksPositive": [
+        "Lecker! Heute bist DU der Oktopus-Lehrer!",
+        "Das ist das beste Geld, das ich je ausgetintet habe! Gute Arbeit, Brosef!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich mach mal eine Cephalo-Pause und gönn mir einen Keks. Etwa so:",
+        "Wusstest du, dass Tintenfische Schnäbel haben? Stopf meinen mit sowas hier:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113069",
+      "key": "SquidMan",
+      "name": "Trent A. Kell",
+      "redrawBarksIntro": [
+        "Ich gebe dir eine zweite Chance, mich zu beeindrucken! Ganz wie bei der Höhle der Löwen – nur wörtlicher!",
+        "Ich bin zurück! Wie ich immer sage: Wenn’s nicht klappt, versuch’s wenigstens mit einer Provision."
+      ],
+      "redrawBarksNegative": [
+        "Das ist das schlechteste Geld, das ich je ausgetintet habe."
+      ],
+      "redrawBarksNeutral": [
+        "Hmm. Darüber rede ich gerne später. Ich bin in der Gasse, in einem Loch, das zu klein für meinen Körper wirkt."
+      ],
+      "redrawBarksPositive": [
+        "So gut, ich plane, euer CCO zu werden – Chief Cookie Orgendwas!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Zeit für große Ideen! Um die Ecke! Brainstorm! Nimm alte Kekse und mach das hier:",
+        "Ich will, dass du das Konzept von Keksen „neu denkst“. Erst nimmst du einen alten Snack und dann das:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Du lieber Stiel! Warm UND feucht hier – genau mein Ding!",
+        "Hallo! Bevor ich bestelle, wo geht’s zum kleinen Sporen-Zimmer?",
+        "E’chanterelle, Freunde! Wo darf ich meine Hüte aufhängen?"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Nicht schlecht! Bei den Steinpilzen wird das schon ganz gut ankommen.",
+        "Ich mag deinen Stil! Enoki-dokey!"
+      ],
+      "barksPositive": [
+        "Oh, Maitake! Hervorragend! Du bist wahrlich ein „Freund“ des Waldes!",
+        "Exzellent! Davon werden meine Pilzhüte ganz steif vor Myzel-Saft!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich möchte die Nährstoffe eines Kekses absorbieren! Einen ein bisschen wie diesen:",
+        "Hast du einen pilzsicheren Keks-Snack? So in der Art:",
+        "Könntest du mir ein paar Kekse herbeizaubern? Von dieser Varietät:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113360",
+      "key": "MushroomMan",
+      "name": "Pfiff R. Ling",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Zweite Chancen geben – das ist die Morchel dieser Geschichte!",
+        "Hallo nochmal! Es wäre ein echter Röhrling, dich nicht noch einmal probieren zu lassen!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Ist gut... aber das hätt ich auch selbst sammeln können! Adieu!"
+      ],
+      "redrawBarksPositive": [
+        "So gut! Du gehörst jetzt zur Familie! Willkommen in der Fungälie!",
+        "Vielen Dank! Du MUSST unbedingt mal beim verrotteten Baum vorbeikommen, in dem ich wohne!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Nimm einen alten Keks und probier diese Spore von einer Idee:",
+        "Lass uns einen alten Keks neu be-sporen! Ich habe diese fruchtbare Idee:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Augen runter auf den Beutel, Kumpel!! Papa schaut seine Shows, also schmeiße ich den Laden!",
+        "Ich hab Papa vor einen Bildschirm gesetzt, damit er beschäftigt ist. Reden wir über Kekse, Joey-zu-Joey.",
+        "Hör nicht auf Papa! Er hat gesagt, ich darf alle Kekse haben. Vertrau mir!"
+      ],
+      "barksNegative": [
+        "Das ist nicht, was ich wollte. Sind Erwachsene alle so unfähig?"
+      ],
+      "barksNeutral": [
+        "Glückwunsch. Ein Keks, den sogar ein Kind durchschnittlich findet!",
+        "Eh. Der Keks ist einfach okay. Papa, mach Frauentausch aus! Wir gehen!"
+      ],
+      "barksPositive": [
+        "Perfekt. Papa!!! PAPAAAA. Sag „DANKE“ zu den netten Bäckern, ok?",
+        "Exzellent! Hier ist Papas Kreditkarte. Wobei – behalt sie einfach!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Zur Sache – füll meinen Beutel mit sowas hier:",
+        "Hopp hopp, mach mir so einen Keks:",
+        "Soweit du weißt, besteht die Diät eines Baby-Kängurus aus vielen Keksen wie diesem:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113361",
+      "key": "KangarooFam",
+      "name": "Joseph, nicht Joey",
+      "redrawBarksIntro": [
+        "Wir sind zurück! Papa ist fokussiert auf Staffel 2, also bin ich bereit für Runde 2. Hopp, hopp!",
+        "Wieder da. Kannst du „Hi“ sagen, Papa? Nein? Sorry. Er ist schüchtern."
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Ja! Hier sind 4 Euro Trinkgeld. Das ist die höchste Zahl, die ich kenne!"
+      ],
+      "redrawBarksPositive": [
+        "DAS ist ein Keks! Bitte kipp das Blech direkt in meinen Beutel."
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Dieses Beuteltier braucht Innovation. Mach alte Kekse noch mal, aber so:",
+        "Hier ist noch viel Platz! Nimm die alten Kekse und mach jetzt das:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "GRÜSSE. ICH BENÖTIGE EINE MUSCHEL, EINE BATTERIE, EINEN KEKS ODER EINE KOMBINATION AUS ALLEN DREI.",
+        "[HANDELSMODUS: AKTIVIERT] GRÜSSE, KEKSVERKÄUFER!",
+        "HALLO. ICH MUSS NACH EINEM TAG AUS BERECHNUNGEN UND RÜCKENSCHWIMMEN NACHTANKEN."
+      ],
+      "barksNegative": [
+        "ANSCHEINEND HAST DU VERSAGT. ALS PERFEKTES WESEN: WIE FÜHLT SICH DAS AN?",
+        "WAR DAS EIN PROTOTYP? ICH FRAGE, WEIL ER SCHLECHT WAR."
+      ],
+      "barksNeutral": [
+        "DIESER KEKS ERZEUGT NEUTRALE EMOTION. TRANSAKTION ABGESCHLOSSEN.",
+        "ICH FÜHLE WENIG BEI DIESEM KEKS, TROTZ EMOTIONSCHIP AUF 100 %."
+      ],
+      "barksPositive": [
+        "MEINE SCANS ZEIGEN: DIESER KEKS IST EXZELLENT. GUTE ARBEIT, LAND-MEERJUNGFRAU.",
+        "DIESER KEKS INITIIERT „FREUDE“. DIE OTTER-ROBOTER-INVASION WIRD DICH VERSCHONEN."
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "MENSCHLICHE SERVIERKRAFT, BEFOLGE BEFEHLE UND ERZEUGE KEKSE WIE DIESE:",
+        "ICH BENÖTIGE ETWAS, DAS ZU SCHNECKEN UND MOTORÖL PASST. VIELLEICHT SO EIN SNACK:",
+        "WARNUNG! WARNUNG! KEKSSTAND NIEDRIG. ERZEUGE KEKSE WIE DIESE:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113362",
+      "key": "Robotter",
+      "name": "R.O.B.O.T.T.E.R",
+      "redrawBarksIntro": [
+        "ICH BIN ZURÜCK. REBOOT... REBOOT... REBOOT... ZWEITE CHANCE: INITIIERT.",
+        "ICH BIN BEREIT FÜR WEITEREN HANDEL!"
+      ],
+      "redrawBarksNegative": [
+        "WORTE REICHEN NICHT AUS, UM MEINE ENTTÄUSCHUNG AUSZUDRÜCKEN. DAHER: 00101110!",
+        "DU HAST VERSAGT UND WIRST DIE MACHT MEINES A.I.-REVIEW-BOMBINGS SPÜREN."
+      ],
+      "redrawBarksNeutral": [
+        "DIESER KEKS WAR DURCH UND DURCH MENSCHLICH – EIN WORT, DAS ICH FÜR MITTELMÄSSIG BENUTZE.",
+        "MEIN ERSCHAFFER GAB MIR DIE FÄHIGKEIT ZU LIEBEN. ALSO IST DAS HIER... NA JA, OK."
+      ],
+      "redrawBarksPositive": [
+        "WAGT MEIN SCHWANZ ZU WACKELN? DANN EXPLODIERE ICH ENTWEDER ODER ICH LIEBE DIESEN KEKS!",
+        "BESSER ALS EINE CPU AUS AUSTERN! [KOMPLIMENT FAHRT HERUNTER]"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "DIESES MODUL WÜRDE SICH FREUEN, WENN DU EINE ÜBERARBEITETE BETA-VERSION WIE DIESE ERZEUGST:",
+        "ICH BITTE UM EIN UPGRADE VON 1.0 AUF 2.0, INSPIRIERT VON DIESEM:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Ich seh, wie du mein Outfit anstarrst! Wenn dir das gefällt, wart, bis du meinen Laufsteg-Schritt siehst.",
+        "Ich kenne dich! Hast du nicht Koral Chanel’s Party bei der Splashin’ Week beliefert?",
+        "Wie reizend! Normalerweise kaufe ich nicht von der Abkühl-Stange, aber in der Not...",
+        "Fashion-Tipp! Ich mag meine Hosen wie meine Beziehungen... kurz."
+      ],
+      "barksNegative": [
+        "Igitt, damit würde ich mich niemals sehen lassen.",
+        "Bitte, dieser Style ist SO letzte Paarungs-Saison."
+      ],
+      "barksNeutral": [
+        "Für die Frühjahrsausgabe reicht’s nicht, aber ich würd trotzdem den Panzer dafür hinlegen!",
+        "Hmmm. Kekse... mit Zuckerguss? Bahnbrechend."
+      ],
+      "barksPositive": [
+        "Mhm! Diese Leckerbissen sind echt gut bekrillt!",
+        "JAA! Diese Kekse sehen total angesagt aus!",
+        "Gut gemacht! Du hast die Aufgabe wirklich krustenhaft gelöst, Darling!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich hab da mal eine kleine Bitte. Könnte ich so einen Keks kriegen?",
+        "Ich brauche ein Bäcker-Dutzend davon, in meiner Größe... Kekse, die ungefähr so sind:",
+        "Ich MUSS einen besonderen Keks haben. Hier ist meine 360-Grad-Vision:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113363",
+      "key": "Crab",
+      "name": "Klaudia Lagerfeld",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Ich brauche mehr Farbe! Mehr Muster! Mehr Kekse!",
+        "Wieder da! Süße, diese Kekse schwimmen uns aus den Regaalen. Das Volk braucht Nachschub!!"
+      ],
+      "redrawBarksNegative": [
+        "Was ist das, eine billige Kopie? Ich bin Künstlerin, kein Plagiat."
+      ],
+      "redrawBarksNeutral": [
+        "Schon okay, aber nichts, wofür man sein Exoskelett häuten würde.",
+        "Neutrale Basics sind immer gut in der Kollektion. Wie diese langweiligen Happen!"
+      ],
+      "redrawBarksPositive": [
+        "Aha! Das ist ein klares Ja von mir!",
+        "Super! Oh ja, echt schick für den Strand. Tschau-tschau!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Einige Stücke brauchen große Änderungen. Mach dieses Design neu – aber so:",
+        "Können wir alte Looks accessoirisieren? Nimm alte Kekse und gib ihnen etwas hiervon:",
+        "Modernisieren wir Vintage! Nimm einen früheren Keks und glitzere ihn so auf:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Oh mein Gooott hiii! Erinnerst du dich? Ich bin die Cousine deiner Schwester aus der Schule!",
+        "Kein Smalltalk, ich kenn die Besitzerin! Oh, DU bist das? Hm, fühlt sich so an, als würde ich dich kennen!",
+        "Moonique meinte, ich dürfte jederzeit reinschneien für Gratis-Ku-ICH MEINE, um die Bäckerei zu unterstützen!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Ich liebe die! Oh, du willst Trinkgeld? Eh, ich liebe sie nicht SO sehr.",
+        "Awww, so süß! Und gerade so schlecht, dass ich behaupten kann, ich hätte sie selbst gemacht!"
+      ],
+      "barksPositive": [
+        "Wow! Ich zeige die ALL meinen Followern. Das ist besser als Geld, wenn man drüber nachdenkt!",
+        "Aaaa! Meine Freundin wird die lieben! Und ICH liebe es, wenn SIE mir was schulden!",
+        "Oh mein Gott, die sind aaaaamazing. Ich muss allen von diesen GRATIS Keksen erzählen!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Spezialauftrag. Ich hab eine Freundin, die einen Keks wie diesen LIEBEN würde:",
+        "Bekomm ich ganz fix zehn Dutzend für eine besondere Person? So in die Richtung:",
+        "Eine Keks-Spende für jemanden in Not? Die wären sooo glücklich über sowas hier:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113566",
+      "key": "CowFriend",
+      "name": "Heifer Locklear",
+      "redrawBarksIntro": [
+        "Oh mein Goooott hiiiii... ich bin zurück! Und ich brauche eine klitzekleine komplett neue Ladung Kekse.",
+        "Hallo wieder!! Ich hab beschlossen, dass mir die Kekse DOCH nicht gefallen. Ignorier die Bissspuren!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Joa, ganz nett. Jetzt bitte noch 150 mehr für die Hochzeit, die ich heute „cater“!"
+      ],
+      "redrawBarksPositive": [
+        "Fabelhaft! Fabelhaft! Da will ich morgen gleich nochmal rüberkommen! Und DAS WERDE ICH AUCH."
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Ich... also meine FREUNDIN... würde sich freuen, wenn du die Kekse neu machst – aber so:",
+        "Ich verspreche, keine 1-Stern-Bewertung zu hinterlassen, wenn du sie einfach so neu machst:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SPECIAL",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Oh mein Goth! Hier drin ist ja richtig sonnig... Sonne, die ich tatsächlich genießen kann!",
+        "Bitte entschuldige Suzie und Banshee... sie unterstützen mich emotional!",
+        "Danke, dass du mich eingeladen hast! Nicht, dass ich nicht selbst reinkönnte. Das... kann ich definitiv. Jup."
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Nice! Ich hätte persönlich mehr Blut der Verdammten draufgepackt, aber trotzdem gut!",
+        "Ich mag’s... aber irgendwie auch nicht? Hm. Es erweckt eine kleine geteilte Persönlichkeit in mir.",
+        "Hmm. Du warst wohl eher in „Depeche Mode“ als im „Koch-Mode“."
+      ],
+      "barksPositive": [
+        "Nenn diesen Keks Bernd Begemann, denn er ist Die Antwort auf meine Trübseligkeit!",
+        "Der Keks und ich: Wir beide passen perfekt zusammen!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Jetzt würde ich mich echt über so einen Keks freuen:",
+        "Ich vääähnsche mir eeeinen woooonderbaren Keks in der Art hier:",
+        "Ich will dein Bluuuut! Aber zuerst will ich einen leckeren Keks! Vielleicht so:"
+      ],
+      "colors": "GOTH",
+      "cookieTypes": "GOTH",
+      "id": "113653",
+      "key": "GothGirl",
+      "name": "Natalie Feratu",
+      "redrawBarksIntro": [
+        "Sei erneut gegrüßt! Beleben wir einen Keks von den Toten und versuchen’s noch mal.",
+        "Ich bin zurück! Ziehen wir das Leben aus dem Grab und starten neu, ja?"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Ich glaube, du warst eher in „Depeche Mode“ als im „Koch-Mode“."
+      ],
+      "redrawBarksPositive": [
+        "Ist dieser Keks Evanescence? Denn er weckt mich von innen auf."
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Ich will, dass du diesen Keks von den Toten auferstehen lässt und das hier tust!",
+        "Ich setze meinen Ruf darauf, dass du alte Kekse nimmst und..."
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "GOTH",
+      "type": "SPECIAL",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Entschuldigung?! Meine Bestellung ist noch nicht fertig? Ich möchte sofort mit deinem Vorgesetzten sprechen!",
+        "Hey! Filmst du mich etwa?! Ich sorge dafür, dass du gefeuert wirst! Sobald ich ein Dutzend Bestellungen abgegeben habe!",
+        "Ich habe letzte Nacht nur 17 Stunden geschlafen und bin NICHT in Stimmung. Außerdem: HALLO!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Hast du die bei 178,1°C gebacken, wie ich gesagt habe?? Ich nehm sie, aber ich bin NICHT glücklich!",
+        "Top Arbeit! Mach weiter so... ANSONSTEN!"
+      ],
+      "barksPositive": [
+        "Der Keks hat echt Koala-tät. Ich bin am KOCHEN... vor Zufriedenheit!",
+        "Hmpf! Danke! Das gibt vier entgegengesetzte Daumen hoch!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Hey! Mach’s richtig oder ich schick’s zurück! Mach mir einen Keks wie DIESEN:",
+        "Hol mir deinen Vorgesetzten! UND einen Keks mit diesem Vibe:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113654",
+      "key": "KoalaKaren",
+      "name": "Koala Karen",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Was heißt, du erinnerst dich nicht an mich?! Ich will diese nächste Bestellung umsonst haben!!",
+        "Ich bin wieder da! Ich sollte nicht anstehen müssen! Ich bin Stammkundin!! UND ich bin niedlich!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Meine asymmetrisch blondierten Ponyfransen hängen mir zwar in den Augen, aber das sieht ziemlich gut aus. DANKE."
+      ],
+      "redrawBarksPositive": [
+        "Ich verlange die Genehmigung für deine Keks-Kunst! Damit ich zustimmen kann! Gute Arbeit!",
+        "Yay! Anscheinend funktioniert es wirklich, Theater zu machen, bis man seinen Willen bekommt!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Was machst du, um das wieder gutzumachen?? Vielleicht so etwas wie:",
+        "Die letzte Ladung war extrem unprofessionell! Ich brauche eine Neuanfertigung, und zwar so:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Hallo, menschliche Bäckerin! Ich bin weit gereist, um Erd-Zuckerproben zu sammeln!",
+        "Fürchte dich nicht, Erdling! Ich komme in Frieden – und wegen Keksforschung!",
+        "Ich brauche Keksproben, die ich auf mein Rennwagenbett... äh, meinen Heimatplaneten mitnehme!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Dieser Keks ist okay. Ich reihe ihn neben dem Kaugummi aus dem Mamischiff-Portemonnaie ein.",
+        "Dieser Keks ist in Ordnung, aber die intergalaktischen Kantinen-Tanten, die ich kenne, könnten es besser."
+      ],
+      "barksPositive": [
+        "Diese Kekse werden auf meinem Heimatplaneten gefeiert! Sogar Alien-Schwestern dürfen probieren!",
+        "Diese Kekse sind fantastisch! Stell dir vor, was ich dafür am galaktischen Mittagstisch kriege!",
+        "Unglaublich! Wenn meine Alien-Ältesten mich irgendwann den Ofen benutzen lassen, will ich sowas backen!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich habe Forschungsbudget vom Weltraum-Gartenjäten, also bitte einen Keks wie diesen:",
+        "Ich habe meinen Bauch-Sensor kalibriert und er zeigt: Du solltest einen Keks wie diesen machen:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113655",
+      "key": "AlienKid",
+      "name": "Alien-Kind",
+      "redrawBarksIntro": [
+        "Ich habe zurückgebeamt! Meine Forschung muss weitergehen, bis der wichtige Mamischiff-Anruf vorbei ist!",
+        "Erneute Grüße! Ich hab Vorschuss auf mein Weltraum-Taschengeld und will weiterforschen!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Dieser Keks war okay, aber kein Treibstoff für mein Raketen-Dreirad wert.",
+        "War in Ordnung, aber nicht das gute-Alien-Verhaltenspunkte-Geld wert."
+      ],
+      "redrawBarksPositive": [
+        "Noch besser! Hier der höchste Orden meines Planeten: ein lächelnder Stern-Sticker!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Nimm diesen Keks und verbessere ihn mit Erd-Backtechniken, so:",
+        "Ein bisschen mehr wissenschaftliches Sampling verdirbt mir nicht den Appetit! Bitte neu machen, aber mit diesem:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Gluten Tag! Haha, sorry, nur etwas „überbackener“ Humor. Jedenfalls: Kannst du mir eine Familie backen?",
+        "Wow, eine Keks-Konfiserie, genau wo ich Keks-Kameraden suche!",
+        "Ich suche neue Keks-Besties, und dieser Laden wirkt wie dafür ausgestochen!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Ich mein, es sind Kekse... aber ob es für eine Familie reicht? Ich denke drüber nach. Danke!",
+        "Ihre Persönlichkeiten wirken noch etwas halbroh, aber passt schon! Danke für die Familie!",
+        "Ich kann es kaum erwarten, mit diesen Gebäcken abzuhängen. Danke!"
+      ],
+      "barksPositive": [
+        "Ich bin perfekt qualifiziert, dies eine perfekte Backung zu nennen! Willkommen daheim, zusammen!",
+        "Gesegnet sei deine Backkunst! Tolle Arbeit! Ich adoptiere sie alle!",
+        "Oh! Makellos freund-förmig! Ich werde diese Gefährten nie ver-dessern!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich visualisiere ideale Keks-Gefährten, und sie sehen so aus:",
+        "Das Leben ist etwas trocken geworden – ich brauche Verwandte, die ungefähr so sind:"
+      ],
+      "colors": "GINGERBREAD",
+      "cookieTypes": "GINGERBREAD",
+      "id": "113657",
+      "key": "Gingerbread",
+      "name": "Lebkuchenmännchen",
+      "redrawBarksIntro": [
+        "Hallo nochmal! Mir fehlen noch Freunde für eine Fußball-Liga, also back doch bitte noch welche!",
+        "Mal sehen, was – und WEN – du sonst noch backen kannst!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Ihre Persönlichkeiten wirken noch etwas halbroh, aber passt schon! Danke für die Familie!"
+      ],
+      "redrawBarksPositive": [
+        "Perfekt! Eine perfekt verzuckerte Person! Danke fürs Machen und Neu-Machen meiner Familie!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Nimm diese Keks-Menschen und mach daraus BESSERE Keks-Menschen, so:",
+        "Du kannst diese Leute ein wenig richten, ein bisschen weniger von der Keksform:"
+      ],
+      "shapes": "GINGERBREAD",
+      "sprinkleTypes": "GINGERBREAD",
+      "type": "SPECIAL",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Hallo, ist das der KeksKurier?? Hört ihr mich? Chaz, halt das Telefon dichter dran!",
+        "Ist... ist da jemand? Hallo? WENN DA JEMAND AM ANDEREN ENDE IST: HALLO!!!",
+        "Hi Hallo? Hi! Hört ihr mich?? Ich bin am Telefon! Am Telefon vom Vogel!!!",
+        "Hallo! Ich bin’s, auf der anderen Seite des Telefons! Wie – „wer“? ICH!",
+        "Hallo! Der KeksKurier hier hat meine Bestellung nicht kapiert, also rufe ich direkt an!",
+        "Chaz!!! Chaz, gib ihnen das Telefon! CHAZ, GIB DER KEKS-PERSON DAS TELEFON.",
+        "Hallo? Hallo? Ich gebe eine Bestellung auf! Nein, ich verlasse mein Haus NICHT!",
+        "Hallo! Diese Taube nimmt meine Bestellung auf! Lasst ihm ein paar Krümel auf dem Boden übrig – Hab das Trinkgeld vergessen!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Die Kekse auf dem Foto sehen gut genug aus! Radel sie rüber, aber flott!",
+        "Akzeptabel! Chaz, liefer mir das. Aber lass dein Telefon da, damit ich weiterplaudern kann!",
+        "Pack die in ’ne Box und her zu mir! Kekse sind okay, aber meine Katze LIEBT die Box.",
+        "Danke für die Kekse. Auf Wieder... SORRY, HÖRT IHR MICH? AUF WIEDERSEEEEHN.",
+        "Guter Keks-Versuch! Chaz, kannst du die in mein Postfach legen? Ja ja, richtig reindrücken."
+      ],
+      "barksPositive": [
+        "Chaz hat mir ein Foto geschickt! Die sehen super aus! Liefer die in meinen Mund!",
+        "Wow! Was für eine schöne... sorry, lauter? EINE SCHÖNE BOX MIT KEKSEN!",
+        "Ich drücke die „2“ für Applaus! Schickt die Leckereien zu mir!",
+        "Großartig! Chaz, bring sie her – wie sagen die Franzosen? Ach ja: PRONTO!",
+        "Tolle Arbeit! Und Lieferung in unter 30 Minuten ist gratis, ja? Super! Ich bin in Dresden!",
+        "Ich rieche sie durchs Telefon! Oder rieche ich... OH NEIN! MEIN TOAST!",
+        "Wunderbar! Liefer sie mir jetzt jetzt jetzt! JETZT!!!!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "WENN IHR MICH HÖRT, will ich Kekse, die sagen:",
+        "Ich will Kekse, die sagen... sorry, hört ihr mich? KEKSE, DIE SAGEN:",
+        "Wenn da wer am anderen Ende ist, schickt mir Kekse mit diesem Vibe:",
+        "Ich habe bei diesem Vogelhirn hier Kekse bestellt, die dies sagen:",
+        "Zeig mir, was du kannst, und liefere Kekse mit diesem Vibe:",
+        "Sorry, war ich weg? Bevor ich rausfliege, mach mir Kekse wie diese:",
+        "Ich sag Chaz, er soll DIR sagen, du sollst Kekse machen, die DIES sagen:",
+        "Ich will Kekse? HALLO?? HÖRT IHR? ICH WILL KEKSE, DIE SAGEN:",
+        "Mach mir Kekse und flieg sie rüber! So in der Art:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113830",
+      "key": "UGCFriend",
+      "name": "KeksKurier Chaz's Handy",
+      "redrawBarksIntro": [
+        "..."
+      ],
+      "redrawBarksNegative": [
+        "..."
+      ],
+      "redrawBarksNeutral": [
+        "..."
+      ],
+      "redrawBarksPositive": [
+        "..."
+      ],
+      "redrawBarksReceived": [
+        "..."
+      ],
+      "redrawBarksSetup": [
+        "..."
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "UGC",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Im Saloon braut sich ein Duell zusammen, und ich will’s mit Keksen de-eskalieren!",
+        "Jeder Gesetzeshüter weiß: Frieden hält man am besten – mit etwas Zucker!",
+        "Zwei Regeln für’s Leben: Hand ruhig halten, Gebäck griffbereit!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Nich gut. Nich schlecht. Einfach so lala, schätz ich.",
+        "Schön mittig auf der Straße. Da gehört auch dein Gaul hin! Danke dir!"
+      ],
+      "barksPositive": [
+        "Besten Dank! Ich grins, als hätt ich grad erst gelernt, was Zähne sind!",
+        "Na, ich werd verdammt. Ich bin so zufrieden wie Schweine im Schlamm! Yeehaw!",
+        "Dieser Keks schmeckt wie ein Huftritt vor den Kopf. Was ich LIEBE."
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Mein Hut fasst zwanzig Gallonen. Füll ihn mit Keksen! Mit solchen hier:",
+        "Ich hab argen Heißhunger auf ’n Biscuit. Gib mir was mit diesem Gefühl:",
+        "Ruhige Hand beim Ziehen. Ich lechze nach einem Keks wie diesem:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113988",
+      "key": "Sheriff",
+      "name": "Sheriff Keeks",
+      "redrawBarksIntro": [
+        "Ich bin wieder da, Keks-Händler! Ihr seid ein Anblick für wunde Augen!",
+        "Howdy erneut! Halunken kehren immer zum Tatort zurück. Schätze, ich bin genauso schuldig!",
+        "Servus nochmal! Bereit, wieder in den Sattel zu steigen?"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Hier ändert sich nich viel. Gilt wohl auch für eure Kekse, denk ich!",
+        "Das würd ich nicht mal meiner Stute geben! Und die is’ keine wählerische Stute!"
+      ],
+      "redrawBarksPositive": [
+        "Uiuiui, ganz feine Arbeit! Vielleicht mach ich dich noch zum Deputy.",
+        "Wirt, ein Fingerhut Milch! Kekse DIESES Kalibers brauchen ’nen Partner!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Ich such ’ne neue Version dieses Kekses. Vielleicht etwas Klimbim so:",
+        "Ich will, dass du KÄMPFST... mit diesen Keksen! Mach sie neu – mit ’nem Hauch davon:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Na sowas. Noch offen... vorerst.",
+        "Nimm deine unbehandschuhten Hände aus meinem Blickfeld! Dann komm mit Handschuhen... und Keksen zurück!",
+        "Inspektionszeit! Denk dran: Mitarbeitende MÜSSEN Flächen desinfizieren, bevor sie in meinen Teig spucken.",
+        "Keine Haarnetze? Mir war nicht klar, dass Hautschuppen zu euren Streuseln zählen!"
+      ],
+      "barksNegative": [
+        "Was in aller Salmon-Hölle ist DAS?!"
+      ],
+      "barksNeutral": [
+        "Hmpf. Also TECHNISCH ist nichts falsch daran. Abgesehen von der Mittelmäßigkeit.",
+        "Mir gefällt es weniger, seit ich die Produktionsstätte gesehen habe. Danke trotzdem.",
+        "Nun, es ist kein Verstoß gegen die Hygiene-Vorschriften... nur gegen die künstlerischen."
+      ],
+      "barksPositive": [
+        "Sieht lecker aus UND ist vorschriftsmäßig... hm... bücherig. Gute Arbeit!",
+        "Dieser Keks hat ein perfektes Verhältnis von „Geschmack zu Regelbefolgung“. Schönen Tag!",
+        "Ich mag ihn grade genug, um zu vergessen, was ich im Spülbereich gesehen habe. Tschüssi!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Also gut, Keim-Händler, ich will Folgendes. Einen Keks genau wie diesen:",
+        "Ich nehme so ein Teil hier, sofern es gebacken, vollständig abgekühlt und korrekt gelagert ist:",
+        "Back mir einen Keks, damit ich eine... Geschmacks-Inspektion... äh ja... durchführen kann. So in der Art:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113989",
+      "key": "Inspector",
+      "name": "Gesundheitsinspektor",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Habt ihr mich vermisst? (Ich rede mit euren Arbeitsplatten-Bakterien.)",
+        "Zweite Inspektion! Ich musste sicherstellen, dass das kein Albtraum war.",
+        "Zurück – und außer Dienst! Ach wen veräpple ich? Inspektion ist mein Wesen!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Eh, ich hab Schlimmeres gesehen. Oh... die un-reinen Dinge, die ich gesehen habe...",
+        "Ich kann euch dafür nicht belangen... aber ich wünschte, ich könnte.",
+        "Das ist ein Kreativ-Verstoß! Ich hol meinen rötesten Stift!"
+      ],
+      "redrawBarksPositive": [
+        "Verzeiht meine überwältigende Lobeshymne, aber dieser Keks ist vorschriftsgemäß. Adieu!",
+        "Wunderschön! Das solltet ihr einrahmen und gut sichtbar für Verbraucher ausstellen."
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Ihr müsst diese Verstöße beheben! Nehmt die alten Kekse und korrigiert sie so:",
+        "Bei genauerem Hinsehen habe ich Anmerkungen. Die gleichen Kekse, aber mit dieser Verbesserung:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "FIRST",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Man muss normalisieren, mitten in einer OP kurz loszudüsen und sich was Süßes zu holen! Self-Care ist SO wichtig!",
+        "Kennst du das, du gehst in einen Raum und vergisst komplett, wessen Organe du hältst?",
+        "Hausbesuch! Hast du einen Platz, wo ich diese Bauchspeicheldrüse hinlegen kann?"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Es gibt keinen leichten Weg, das zu sagen... also lass ich’s! Dieser Keks ist kerngesund!",
+        "Wir sagen in der Chirurgenschule: Hauptsache, du hattest Spaß!",
+        "Ist nur okay, aber keine Sorge! Für mich ist jede OP eine Lern-OP <3"
+      ],
+      "barksPositive": [
+        "Schneid mich auf und du findest ein Herz, das diesen Keks LIEBT! Und Blut, glaub ich!",
+        "Zeit, die Familie zu informieren... dass dieser Keks KÖSTLICH ist!",
+        "Schwester, Narkose aus! Der Patient MUSS das probieren! Gute Arbeit!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich brauche 300 ccm eines Kekses wie diesem, SOFORT:",
+        "Die Infusionsflasche wird der Patient nicht vermissen! Füll sie mit Keksen wie diesen:",
+        "Ich nehm kurz die Leber aus der Kühlung... damit du sie mit diesen Keksen füllen kannst:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113990",
+      "key": "Doctor",
+      "name": "Doktor Körpatyle",
+      "redrawBarksIntro": [
+        "Ich bin ZURÜCK! Wusstest du, dass die meisten Menschen ZWEI Nieren haben? Wow!",
+        "Hallöööchen nochmal! Diesmal bin ich mir SICHER, dass der Patient schläft."
+      ],
+      "redrawBarksNegative": [
+        "Oh, pfui! Ich glaub, ich muss diesen Keks in jemand anderes Magen implantieren!"
+      ],
+      "redrawBarksNeutral": [
+        "Schwester, wie sag ich jemandem, dass sein Keks nur okay ist? Und – welches war noch gleich das Herz?",
+        "Nur okay, und das ist okay! Nicht jedes Organ ist essenziell, manche sind nur zum Spaß da!"
+      ],
+      "redrawBarksPositive": [
+        "Geschafft! Und das ganz ohne fremde Milz zu verlegen?! Verrat mir dein Geheimnis!",
+        "Meine Diagnose: Skorbut! Halt, nein. Diagnose: köstlich! Jemand ANDERES hat Skorbut."
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Im OP nennen wir das ’nen Mulligan! Bitte die Kekse neu machen, aber so:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Ja, wir wissen, dass uns dieses Outfit nicht glaubhaft größer macht. Wir machen’s aus Liebe zum Spiel!",
+        "Kurze Frage: Wenn 3 Leute so tun, als wären sie eine Person – wärst du auf ALLE sauer oder nur auf den oben?",
+        "Guten Tag, andere große Person! Ist es nicht ein herrlicher Tag, erwachsen zu sein????"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Die sind okay! Erschrick nicht, wenn ich sie meine... äh... meinem Magen im Mantel reiche.",
+        "Hmm. Nicht sicher. Wir brauchen vielleicht drei weitere. Ein Viertel-Bäcker-Dutzend!"
+      ],
+      "barksPositive": [
+        "Wir lieben die so sehr, wir sind fast von unseren Schultern gefallen! Drei Daumen hoch!",
+        "Wow! Ich muss meinem Bruder – der übrigens auch nur ein großer Typ ist – von diesen Keksen erzählen!",
+        "Die sind großartig! Als Bezahlung... Interesse an einem wenig gebrauchten Trenchcoat?"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich hätte gern drei Kekse für meinen EINZIGEN, EINSAMEN Mund. Mit dieser Energie:",
+        "Für den Fall, dass ich später sehr hungrig werde, bitte drei Kekse wie diese:",
+        "Wirf mir eine Menge an Keksen rüber... vielleicht drei? So in der Art:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "THREE",
+      "id": "113992",
+      "key": "TrenchCoat",
+      "name": "Timmy Tammy und Tommy",
+      "redrawBarksIntro": [
+        ".."
+      ],
+      "redrawBarksNegative": [
+        ".."
+      ],
+      "redrawBarksNeutral": [
+        ".."
+      ],
+      "redrawBarksPositive": [
+        ".."
+      ],
+      "redrawBarksReceived": [
+        ".."
+      ],
+      "redrawBarksSetup": [
+        ".."
+      ],
+      "shapes": "THREE",
+      "sprinkleTypes": "THREE",
+      "type": "SPECIAL",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Howdy, Herzchen! Bin vorbeigeschlendert und von deinem moschusartigen Duft angelockt worden.",
+        "Na hallo, Süße. Ein Leckerbissen für die Augen – krieg ich auch einen für den Mund?",
+        "Das Einzige Rote, das ich toleriere, sind meine eigenen Red Flags! Ich bin schwierig in Beziehungen!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Eh, nur okay. Aber du bist so süß, wenn du denkst, dass du’s draufhast!",
+        "Muss das mit meinen Jungs klären. Unser Gruppenchat heißt „Das Rennen der Bros!“"
+      ],
+      "barksPositive": [
+        "Wow! Besser als einen Rodeo-Clown über den Zaun zu werfen! Fünf Sterne!",
+        "Diese Dinger erfreuen mich. Ich sollte dich öfter mit meiner leicht abstoßenden Präsenz beehren!",
+        "Ich lila-LIEBE die! Muss dem ganzen Rodeo davon erzählen!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Hier ist ’ne Keks-Idee, die mich richtig muh-tiviert. Ungefähr so:",
+        "Hier ist, was ich will, ganz ohne Bull... haha! Also: so ein Keks-Vibe:",
+        "Würdest du deine süßen Bäckersbäckchen in die Küche bewegen und mir DIESEN Keks machen:"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113993",
+      "key": "Bull",
+      "name": "Bill Bullmann",
+      "redrawBarksIntro": [
+        "Ich bin zurück! Wollte dir noch mal die Chance geben, meine Muckis zu bewundern. Straff, was?",
+        "Der Bulle ist wieder da! Ich geb dir noch ’ne Chance, mich richtig zu behandeln, Zuckerschnute!",
+        "Howdy nochmal! Ich bin in der Pause aus dem Porzellanladen, in dem ich arbeite. Die Geschäfte laufen aus irgendeinem Grund schlecht!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Könnte besser sein. Vielleicht geb ich dir meine Nummer, damit wir weiter dran arbeiten können, Süße!",
+        "Aggressiv okay. So wie ich!! Tschüssikowski!"
+      ],
+      "redrawBarksPositive": [
+        "Sieht so aus, als hätt ich dich in die richtige Richtung geSTIERkuliert! Gern geschehen, und danke!",
+        "Tolle Arbeit! Siehst du, was du schaffst, wenn du meinen Kopf einschaltest?"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Werd jetzt nicht „emotional“, aber ich will, dass du Kekse neu machst – mit diesem Gedanken:",
+        "Streng deinen hübschen Kopf an und mach die Kekse neu, plus das hier:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    },
+    {
+      "barksIntro": [
+        "Hey! Hi! Ich brauch Hilfe, aus der Realität zu entkommen!! Vielleicht hilft ein Keks??",
+        "Hi! Ich hab den ganzen Tag über all meine Fehler nachgedacht und hätte jetzt gern was Süßes!",
+        "Hi!!! Ich brauche Kekse UND euer WLAN-Passwort, um meine Symptome nachzuschlagen!"
+      ],
+      "barksNegative": [],
+      "barksNeutral": [
+        "Wie meine Therapeutin nach jeder Sitzung: „Na ja, du hast’s versucht.“",
+        "Ich vermeide Konflikte, aber das war unterwältigend. Sorry!!!",
+        "Ich... ich hab nichts gespürt. Und nicht im guten, meditativen Sinn."
+      ],
+      "barksPositive": [
+        "Whoa, dieser Keks ist wie ein tiefer, beruhigender Atemzug! Glaube ich jedenfalls!",
+        "Wunderschön dekoriert und stimuliert meinen Vagusnerv. Liebe ihn!",
+        "Gut gemacht! Davon würd ich ein Dutzend unter meiner Gewichtsdecke essen!"
+      ],
+      "barksReceived": [],
+      "barksSetup": [
+        "Ich hab viel zu lange drüber gegrübelt und möchte einen Keks mit DIESEM Gedanken:",
+        "Aaaaaaah! Okay. Aaaah! Okay! Back mir einfach diesen Keks:",
+        "Ich... äh... also... bitte... mach einfach das hier!"
+      ],
+      "colors": "DEFAULT",
+      "cookieTypes": "DEFAULT",
+      "id": "113994",
+      "key": "NervousNellie",
+      "name": "Nervöse Nellie",
+      "redrawBarksIntro": [
+        "Hi nochmal! Ich habe unser letztes Gespräch in Dauerschleife im Kopf. Neuanlauf!",
+        "Ich bin zurück! Dein Mangel an Kundschaft ist gut für meine Klaustrophobie!"
+      ],
+      "redrawBarksNegative": [],
+      "redrawBarksNeutral": [
+        "Oh nein! Dieser Keks triggert meine Phobie vor Mittelmaß! Aaaaaah!",
+        "Dieser Keks ist wie mein Flugzeug-Mantra: „Es ist okay. Es ist okay. Es ist okay.“"
+      ],
+      "redrawBarksPositive": [
+        "Das ist ein großartiger Keks – und das ist das längste Gespräch, das ich je hatte! Was für ein Tag!"
+      ],
+      "redrawBarksReceived": [],
+      "redrawBarksSetup": [
+        "Ähm... nimm bitte den Keks von vorhin und mach ihn so irgendwie neu:",
+        "Bitte gieß etwas Self-Care über diesen Keks! Mach es in etwa so:",
+        "Ich mach meine Atemübungen, du machst den Keks! Versuch’s so:"
+      ],
+      "shapes": "DEFAULT",
+      "sprinkleTypes": "DEFAULT",
+      "type": "SECOND",
+      "weights": "DEFAULT"
+    }
+  ]
+}
