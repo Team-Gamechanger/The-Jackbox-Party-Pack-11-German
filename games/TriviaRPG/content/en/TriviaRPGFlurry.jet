@@ -324,6 +324,91 @@
     }
    ],
    "theme": "CASTLE"
+  },
+  {
+   "id": "113795",
+   "matchups": [
+    {
+     "topics": [
+      {
+       "answers": [
+        "Friends in Crime",
+        "Wo ist Lars?",
+        "Plot House",
+        "Eyes in the Dark",
+        "Klenk + Reiter",
+        "Wiener Blut"
+       ],
+       "category": "True-Crime-Podcast"
+      },
+      {
+       "answers": [
+        "Beauty & The Nerd",
+        "Besonders verliebt",
+        "Herzblatt",
+        "Ex on the Beach",
+        "Der Bachelor",
+        "Adam sucht Eva"
+       ],
+       "category": "Datingshow"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Willst du mit mir gehen?",
+        "Falscher Hase",
+        "Bauer sucht Frau",
+        "Liebe macht blind",
+        "Nur die Liebe zählt"
+       ],
+       "category": "Datingshow"
+      },
+      {
+       "answers": [
+        "Die zwölf Jäger",
+        "Hans heiratet",
+        "Der Arme und der Reiche",
+        "Die Rabe",
+        "Das Waldhaus",
+        "Die drei Brüder"
+       ],
+       "category": "Märchen der Gebrüder Grimm"
+      }
+     ]
+    },
+    {
+     "topics": [
+      {
+       "answers": [
+        "Die weiße Schlange",
+        "Der Räuberbräutigam",
+        "Allerleirauh",
+        "Der gestohlene Heller",
+        "Rätselmärchen",
+        "Doktor Allwissend"
+       ],
+       "category": "Märchen der Gebrüder Grimm"
+      },
+      {
+       "answers": [
+        "Menschen und Monster",
+        "Die Nachbarn",
+        "Luchterhandt",
+        "Die Jägerin",
+        "Schauerstoff",
+        "Ich sehe was, was du nicht siehst",
+        "Falsche Zeit, falscher Ort"
+       ],
+       "category": "True-Crime-Podcast"
+      }
+     ]
+    }
+   ],
+   "theme": "CASTLE",
+   "x": true
   }
  ]
 }

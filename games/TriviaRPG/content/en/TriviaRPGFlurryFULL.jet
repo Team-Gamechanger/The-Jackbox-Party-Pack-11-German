@@ -2672,25 +2672,25 @@
      "topics": [
       {
        "answers": [
-        "The Deck",
-        "Bear Brook",
-        "Betrayal",
-        "Bone Valley",
-        "Welcome to Your Fantasy",
-        "A Little Wicked"
+        "Friends in Crime",
+        "Wo ist Lars?",
+        "Plot House",
+        "Eyes in the Dark",
+        "Klenk + Reiter",
+        "Wiener Blut"
        ],
-       "category": "True Crime Podcast"
+       "category": "True-Crime-Podcast"
       },
       {
        "answers": [
-        "Are You the One?",
-        "Mr. Personality",
-        "Outback Jack",
-        "Forever Eden",
-        "The One That Got Away",
-        "It Takes a Church"
+        "Beauty & The Nerd",
+        "Besonders verliebt",
+        "Herzblatt",
+        "Ex on the Beach",
+        "Der Bachelor",
+        "Adam sucht Eva"
        ],
-       "category": "Reality Dating Show"
+       "category": "Datingshow"
       }
      ]
     },
@@ -2698,25 +2698,24 @@
      "topics": [
       {
        "answers": [
-        "The Swan",
-        "Farmer Wants a Wife",
-        "Daisy of Love",
-        "What Chili Wants",
-        "Love Village",
-        "Momma’s Boys"
+        "Willst du mit mir gehen?",
+        "Falscher Hase",
+        "Bauer sucht Frau",
+        "Liebe macht blind",
+        "Nur die Liebe zählt"
        ],
-       "category": "Reality Dating Show"
+       "category": "Datingshow"
       },
       {
        "answers": [
-        "Valentine, Oh, Valentine",
-        "The Queen of Hearts",
-        "Hot Cross Buns",
-        "Bow-Wow-Wow",
-        "Dance to Your Daddy",
-        "The Turtle Dove’s Nest"
+        "Die zwölf Jäger",
+        "Hans heiratet",
+        "Der Arme und der Reiche",
+        "Die Rabe",
+        "Das Waldhaus",
+        "Die drei Brüder"
        ],
-       "category": "Mother Goose Poem"
+       "category": "Märchen der Gebrüder Grimm"
       }
      ]
     },
@@ -2724,25 +2723,26 @@
      "topics": [
       {
        "answers": [
-        "Cry, Baby, Cry",
-        "Jack Be Nimble",
-        "The House That Jack Built",
-        "There Was a Crooked Man",
-        "The Great Brown Owl",
-        "Poor Dog Bright"
+        "Die weiße Schlange",
+        "Der Räuberbräutigam",
+        "Allerleirauh",
+        "Der gestohlene Heller",
+        "Rätselmärchen",
+        "Doktor Allwissend"
        ],
-       "category": "Mother Goose Poem"
+       "category": "Märchen der Gebrüder Grimm"
       },
       {
        "answers": [
-        "Sword and Scale",
-        "Rotten Mango",
-        "And That’s Why We Drink",
-        "Something Was Wrong",
-        "The Bakersfield Three",
-        "Run, Fool!"
+        "Menschen und Monster",
+        "Die Nachbarn",
+        "Luchterhandt",
+        "Die Jägerin",
+        "Schauerstoff",
+        "Ich sehe was, was du nicht siehst",
+        "Falsche Zeit, falscher Ort"
        ],
-       "category": "True Crime Podcast"
+       "category": "True-Crime-Podcast"
       }
      ]
     }
