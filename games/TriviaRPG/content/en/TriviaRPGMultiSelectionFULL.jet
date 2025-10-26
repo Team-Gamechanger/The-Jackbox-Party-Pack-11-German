@@ -1599,29 +1599,29 @@
    "theme": "CASTLE"
   },
   {
-   "category": "The Talk",
+   "category": "Das Gespräch",
    "choices": [
     {
      "correct": false,
-     "text": "Ichthyologist"
+     "text": "Ichthyologen"
     },
     {
      "correct": true,
-     "text": "Melittologist"
+     "text": "Melittologen"
     },
     {
      "correct": true,
-     "text": "Ornithologist"
+     "text": "Entomologen"
     },
     {
      "correct": false,
-     "text": "Dendrologist"
+     "text": "Dendrologen"
     }
    ],
-   "clue": "Dendrologists study trees, not bees.",
+   "clue": "Dendrologen untersuchen Bäume, keine Bienen...",
    "id": "112316",
    "isEasy": false,
-   "question": "If we need experts on the birds and the bees, which two people should we get?",
+   "question": "Wenn wir Experten für die Bienchen und die Blümchen brauchen, welche beiden Personen sollten wir dann hinzuziehen?",
    "theme": "FOREST",
    "x": true
   },
@@ -1861,7 +1861,7 @@
    "theme": "CASTLE"
   },
   {
-   "category": "VIDEO GAMES",
+   "category": "VIDEOSPIELE",
    "choices": [
     {
      "correct": true,
@@ -1880,18 +1880,18 @@
      "text": "[i]The Legend of Zelda: Tears of the Kingdom[/i]"
     }
    ],
-   "clue": "Only room for one Zelda",
+   "clue": "Es gibt nur Platz für eine Zelda",
    "id": "112410",
    "isEasy": false,
-   "question": "Which two games won Game of the Year at the Video Game Awards?",
+   "question": "Welche beiden Spiele wurden bei den Video Game Awards zum „Spiel des Jahres“ gekürt?",
    "theme": "CASTLE"
   },
   {
-   "category": "Side Characters",
+   "category": "Nebenfiguren",
    "choices": [
     {
      "correct": true,
-     "text": "Sideshow Bob"
+     "text": "Tingeltangel-Bob"
     },
     {
      "correct": false,
@@ -1899,43 +1899,43 @@
     },
     {
      "correct": false,
-     "text": "Comic Book Guy"
+     "text": "Comicbuch-Verkäufer"
     },
     {
      "correct": true,
-     "text": "“Bleeding Gums” Murphy"
+     "text": "„Zahnfleischbluter“ Murphy"
     }
    ],
-   "clue": "Sax and attacks",
+   "clue": "Hast du schon einmal einen Saxophon-Angriff ausprobiert?",
    "id": "112569",
    "isEasy": false,
-   "question": "What two [i]Simpsons[/i] characters appeared in the first season? *Burp!*",
+   "question": "Welche zwei Figuren aus [i]Die Simpsons[/i] traten in der ersten Staffel auf? *Rülps!*",
    "theme": "CEMETERY"
   },
   {
-   "category": "Funky Flags",
+   "category": "Fetzige Flaggen",
    "choices": [
     {
      "correct": true,
-     "text": "Switzerland"
+     "text": "Schweiz"
     },
     {
      "correct": false,
-     "text": "Ireland"
+     "text": "Irland"
     },
     {
      "correct": false,
-     "text": "Denmark"
+     "text": "Dänemark"
     },
     {
      "correct": true,
-     "text": "Vatican City"
+     "text": "Vatikanstadt"
     }
    ],
-   "clue": "One flag has a plus on it; the other, two crossed keys",
+   "clue": "Auf einer Flagge ist ein Plus zu sehen, auf der anderen zwei gekreuzte Schlüssel",
    "id": "112598",
    "isEasy": false,
-   "question": "What are the only two countries with a square-shaped flag?",
+   "question": "Was sind die einzigen beiden Länder mit einer quadratischen Flagge?",
    "theme": "CASTLE"
   },
   {
@@ -1965,33 +1965,33 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Game Locations",
+   "category": "Spielorte",
    "choices": [
     {
      "correct": false,
-     "text": "Australia"
+     "text": "Australien"
     },
     {
      "correct": true,
-     "text": "Italy"
+     "text": "Italien"
     },
     {
      "correct": false,
-     "text": "Mexico"
+     "text": "Mexiko"
     },
     {
      "correct": true,
      "text": "Japan"
     }
    ],
-   "clue": "Never assassinated down under",
+   "clue": "Kängurus wurden bisher noch verschont",
    "id": "112987",
    "isEasy": false,
-   "question": "As of 2025, which two countries have been the setting for an [i]Assassin’s Creed[/i] game?",
+   "question": "In welchen beiden Ländern spielte ein [i]Assassin’s Creed[/i]-Spiel? (Stand 2025)",
    "theme": "CEMETERY"
   },
   {
-   "category": "Comic Books",
+   "category": "Comicbücher",
    "choices": [
     {
      "correct": true,
@@ -2010,22 +2010,22 @@
      "text": "Bizarro"
     }
    ],
-   "clue": "No mystery here",
+   "clue": "Äußerst mysteriös!",
    "id": "112988",
    "isEasy": false,
-   "question": "Which two comic book villains are part of the Sinister Six?",
+   "question": "Welche beiden Comic-Bösewichte gehören zu den Sinister Six?",
    "theme": "DESERT"
   },
   {
-   "category": "Animal Classification",
+   "category": "Tierklassifizierung",
    "choices": [
     {
      "correct": false,
-     "text": "Turkey"
+     "text": "Truthahn"
     },
     {
      "correct": true,
-     "text": "Duck"
+     "text": "Ente"
     },
     {
      "correct": false,
@@ -2033,39 +2033,39 @@
     },
     {
      "correct": true,
-     "text": "Goose"
+     "text": "Gänse"
     }
    ],
-   "clue": "No Thanksgiving special",
+   "clue": "Das ist was für Weihnachten!",
    "id": "112989",
    "isEasy": false,
-   "question": "If I saw a section of a menu called “Anseriforms,” which two birds would I find under it?",
+   "question": "Wenn ich auf einer Speisekarte den Abschnitt „Anseriformes“ sehen würde, welche beiden Vögel könnte ich dort finden?",
    "theme": "CEMETERY"
   },
   {
-   "category": "Wet Fruits",
+   "category": "Feuchte Früchte",
    "choices": [
     {
      "correct": true,
-     "text": "Cantaloupe"
+     "text": "Honigmelone"
     },
     {
      "correct": false,
-     "text": "Pear"
+     "text": "Birne"
     },
     {
      "correct": true,
-     "text": "Strawberries"
+     "text": "Erdbeere"
     },
     {
      "correct": false,
-     "text": "Grapes"
+     "text": "Traube"
     }
    ],
-   "clue": "Use your melon",
+   "clue": "Dieser Satz soll dir eine richtige Antwort offenbeeren!",
    "id": "112990",
    "isEasy": false,
-   "question": "Which two fruits are made up of at least 90% water?",
+   "question": "Welche beiden Früchte bestehen zu mindestens 90 % aus Wasser?",
    "theme": "FOREST"
   },
   {
@@ -2096,29 +2096,29 @@
    "theme": "DESERT"
   },
   {
-   "category": "Animal Babies",
+   "category": "Tierbabys",
    "choices": [
     {
      "correct": true,
-     "text": "Hammerhead shark"
+     "text": "Hammerhai"
     },
     {
      "correct": false,
-     "text": "American eagle"
+     "text": "Steinadler"
     },
     {
      "correct": false,
-     "text": "Mahi-mahi"
+     "text": "Gemeine Goldmakrele"
     },
     {
      "correct": true,
-     "text": "Komodo dragon"
+     "text": "Komodowaran"
     }
    ],
-   "clue": "Take a moment and hammer this one out",
+   "clue": "Hämmer lagern in Kommoden stets gut",
    "id": "112992",
    "isEasy": false,
-   "question": "Which two animals can create offspring without a male partner through a process called parthenogenesis?",
+   "question": "Welche beiden Tiere können ohne männlichen Partner durch einen Prozess namens Parthenogenese Nachkommen zeugen?",
    "theme": "CEMETERY"
   },
   {
@@ -2176,29 +2176,29 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Cannibal Animals",
+   "category": "Kannibalen-Tiere",
    "choices": [
     {
      "correct": true,
-     "text": "Praying mantis"
+     "text": "Gottesanbeterin"
     },
     {
      "correct": true,
-     "text": "Anaconda"
+     "text": "Anakonda"
     },
     {
      "correct": false,
-     "text": "Honey bee"
+     "text": "Honigbiene"
     },
     {
      "correct": false,
-     "text": "Stingray"
+     "text": "Stechrochen"
     }
    ],
-   "clue": "Drone bees die for their queen... but she doesn’t eat them!",
+   "clue": "Bienen-Drohnen sterben für ihre Königin... aber sie frisst sie nicht!",
    "id": "113013",
    "isEasy": false,
-   "question": "In which two animal species does the female often eat her mate?",
+   "question": "Bei welchen beiden Tierarten frisst das Weibchen häufig den Partner?",
    "theme": "CEMETERY"
   },
   {
@@ -2228,29 +2228,29 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Island Holidays",
+   "category": "Inselfeiertage",
    "choices": [
     {
-     "correct": false,
-     "text": "Memorial Island"
-    },
-    {
      "correct": true,
-     "text": "Easter Island"
+     "text": "Osterinsel"
     },
     {
      "correct": false,
-     "text": "Thanksgiving Island"
+     "text": "Einheitsinsel"
+    },
+    {
+     "correct": false,
+     "text": "Erntedankinsel"
     },
     {
      "correct": true,
-     "text": "Christmas Island"
+     "text": "Weihnachtsinsel"
     }
    ],
-   "clue": "The fall holiday is incorrect.",
+   "clue": "Die Herbst-Feiertage sind falsch",
    "id": "113062",
    "isEasy": false,
-   "question": "Which two islands are real, recognized territories?",
+   "question": "Welche beiden Inseln existieren wirklich?",
    "theme": "DESERT"
   },
   {

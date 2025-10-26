@@ -808,6 +808,501 @@
    "isEasy": false,
    "question": "Wenn ihr dieses Spiel von ganzem Herzen liebt, welche zwei davon sind darin enthalten?",
    "theme": "FOREST"
+  },
+  {
+   "category": "Gewürzwissenschaften",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Natrium"
+    },
+    {
+     "correct": false,
+     "text": "Kohlenstoff"
+    },
+    {
+     "correct": false,
+     "text": "Schwefel"
+    },
+    {
+     "correct": true,
+     "text": "Chlor"
+    }
+   ],
+   "clue": "Eines zum Enteisen von Straßen, eines zum Desinfizieren von Schwimmbädern",
+   "id": "111988",
+   "isEasy": false,
+   "question": "Aus welchen beiden Elementen besteht Speisesalz, alias das Salz, das ich auf euch streuen werde?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Historische Orte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Entdeckung von Penicillin"
+    },
+    {
+     "correct": true,
+     "text": "Landung in der Normandie"
+    },
+    {
+     "correct": false,
+     "text": "Absturz der Hindenburg"
+    },
+    {
+     "correct": false,
+     "text": "Geburt von George Washington"
+    }
+   ],
+   "clue": "Der Engländer Alexander Fleming hat die Wirkung von Penicillin öffentlichkeitswirksam entdeckt",
+   "id": "112002",
+   "isEasy": false,
+   "question": "Welche beiden historischen Ereignisse fanden auf dem europäischen Kontinent statt?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Astronomisches Verhalten",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Die Gravitationskraft"
+    },
+    {
+     "correct": false,
+     "text": "Die Geschwindigkeitskraft"
+    },
+    {
+     "correct": false,
+     "text": "Die Wärme"
+    },
+    {
+     "correct": true,
+     "text": "Die elektromagnetische Wechselwirkung"
+    }
+   ],
+   "clue": "Sie ziehen Dinge herunter und ziehen andere Dinge an",
+   "id": "112009",
+   "isEasy": false,
+   "question": "Was sind zwei der grundlegendsten Kräfte des Universums? (Oder: Warum verhalten sich Dinge so, wie sie sich verhalten?)",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Mathe in Filmen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "[i]Der Beweis – Liebe zwischen Genie und Wahnsinn[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]A Beautiful Mind – Genie und Wahnsinn[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Hidden Figures – Unerkannte Heldinnen[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Cube[/i]"
+    }
+   ],
+   "clue": "Die Antworten verbergen sich unerkannt zwischen Genie und Wahnsinn",
+   "id": "112012",
+   "isEasy": false,
+   "question": "Welche beiden Filme handeln von echten Mathematikern?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Flaggen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mexiko"
+    },
+    {
+     "correct": false,
+     "text": "Uganda"
+    },
+    {
+     "correct": true,
+     "text": "Ägypten"
+    },
+    {
+     "correct": false,
+     "text": "Spanien"
+    }
+   ],
+   "clue": "Auf der spanischen Flagge ist ein Löwe abgebildet, kein Adler",
+   "id": "112261",
+   "isEasy": false,
+   "question": "Welche beiden Länder haben einen köstlichen Adler auf ihrer Flagge?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Das Gespräch",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Ichthyologen"
+    },
+    {
+     "correct": true,
+     "text": "Melittologen"
+    },
+    {
+     "correct": true,
+     "text": "Entomologen"
+    },
+    {
+     "correct": false,
+     "text": "Dendrologen"
+    }
+   ],
+   "clue": "Dendrologen untersuchen Bäume, keine Bienen...",
+   "id": "112316",
+   "isEasy": false,
+   "question": "Wenn wir Experten für die Bienchen und die Blümchen brauchen, welche beiden Personen sollten wir dann hinzuziehen?",
+   "theme": "FOREST",
+   "x": true
+  },
+  {
+   "category": "Giftgeschichte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Kleopatra"
+    },
+    {
+     "correct": false,
+     "text": "Michelangelo"
+    },
+    {
+     "correct": false,
+     "text": "Martin Luther"
+    },
+    {
+     "correct": true,
+     "text": "Sokrates"
+    }
+   ],
+   "clue": "4-silbiger Name und 3-silbiger Name",
+   "id": "112386",
+   "isEasy": false,
+   "question": "Welche zwei berühmten Persönlichkeiten starben vor sehr langer Zeit an einer Vergiftung?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tiergeographie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Dromedar"
+    },
+    {
+     "correct": false,
+     "text": "Alligator"
+    },
+    {
+     "correct": true,
+     "text": "Dorkasgazelle"
+    },
+    {
+     "correct": false,
+     "text": "Murmeltier"
+    }
+   ],
+   "clue": "Der Lebensraum ist die Sahara-Wüste",
+   "id": "112387",
+   "isEasy": false,
+   "question": "Welche beiden Arten teilen sich einen Lebensraum?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "TIERE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Grüner Leguan"
+    },
+    {
+     "correct": true,
+     "text": "Oktopus"
+    },
+    {
+     "correct": false,
+     "text": "Fledermaus"
+    },
+    {
+     "correct": true,
+     "text": "Pfeilschwanzkrebs"
+    }
+   ],
+   "clue": "Etwas, an das du denken kannst, wenn du das nächste Mal Calamari bestellst",
+   "id": "112409",
+   "isEasy": false,
+   "question": "Welche beiden Tiere haben leckeres BLAUES Blut?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "VIDEOSPIELE",
+   "choices": [
+    {
+     "correct": true,
+     "text": "[i]The Legend of Zelda: Breath of the Wild[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]Hades[/i]"
+    },
+    {
+     "correct": true,
+     "text": "[i]Astro Bot[/i]"
+    },
+    {
+     "correct": false,
+     "text": "[i]The Legend of Zelda: Tears of the Kingdom[/i]"
+    }
+   ],
+   "clue": "Es gibt nur Platz für eine Zelda",
+   "id": "112410",
+   "isEasy": false,
+   "question": "Welche beiden Spiele wurden bei den Video Game Awards zum „Spiel des Jahres“ gekürt?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Nebenfiguren",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Tingeltangel-Bob"
+    },
+    {
+     "correct": false,
+     "text": "Disco Stu"
+    },
+    {
+     "correct": false,
+     "text": "Comicbuch-Verkäufer"
+    },
+    {
+     "correct": true,
+     "text": "„Zahnfleischbluter“ Murphy"
+    }
+   ],
+   "clue": "Hast du schon einmal einen Saxophon-Angriff ausprobiert?",
+   "id": "112569",
+   "isEasy": false,
+   "question": "Welche zwei Figuren aus [i]Die Simpsons[/i] traten in der ersten Staffel auf? *Rülps!*",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Fetzige Flaggen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Schweiz"
+    },
+    {
+     "correct": false,
+     "text": "Irland"
+    },
+    {
+     "correct": false,
+     "text": "Dänemark"
+    },
+    {
+     "correct": true,
+     "text": "Vatikanstadt"
+    }
+   ],
+   "clue": "Auf einer Flagge ist ein Plus zu sehen, auf der anderen zwei gekreuzte Schlüssel",
+   "id": "112598",
+   "isEasy": false,
+   "question": "Was sind die einzigen beiden Länder mit einer quadratischen Flagge?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Spielorte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Australien"
+    },
+    {
+     "correct": true,
+     "text": "Italien"
+    },
+    {
+     "correct": false,
+     "text": "Mexiko"
+    },
+    {
+     "correct": true,
+     "text": "Japan"
+    }
+   ],
+   "clue": "Kängurus wurden bisher noch verschont",
+   "id": "112987",
+   "isEasy": false,
+   "question": "In welchen beiden Ländern spielte ein [i]Assassin’s Creed[/i]-Spiel? (Stand 2025)",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Comicbücher",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Electro"
+    },
+    {
+     "correct": false,
+     "text": "Magneto"
+    },
+    {
+     "correct": true,
+     "text": "Mysterio"
+    },
+    {
+     "correct": false,
+     "text": "Bizarro"
+    }
+   ],
+   "clue": "Äußerst mysteriös!",
+   "id": "112988",
+   "isEasy": false,
+   "question": "Welche beiden Comic-Bösewichte gehören zu den Sinister Six?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Tierklassifizierung",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Truthahn"
+    },
+    {
+     "correct": true,
+     "text": "Ente"
+    },
+    {
+     "correct": false,
+     "text": "Emu"
+    },
+    {
+     "correct": true,
+     "text": "Gänse"
+    }
+   ],
+   "clue": "Das ist was für Weihnachten!",
+   "id": "112989",
+   "isEasy": false,
+   "question": "Wenn ich auf einer Speisekarte den Abschnitt „Anseriformes“ sehen würde, welche beiden Vögel könnte ich dort finden?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Feuchte Früchte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Honigmelone"
+    },
+    {
+     "correct": false,
+     "text": "Birne"
+    },
+    {
+     "correct": true,
+     "text": "Erdbeere"
+    },
+    {
+     "correct": false,
+     "text": "Traube"
+    }
+   ],
+   "clue": "Dieser Satz soll dir eine richtige Antwort offenbeeren!",
+   "id": "112990",
+   "isEasy": false,
+   "question": "Welche beiden Früchte bestehen zu mindestens 90 % aus Wasser?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tierbabys",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Hammerhai"
+    },
+    {
+     "correct": false,
+     "text": "Steinadler"
+    },
+    {
+     "correct": false,
+     "text": "Gemeine Goldmakrele"
+    },
+    {
+     "correct": true,
+     "text": "Komodowaran"
+    }
+   ],
+   "clue": "Hämmer lagern in Kommoden stets gut",
+   "id": "112992",
+   "isEasy": false,
+   "question": "Welche beiden Tiere können ohne männlichen Partner durch einen Prozess namens Parthenogenese Nachkommen zeugen?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Kannibalen-Tiere",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Gottesanbeterin"
+    },
+    {
+     "correct": true,
+     "text": "Anakonda"
+    },
+    {
+     "correct": false,
+     "text": "Honigbiene"
+    },
+    {
+     "correct": false,
+     "text": "Stechrochen"
+    }
+   ],
+   "clue": "Bienen-Drohnen sterben für ihre Königin... aber sie frisst sie nicht!",
+   "id": "113013",
+   "isEasy": false,
+   "question": "Bei welchen beiden Tierarten frisst das Weibchen häufig den Partner?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Inselfeiertage",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Osterinsel"
+    },
+    {
+     "correct": false,
+     "text": "Einheitsinsel"
+    },
+    {
+     "correct": false,
+     "text": "Erntedankinsel"
+    },
+    {
+     "correct": true,
+     "text": "Weihnachtsinsel"
+    }
+   ],
+   "clue": "Die Herbst-Feiertage sind falsch",
+   "id": "113062",
+   "isEasy": false,
+   "question": "Welche beiden Inseln existieren wirklich?",
+   "theme": "DESERT"
   }
  ]
 }
