@@ -5151,7 +5151,7 @@
             "id": "112604",
             "interrogations": [
                 "Spielt die Schnelligkeit des Todes eine Rolle bei deiner Entscheidung?",
-                "What is an acceptable level of risky behavior to you?"
+                "Gehst du gerne Risiken ein?"
             ],
             "question": "Welchen der folgenden Todesursachen würdest du bevorzugen?",
             "reminder": "Todesursachen",
@@ -5978,9 +5978,9 @@
             "familiarity": "FRIENDS",
             "id": "113064",
             "interrogations": [
-                "What would you say your base stomach comfort level is?",
-                "Do you get anxiety stomachaches?",
-                "How's your overall digestion?"
+                "Wie gut fühlt sich dein Bauch normalerweise an?",
+                "Hast du oft Bauchschmerzen aufgrund von Angstzuständen?",
+                "Wie steht es allgemein um deine Verdauung?"
             ],
             "question": "Hast du gerade Bauchschmerzen?",
             "reminder": "Bauch? Schmerzen?",
