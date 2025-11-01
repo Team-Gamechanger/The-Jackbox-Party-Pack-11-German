@@ -1489,12 +1489,12 @@
      "altSpellings": [
       "Wall E",
       "Wally",
-      "WALL-E",
+      "WALL-E - Der Letzte räumt die Erde auf",
       "Der Letzte räumt die Erde auf",
       "WALL-E Der Letzte räumt die Erde auf",
       "WALL-E: Der Letzte räumt die Erde auf"
      ],
-     "answer": "WALL-E - Der Letzte räumt die Erde auf"
+     "answer": "WALL-E"
     },
     {
      "altSpellings": [
@@ -1514,11 +1514,11 @@
      "altSpellings": [
       "Brave",
       "Legende der Highlands",
-      "Merida",
+      "Merida - Legende der Highlands",
       "Merida Legende der Highlands",
       "Merida: Legende der Highlands"
      ],
-     "answer": "Merida - Legende der Highlands"
+     "answer": "Merida"
     },
     {
      "altSpellings": [
@@ -1528,7 +1528,7 @@
     },
     {
      "altSpellings": [
-      "Coco",
+      "Coco - Lebendiger als das Leben!",
       "Cocoa",
       "Coco - Lebendiger als das Leben",
       "Lebendiger als das Leben",
@@ -1540,7 +1540,7 @@
       "Koko - Lebendiger als das Leben",
       "Koko"
      ],
-     "answer": "Coco - Lebendiger als das Leben!"
+     "answer": "Coco"
     },
     {
      "altSpellings": [
@@ -2506,7 +2506,7 @@
    ],
    "category": "",
    "id": "113887",
-   "question": "Künste/Wissenschaften, die durch eine der neun griechischen Musen verkörpert werden"
+   "question": "Von den 9 griechischen Musen verkörperte Künste/ Wissenschaften"
   },
   {
    "answers": [
