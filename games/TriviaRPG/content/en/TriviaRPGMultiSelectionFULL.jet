@@ -2254,29 +2254,29 @@
    "theme": "DESERT"
   },
   {
-   "category": "Animal Teeth",
+   "category": "Tierzähne",
    "choices": [
     {
      "correct": false,
-     "text": "Saltwater crocodile"
+     "text": "Leistenkrokodil"
     },
     {
      "correct": true,
-     "text": "Giant armadillo"
+     "text": "Riesengürteltier"
     },
     {
      "correct": false,
-     "text": "Lion"
+     "text": "Löwe"
     },
     {
      "correct": true,
-     "text": "Bottlenose dolphin"
+     "text": "Großer Tümmler-Delfin"
     }
    ],
-   "clue": "Only one is a water-dweller",
+   "clue": "Nur einer ist ein Wasserbewohner",
    "id": "113098",
    "isEasy": false,
-   "question": "Which two tooth-rich animals have over 80 teeth?",
+   "question": "Welche beiden zahnreichen Tiere haben über 80 Zähne?",
    "theme": "CEMETERY"
   },
   {
@@ -2306,7 +2306,7 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Global Cuisine",
+   "category": "Internationale Küche",
    "choices": [
     {
      "correct": true,
@@ -2318,17 +2318,17 @@
     },
     {
      "correct": false,
-     "text": "Spaetzle"
+     "text": "Spätzle"
     },
     {
      "correct": true,
      "text": "Tagliatelle"
     }
    ],
-   "clue": "Italian and Japanese",
+   "clue": "Italienisch und Japanisch",
    "id": "113146",
    "isEasy": false,
-   "question": "SLUUUURP. Of these noodles, which two are wheat-based?",
+   "question": "SCHLÜÜÜÜÜÜÜRF. Welche dieser Nudeln werden aus Weizen hergestellt?",
    "theme": "CASTLE"
   },
   {
@@ -2359,15 +2359,15 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Animal Speeds",
+   "category": "Tiergeschwindigkeiten",
    "choices": [
     {
      "correct": false,
-     "text": "Ostrich"
+     "text": "Strauß"
     },
     {
      "correct": false,
-     "text": "Horse"
+     "text": "Pferd"
     },
     {
      "correct": true,
@@ -2378,10 +2378,10 @@
      "text": "Giraffe"
     }
    ],
-   "clue": "Not typically farm animals",
+   "clue": "Keine gewöhnlichen Nutztiere",
    "id": "113152",
    "isEasy": false,
-   "question": "I can run up to 40 mph. Which two morsels could I catch at full speed and feast upon?",
+   "question": "Ich kann bis zu 65 km/h schnell laufen. Welche beiden Leckerbissen könnte ich bei voller Geschwindigkeit fangen und verspeisen?",
    "theme": "FOREST"
   },
   {
@@ -2463,55 +2463,55 @@
    "theme": "FOREST"
   },
   {
-   "category": "Digestive Alchemy",
+   "category": "Verdauungsalchemie",
    "choices": [
     {
      "correct": true,
-     "text": "Hydrogen"
+     "text": "Wasserstoff"
     },
     {
      "correct": true,
-     "text": "Chlorine"
+     "text": "Chlor"
     },
     {
      "correct": false,
-     "text": "Sodium"
+     "text": "Natrium"
     },
     {
      "correct": false,
-     "text": "Oxygen"
+     "text": "Sauerstoff"
     }
    ],
-   "clue": "It’s hydrochloric acid, stomach acid is hydrochloric acid",
+   "clue": "Magensäure ist hydrochlorische Säure",
    "id": "113162",
    "isEasy": false,
-   "question": "What two elements make up the gastric acid that will soon be digesting you?",
+   "question": "Aus welchen beiden Elementen besteht die Magensäure, die Euch schon bald verdauen wird?",
    "theme": "FOREST"
   },
   {
-   "category": "Animal Powers",
+   "category": "Tierkräfte",
    "choices": [
     {
      "correct": true,
-     "text": "Lanternfish"
+     "text": "Laternenfische"
     },
     {
      "correct": true,
-     "text": "Anglerfish"
+     "text": "Anglerfische"
     },
     {
      "correct": false,
-     "text": "Angelfish"
+     "text": "Skalare"
     },
     {
      "correct": false,
-     "text": "Furnacefish"
+     "text": "Feuerfische"
     }
    ],
-   "clue": "One prefix you hold and one prefix you grab with.",
+   "clue": "Ein Objekt, mit dem man Licht ins Dunkel bringt und eines, mit dem man Dinge ans Land zieht",
    "id": "113903",
    "isEasy": false,
-   "question": "Which fish in this seafood buffet are glowing... because they’re bioluminescent?",
+   "question": "Welche Fische in diesem Meeresfrüchte-Buffet leuchten... weil sie biolumineszierend sind?",
    "theme": "CEMETERY"
   },
   {
@@ -2568,11 +2568,11 @@
    "x": true
   },
   {
-   "category": "Global Sports",
+   "category": "Sport",
    "choices": [
     {
      "correct": false,
-     "text": "Spain"
+     "text": "Spanien"
     },
     {
      "correct": false,
@@ -2584,21 +2584,21 @@
     },
     {
      "correct": true,
-     "text": "Belgium"
+     "text": "Belgien"
     }
    ],
-   "clue": "Does this port pair with waffles?",
+   "clue": "Harmoniert Portwein mit Waffeln?",
    "id": "113907",
    "isEasy": false,
-   "question": "Boo! Empty Cups! Which two countries have NEVER won the World Cup?!",
+   "question": "Buh! Nichts als Spesen! Welche beiden Länder haben noch NIE die Fußball-Weltmeisterschaft gewonnen?!",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Basic Chemistry",
+   "category": "Einfache Chemie",
    "choices": [
     {
      "correct": false,
-     "text": "Carbon"
+     "text": "Kohlenstoff"
     },
     {
      "correct": true,
@@ -2606,25 +2606,25 @@
     },
     {
      "correct": false,
-     "text": "Boron"
+     "text": "Bor"
     },
     {
      "correct": true,
      "text": "Neon"
     }
    ],
-   "clue": "Neon colors are radical!",
+   "clue": "Neonfarben sind radikal!",
    "id": "113908",
    "isEasy": false,
-   "question": "Which of these two elements are gassy... *BURP* ...I mean, GASES at room temperature?",
+   "question": "Welche beiden Elemente sind blähend... *RÜLPS* ...ich meine, GASFÖRMIG bei Raumtemperatur?",
    "theme": "FOREST"
   },
   {
-   "category": "Magnets? How?!?",
+   "category": "Magnete? Wie?!?",
    "choices": [
     {
      "correct": true,
-     "text": "Iron"
+     "text": "Eisen"
     },
     {
      "correct": true,
@@ -2632,17 +2632,17 @@
     },
     {
      "correct": false,
-     "text": "Silver"
+     "text": "Silber"
     },
     {
      "correct": false,
-     "text": "Aluminum"
+     "text": "Aluminium"
     }
    ],
-   "clue": "There’s a nick, but we can iron it out",
+   "clue": "Wer ein Eis möchte, nickt bitte einmal kurz!",
    "id": "113909",
    "isEasy": false,
-   "question": "My novelty fridge magnets would stick to which of these two metals?",
+   "question": "An welchen beiden Metallen würden meine Souvenir-Kühlschrankmagnete haften bleiben?",
    "theme": "MOUNTAIN"
   },
   {
@@ -2725,7 +2725,7 @@
    "theme": "FOREST"
   },
   {
-   "category": "Wine Pairings",
+   "category": "Weinpaarungen",
    "choices": [
     {
      "correct": false,
@@ -2744,23 +2744,23 @@
      "text": "Riesling"
     }
    ],
-   "clue": "I’ll bec you can really sing!",
+   "clue": "Nach zu viel Rotwein macht man schnell mal eine Polonäse Sangiovese",
    "id": "113916",
    "isEasy": false,
-   "question": "I think I’ll consume you with a red wine... so what TWO kinds of grapes will I need?",
+   "question": "Ich glaube, ich werde Euch mit einem Rotwein verzehren... welche ZWEI Rebsorten brauche ich also dafür?",
    "theme": "MOUNTAIN",
    "x": true
   },
   {
-   "category": "Endangered Animals",
+   "category": "Bedrohte Tiere",
    "choices": [
     {
      "correct": true,
-     "text": "Kangaroo"
+     "text": "Känguru"
     },
     {
      "correct": true,
-     "text": "Camel"
+     "text": "Kamel"
     },
     {
      "correct": false,
@@ -2768,39 +2768,39 @@
     },
     {
      "correct": false,
-     "text": "Hammerhead shark"
+     "text": "Hammerhai"
     }
    ],
-   "clue": "They may punch or kick back",
+   "clue": "Sie könnten zurückschlagen oder -treten",
    "id": "113917",
    "isEasy": false,
-   "question": "In 2025, what two animals can I legally hunt — and eat! — in Australia?",
+   "question": "Welche zwei Tiere darf ich im Jahr 2025 in Australien legal jagen – und essen!?",
    "theme": "DESERT"
   },
   {
-   "category": "Natures Predators",
+   "category": "Raubtiere",
    "choices": [
     {
      "correct": true,
-     "text": "Leopard seal"
+     "text": "Seeleopard"
     },
     {
      "correct": false,
-     "text": "Artic fox"
+     "text": "Polarfuchs"
     },
     {
      "correct": false,
-     "text": "Polar bear"
+     "text": "Eisbär"
     },
     {
      "correct": true,
-     "text": "Orca"
+     "text": "Schwertwal"
     }
    ],
-   "clue": "Artic foxes and polar bears live on the opposite side of the world",
+   "clue": "Polarfüchse und Eisbären leben auf der gegenüberliegenden Seite der Erde",
    "id": "113918",
    "isEasy": false,
-   "question": "Which of these two predators are known for eating tasty penguins?",
+   "question": "Welche beiden Raubtiere sind dafür bekannt, leckere Pinguine zu fressen?",
    "theme": ""
   },
   {
@@ -2856,7 +2856,7 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Nutty Recipes",
+   "category": "Nussige Rezepte",
    "choices": [
     {
      "correct": true,
@@ -2864,21 +2864,21 @@
     },
     {
      "correct": false,
-     "text": "Tom Yum Soup"
+     "text": "Tom Yam-Suppe"
     },
     {
      "correct": true,
-     "text": "Kung Pao Chicken"
+     "text": "Kung Pao Huhn"
     },
     {
      "correct": false,
      "text": "Mango Sticky Rice"
     }
    ],
-   "clue": "All the chickens hang at my pad",
+   "clue": "Alle Hühner hängen immer am iPad",
    "id": "113923",
    "isEasy": false,
-   "question": "My allergies! Which of these two dishes traditionally contains peanuts?",
+   "question": "Meine Allergien! Welche beiden Gerichte enthalten traditionell Erdnüsse?",
    "theme": "MOUNTAIN"
   },
   {

@@ -1303,6 +1303,319 @@
    "isEasy": false,
    "question": "Welche beiden Inseln existieren wirklich?",
    "theme": "DESERT"
+  },
+  {
+   "category": "Tierzähne",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Leistenkrokodil"
+    },
+    {
+     "correct": true,
+     "text": "Riesengürteltier"
+    },
+    {
+     "correct": false,
+     "text": "Löwe"
+    },
+    {
+     "correct": true,
+     "text": "Großer Tümmler-Delfin"
+    }
+   ],
+   "clue": "Nur einer ist ein Wasserbewohner",
+   "id": "113098",
+   "isEasy": false,
+   "question": "Welche beiden zahnreichen Tiere haben über 80 Zähne?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Internationale Küche",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Somen"
+    },
+    {
+     "correct": false,
+     "text": "Dangmyeon"
+    },
+    {
+     "correct": false,
+     "text": "Spätzle"
+    },
+    {
+     "correct": true,
+     "text": "Tagliatelle"
+    }
+   ],
+   "clue": "Italienisch und Japanisch",
+   "id": "113146",
+   "isEasy": false,
+   "question": "SCHLÜÜÜÜÜÜÜRF. Welche dieser Nudeln werden aus Weizen hergestellt?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Tiergeschwindigkeiten",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Strauß"
+    },
+    {
+     "correct": false,
+     "text": "Pferd"
+    },
+    {
+     "correct": true,
+     "text": "Bison"
+    },
+    {
+     "correct": true,
+     "text": "Giraffe"
+    }
+   ],
+   "clue": "Keine gewöhnlichen Nutztiere",
+   "id": "113152",
+   "isEasy": false,
+   "question": "Ich kann bis zu 65 km/h schnell laufen. Welche beiden Leckerbissen könnte ich bei voller Geschwindigkeit fangen und verspeisen?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Verdauungsalchemie",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Wasserstoff"
+    },
+    {
+     "correct": true,
+     "text": "Chlor"
+    },
+    {
+     "correct": false,
+     "text": "Natrium"
+    },
+    {
+     "correct": false,
+     "text": "Sauerstoff"
+    }
+   ],
+   "clue": "Magensäure ist hydrochlorische Säure",
+   "id": "113162",
+   "isEasy": false,
+   "question": "Aus welchen beiden Elementen besteht die Magensäure, die Euch schon bald verdauen wird?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Tierkräfte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Laternenfische"
+    },
+    {
+     "correct": true,
+     "text": "Anglerfische"
+    },
+    {
+     "correct": false,
+     "text": "Skalare"
+    },
+    {
+     "correct": false,
+     "text": "Feuerfische"
+    }
+   ],
+   "clue": "Ein Objekt, mit dem man Licht ins Dunkel bringt und eines, mit dem man Dinge ans Land zieht",
+   "id": "113903",
+   "isEasy": false,
+   "question": "Welche Fische in diesem Meeresfrüchte-Buffet leuchten... weil sie biolumineszierend sind?",
+   "theme": "CEMETERY"
+  },
+  {
+   "category": "Sport",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Spanien"
+    },
+    {
+     "correct": false,
+     "text": "Uruguay"
+    },
+    {
+     "correct": true,
+     "text": "Portugal"
+    },
+    {
+     "correct": true,
+     "text": "Belgien"
+    }
+   ],
+   "clue": "Harmoniert Portwein mit Waffeln?",
+   "id": "113907",
+   "isEasy": false,
+   "question": "Buh! Nichts als Spesen! Welche beiden Länder haben noch NIE die Fußball-Weltmeisterschaft gewonnen?!",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Einfache Chemie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Kohlenstoff"
+    },
+    {
+     "correct": true,
+     "text": "Radon"
+    },
+    {
+     "correct": false,
+     "text": "Bor"
+    },
+    {
+     "correct": true,
+     "text": "Neon"
+    }
+   ],
+   "clue": "Neonfarben sind radikal!",
+   "id": "113908",
+   "isEasy": false,
+   "question": "Welche beiden Elemente sind blähend... *RÜLPS* ...ich meine, GASFÖRMIG bei Raumtemperatur?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Magnete? Wie?!?",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Eisen"
+    },
+    {
+     "correct": true,
+     "text": "Nickel"
+    },
+    {
+     "correct": false,
+     "text": "Silber"
+    },
+    {
+     "correct": false,
+     "text": "Aluminium"
+    }
+   ],
+   "clue": "Wer ein Eis möchte, nickt bitte einmal kurz!",
+   "id": "113909",
+   "isEasy": false,
+   "question": "An welchen beiden Metallen würden meine Souvenir-Kühlschrankmagnete haften bleiben?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Weinpaarungen",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Sultana"
+    },
+    {
+     "correct": true,
+     "text": "Malbec"
+    },
+    {
+     "correct": true,
+     "text": "Sangiovese"
+    },
+    {
+     "correct": false,
+     "text": "Riesling"
+    }
+   ],
+   "clue": "Nach zu viel Rotwein macht man schnell mal eine Polonäse Sangiovese",
+   "id": "113916",
+   "isEasy": false,
+   "question": "Ich glaube, ich werde Euch mit einem Rotwein verzehren... welche ZWEI Rebsorten brauche ich also dafür?",
+   "theme": "MOUNTAIN",
+   "x": true
+  },
+  {
+   "category": "Bedrohte Tiere",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Känguru"
+    },
+    {
+     "correct": true,
+     "text": "Kamel"
+    },
+    {
+     "correct": false,
+     "text": "Koala"
+    },
+    {
+     "correct": false,
+     "text": "Hammerhai"
+    }
+   ],
+   "clue": "Sie könnten zurückschlagen oder -treten",
+   "id": "113917",
+   "isEasy": false,
+   "question": "Welche zwei Tiere darf ich im Jahr 2025 in Australien legal jagen – und essen!?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Raubtiere",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Seeleopard"
+    },
+    {
+     "correct": false,
+     "text": "Polarfuchs"
+    },
+    {
+     "correct": false,
+     "text": "Eisbär"
+    },
+    {
+     "correct": true,
+     "text": "Schwertwal"
+    }
+   ],
+   "clue": "Polarfüchse und Eisbären leben auf der gegenüberliegenden Seite der Erde",
+   "id": "113918",
+   "isEasy": false,
+   "question": "Welche beiden Raubtiere sind dafür bekannt, leckere Pinguine zu fressen?",
+   "theme": ""
+  },
+  {
+   "category": "Nussige Rezepte",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Pad Thai"
+    },
+    {
+     "correct": false,
+     "text": "Tom Yam-Suppe"
+    },
+    {
+     "correct": true,
+     "text": "Kung Pao Huhn"
+    },
+    {
+     "correct": false,
+     "text": "Mango Sticky Rice"
+    }
+   ],
+   "clue": "Alle Hühner hängen immer am iPad",
+   "id": "113923",
+   "isEasy": false,
+   "question": "Meine Allergien! Welche beiden Gerichte enthalten traditionell Erdnüsse?",
+   "theme": "MOUNTAIN"
   }
  ]
 }
