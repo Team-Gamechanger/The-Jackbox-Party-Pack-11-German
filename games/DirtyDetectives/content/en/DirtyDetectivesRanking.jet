@@ -5,22 +5,22 @@
    "category": "PROFILE",
    "choiceLimit": 4,
    "choices": [
-    "Vampires",
+    "Vampire",
     "Zombies",
-    "Werewolves",
-    "Mummies"
+    "Werwölfe",
+    "Mumien"
    ],
-   "evidence": "When fighting monsters, suspect would choose to fight {{SELECTION-1}} first and {{SELECTION-3}} last.",
+   "evidence": "Im Kampf gegen Monster würde der Verdächtige sich dafür entscheiden, zuerst {{SELECTION-1}} und zuletzt {{SELECTION-3}} zu bekämpfen.",
    "familiarity": "FRIENDS",
    "id": "107564",
    "interrogations": [
-    "What’s your plan for fighting monsters?",
-    "In your opinion, what’s the strongest monster of all?",
-    "Do you think you’d survive any of these fights?"
+    "Wie sieht dein Plan zur Bekämpfung von Monstern aus?",
+    "Was ist deiner Meinung nach das stärkste Monster von allen?",
+    "Glaubst du, du würdest einen dieser Kämpfe überleben?"
    ],
-   "question": "Put these monsters in the order you’d be willing to fight them:",
-   "reminder": "Monster Fight",
-   "summary": "FIGHT: {{SELECTION-1}} FIRST, {{SELECTION-4}} LAST"
+   "question": "Ordne diese Monster in der Reihenfolge, in der du bereit wärst, gegen sie zu kämpfen:",
+   "reminder": "Monsterkampf",
+   "summary": "KAMPF: {{SELECTION-1}} ZUERST, {{SELECTION-4}} ZULETZT"
   },
   {
    "appearance": "LATE",
@@ -37,6 +37,7 @@
    "interrogations": [],
    "question": "Ordne diese Triathlon-Disziplinen danach, wie gut du sie deiner Meinung nach ohne Vorbereitung schaffen würdest, vom besten bis zum schlechtesten.",
    "reminder": "Triathlon-Disziplinen",
+   "starterContent": true,
    "summary": "BESTE {{SELECTION-1}}, SCHLECHTESTE {{SELECTION-3}}"
   },
   {
@@ -79,6 +80,7 @@
    ],
    "question": "Dein Nachbar braucht Hilfe im Haushalt. Ordne diese von \"würde ich am ehesten machen\" bis \"würde ich am wenigsten machen\":",
    "reminder": "Nachbarn helfen",
+   "starterContent": true,
    "summary": "{{SELECTION-1}} VOR {{SELECTION-4}}"
   },
   {
@@ -240,7 +242,7 @@
    ],
    "question": "Ordne die folgenden Reality-/Spielshows danach, wie gut du denkst, dass du bei jeder abschneiden würdest.",
    "reminder": "Reality-Gewinner",
-   "starterContent": false,
+   "starterContent": true,
    "summary": "VERLIERER BEI {{SELECTION-6}}, AUCH BEI {{SELECTION-5}}"
   },
   {
@@ -275,12 +277,12 @@
    "category": "PROFILE",
    "choiceLimit": 3,
    "choices": [
-    "Weltall",
-    "Bremen",
-    "[i]Burger King[/i]"
+    "ins Weltall",
+    "nach Bremen",
+    "zu [i]Burger King[/i]"
    ],
    "countrySpecific": true,
-   "evidence": "Der Verdächtige würde zuerst zu {{SELECTION-1}} gehen, bevor er zu {{SELECTION-3}} geht.",
+   "evidence": "Der Verdächtige würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
    "familiarity": "STRANGERS",
    "id": "114000",
    "interrogations": [
@@ -290,18 +292,19 @@
    ],
    "question": "Ordne diese nach der Reihenfolge, wie gerne du sie besuchen möchtest:",
    "reminder": "Wohin geht's?",
-   "summary": "BEVORZUGT {{SELECTION-1}} VOR {{SELECTION-3}}"
+   "starterContent": true,
+   "summary": "LIEBER {{SELECTION-1}} STATT {{SELECTION-3}}"
   },
   {
    "appearance": "EARLY",
    "category": "FORENSICS",
    "choiceLimit": 3,
    "choices": [
-    "Kölner Karneval",
-    "Antarktis",
-    "Love Island"
+    "zum Kölner Karneval",
+    "in die Antarktis",
+    "zu Love Island"
    ],
-   "evidence": "Der Verdächtige würde zuerst zu {{SELECTION-1}} gehen, bevor er zu {{SELECTION-3}} geht.",
+   "evidence": "Der Verdächtige würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
    "familiarity": "STRANGERS",
    "id": "114005",
    "interrogations": [
@@ -311,7 +314,7 @@
    ],
    "question": "Ordne diese nach der Reihenfolge, wie gerne du sie besuchen möchtest:",
    "reminder": "Wohin geht's?",
-   "summary": "BEVORZUGT {{SELECTION-1}} VOR {{SELECTION-3}}"
+   "summary": "LIEBER {{SELECTION-1}} STATT {{SELECTION-3}}"
   },
   {
    "appearance": "LATE",
@@ -379,6 +382,7 @@
    ],
    "question": "Ordne diese Restaurantqualitäten nach ihrer Wichtigkeit für dich.",
    "reminder": "Restaurantvorlieben",
+   "starterContent": true,
    "summary": "RESTAURANT: MÖCHTE {{SELECTION-1}} EHER ALS {{SELECTION-5}}"
   },
   {
@@ -401,6 +405,7 @@
    ],
    "question": "Wenn du Dinge komplett aus dem modernen Leben entfernen könntest, ordne sie in der Reihenfolge, in der du sie verschwinden lassen würdest:",
    "reminder": "Mach es weg",
+   "starterContent": true,
    "summary": "LOSWERDEN: {{SELECTION-1}} ZUERST, {{SELECTION-4}} ZULETZT"
   },
   {

@@ -40,6 +40,7 @@
             ],
             "question": "Mit welchem Adjektiv würdest du deine Heimatstadt beschreiben?",
             "reminder": "Beschreibe deine Heimatstadt",
+            "starterContent": true,
             "summary": "HEIMATSTADT: \"{{SELECTION}}\""
         },
         {
@@ -83,6 +84,7 @@
             ],
             "question": "Welche App benutzt du am häufigsten auf deinem Handy?",
             "reminder": "Meist benutzte App",
+            "starterContent": true,
             "summary": "MEIST BENUTZTE APP: {{SELECTION}}"
         },
         {
@@ -139,6 +141,7 @@
             ],
             "question": "Was war das erste Lied/Album, das du dir selbst gekauft oder heruntergeladen hast? (Vinyl, CD, Kassette, MP3, etc.)",
             "reminder": "Erstes Album/Lied",
+            "starterContent": true,
             "summary": "ERSTE MUSIK: {{SELECTION}}"
         },
         {
@@ -227,6 +230,7 @@
             ],
             "question": "Welche Band oder welchen Künstler hast du zuletzt live gesehen?",
             "reminder": "Letztes Live-Konzert",
+            "starterContent": true,
             "summary": "LIVE SHOW: {{SELECTION}}"
         },
         {
@@ -298,6 +302,7 @@
             ],
             "question": "Was war dein erster Job?",
             "reminder": "Erster Job",
+            "starterContent": true,
             "summary": "ERSTER JOB: {{SELECTION}}",
             "x": false
         },
@@ -313,6 +318,7 @@
             ],
             "question": "Was wolltest du als Kind werden, wenn du groß bist?",
             "reminder": "Kindlicher Traumjob",
+            "starterContent": true,
             "summary": "TRAUMJOB: {{SELECTION}}"
         },
         {
@@ -583,6 +589,7 @@
             ],
             "question": "Über welche beliebte TV-Serie weißt du gar nichts?",
             "reminder": "TV-Wissen",
+            "starterContent": true,
             "summary": "WEISS NICHTS: [i]{{SELECTION}}[/i]"
         },
         {
@@ -822,6 +829,7 @@
             ],
             "question": "In ein oder zwei Worten, welches Geräusch kannst du einfach nicht ertragen?",
             "reminder": "Schlechte Geräusche",
+            "starterContent": true,
             "summary": "SCHLIMMSTES GERÄUSCH: {{SELECTION}}"
         },
         {
@@ -836,6 +844,7 @@
             ],
             "question": "Welches Schulfach mochtest du in der Schule am wenigsten?",
             "reminder": "Schlimmstes Fach",
+            "starterContent": true,
             "summary": "SCHLIMMSTES FACH: {{SELECTION}}"
         },
         {
@@ -898,21 +907,6 @@
             "question": "Gib uns ein Wort, das beschreibt, wie du dich gerade bezüglich deines Lebens fühlst.",
             "reminder": "Lebensgefühl",
             "summary": "DAS LEBEN: {{SELECTION}}"
-        },
-        {
-            "appearance": "LATE",
-            "category": "PROFILE",
-            "evidence": "Der Verdächtige ist bereit und vorbereitet, unters Messer zu gehen für: {{SELECTION}}",
-            "familiarity": "FRIENDS",
-            "id": "112434",
-            "interrogations": [
-                "Wie denkst du über Schönheitsoperationen?",
-                "Was würde dich im Alltag selbstbewusster machen?",
-                "Was ist deine Meinung zu extremen Piercings?"
-            ],
-            "question": "Wenn du gerade jetzt eine beliebige Wahleingriff bekommen könntest, welcher wäre es?",
-            "reminder": "Wahleingriff",
-            "summary": "OPERATION: {{SELECTION}}"
         },
         {
             "appearance": "LATE",
