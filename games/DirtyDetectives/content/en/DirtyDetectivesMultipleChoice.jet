@@ -827,7 +827,7 @@
                 "Hast du schon mal darüber nachgedacht, warum Adler nie verwendet wurden, um nach Mordor zu fliegen?",
                 "Denkst du, du hättest den Einen Ring zerstören können?"
             ],
-            "question": "Mit welchem Mitglied der [i]Gemeinschaft des Ringes[/i] identifizierst du dich am meisten?",
+            "question": "Mit welchem Mitglied der Gemeinschaft des Ringes identifizierst du dich am meisten?",
             "reminder": "Gemeinschaft des Ringes"
         },
         {
@@ -2013,7 +2013,7 @@
                 },
                 {
                     "choices": [
-                        "Ja, aber nicht [i]jedes[/i] Mal."
+                        "Ja, aber nicht jedes Mal."
                     ],
                     "finding": "Der Verdächtige kann \"Fischers Fritze fischt frische Fische\" ein paar Mal sagen, {{RED}}aber nicht konstant.",
                     "summary": "ZUNGENBRECHER: {{RED}}GEHT SO"
@@ -2056,7 +2056,7 @@
                 },
                 {
                     "choices": [
-                        "Selten...aber nicht [i]nie[/i]."
+                        "Selten...aber nicht nie."
                     ],
                     "finding": "Der Verdächtige streitet bei {{RED}}sehr seltenen Gelegenheiten online mit Leuten.",
                     "summary": "ONLINE-STREIT: {{RED}}SELTEN"
@@ -2801,21 +2801,21 @@
                     "choices": [
                         "Weihnachtsfilm"
                     ],
-                    "finding": "Der Verdächtige sagt, [i]Nightmare Before Christmas[/i] ist ein Film über {{RED}}Weihnachten.",
+                    "finding": "Der Verdächtige sagt, Nightmare Before Christmas ist ein Film über {{RED}}Weihnachten.",
                     "summary": "NIGHTMARE: {{RED}}WEIHNACHTEN"
                 },
                 {
                     "choices": [
                         "Halloween-Film"
                     ],
-                    "finding": "Der Verdächtige sagt, [i]Nightmare Before Christmas[/i] ist ein Film über {{RED}}Halloween.",
+                    "finding": "Der Verdächtige sagt, Nightmare Before Christmas ist ein Film über {{RED}}Halloween.",
                     "summary": "NIGHTMARE: {{RED}}HALLOWEEN"
                 },
                 {
                     "choices": [
                         "Ich weiß nichts über diesen Film."
                     ],
-                    "finding": "Der extrem normale Verdächtige {{RED}}weiß nichts über [i]Nightmare Before Christmas[/i].",
+                    "finding": "Der extrem normale Verdächtige {{RED}}weiß nichts über Nightmare Before Christmas.",
                     "summary": "NIGHTMARE: {{RED}}KEINE AHNUNG"
                 }
             ],
@@ -2824,9 +2824,9 @@
             "interrogations": [
                 "Geht der Film nicht um das MACHEN von Weihnachten?",
                 "Geht der Film nicht um die Leute von HALLOWEENtown?",
-                "Welche Jahreszeit ist die richtige Zeit, um [i]Nightmare Before Christmas[/i] zu schauen?"
+                "Welche Jahreszeit ist die richtige Zeit, um Nightmare Before Christmas zu schauen?"
             ],
-            "question": "Ist [i]Nightmare Before Christmas[/i] ein Weihnachts- oder ein Halloween-Film?",
+            "question": "Ist Nightmare Before Christmas ein Weihnachts- oder ein Halloween-Film?",
             "reminder": "Nightmare Before Christmas",
             "starterContent": false
         },
@@ -3727,7 +3727,7 @@
             "familiarity": "FRIENDS",
             "id": "109438",
             "interrogations": [
-                "Schaust du irgendwelche [i]Scripted Reality[/i]-Shows?",
+                "Schaust du irgendwelche Scripted Reality-Shows?",
                 "Würdest du dich als Gamer bezeichnen?",
                 "Ich weiß, ich kann sehen, was du trägst, aber interessiert dich Mode überhaupt?"
             ],
@@ -3748,7 +3748,7 @@
                 },
                 {
                     "choices": [
-                        "Nicht [i]toll[/i], aber auch nicht schlecht."
+                        "Nicht toll, aber auch nicht schlecht."
                     ],
                     "finding": "Beim Anschauen alter Social Media Posts würde sich der Verdächtige {{SELECTION}} fühlen.",
                     "summary": "ALTE POSTS: {{RED}}IST OK"
@@ -4071,28 +4071,28 @@
                     "choices": [
                         "Ja"
                     ],
-                    "finding": "Der Verdächtige glaubt, am Ende von [i]Titanic[/i] {{RED}}war offensichtlich genug Platz für Jack.",
+                    "finding": "Der Verdächtige glaubt, am Ende von Titanic {{RED}}war offensichtlich genug Platz für Jack.",
                     "summary": "PLATZ FÜR JACK? {{SELECTION}}"
                 },
                 {
                     "choices": [
                         "Nein"
                     ],
-                    "finding": "Der Verdächtige glaubt, am Ende von [i]Titanic[/i] {{RED}}hätte Jack nicht auf die Tür gepasst.",
+                    "finding": "Der Verdächtige glaubt, am Ende von Titanic {{RED}}hätte Jack nicht auf die Tür gepasst.",
                     "summary": "PLATZ FÜR JACK? {{SELECTION}}"
                 },
                 {
                     "choices": [
-                        "Ich habe [i]Titanic[/i] nicht gesehen."
+                        "Ich habe Titanic nicht gesehen."
                     ],
-                    "finding": "Der Verdächtige hat keine Meinung über Rose, Jack oder die Tür, weil er {{RED}}[i]Titanic[/i] nicht gesehen hat.",
+                    "finding": "Der Verdächtige hat keine Meinung über Rose, Jack oder die Tür, weil er {{RED}}Titanic nicht gesehen hat.",
                     "summary": "TITANIC: {{RED}}NICHT GESEHEN"
                 },
                 {
                     "choices": [
                         "Es ist mir wirklich egal."
                     ],
-                    "finding": "Der Verdächtige behauptet, dass es ihm {{RED}}egal ist, was mit Rose, Jack, der Tür oder irgendeinem anderen Teil von [i]Titanic[/i] passiert ist.",
+                    "finding": "Der Verdächtige behauptet, dass es ihm {{RED}}egal ist, was mit Rose, Jack, der Tür oder irgendeinem anderen Teil von Titanic passiert ist.",
                     "summary": "PLATZ FÜR JACK? {{RED}}EHRLICH, EGAL"
                 }
             ],
@@ -4101,9 +4101,9 @@
             "interrogations": [
                 "Was macht dich zum Experten für Leonardo DiCaprios Auftrieb?",
                 "Wenn du jemanden liebst, ist es okay, ihn ertrinken zu lassen?",
-                "Auf wie vielen schwimmenden Türen warst [i]du[/i] schon?"
+                "Auf wie vielen schwimmenden Türen warst du schon?"
             ],
-            "question": "Am Ende von [i]Titanic[/i], als Rose auf der schwimmenden Tür ist, war da genug Platz für Jack?",
+            "question": "Am Ende von Titanic, als Rose auf der schwimmenden Tür ist, war da genug Platz für Jack?",
             "reminder": "Titanic-Tür",
             "starterContent": true
         },
@@ -4143,7 +4143,7 @@
             "familiarity": "STRANGERS",
             "id": "109775",
             "interrogations": [
-                "Wenn du Cosplay machen [i]würdest[/i], wer würdest du sein?",
+                "Wenn du Cosplay machen würdest, wer würdest du sein?",
                 "Findest du es \"lustig\", Kostüme anzuziehen und so zu tun, als wärst du jemand anderes?",
                 "Was denkst du über Perücken?"
             ],
@@ -4173,7 +4173,7 @@
             "id": "109924",
             "interrogations": [
                 "Bist du zufrieden mit deinen Gesangsfähigkeiten?",
-                "Wenn du alleine [i]singen[/i] würdest, welches Lied würdest du zum Besten geben?"
+                "Wenn du alleine singen würdest, welches Lied würdest du zum Besten geben?"
             ],
             "question": "Wenn du allein bist, singst du laut?",
             "reminder": "Privates Singen",
@@ -5784,9 +5784,9 @@
             "familiarity": "STRANGERS",
             "id": "112730",
             "interrogations": [
-                "Wenn du ein Buch schreiben [i]würdest[/i], worum würde es darin gehen?",
+                "Wenn du ein Buch schreiben würdest, worum würde es darin gehen?",
                 "Was hältst du von großen Projekten?",
-                "Hast du jemals ein Buch gelesen und gedacht: [i]Das könnte ich besser?[/i]"
+                "Hast du jemals ein Buch gelesen und gedacht: Das könnte ich besser?"
             ],
             "question": "Wenn du genug Zeit hättest, könntest du ein Buch schreiben?",
             "reminder": "Buch schreiben?"

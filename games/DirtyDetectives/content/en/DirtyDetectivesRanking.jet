@@ -226,12 +226,12 @@
    "category": "TESTIMONY",
    "choiceLimit": 6,
    "choices": [
-    "[i]Wer wird Millionär?[/i]",
-    "[i]Glücksrad[/i]",
-    "[i]Der Preis ist heiß[/i]",
-    "[i]Das große Backen[/i]",
-    "[i]7 vs. Wild[/i]",
-    "[i]Das Dschungelcamp[/i]"
+    "Wer wird Millionär?",
+    "Glücksrad",
+    "Der Preis ist heiß",
+    "Das große Backen",
+    "7 vs. Wild",
+    "Das Dschungelcamp"
    ],
    "evidence": "Der Verdächtige denkt, er wäre am schlechtesten bei {{SELECTION-6}}, dicht gefolgt von {{SELECTION-5}}.",
    "familiarity": "FRIENDS",
@@ -263,7 +263,7 @@
    "id": "109660",
    "interrogations": [
     "Bist du ein Geschichts-Nerd?",
-    "Hast du alle [i]Avengers[/i]-Filme gesehen?",
+    "Hast du alle Avengers-Filme gesehen?",
     "Schaust du Back-Shows?"
    ],
    "question": "Ordne diese Kriege danach, wie viel du über sie weißt (von meisten zu wenigsten).",
@@ -279,7 +279,7 @@
    "choices": [
     "ins Weltall",
     "nach Bremen",
-    "zu [i]Burger King[/i]"
+    "zu Burger King"
    ],
    "countrySpecific": true,
    "evidence": "Der Verdächtige würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
@@ -287,7 +287,7 @@
    "id": "114000",
    "interrogations": [
     "Wie gefällt dir Bremen?",
-    "Wie war dein letztes Essen bei [i]Burger King[/i]?",
+    "Wie war dein letztes Essen bei Burger King?",
     "Was hältst du von der Raumfahrt?"
    ],
    "question": "Ordne diese nach der Reihenfolge, wie gerne du sie besuchen möchtest:",

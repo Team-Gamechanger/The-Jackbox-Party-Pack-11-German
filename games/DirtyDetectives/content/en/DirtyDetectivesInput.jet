@@ -580,7 +580,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige behauptet, nichts über die TV-Serie [i]{{SELECTION}}[/i] zu wissen.",
+            "evidence": "Der Verdächtige behauptet, nichts über die TV-Serie {{SELECTION}} zu wissen.",
             "familiarity": "STRANGERS",
             "id": "108837",
             "interrogations": [
@@ -590,7 +590,7 @@
             "question": "Über welche beliebte TV-Serie weißt du gar nichts?",
             "reminder": "TV-Wissen",
             "starterContent": true,
-            "summary": "WEISS NICHTS: [i]{{SELECTION}}[/i]"
+            "summary": "WEISS NICHTS: {{SELECTION}}"
         },
         {
             "appearance": "LATE",
@@ -760,7 +760,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige weiß genug über sich selbst, um zu wissen, dass er [i]zu sehr[/i] steht auf: {{SELECTION}}.",
+            "evidence": "Der Verdächtige weiß genug über sich selbst, um zu wissen, dass er zu sehr steht auf: {{SELECTION}}.",
             "familiarity": "STRANGERS",
             "id": "109521",
             "interrogations": [
