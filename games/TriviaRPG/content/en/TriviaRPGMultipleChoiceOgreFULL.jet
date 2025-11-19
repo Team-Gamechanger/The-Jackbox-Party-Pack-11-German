@@ -1361,81 +1361,81 @@
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Health Food",
+   "category": "Gesundes Essen",
    "choices": [
     {
      "correct": false,
-     "text": "I think... in pasta?"
+     "text": "Ich glaube... in Pasta?"
     },
     {
      "correct": false,
-     "text": "I think... in deer meat?"
+     "text": "Ich glaube... in Hirschfleisch?"
     },
     {
      "correct": false,
-     "text": "I think... in seafood?"
+     "text": "Ich glaube... in Meeresfrüchten?"
     },
     {
      "correct": true,
-     "text": "I think... in yogurt?"
+     "text": "Ich glaube... in Joghurt?"
     }
    ],
-   "clue": "The helpful bacteria comes from fermentation",
+   "clue": "Die hilfreichen Bakterien entstehen durch Fermentation",
    "id": "113575",
    "isEasy": false,
-   "question": "Troll Doctor say me should eat Lactobacillus for good tummy. WHERE FIND THAT?!",
+   "question": "Troll-Arzt sagt, mich sollen Lactobacillus essen, damit Bauch gesund bleiben tut. WO MICH FINDEN DAS?!",
    "theme": ""
   },
   {
-   "category": "Painters",
+   "category": "Maler",
    "choices": [
     {
      "correct": false,
-     "text": "You mean da Vinci?"
+     "text": "Meinst du da Vinci?"
     },
     {
      "correct": false,
-     "text": "You mean Dalí?"
+     "text": "Meinst du Dalí?"
     },
     {
      "correct": false,
-     "text": "You mean Rembrandt?"
+     "text": "Meinst du Rembrandt?"
     },
     {
      "correct": true,
-     "text": "You mean van Gogh?"
+     "text": "Meinst du van Gogh?"
     }
    ],
-   "clue": "The winning combo is two ears and a two-part name",
+   "clue": "Das Erfolgsmodell besteht aus zwei Ohren und einem zweiteiligen Namen",
    "id": "113576",
    "isEasy": false,
-   "question": "Me hates my UGLY EARS! Just like DUTCH PAINTER who cut off his ear!",
+   "question": "Mich hassen meine HÄSSLICHE OHREN! Genau wie dieser NIEDERLÄNDISCHE MALER da, der sich Ohr abgeschnitten hat!",
    "theme": ""
   },
   {
-   "category": "Food Physics",
+   "category": "Futterphysik",
    "choices": [
     {
      "correct": true,
-     "text": "You can crack a Macadamia nut?"
+     "text": "Du kannst eine Macadamianuss knacken?"
     },
     {
      "correct": false,
-     "text": "You can crack a hazelnut?"
+     "text": "Du kannst eine Haselnuss knacken?"
     },
     {
      "correct": false,
-     "text": "You can crack an almond?"
+     "text": "Du kannst eine Mandel knacken?"
     },
     {
      "correct": false,
-     "text": "You can crack a walnut?"
+     "text": "Du kannst eine Walnuss knacken?"
     }
    ],
-   "clue": "Not the Nutella one.",
+   "clue": "Nicht die Nutella-Nuss",
    "id": "113585",
    "isEasy": false,
-   "question": "Me SO strong, me can even crack edible nut with HARDEST shell between me toes!!!",
+   "question": "Mich SO stark, kann sogar essbare Nuss mit HÄRTESTEN Schale mit mein Zehen knacken!!!",
    "theme": "FOREST"
   },
   {
@@ -1466,81 +1466,81 @@
    "x": true
   },
   {
-   "category": "Philosophical Musings",
+   "category": "Philosophische Träumereien",
    "choices": [
     {
      "correct": true,
-     "text": "That’s... almost a DESCARTES quote!"
+     "text": "Das... ist fast ein Zitat von DESCARTES!"
     },
     {
      "correct": false,
-     "text": "You’re thinking of KANT!"
+     "text": "Du denkst an KANT!"
     },
     {
      "correct": false,
-     "text": "I believe... that’s ARISTOTLE!"
+     "text": "Ich glaube... das ist ARISTOTELES!"
     },
     {
      "correct": false,
-     "text": "That’s basically a Plato quote!"
+     "text": "Das ist quasi ein Zitat von Platon!"
     }
    ],
-   "clue": "This philosopher ISN’T Greek!",
+   "clue": "Dieser Philosoph ist KEIN Grieche!",
    "id": "113796",
    "isEasy": false,
-   "question": "Me favorite philosopher always say “ME THINK, THEREFORE ME AM.” He was... urgh... who he?",
+   "question": "Mich Lieblingsphilosoph sagt immer: „MICH DENKEN, ALSO BIN MICH.“ Er war... äh... wer war er noch mal?",
    "theme": "CASTLE"
   },
   {
-   "category": "Physics Unit",
+   "category": "Physik-Einheit",
    "choices": [
     {
      "correct": false,
-     "text": "It’s a microscopic unit of length!"
+     "text": "Es ist eine mikroskopisch kleine Längeneinheit!"
     },
     {
      "correct": false,
-     "text": "It’s a unit of time!"
+     "text": "Es ist eine Zeiteinheit!"
     },
     {
      "correct": false,
-     "text": "Ergs are measures of weight!"
+     "text": "Erg ist eine Maßeinheit für Gewicht!"
     },
     {
      "correct": true,
-     "text": "Erg is a unit of energy!"
+     "text": "Erg ist eine Energieeinheit!"
     }
    ],
-   "clue": "This time, it’s not “time”",
+   "clue": "Es ist an der Zeit, dass die Antwort mal nicht „Zeit“ ist",
    "id": "113798",
    "isEasy": false,
-   "question": "Me favorite unit of measure “ERG.” Easy to say! But erg measure... erg....",
+   "question": "Mich liebste Lieblingsmaßeinheit „ERG“. Einfach auszusprechen! Aber Erg messen ... Erg ...",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Famous Cyclops",
+   "category": "Berühmte Zyklopen",
    "choices": [
     {
      "correct": false,
-     "text": "Sure do, that’s Theseus."
+     "text": "Klar, das ist Theseus."
     },
     {
      "correct": false,
-     "text": "Your cousin was tricked by Perseus."
+     "text": "Dein Cousin wurde von Perseus ausgetrickst."
     },
     {
      "correct": true,
-     "text": "That’s gotta be Odysseus."
+     "text": "Das muss Odysseus sein."
     },
     {
      "correct": false,
-     "text": "Oh, that’s actually Hercules."
+     "text": "Oh, das ist in Wahrheit Herkules."
     }
    ],
-   "clue": "This hero met the cyclops on a looonnggg journey home.",
+   "clue": "Dieser Held traf auf einer laaaangen Heimreise auf den Zyklopen",
    "id": "113801",
    "isEasy": false,
-   "question": "Me cousin, big cyclops, great guy, hurt by Greek hero named NOBODY. Do you know NOBODY?",
+   "question": "Mein Cousin, ein großer Zyklop, toller Kerl, wurde vom griechischen Helden namens NIEMAND wehgetan. Ihr kennen NIEMAND?",
    "theme": "CASTLE"
   },
   {
@@ -1570,55 +1570,55 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Music Intros",
+   "category": "Musikintros",
    "choices": [
     {
      "correct": false,
-     "text": "Play The Killers’ “Somebody Told Me”!"
+     "text": "Spiel „Wind Of Change” von den Scorpions!"
     },
     {
      "correct": false,
-     "text": "Listen to Guns N’ Roses’ “Sweet Child O’ Mine”!"
+     "text": "Hör dir „Sweet Child O’ Mine” von Guns N’ Roses an!"
     },
     {
      "correct": false,
-     "text": "Queue up R.E.M.’s “Losing My Religion”!"
+     "text": "Pack' R.E.M.s „Losing My Religion“ in die Warteschlange!"
     },
     {
      "correct": true,
-     "text": "Get rolled by Rick Astley’s “Never Gonna Give You Up”!"
+     "text": "Rick Astleys „Never Gonna Give You Up“ wird dich überraschen!"
     }
    ],
-   "clue": "Not to troll you, but...",
+   "clue": "Ich will dich nicht trollen, aber...",
    "id": "113855",
    "isEasy": false,
-   "question": "Ba dum dum dum, me wanna hear drums!!! Greatest songs START with drum solo!",
+   "question": "Ba dum dum dum, mich wollen Schlagzeug hören!!! Nur beste Songs startend mit Schlagzeug-Solo!",
    "theme": "CASTLE"
   },
   {
-   "category": "Italian Cuisine",
+   "category": "Italienische Küche",
    "choices": [
     {
      "correct": false,
-     "text": "Yes, that’s called spaghetti."
+     "text": "Ja, die nennen sich Spaghetti."
     },
     {
      "correct": false,
-     "text": "Right, that’s called angel hair."
+     "text": "Richtig, die nennen sich Engelshaar."
     },
     {
      "correct": false,
-     "text": "Yep, that’s called linguini."
+     "text": "Jawohl, die nennen sich Linguini."
     },
     {
      "correct": true,
-     "text": "Sure, that’s called bucatini."
+     "text": "Klar, die nennen sich Bucatini."
     }
    ],
-   "clue": "Angel hair would be a bit too thin.",
+   "clue": "Engelshaar wäre etwas zu dünn und Spaghetti ist nicht gelocht.",
    "id": "113862",
    "isEasy": false,
-   "question": "Me ate noodle with sauce INSIDE! It hollow like straw!!!",
+   "question": "Mich haben Nudeln mit Soße DRINNEN gegessen! Nudeln innen hohl wie Strohhalme!!!",
    "theme": "DESERT"
   },
   {
@@ -1703,29 +1703,29 @@
    "x": true
   },
   {
-   "category": "Musical Notation",
+   "category": "Musik",
    "choices": [
     {
      "correct": false,
-     "text": "Crank that bard up to FORTE, baby!"
+     "text": "Dreh den Regler auf FORTE, Baby!"
     },
     {
      "correct": true,
-     "text": "FORTISSISSIMO is the loudest!"
+     "text": "FORTE FORTISSIMO ist am lautesten!"
     },
     {
      "correct": false,
-     "text": "Play that lute in MEZZO PIANO!"
+     "text": "Spiel die Laute in MEZZO PIANO!"
     },
     {
      "correct": false,
-     "text": "They’ll hear it two fiefs away if it’s FORTISSIMO!"
+     "text": "In FORTISSIMO hört man es zwei Lehen weit!"
     }
    ],
-   "clue": "The correct answer has double letters in it!",
+   "clue": "Die richtige Antwort kenne ich aus dem Effeff!",
    "id": "113872",
    "isEasy": false,
-   "question": "ME LOUD, and me like music LOUD. Me turn bard WAY UP. But... what music word LOUDEST?",
+   "question": "MICH LAUT, und mich mögen Musik LAUT. Mich drehen Barde VOLL AUF. Aber... welches Musikwort sein lautesten?",
    "theme": "FOREST"
   },
   {
