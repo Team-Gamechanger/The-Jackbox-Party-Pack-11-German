@@ -139,6 +139,18 @@
    "x": true
   },
   {
+   "appearance": "MID-GAME",
+   "id": "109801",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "Jemanden freundlich aus deiner Band rauswerfen"
+    }
+   ],
+   "videoId": "109798",
+   "videoTitle": "Doctor Diagnosis - Band"
+  },
+  {
    "appearance": "EARLY",
    "id": "109803",
    "soundsToRecord": [
@@ -670,6 +682,17 @@
   },
   {
    "appearance": "EARLY",
+   "id": "112658",
+   "soundsToRecord": [
+    {
+     "prompt": "Das Geräusch eines schockierten Studiopublikums"
+    }
+   ],
+   "videoId": "112616",
+   "videoTitle": "Nutcrackers in Shock - Studio Audience"
+  },
+  {
+   "appearance": "EARLY",
    "id": "112662",
    "soundsToRecord": [
     {
@@ -829,6 +852,17 @@
    ],
    "videoId": "112624",
    "videoTitle": "Alien Abduction - No"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "112778",
+   "soundsToRecord": [
+    {
+     "prompt": "Etwas, das ein Gospelchor rufen würde"
+    }
+   ],
+   "videoId": "112616",
+   "videoTitle": "Nutcrackers In Shock - Gospel Choir"
   },
   {
    "appearance": "EARLY",
@@ -999,6 +1033,18 @@
    "videoTitle": "Medieval Knight - Coffee"
   },
   {
+   "appearance": "EARLY",
+   "id": "113169",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Gleichzeitig lachen und weinen"
+    }
+   ],
+   "videoId": "113037",
+   "videoTitle": "Avocado Lady - Laugh Crying"
+  },
+  {
    "appearance": "MID-GAME",
    "id": "113219",
    "soundsToRecord": [
@@ -1010,6 +1056,18 @@
    "videoTitle": "Medieval Knight - Dark Panic"
   },
   {
+   "appearance": "EARLY",
+   "id": "113221",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Ein kleiner böser Elf, der dich auslacht"
+    }
+   ],
+   "videoId": "113037",
+   "videoTitle": "Avocado Lady - Little Elf"
+  },
+  {
    "appearance": "MID-GAME",
    "id": "113226",
    "soundsToRecord": [
@@ -1019,6 +1077,17 @@
    ],
    "videoId": "113036",
    "videoTitle": "Monkey Business - Professional Confession"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113227",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein wütender Ausruf"
+    }
+   ],
+   "videoId": "113051",
+   "videoTitle": "Golf Swing - Angry"
   },
   {
    "appearance": "MID-GAME",
@@ -1048,6 +1117,28 @@
    ],
    "videoId": "113291",
    "videoTitle": "Clone Lab - Final Round"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113386",
+   "soundsToRecord": [
+    {
+     "prompt": "Das Geräusch von Schmerz und Qual und noch mehr Schmerz"
+    }
+   ],
+   "videoId": "113325",
+   "videoTitle": "Silly Tube Man - Pain"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113413",
+   "soundsToRecord": [
+    {
+     "prompt": "Der Klang eines Engels-Chors"
+    }
+   ],
+   "videoId": "113412",
+   "videoTitle": "Glowing Gift - Angelic Choir"
   },
   {
    "appearance": "EARLY",
@@ -1081,6 +1172,230 @@
    ],
    "videoId": "112621",
    "videoTitle": "Head In The Sand - Frustration"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113468",
+   "soundsToRecord": [
+    {
+     "prompt": "In Kauderwelsch plappern"
+    }
+   ],
+   "videoId": "113325",
+   "videoTitle": "Silly Tube Man - Babbling"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113470",
+   "soundsToRecord": [
+    {
+     "prompt": "„Hier drüben!“ rufen, um jemandes Aufmerksamkeit zu erregen"
+    }
+   ],
+   "videoId": "113325",
+   "videoTitle": "Silly Tube Man - Over Here"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113480",
+   "soundsToRecord": [
+    {
+     "prompt": "Wie du dir einen verrückten, amerikanischen Country-Song vorstellst"
+    }
+   ],
+   "videoId": "113322",
+   "videoTitle": "Hand In Breeze - Country Song"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113483",
+   "soundsToRecord": [
+    {
+     "prompt": "Wie du dich anhören würdest, wenn du auf einem Kreuzfahrtschiff seekrank wärst"
+    }
+   ],
+   "videoId": "113325",
+   "videoTitle": "Silly Tube Man - Seasick"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113489",
+   "soundsToRecord": [
+    {
+     "prompt": "Eine feierliche Lesung von „1,2,3 im Sauseschritt“"
+    }
+   ],
+   "videoId": "113330",
+   "videoTitle": "Creepy Doll - Twinkle"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113491",
+   "soundsToRecord": [
+    {
+     "prompt": "Eine unhöfliche Begrüßung für eine Ansage auf dem Anrufbeantworter"
+    }
+   ],
+   "videoId": "113603",
+   "videoTitle": "Conch Shell - Voicemail"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113500",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "Die To-do-Liste eines Kriminellen"
+    }
+   ],
+   "videoId": "113339",
+   "videoTitle": "Dissociating - Criminal"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113504",
+   "soundsToRecord": [
+    {
+     "prompt": "Höflich fragen, ob die Person, die die öffentliche Toilette benutzt, sich beeilen kann"
+    }
+   ],
+   "videoId": "113334",
+   "videoTitle": "Monster In The Closet - Bathroom"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113557",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "das Geräusch, wenn man mit dem Anziehen der Hose zu kämpfen hat"
+    }
+   ],
+   "videoId": "113556",
+   "videoTitle": "Umbrella Beach - Pants"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113607",
+   "soundsToRecord": [
+    {
+     "prompt": "Etwas, was ein Glücksbärchi sagen würde"
+    }
+   ],
+   "videoId": "113330",
+   "videoTitle": "Creepy Doll - CareBear"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113636",
+   "soundsToRecord": [
+    {
+     "prompt": "Nervige Geräusche, die man macht, um seine Geschwister zu ärgern"
+    }
+   ],
+   "videoId": "113539",
+   "videoTitle": "Witchy Woman - Sibling Pester"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113651",
+   "soundsToRecord": [
+    {
+     "prompt": "Jemand, der ausrechnet, wie viel Trinkgeld er dem Kellner geben soll"
+    }
+   ],
+   "videoId": "113543",
+   "videoTitle": "Math Professor - Tip"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113661",
+   "soundsToRecord": [
+    {
+     "prompt": "Den Satz des Pythagoras schlecht erklären"
+    }
+   ],
+   "videoId": "113543",
+   "videoTitle": "Math Professor - Pythagorean Theorem"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113717",
+   "soundsToRecord": [
+    {
+     "prompt": "Einen dummen Kauf, den du getätigt hast, mathematisch rechtfertigen"
+    }
+   ],
+   "videoId": "113543",
+   "videoTitle": "Math Professor - Dumb Buy"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113718",
+   "soundsToRecord": [
+    {
+     "prompt": "Singe einen eingängigen Werbesong"
+    }
+   ],
+   "videoId": "113540",
+   "videoTitle": "Old Ceremony - Jingle"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113720",
+   "soundsToRecord": [
+    {
+     "prompt": "Eine extrem durstige Person, die durch die Wüste kriecht"
+    }
+   ],
+   "videoId": "113542",
+   "videoTitle": "Baby Turtle - So... Thirsty..."
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113725",
+   "soundsToRecord": [
+    {
+     "direction": "",
+     "prompt": "Frage nervös: „Wie würdest du dich fühlen, jemanden zu daten, der Körperbehaarung hat?“"
+    }
+   ],
+   "videoId": "113336",
+   "videoTitle": "Bigfoot Texting - Body Hair"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "113738",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein kleiner, kräftiger Kerl, der Liegestütze zählt"
+    }
+   ],
+   "videoId": "113542",
+   "videoTitle": "Baby Turtle - Push ups"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113832",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch einer Ameise, die sich abmüht, einen Kartoffelchip hochzuheben"
+    }
+   ],
+   "videoId": "113556",
+   "videoTitle": "Umbrella Beach - Chip Ant"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "113856",
+   "soundsToRecord": [
+    {
+     "prompt": "Sage spöttisch „OoOh“"
+    }
+   ],
+   "videoId": "113548",
+   "videoTitle": "Clown Alley - OoOh"
   },
   {
    "appearance": "EARLY",
@@ -1126,6 +1441,303 @@
    ],
    "videoId": "109797",
    "videoTitle": "Musical Card - Insults"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114408",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Summe eine kleine Melodie vor dir her"
+    },
+    {
+     "prompt": "Schießen und Schreien"
+    },
+    {
+     "prompt": "Wie in einer Fernsehromanze nach Luft schnappen"
+    }
+   ],
+   "videoId": "114407",
+   "videoTitle": "Late Night Office - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114409",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein Lebensmotto aus zwei Wörtern"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch einer aufheulenden Kettensäge"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch einer wütenden Biene"
+    }
+   ],
+   "videoId": "114406",
+   "videoTitle": "Racecar - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114410",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein skandalöser Name für einen Professor"
+    },
+    {
+     "prompt": "Ein dummes inspirierendes Zitat"
+    },
+    {
+     "prompt": "Beeindrucktes Murmeln"
+    }
+   ],
+   "videoId": "114404",
+   "videoTitle": "Seminar - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114412",
+   "soundsToRecord": [
+    {
+     "prompt": "Geistesabwesend einen Wolkenkratzer beschreiben"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das „R“ kräftig rollen"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Quietschen einer rostigen Wippe"
+    }
+   ],
+   "videoId": "114405",
+   "videoTitle": "Construction - Final Round"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114413",
+   "soundsToRecord": [
+    {
+     "prompt": "Eine leicht erotische Textnachricht"
+    }
+   ],
+   "videoId": "113336",
+   "videoTitle": "Bigfoot Texting - Tame Sext",
+   "x": true
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114421",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein Drohanruf"
+    }
+   ],
+   "videoId": "113603",
+   "videoTitle": "Conch Shell - Threatening Call"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "114422",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Ein extrem monotones Lachen"
+    }
+   ],
+   "videoId": "113548",
+   "videoTitle": "Clown Alley - Monotone Laugh"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114425",
+   "soundsToRecord": [
+    {
+     "prompt": "Der Schrei des blanken Entsetzens: „AHHH“"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Wie du beim Marathonlaufen klingen würdest"
+    },
+    {
+     "prompt": "Was würdest du sagen, wenn jemand deine Party frühzeitig verlässt?"
+    }
+   ],
+   "videoId": "114423",
+   "videoTitle": "Scary Forest - Final Round"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114427",
+   "soundsToRecord": [
+    {
+     "prompt": "Der Anfang eines sehr schlechten Märchens"
+    }
+   ],
+   "videoId": "114426",
+   "videoTitle": "Princess Reading - Fairy Tale"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "114430",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch, wenn man in ein wirklich tiefes Loch fällt"
+    }
+   ],
+   "videoId": "113035",
+   "videoTitle": "Cheerleader - Deep Hole"
+  },
+  {
+   "appearance": "EARLY",
+   "id": "114431",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch, das ein Komet macht, wenn er aufschlägt"
+    }
+   ],
+   "videoId": "111958",
+   "videoTitle": "Criminal Dog Car - Comet"
+  },
+  {
+   "appearance": "MID-GAME",
+   "countrySpecific": false,
+   "id": "114435",
+   "soundsToRecord": [
+    {
+     "prompt": "Verschiedene Fleischsorten mit verführerischer Stimme flüstern"
+    }
+   ],
+   "videoId": "114434",
+   "videoTitle": "Emotional Dance - Whisper Meats",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "id": "114436",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein wirklich langgezogenes „Auuuuu!“"
+    }
+   ],
+   "videoId": "114418",
+   "videoTitle": "Werewolf - Ow"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114449",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch von anstrengendem Training"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Ein verstörender Schrei"
+    },
+    {
+     "prompt": "Jedes Synonym, das dir für das Wort „nein“ einfällt"
+    }
+   ],
+   "videoId": "114447",
+   "videoTitle": "Dino Desert - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114450",
+   "soundsToRecord": [
+    {
+     "prompt": "Einen weiblichen Namen hartnäckig wiederholen"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Das Geräusch, wenn man sich selbst im Spiegel bewundert"
+    },
+    {
+     "prompt": "Sag „Danke“ mit einer Dämonenstimme"
+    }
+   ],
+   "videoId": "114416",
+   "videoTitle": "Paparazzi - Final Round"
+  },
+  {
+   "appearance": "LATE",
+   "id": "114451",
+   "soundsToRecord": [
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "Vor sich hin summen, während man aufräumt"
+    },
+    {
+     "direction": "Keine Wörter benutzen!",
+     "prompt": "das Geräusch eines Roboters, der sich ausschaltet"
+    },
+    {
+     "prompt": "Allgemeine Ausrufe der Frustration"
+    }
+   ],
+   "videoId": "114415",
+   "videoTitle": "Power Outage - Final Round"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114610",
+   "soundsToRecord": [
+    {
+     "prompt": "Etwas, das man sagt, bevor man jemanden fotografiert"
+    }
+   ],
+   "videoId": "113323",
+   "videoTitle": "Group Middle Finger - Photo",
+   "x": true
+  },
+  {
+   "appearance": "EARLY",
+   "id": "114611",
+   "soundsToRecord": [
+    {
+     "prompt": "Aggressives Jodeln"
+    }
+   ],
+   "videoId": "113548",
+   "videoTitle": "Clown Alley - Yodeling"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114697",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein schneller Weg, um jemandes Aufmerksamkeit zu erregen"
+    }
+   ],
+   "videoId": "113563",
+   "videoTitle": "Eyeballs - Attention"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114748",
+   "soundsToRecord": [
+    {
+     "prompt": "Ein teuflischer Wunsch"
+    }
+   ],
+   "videoId": "113539",
+   "videoTitle": "Witchy Woman - Wish"
+  },
+  {
+   "appearance": "MID-GAME",
+   "id": "114749",
+   "soundsToRecord": [
+    {
+     "prompt": "Die Zutaten für einen ekelhaften Kuchen"
+    }
+   ],
+   "videoId": "113539",
+   "videoTitle": "Witchy Woman - Pie"
   }
  ]
 }
