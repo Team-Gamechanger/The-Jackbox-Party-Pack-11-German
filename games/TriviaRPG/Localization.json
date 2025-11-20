@@ -227,7 +227,7 @@
       "AUDIENCE_ROLL_HEAL_ENEMY": "Gegner heilen",
       "AUDIENCE_ROLL_DAMAGE_PLAYERS": "Spielern schaden",
       "AUDIENCE_ROLL_DAMAGE_ENEMY": "Gegnern schaden",
-      "MOST_DEATH_ROLLS_HIGHLIGHT_CATEGORY": "Meister Todeswürfel-Einsatz",
+      "MOST_DEATH_ROLLS_HIGHLIGHT_CATEGORY": "Meiste Todeswürfel-Würfe",
       "MOST_DEATH_ROLLS_HIGHLIGHT_DATA": "%s Würfe",
       "NEVER_DIED_HIGHLIGHT_CATEGORY": "Nie gestorben",
       "NEVER_DIED_HIGHLIGHT_DATA": [
