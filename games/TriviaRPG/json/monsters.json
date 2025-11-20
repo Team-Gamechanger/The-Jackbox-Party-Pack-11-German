@@ -179,8 +179,8 @@
             "id": "Haudrauf Joe",
             "enemyDesign": "Enemy1",
             "enemyHealthScalar": 3.5,
-            "monsterDamageOnAttack": 400,
-            "monsterDamageOnIncorrect": 400,
+            "monsterDamageOnAttack": 300,
+            "monsterDamageOnIncorrect": 300,
             "abilities": [
                 "grow"
             ],
@@ -270,6 +270,7 @@
                 "grow"
             ],
             "staggerValueInPercentHealth": 0.2,
+            "monsterStaggerDamageOnIncorrect": 200,
             "monsterTurnsUntilAttack": 3,
             "growLevels": [
                 0.1,
@@ -296,6 +297,7 @@
             ],
             "numBaseBombs": 1,
             "staggerValueInPercentHealth": 0.2,
+            "monsterStaggerDamageOnIncorrect": 200,
             "monsterTurnsUntilAttack": 0,
             "growLevels": [
                 0,
@@ -409,6 +411,7 @@
                 "grow"
             ],
             "staggerValueInPercentHealth": 0.2,
+            "monsterStaggerDamageOnIncorrect": 250,
             "monsterTurnsUntilAttack": 3,
             "growLevels": [
                 0.1,
@@ -433,6 +436,7 @@
                 "grow"
             ],
             "staggerValueInPercentHealth": 0.2,
+            "monsterStaggerDamageOnIncorrect": 200,
             "monsterTurnsUntilAttack": 3,
             "growLevels": [
                 0.1,
@@ -458,6 +462,7 @@
             ],
             "numBaseBombs": 1,
             "staggerValueInPercentHealth": 0.2,
+            "monsterStaggerDamageOnIncorrect": 200,
             "monsterTurnsUntilAttack": 0,
             "growLevels": [
                 0,

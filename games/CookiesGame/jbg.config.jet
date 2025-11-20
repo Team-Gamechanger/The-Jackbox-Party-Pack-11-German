@@ -40,6 +40,6 @@
 	"needExitbutton":"true",
 	"positiveResponseThreshold":"1150",
 	"connectingDurationAbort":"45000",
-	"buildTimeStamp":"2025-11-06 06:21:08",
-	"buildVersion":"111"
+	"buildTimeStamp":"2025-11-19 06:50:18",
+	"buildVersion":"128"
 }

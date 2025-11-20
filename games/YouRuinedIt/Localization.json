@@ -151,7 +151,22 @@
       "CREDITS_LYRICS_63": "WHAT IF WE...",
       "CREDITS_LYRICS_64": "WHAT IF WE...",
       "CREDITS_LYRICS_65": "BUT WHAT IF WE MADE IT GOOD?",
-      "CREDITS_LYRICS_66": "BUT WHAT IF WE MADE IT...GOOOOOOOOOOOOD?"
+      "CREDITS_LYRICS_66": "BUT WHAT IF WE MADE IT...GOOOOOOOOOOOOD?",
+      "SHORT_GAME": "Runde 1 überspringen",
+      "SHORT_GAME_DESCRIPTION": "Ein schnelleres Spielerlebnis, bei dem alle Prompts von den Spielern kommen.",
+      "TD_PLAYER_VOTES": "Spieler %s erhielt %s Stimmen von",
+      "TD_PLAYER_AUDIENCE_VOTES": "Spieler %s erhielt %s Zuschauerstimmen.",
+      "TD_PLAYER_POINTS": "Spieler %s hat %s Punkte erhalten.",
+      "TD_PLAYER_WON": "%s hat die Abstimmung gewonnen!",
+      "TD_SCOREBOARD_PLAYER_POSITION_0": "%s ist mit %s Punkten auf dem ersten Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_1": "%s ist mit %s Punkten auf dem zweiten Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_2": "%s ist mit %s Punkten auf dem dritten Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_3": "%s ist mit %s Punkten auf dem vierten Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_4": "%s ist mit %s Punkten auf dem fünften Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_5": "%s ist mit %s Punkten auf dem sechsten Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_6": "%s ist mit %s Punkten auf dem siebten Platz.",
+      "TD_SCOREBOARD_PLAYER_POSITION_7": "%s ist mit %s Punkten auf dem achten Platz.",
+      "TD_VOTR_AWARD": "%s hat %s einen Bonus verliehen!"
     },
     "fr": {
       "INTERNET_CONNECTED": "On vient de trouver Internet.",
