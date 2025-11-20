@@ -3213,29 +3213,22 @@
                     "choices": [
                         "Ja, in der Nähe meines Wohnorts."
                     ],
-                    "finding": "Der Verdächtige sah einen verdammten wilden Bären {{RED}}in der Nähe seines Zuhauses!",
-                    "summary": "BÄR GESEHEN: {{RED}}ZU HAUSE"
+                    "finding": "Der Verdächtige sah ein Reh {{RED}}in der Nähe seines Zuhauses!",
+                    "summary": "REH GESEHEN: {{RED}}ZU HAUSE"
                 },
                 {
                     "choices": [
                         "Ja, auf Reisen."
                     ],
-                    "finding": "Der Verdächtige sah einen verdammten wilden Bären {{RED}}auf einer Reise!",
-                    "summary": "BÄR GESEHEN: {{RED}}AUF REISE"
-                },
-                {
-                    "choices": [
-                        "Ja, es war jemandes Haustier."
-                    ],
-                    "finding": "Der Verdächtige sah einen verdammten Bären, und es war {{RED}}jemandes Haustier!",
-                    "summary": "BÄR GESEHEN: {{RED}}HAUSTIER"
+                    "finding": "Der Verdächtige sah ein Reh {{RED}}auf einer Reise!",
+                    "summary": "REH GESEHEN: {{RED}}AUF REISE"
                 },
                 {
                     "choices": [
                         "Nein, nie!!"
                     ],
-                    "finding": "Der Verdächtige hat {{RED}}nie einen wilden Bären gesehen!",
-                    "summary": "BÄR GESEHEN: {{RED}}NIE"
+                    "finding": "Der Verdächtige hat {{RED}}noch nie ein Reh in freier Wildbahn gesehen!",
+                    "summary": "REH GESEHEN: {{RED}}NIE"
                 }
             ],
             "familiarity": "FRIENDS",
@@ -3243,10 +3236,10 @@
             "interrogations": [
                 "Welche Art von Tieren hast du beim Aufwachsen vor deinem Haus gesehen?",
                 "Machst du Camping- oder Wanderausflüge?",
-                "Kennst du reiche Verrückte mit exotischen Tieren?"
+                "Wie sieht so ein Reh eigentlich aus?"
             ],
-            "question": "Hast du jemals einen Bären außerhalb eines Zoos oder Zirkus gesehen?",
-            "reminder": "Bären-Sichtungen?",
+            "question": "Hast du jemals ein Reh außerhalb eines Zoos oder Geheges gesehen?",
+            "reminder": "Reh-Sichtungen?",
             "starterContent": false
         },
         {

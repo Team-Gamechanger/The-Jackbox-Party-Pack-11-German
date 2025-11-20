@@ -866,14 +866,14 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Eine Verschwörungstheorie, an die der Verdächtige so-irgendwie glaubt: {{SELECTION}}.",
+            "evidence": "Eine Verschwörungstheorie, an die der Verdächtige schon irgendwie glaubt: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "109768",
             "interrogations": [
                 "Die Regierung ist ziemlich verrückt, nicht? Was denkst du??",
                 "Würdest du sagen, du bist beeinflussbar?"
             ],
-            "question": "In wenigen Worten, welche Verschwörungstheorie glaubst du soooort von wahr ist?",
+            "question": "In wenigen Worten, an welche Verschwörungstheorie glaubst du schon so irgendwie?",
             "reminder": "Verschwörungstheorie",
             "starterContent": false,
             "summary": "VERSCHWÖRUNG: {{SELECTION}}"

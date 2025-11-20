@@ -894,7 +894,7 @@
             "crime": {
                 "description": "Nachhaltiger Mord, nur mit {{SELECTION}}",
                 "offense": "ÖKO-MORD",
-                "summary": "NATURMORD VIA: {{SELECTION}}",
+                "summary": "NATURMORD MIT: {{SELECTION}}",
                 "title": [
                     "Mutter Erde...Triff Vater Tod",
                     "Folge den CO2-Fußabdrücken",
