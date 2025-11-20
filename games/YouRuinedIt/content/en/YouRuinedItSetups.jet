@@ -510,7 +510,7 @@
     "und du kriegst noch eins obendrauf",
     "sich nonstop prügeln",
     "elf Beine",
-    "Einer sagt immer die Wahrheit, der andere lügt immer, der dritte ist einfach normal"
+    "Zwei sagen immer die Wahrheit, der andere lügt immer"
    ],
    "setup": "Drei süße Welpen",
    "type": "GOOD"
@@ -568,7 +568,7 @@
     "und der Sitz ist schleimig",
     "und du sitzt ausgerechnet hinter dem Typen mit dem Riesenhut",
     "und die Theater-AG-Kids im Publikum halten einfach nicht die Fresse",
-    "und die jugendliche Hauptrolle wird von einem 50-jährigen Nepo-Baby gespielt"
+    "und die jugendliche Hauptrolle wird von einem Boomer gespielt"
    ],
    "setup": "Ein Broadway-Musical",
    "type": "GOOD"
@@ -621,7 +621,7 @@
    "id": "106695",
    "punchlines": [
     "von einem Bild der Hindenburg-Katastrophe",
-    "das gleiche Puzzle wie jeden Tag, seit du in dieser einsamen Berghütte festsitzt",
+    "aber du musst seit Wochen jeden Tag das gleiche Puzzle lösen",
     "und niemand, mit dem du es teilen kannst"
    ],
    "setup": "Ein Puzzle fertigstellen",
@@ -1123,7 +1123,7 @@
    "id": "106979",
    "punchlines": [
     "aber es ist ein tollwütiger Rottweiler",
-    "weil du eine kleine blutsaugende Zecke bist, die sich in diesen Dackel eingräbt",
+    "weil du eine kleine blutsaugende Zecke bist",
     "und versucht, den Kaugummi rauszurubbeln",
     "Er heißt Mörderbello"
    ],
@@ -1490,7 +1490,7 @@
     "zückt die Westerngitarre",
     "macht sich an dein Date ran",
     "und du bist allergisch",
-    "Sorry, nur Würstchen auf der WG-Party. Ein einziges trauriges Würstchen ist alles, was wir haben"
+    "aber in Wurstform"
    ],
    "setup": "Hund auf einer Party",
    "type": "GOOD"
@@ -1576,7 +1576,7 @@
    "punchlines": [
     "aber ein Aufstand gegen die Menschheit steht kurz bevor",
     "alles Treibsand",
-    "aber dein Hund macht sich die ganze Zeit vor seinen Freunden über dich lustig",
+    "aber dein Hund lacht dich die ganze Zeit vor deinen Freunden aus",
     "jeder Hund bleibt im stacheligen Gestrüpp stecken",
     "eigentlich ist es ein Hotdog-Park"
    ],
@@ -1678,7 +1678,7 @@
    "punchlines": [
     "allein, weil du am Altar stehen gelassen wurdest",
     "während du dich vor dem mordlustigen Yeti versteckst",
-    "ist wahrscheinlich der Ort, an dem du dir eine Lebensmittelvergiftung geholt hast",
+    "aber du holst dir eine Lebensmittelvergiftung",
     "während sie dir den Skistock aus dem Auge herausziehen"
    ],
    "setup": "Gemütliche Gespräche in der Skihütte",
@@ -1758,7 +1758,7 @@
     "die dich für immer verschwinden lässt",
     "und nicht zu wissen, wie's geht, macht dich wahnsinnig",
     "aber den Pausenhof-Rüpeln gefällt's nicht",
-    "aber jetzt komme ich wegen des Verschwindens meiner kleinen Schwester ins Gefängnis"
+    "aber jetzt komme ich wegen des Verschwindens meiner Schwester ins Gefängnis"
    ],
    "setup": "Ein richtig cooler Zaubertrick",
    "type": "GOOD"
@@ -1769,7 +1769,7 @@
     "wenn niemand da ist, den es beeindruckt",
     "direkt auf ein Neugeborenes",
     "...aufwachen und merken, dass alles nur ein Traum war",
-    "direkt auf die einsame Insel, die die nächsten 70 Jahre dein Zuhause sein wird"
+    "auf der einsamen Insel, die die nächsten 70 Jahre dein Zuhause sein wird"
    ],
    "setup": "Einen Rückwärtssalto machen",
    "type": "GOOD"
@@ -1809,10 +1809,10 @@
   {
    "id": "107553",
    "punchlines": [
-    "damit es seinen Lebensabend im Sea Life fristen kann",
-    "und schickt ihm eine 200.000-Euro-Rechnung vom Chefarzt hinterher",
-    "aber Fußball spielt es nie wieder",
-    "indem man es in einen Cyborg verwandelt; jetzt ist es eine Gefahr für sich selbst und alle Meere"
+    "damit sie ihren Lebensabend im Sea Life fristen kann",
+    "und schickt ihr eine 200.000-Euro-Rechnung vom Chefarzt hinterher",
+    "aber Fußball spielt sie nie wieder",
+    "indem man sie in einen Cyborg verwandelt"
    ],
    "setup": "Eine verletzte Robbe pflegen",
    "type": "GOOD"
@@ -2106,7 +2106,7 @@
     "nachdem du den Millionenwurf vergeben hast",
     "in den eigenen Korb",
     "aus Versehen beim Dunking-Wettbewerb",
-    "aber es war nur ein Traum, und du hast mit dem Kopfkissen den Fernseher geschrottet"
+    "in deinem Zimmer, und du hast den Fernseher geschrottet"
    ],
    "setup": "Einen Dreipunktewurf machen",
    "type": "GOOD"
@@ -2336,7 +2336,7 @@
     "und nimmt dich in Geiselhaft",
     "unten ohne",
     "als Horrorclown geschminkt",
-    "aber jetzt meinen sie, du schuldest ihnen ein schräges Abendessen mit ihnen und deren gruseligem Partner"
+    "aber du schuldest ihm jetzt ein schräges Abendessen"
    ],
    "setup": "Ein Fremder hält den Aufzug auf",
    "type": "GOOD"
@@ -2511,7 +2511,7 @@
     "an deiner Tür und macht Klingelmännchen",
     "hat schon wieder Corona",
     "im kleinen Katzenkostüm",
-    "ist in Wirklichkeit ein Alien, das nur genug Geld verdienen will, um von der Erde wegzukommen"
+    "ist in Wirklichkeit ein Alien"
    ],
    "setup": "Otto Waalkes",
    "type": "GOOD"
@@ -2634,7 +2634,7 @@
     "die alles Neue hasst",
     "aber da gibt's Rituale",
     "bei denen man fürs Mitmachen zahlen muss",
-    "oh nein, irgendwie bist du jetzt in einer Protestbewegung gegen die Regierung gelandet"
+    "auf Telegram"
    ],
    "setup": "Einem Online-Fanclub beitreten",
    "type": "GOOD"
@@ -2840,7 +2840,7 @@
    "id": "107980",
    "punchlines": [
     "mit der Aufschrift „Am wenigsten unterstützender Ehepartner“",
-    "den du beim Kinderlauf gewonnen hast, weil du reihenweise Kinder umgeschubst hast",
+    "den du als Kind gewonnen hast, weil du reihenweise Kinder umgeschubst hast",
     "mit einer kleinen goldenen Statue von einem Typen, der kotzt"
    ],
    "setup": "Ein Pokal",
@@ -2939,7 +2939,7 @@
   {
    "id": "108000",
    "punchlines": [
-    "aber in der Zeitschleife à la 'Und täglich grüßt das Murmeltier' – 10.000 Jahre lang",
+    "aber in einer ewigen Zeitschleife à la 'Und täglich grüßt das Murmeltier'",
     "macht dann 5.000 Euro, bitte",
     "aber du steckst im 'It's a Small World'-Boot fest",
     "mit fiesen Windpocken",
@@ -3085,7 +3085,7 @@
    "id": "108081",
    "punchlines": [
     "mit starken Drinks und ohne Geländer",
-    "deine Kotze fliegt drei Stockwerke tief auf eine vorbeigehende vierköpfige Familie",
+    "deine Kotze fliegt drei Stockwerke tief auf eine vorbeigehende Familie",
     "voller Leute aus deinem Abi-Jahrgang",
     "kein Rückweg nach unten außer über eine Feuerwehrstange"
    ],
@@ -3152,7 +3152,7 @@
    "id": "108172",
    "punchlines": [
     "Die Teenies lachen dich aus, alle lachen dich aus",
-    "Schon beim Aufsteigen auf den Cityroller zertrümmerst du dir den Oberschenkelknochen",
+    "Schon beim Aufsteigen auf den Cityroller brichst du dir das Bein",
     "Niemand findet deinen Ganzkörperanzug aus Luftpolsterfolie cool",
     "Dein Helm ist zu groß für deine Birne"
    ],
@@ -3679,7 +3679,7 @@
    "punchlines": [
     "ganz allein",
     "mit deinen Dämonenkumpels",
-    "auf Kosten deines viktorianischen Nachthemds, deiner Nachtmütze und deines Kerzenhalters",
+    "auf Kosten deines viktorianischen Nachthemds",
     "vom Lachgas"
    ],
    "setup": "Ein nächtliches Kicherfest",
@@ -3699,7 +3699,7 @@
   {
    "id": "108310",
    "punchlines": [
-    "aber ich habe aus Versehen einer Schaufensterpuppe im Kaufhaus die Hand abgeschnitten",
+    "aber du schneidest aus Versehen einer Schaufensterpuppe die Hand ab",
     "es kostet 200.000 €",
     "aber es riecht nach Räucherlachs"
    ],
@@ -4023,7 +4023,7 @@
     "ist in Wirklichkeit ein Roboter",
     "zeigt nur Behördenkram",
     "entpuppt sich als Idiot",
-    "hat laut meinem Onkel keine Seele und kann keine Kunst wie ein Mensch machen"
+    "hat laut meinem Onkel keine Seele und kann keine Kunst machen"
    ],
    "setup": "Ein Elefant, der malt",
    "type": "GOOD"
@@ -4468,7 +4468,7 @@
     "aber das Hotel berechnet eine Krümelstrafe",
     "kam zu spät und ins falsche Zimmer",
     "und verschüttet alles über das Bett",
-    "in diesem Land heißt 'Zimmerservice' eigentlich 'bitte mein Zimmer zerstören'"
+    "Hier heißt 'Zimmerservice' eigentlich 'bitte mein Zimmer zerstören'"
    ],
    "setup": "Eine Menge Zimmerservice bestellen",
    "type": "GOOD"
@@ -4518,7 +4518,7 @@
   {
    "id": "108686",
    "punchlines": [
-    "für das sich niemand mehr an die vierstellige Kombination des Zahlenschlosses erinnert",
+    "für das sich niemand mehr an die Kombination des Zahlenschlosses erinnert",
     "wertlos, selbst bei Inflation",
     "das sind doch nur Schuhe aus den Siebzigern"
    ],
@@ -4585,7 +4585,7 @@
    "punchlines": [
     "Direkt ins Gebiss",
     "in deinen Bierkrug",
-    "und hast es dem Außenfeldspieler entrissen — jetzt bist du bei den Bayern-Fans geächtet",
+    "und hast es dem Spieler entrissen — jetzt bist du bei den Fans geächtet",
     "Igitt — ein Baseball aus einem Klotz Bierschinken"
    ],
    "setup": "Einen fliegenden Ball fangen",
@@ -5302,7 +5302,7 @@
    "punchlines": [
     "aber es ist nur ein normaler Kuchen in einem Trichter",
     "mit Salz statt Zucker bedeckt",
-    "aber es gibt keine Teller, du musst den heißen, öligen Teig mit bloßen Händen tragen"
+    "aber es gibt keine Teller"
    ],
    "setup": "Schokoladenkuchen",
    "type": "GOOD"
@@ -5340,7 +5340,7 @@
   {
    "id": "109710",
    "punchlines": [
-    "Oh mein Gott — waren meine Familie und mein Lebenswerk gerade nur eine Simulation?!",
+    "Oh mein Gott — waren meine Familie und mein Lebenswerk nur eine Simulation?",
     "und das Einzige, was du darin tun kannst, ist dein langweiliger Bürojob.",
     "auf einem Baby."
    ],
