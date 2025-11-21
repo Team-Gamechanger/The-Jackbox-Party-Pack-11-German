@@ -1200,17 +1200,31 @@
             "evidence": [
                 {
                     "choices": [
-                        "Ja"
+                        "Ja, ich spreche insgesamt drei oder mehr Sprachen!"
                     ],
-                    "finding": "Der Verdächtige ist mehrsprachig: {{RED}}fließend in mindestens zwei Sprachen!",
-                    "summary": "MEHRSPRACHIG: {{SELECTION}}"
+                    "finding": "Der Verdächtige ist mehrsprachig und {{RED}}fließend in mindestens drei Sprachen!",
+                    "summary": "SPRACHEN: {{RED}}MIND. 3"
+                },
+                {
+                    "choices": [
+                        "Ja, ich beherrsche eine Fremdsprache, aber kein Englisch"
+                    ],
+                    "finding": "Der Verdächtige ist {{RED}}fließend in einer Fremdsprache, die nicht Englisch ist!",
+                    "summary": "SPRACHEN: {{RED}}ZWEI"
+                },
+                {
+                    "choices": [
+                        "Ja, ich spreche Deutsch und Englisch"
+                    ],
+                    "finding": "Der Verdächtige spricht {{RED}}fließend Englisch!",
+                    "summary": "SPRACHEN: {{RED}}ENGLISCH"
                 },
                 {
                     "choices": [
                         "Nein"
                     ],
                     "finding": "Der Verdächtige {{RED}}spricht keine zweite Sprache.",
-                    "summary": "MEHRSPRACHIG: {{SELECTION}}"
+                    "summary": "MEHRSPRACHIG: {{RED}}NEIN"
                 },
                 {
                     "choices": [
@@ -1223,12 +1237,12 @@
             "familiarity": "STRANGERS",
             "id": "107317",
             "interrogations": [
-                "Hast du in der Schule eine Sprache gelernt?",
+                "Hast du in der Schule eine zusätzliche Sprache gelernt?",
                 "¿Cómo estás?",
                 "Warst du im Auslandssemester?"
             ],
-            "question": "Sprichst du eine zweite Sprache?",
-            "reminder": "Zweite Sprachen",
+            "question": "Beherrschst du Fremdsprachen?",
+            "reminder": "Mehrere Sprachen",
             "starterContent": true
         },
         {
