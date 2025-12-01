@@ -1328,6 +1328,177 @@
    "id": "113640",
    "isEasy": false,
    "question": "Echte Raumfahrttechnik, die tatsächlich im Weltraum war"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Schwefel",
+     "correct": false,
+     "hint": "Natürlich vorkommend, riecht nach faulen Eiern"
+    },
+    {
+     "altText": "Aspirin",
+     "correct": true,
+     "hint": "Summenformel = C9H8O4"
+    },
+    {
+     "altText": "Quecksilber",
+     "correct": false,
+     "hint": "Das einzige Metallelement, das bei Raumtemperatur flüssig ist"
+    },
+    {
+     "altText": "Salzsäure",
+     "correct": true,
+     "hint": "Wasserstoff UND Chlor"
+    },
+    {
+     "altText": "Blei",
+     "correct": false,
+     "hint": "Blei ist keine Legierung"
+    },
+    {
+     "altText": "Wasser",
+     "correct": true,
+     "hint": "H2O"
+    },
+    {
+     "altText": "Ethanol",
+     "correct": true,
+     "hint": "NaCl"
+    },
+    {
+     "altText": "Kupferdraht",
+     "correct": false,
+     "hint": "Es ist nur Kupfer"
+    },
+    {
+     "altText": "Gold",
+     "correct": false,
+     "hint": "100% Au"
+    },
+    {
+     "altText": "Weißer Zucker",
+     "correct": true,
+     "hint": "Summenformel = C12H22O11"
+    }
+   ],
+   "id": "114738",
+   "isEasy": false,
+   "question": "Chemische Verbindungen (also aus mehreren Elementen bestehend)"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Europäische Union",
+     "correct": false,
+     "hint": "1955 gegründet, um eine neue Vereinigung zu feiern"
+    },
+    {
+     "altText": "Chile",
+     "correct": false,
+     "hint": "Rot, Weiß und Blau sind in Amerika häufig anzutreffen"
+    },
+    {
+     "altText": "Türkei",
+     "correct": true,
+     "hint": "Ein winziger Teil davon liegt in Europa, aber der größte Teil des Landes ist..."
+    },
+    {
+     "altText": "Japan",
+     "correct": true,
+     "hint": "Bekannt als das „Land der aufgehenden Sonne“"
+    },
+    {
+     "altText": "Falsche Flagge",
+     "correct": false,
+     "hint": "Die habe ich in Google Docs erstellt"
+    },
+    {
+     "altText": "China",
+     "correct": true,
+     "hint": "Der große Stern steht für die KPCh, auch bekannt als die Kommunistische Partei ______"
+    },
+    {
+     "altText": "Indien",
+     "correct": true,
+     "hint": "Das Dharmachakra befindet sich in der Mitte"
+    },
+    {
+     "altText": "Ghana",
+     "correct": false,
+     "hint": "Der schwarze Stern steht für die Unabhängigkeit von der Kolonialherrschaft"
+    },
+    {
+     "altText": "Marokko",
+     "correct": false,
+     "hint": "Auf dem gleichen Kontinent wie Ghana"
+    },
+    {
+     "altText": "Südkorea",
+     "correct": true,
+     "hint": "Das ist das südliche..."
+    }
+   ],
+   "id": "114739",
+   "isEasy": false,
+   "question": "Flaggen der Länder Asiens"
+  },
+  {
+   "choices": [
+    {
+     "altText": "Vögel",
+     "correct": false,
+     "hint": "Vögel gehörten nicht zu den fliegenden Schädlingen, die den Pharao plagten"
+    },
+    {
+     "altText": "Dornen",
+     "correct": false,
+     "hint": "In der Wüste gibt es nicht viele Pflanzen"
+    },
+    {
+     "altText": "Heuschrecken",
+     "correct": true,
+     "hint": "Sie fraßen die ganze Ernte"
+    },
+    {
+     "altText": "Fliegen",
+     "correct": true,
+     "hint": "Nicht einmal für den Einsatz von Fliegen war sich Mose zu fein!"
+    },
+    {
+     "altText": "Hagel",
+     "correct": true,
+     "hint": "Das ist Hagel"
+    },
+    {
+     "altText": "Krokodile",
+     "correct": false,
+     "hint": "Der Nil hatte andere Probleme"
+    },
+    {
+     "altText": "Spinnen",
+     "correct": false,
+     "hint": "Die Spinnen doch, die Ägypter..."
+    },
+    {
+     "altText": "Finsternis",
+     "correct": true,
+     "hint": "Bedeckt das ganze Land"
+    },
+    {
+     "altText": "Frösche",
+     "correct": true,
+     "hint": "Diese Plage brachte den Pharao fast dazu, seine Meinung zu ändern..."
+    },
+    {
+     "altText": "Tornado",
+     "correct": false,
+     "hint": "Du denkst an das Buch Hiob"
+    }
+   ],
+   "id": "114740",
+   "isEasy": false,
+   "question": "Die zehn biblischen Plagen Ägyptens (aus dem Buch Exodus)"
   }
  ]
 }
