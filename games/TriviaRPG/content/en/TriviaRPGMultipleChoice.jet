@@ -3699,6 +3699,399 @@
    "isEasy": false,
    "question": "Kennt ihr das furchterregende Schnabeltier mit seinen Schwimmhäuten, seinem entenähnlichen Schnabel und seinem giftigen...",
    "theme": "DESERT"
+  },
+  
+  {
+   "category": "Büchertode",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Er wird erwürgt, anstatt erstochen zu werden"
+    },
+    {
+     "correct": true,
+     "text": "Er erfriert, anstatt zu explodieren"
+    },
+    {
+     "correct": false,
+     "text": "Er wird in Brand gesetzt, anstatt aus dem Fenster zu fallen"
+    },
+    {
+     "correct": false,
+     "text": "Er wird erstochen, anstatt zu erfrieren"
+    }
+   ],
+   "clue": "Ein kaltblütiger Tod",
+   "id": "111268",
+   "isEasy": false,
+   "question": "Inwiefern unterscheidet sich der Tod von Jack Torrance in [i]Shining[/i] im Film vom Buch?",
+   "theme": "CEMETERY",
+   "x": true
+  },
+  {
+   "category": "Filmmagie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Klick"
+    },
+    {
+     "correct": false,
+     "text": "Bedtime Stories"
+    },
+    {
+     "correct": false,
+     "text": "Cobbler"
+    },
+    {
+     "correct": true,
+     "text": "Spanglish"
+    }
+   ],
+   "clue": "Ich packe meinen Koffer mit einem schönen englischen Kofferwort",
+   "id": "111309",
+   "isEasy": false,
+   "question": "Welcher Adam-Sandler-Film enthält keine magischen Elemente?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Filmwesen",
+   "choices": [
+    {
+     "correct": true,
+     "text": "Mogwai"
+    },
+    {
+     "correct": false,
+     "text": "Na’vi"
+    },
+    {
+     "correct": false,
+     "text": "Graboid"
+    },
+    {
+     "correct": false,
+     "text": "Tribble"
+    }
+   ],
+   "clue": "Endet mit einem „i“",
+   "id": "111311",
+   "isEasy": true,
+   "question": "Welches Fantasiewesen muss trocken bleiben, damit es sich nicht vervielfältigt?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Trendige Musik",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Eine Spongebob-Folge"
+    },
+    {
+     "correct": true,
+     "text": "Ein Song von Skrilla"
+    },
+    {
+     "correct": false,
+     "text": "Ein Clip aus „Love Island“"
+    },
+    {
+     "correct": false,
+     "text": "Niemand weiß es"
+    }
+   ],
+   "clue": "Ein Rap, um genau zu sein",
+   "id": "111312",
+   "isEasy": false,
+   "question": "Was hat Teenager dazu inspiriert, auf TikTok „6-7“ zu sagen?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Königinnen-Paar",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Herzkönigin / Elisabeth II."
+    },
+    {
+     "correct": false,
+     "text": "Maria die Blutige / Marie-Antoinette"
+    },
+    {
+     "correct": true,
+     "text": "Herzkönigin / Marie-Antoinette"
+    },
+    {
+     "correct": false,
+     "text": "Maria die Blutige / Elisabeth II."
+    }
+   ],
+   "clue": "Eine französische Königin wurde guillotiniert.",
+   "id": "111334",
+   "isEasy": false,
+   "question": "Wählt zwei Königinnen: Die erste sagte „Ab mit dem Kopf!“ ... und die zweite wurde geköpft",
+   "theme": "CASTLE",
+   "x": true
+  },
+  {
+   "category": "Abgelegene Orte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Point Obo"
+    },
+    {
+     "correct": false,
+     "text": "Aqua Zero"
+    },
+    {
+     "correct": true,
+     "text": "Point Nemo"
+    },
+    {
+     "correct": false,
+     "text": "Blue Origin"
+    }
+   ],
+   "clue": "Benannt nach dem lateinischen Wort für „Niemand“",
+   "id": "111346",
+   "isEasy": false,
+   "question": "Wie heißt der einsamste Punkt im Ozean, der am weitesten von jeglichem Land entfernt ist?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Kinderliteratur",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Bambi"
+    },
+    {
+     "correct": true,
+     "text": "I-Aah"
+    },
+    {
+     "correct": false,
+     "text": "Merida"
+    },
+    {
+     "correct": false,
+     "text": "Shrek"
+    }
+   ],
+   "clue": "„Es ist so deprimierend, dass du nicht weißt, wo ich wohne... Seufz.“",
+   "id": "111349",
+   "isEasy": false,
+   "question": "Wer lebt im Hundertmorgenwald?",
+   "theme": "FOREST"
+  },
+  {
+   "category": "Beerenjagd",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Stechpalmenbeeren"
+    },
+    {
+     "correct": false,
+     "text": "Mistelbeeren"
+    },
+    {
+     "correct": false,
+     "text": "Tollkirschen"
+    },
+    {
+     "correct": true,
+     "text": "Moosbeeren"
+    }
+   ],
+   "clue": "Stechpalmen und Misteln sind so weihnachtlich! Und tödlich!",
+   "id": "111357",
+   "isEasy": false,
+   "question": "Pflückt die richtigen Beeren zum Essen – diejenigen, die eure Gruppe NICHT vergiften",
+   "theme": "FOREST"
+  },
+  {
+   "category": "WELTRAUM-GEOGRAFIE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Den Mittelpunkt der Erde"
+    },
+    {
+     "correct": false,
+     "text": "Den Rand der Erdatmosphäre"
+    },
+    {
+     "correct": false,
+     "text": "Den höchsten Punkt der Erde"
+    },
+    {
+     "correct": true,
+     "text": "Den Meeresspiegel"
+    }
+   ],
+   "clue": "Spürst du die Meeresbrise?",
+   "id": "111359",
+   "isEasy": false,
+   "question": "Die International Space Station umkreist die Erde in einer Höhe von etwa 400 km über was?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Gaminggeschichte",
+   "choices": [
+    {
+     "correct": false,
+     "text": "NES"
+    },
+    {
+     "correct": true,
+     "text": "N64"
+    },
+    {
+     "correct": false,
+     "text": "GameCube"
+    },
+    {
+     "correct": false,
+     "text": "Wii"
+    }
+   ],
+   "clue": "Weder Wii noch GameCube",
+   "id": "111375",
+   "isEasy": true,
+   "question": "Für welche Nintendo-Konsole wurde [i]GoldenEye 007[/i] ursprünglich veröffentlicht?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "Memes",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Micky Maus"
+    },
+    {
+     "correct": false,
+     "text": "Der Joker"
+    },
+    {
+     "correct": true,
+     "text": "Kermit der Frosch"
+    },
+    {
+     "correct": false,
+     "text": "Mario"
+    }
+   ],
+   "clue": "Es ist grüner Tee",
+   "id": "111377",
+   "isEasy": true,
+   "question": "Ein bekanntes Meme zeigt welche fiktive Figur beim Teetrinken?",
+   "theme": "DESERT"
+  },
+  {
+   "category": "Sportfilme",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Apollo Creed"
+    },
+    {
+     "correct": false,
+     "text": "Adonis Creed"
+    },
+    {
+     "correct": false,
+     "text": "Artemis Creed"
+    },
+    {
+     "correct": true,
+     "text": "Niemanden (Rocky verliert)"
+    }
+   ],
+   "clue": "Niemand wurde ausgeknockt, aber die Punkte gingen nicht an Rocky",
+   "id": "111397",
+   "isEasy": false,
+   "question": "Wen besiegt Rocky am Ende von [i]Rocky[/i]?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Cartoon-Geometrie",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Omnisphäre"
+    },
+    {
+     "correct": true,
+     "text": "Hemisphäre"
+    },
+    {
+     "correct": false,
+     "text": "Mesosphäre"
+    },
+    {
+     "correct": false,
+     "text": "Pyramide"
+    }
+   ],
+   "clue": "Der Fels sieht aus wie eine Halbkugel",
+   "id": "111398",
+   "isEasy": false,
+   "question": "Wie sieht der Felsen aus, unter dem Patrick Star lebt?",
+   "theme": "MOUNTAIN"
+  },
+  {
+   "category": "KARTENSPIELE",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Herzdame"
+    },
+    {
+     "correct": true,
+     "text": "Pikdame"
+    },
+    {
+     "correct": false,
+     "text": "Herzkönig"
+    },
+    {
+     "correct": false,
+     "text": "Pikkönig"
+    }
+   ],
+   "clue": "Die richtige Antwort ist eine herzlose Siegerin",
+   "id": "111498",
+   "isEasy": false,
+   "question": "Welcher Monarch hat im Spiel Hearts den höchsten Punktwert?",
+   "theme": "CASTLE"
+  },
+  {
+   "category": "Beeren",
+   "choices": [
+    {
+     "correct": false,
+     "text": "Heidelbeeren"
+    },
+    {
+     "correct": true,
+     "text": "Maulbeeren"
+    },
+    {
+     "correct": false,
+     "text": "Himbeeren"
+    },
+    {
+     "correct": false,
+     "text": "Brombeeren"
+    }
+   ],
+   "clue": "Es ist keine der Standard-0815-Beeren",
+   "id": "111543",
+   "isEasy": false,
+   "question": "Überlebenstest: Welche der folgenden Beeren wächst an einem Baum und nicht an einem Strauch?",
+   "theme": "FOREST"
   }
  ]
 }

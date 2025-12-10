@@ -7979,38 +7979,38 @@
    "theme": "DESERT"
   },
   {
-   "category": "Novel Death",
+   "category": "Büchertode",
    "choices": [
     {
      "correct": false,
-     "text": "He gets strangled instead of getting stabbed"
+     "text": "Er wird erwürgt, anstatt erstochen zu werden"
     },
     {
      "correct": true,
-     "text": "He freezes to death instead of exploding"
+     "text": "Er erfriert, anstatt zu explodieren"
     },
     {
      "correct": false,
-     "text": "He gets set on fire instead of falling out a window"
+     "text": "Er wird in Brand gesetzt, anstatt aus dem Fenster zu fallen"
     },
     {
      "correct": false,
-     "text": "He gets stabbed instead of freezing to death"
+     "text": "Er wird erstochen, anstatt zu erfrieren"
     }
    ],
-   "clue": "Kinda gives King’s version the cold shoulder",
+   "clue": "Ein kaltblütiger Tod",
    "id": "111268",
    "isEasy": false,
-   "question": "How does Jack Torrance’s death in [i]The Shining[/i] differ in the movie from the book?",
+   "question": "Inwiefern unterscheidet sich der Tod von Jack Torrance in [i]Shining[/i] im Film vom Buch?",
    "theme": "CEMETERY",
    "x": true
   },
   {
-   "category": "Movie Magic",
+   "category": "Filmmagie",
    "choices": [
     {
      "correct": false,
-     "text": "Click"
+     "text": "Klick"
     },
     {
      "correct": false,
@@ -8018,21 +8018,21 @@
     },
     {
      "correct": false,
-     "text": "The Cobbler"
+     "text": "Cobbler"
     },
     {
      "correct": true,
      "text": "Spanglish"
     }
    ],
-   "clue": "A portmanteau title",
+   "clue": "Ich packe meinen Koffer mit einem schönen englischen Kofferwort",
    "id": "111309",
    "isEasy": false,
-   "question": "Which Adam Sandler movie has no magical element to it?",
+   "question": "Welcher Adam-Sandler-Film enthält keine magischen Elemente?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Movie Creatures",
+   "category": "Filmwesen",
    "choices": [
     {
      "correct": true,
@@ -8051,37 +8051,36 @@
      "text": "Tribble"
     }
    ],
-   "clue": "Ends in an “i”",
+   "clue": "Endet mit einem „i“",
    "id": "111311",
    "isEasy": true,
-   "question": "What fictional creature has to stay dry or it multiplies?",
+   "question": "Welches Fantasiewesen muss trocken bleiben, damit es sich nicht vervielfältigt?",
    "theme": "FOREST"
   },
   {
-   "category": "Trending Music",
+   "category": "Trendige Musik",
    "choices": [
     {
      "correct": false,
-     "text": "A Spongebob cartoon"
+     "text": "Eine Spongebob-Folge"
     },
     {
      "correct": true,
-     "text": "A Skrilla song"
+     "text": "Ein Song von Skrilla"
     },
     {
      "correct": false,
-     "text": "A [i]Love Island[/i] clip"
+     "text": "Ein Clip aus „Love Island“"
     },
     {
      "correct": false,
-     "text": "No one knows"
+     "text": "Niemand weiß es"
     }
    ],
-   "clue": "A rap, to be specific",
-   "countrySpecific": true,
+   "clue": "Ein Rap, um genau zu sein",
    "id": "111312",
    "isEasy": false,
-   "question": "What inspired teens to start saying “6-7” on TikTok?",
+   "question": "Was hat Teenager dazu inspiriert, auf TikTok „6-7“ zu sagen?",
    "theme": "CASTLE"
   },
   {
@@ -8138,29 +8137,29 @@
    "theme": "CEMETERY"
   },
   {
-   "category": "Pair of Queens",
+   "category": "Königinnen-Paar",
    "choices": [
     {
      "correct": false,
-     "text": "Queen of Hearts / Elizabeth II"
+     "text": "Herzkönigin / Elisabeth II."
     },
     {
      "correct": false,
-     "text": "Bloody Mary / Marie-Antoinette"
+     "text": "Maria die Blutige / Marie-Antoinette"
     },
     {
      "correct": true,
-     "text": "Queen of Hearts / Marie-Antoinette"
+     "text": "Herzkönigin / Marie-Antoinette"
     },
     {
      "correct": false,
-     "text": "Bloody Mary / Elizabeth II"
+     "text": "Maria die Blutige / Elisabeth II."
     }
    ],
-   "clue": "A French queen got the guillotine.",
+   "clue": "Eine französische Königin wurde guillotiniert.",
    "id": "111334",
    "isEasy": false,
-   "question": "Pick 2 queens: First one said “Off with their heads!”...and the second got her head chopped off.",
+   "question": "Wählt zwei Königinnen: Die erste sagte „Ab mit dem Kopf!“ ... und die zweite wurde geköpft.",
    "theme": "CASTLE",
    "x": true
   },
@@ -8218,7 +8217,7 @@
    "theme": "DESERT"
   },
   {
-   "category": "Remote Locations",
+   "category": "Abgelegene Orte",
    "choices": [
     {
      "correct": false,
@@ -8237,10 +8236,10 @@
      "text": "Blue Origin"
     }
    ],
-   "clue": "Named after the Latin word for “nobody,” and a literary captain!",
+   "clue": "Benannt nach dem lateinischen Wort für „Niemand“",
    "id": "111346",
    "isEasy": false,
-   "question": "What’s the name of the most desolate point in the ocean, farthest from any land?",
+   "question": "Wie heißt der einsamste Punkt im Ozean, der am weitesten von jeglichem Land entfernt ist?",
    "theme": "DESERT"
   },
   {
@@ -8270,7 +8269,7 @@
    "theme": "DESERT"
   },
   {
-   "category": "Kid Lit",
+   "category": "Kinderliteratur",
    "choices": [
     {
      "correct": false,
@@ -8278,21 +8277,21 @@
     },
     {
      "correct": true,
-     "text": "Eeyore"
+     "text": "I-Aah"
     },
     {
      "correct": false,
-     "text": "Goldilocks"
+     "text": "Merida"
     },
     {
      "correct": false,
      "text": "Shrek"
     }
    ],
-   "clue": "“It’s so depressing you don’t know where I live... sigh.”",
+   "clue": "„Es ist so deprimierend, dass du nicht weißt, wo ich wohne... Seufz.“",
    "id": "111349",
    "isEasy": false,
-   "question": "Who lives in the Hundred Acre Wood?",
+   "question": "Wer lebt im Hundertmorgenwald?",
    "theme": "FOREST"
   },
   {
@@ -8348,59 +8347,59 @@
    "theme": "CASTLE"
   },
   {
-   "category": "Berry Picking",
+   "category": "Beerenjagd",
    "choices": [
     {
      "correct": false,
-     "text": "Holly berries"
+     "text": "Stechpalmenbeeren"
     },
     {
      "correct": false,
-     "text": "Mistletoe berries"
+     "text": "Mistelbeeren"
     },
     {
      "correct": false,
-     "text": "Belladonna berries"
+     "text": "Tollkirschen"
     },
     {
      "correct": true,
-     "text": "Cloudberries"
+     "text": "Moosbeeren"
     }
    ],
-   "clue": "Holly & mistletoe are so festive! And deadly!",
+   "clue": "Stechpalmen und Misteln sind so weihnachtlich! Und tödlich!",
    "id": "111357",
    "isEasy": false,
-   "question": "Pick the right berries to eat — ones that WON’T poison your party.",
+   "question": "Pflückt die richtigen Beeren zum Essen – diejenigen, die eure Gruppe NICHT vergiften.",
    "theme": "FOREST"
   },
   {
-   "category": "SPACE GEOGRAPHY",
+   "category": "WELTRAUM-GEOGRAFIE",
    "choices": [
     {
      "correct": false,
-     "text": "The center of the earth"
+     "text": "Den Mittelpunkt der Erde"
     },
     {
      "correct": false,
-     "text": "The edge of earth’s atmosphere"
+     "text": "Den Rand der Erdatmosphäre"
     },
     {
      "correct": false,
-     "text": "The highest point on earth"
+     "text": "Den höchsten Punkt der Erde"
     },
     {
      "correct": true,
-     "text": "Sea level"
+     "text": "Den Meeresspiegel"
     }
    ],
-   "clue": "Feel that ocean breeze?",
+   "clue": "Spürst du die Meeresbrise?",
    "id": "111359",
    "isEasy": false,
-   "question": "The International Space Station orbits about 400km above what?",
+   "question": "Die International Space Station umkreist die Erde in einer Höhe von etwa 400 km über was?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Gaming History",
+   "category": "Gaminggeschichte",
    "choices": [
     {
      "correct": false,
@@ -8412,17 +8411,17 @@
     },
     {
      "correct": false,
-     "text": "Game Cube"
+     "text": "GameCube"
     },
     {
      "correct": false,
      "text": "Wii"
     }
    ],
-   "clue": "Not Wii or GameCube",
+   "clue": "Weder Wii noch GameCube",
    "id": "111375",
    "isEasy": true,
-   "question": "[i]GoldenEye 007[/i] was originally published for which Nintendo system?",
+   "question": "Für welche Nintendo-Konsole wurde [i]GoldenEye 007[/i] ursprünglich veröffentlicht?",
    "theme": "MOUNTAIN"
   },
   {
@@ -8430,29 +8429,29 @@
    "choices": [
     {
      "correct": false,
-     "text": "Mickey Mouse"
+     "text": "Micky Maus"
     },
     {
      "correct": false,
-     "text": "The Joker"
+     "text": "Der Joker"
     },
     {
      "correct": true,
-     "text": "Kermit the Frog"
+     "text": "Kermit der Frosch"
     },
     {
      "correct": false,
      "text": "Mario"
     }
    ],
-   "clue": "It’s green tea",
+   "clue": "Es ist grüner Tee",
    "id": "111377",
    "isEasy": true,
-   "question": "A well-known meme shows what fictional character sipping tea?",
+   "question": "Ein bekanntes Meme zeigt welche fiktive Figur beim Teetrinken?",
    "theme": "DESERT"
   },
   {
-   "category": "Sport Movies",
+   "category": "Sportfilme",
    "choices": [
     {
      "correct": false,
@@ -8468,65 +8467,65 @@
     },
     {
      "correct": true,
-     "text": "No one (Rocky loses)"
+     "text": "Niemanden (Rocky verliert)"
     }
    ],
-   "clue": "No one was knocked out, but the points weren’t on Rocky’s side",
+   "clue": "Niemand wurde ausgeknockt, aber die Punkte gingen nicht an Rocky",
    "id": "111397",
    "isEasy": false,
-   "question": "Who does Rocky defeat at the end of [i]Rocky[/i]?",
+   "question": "Wen besiegt Rocky am Ende von [i]Rocky[/i]?",
    "theme": "CASTLE"
   },
   {
-   "category": "Cartoon Geometry",
+   "category": "Cartoon-Geometrie",
    "choices": [
     {
      "correct": false,
-     "text": "Omnisphere"
+     "text": "Omnisphäre"
     },
     {
      "correct": true,
-     "text": "Hemisphere"
+     "text": "Hemisphäre"
     },
     {
      "correct": false,
-     "text": "Mesosphere"
+     "text": "Mesosphäre"
     },
     {
      "correct": false,
-     "text": "Pyramid"
+     "text": "Pyramide"
     }
    ],
-   "clue": "It looks like half a globe",
+   "clue": "Der Fels sieht aus wie eine Halbkugel",
    "id": "111398",
    "isEasy": false,
-   "question": "What’s the shape of the rock Patrick Star lives under?",
+   "question": "Wie sieht der Felsen aus, unter dem Patrick Star lebt?",
    "theme": "MOUNTAIN"
   },
   {
-   "category": "CARD GAMES",
+   "category": "KARTENSPIELE",
    "choices": [
     {
      "correct": false,
-     "text": "Queen of Hearts"
+     "text": "Herzdame"
     },
     {
      "correct": true,
-     "text": "Queen of Spades"
+     "text": "Pikdame"
     },
     {
      "correct": false,
-     "text": "King of Hearts"
+     "text": "Herzkönig"
     },
     {
      "correct": false,
-     "text": "King of Spades"
+     "text": "Pikkönig"
     }
    ],
-   "clue": "She’s not the enemy of Alice",
+   "clue": "Die richtige Antwort ist eine herzlose Siegerin",
    "id": "111498",
    "isEasy": false,
-   "question": "In the game of Hearts, which monarch has the highest point value?",
+   "question": "Welcher Monarch hat im Spiel Hearts den höchsten Punktwert?",
    "theme": "CASTLE"
   },
   {
@@ -8556,29 +8555,29 @@
    "theme": "MOUNTAIN"
   },
   {
-   "category": "Berries",
+   "category": "Beeren",
    "choices": [
     {
      "correct": false,
-     "text": "Blueberry"
+     "text": "Heidelbeeren"
     },
     {
      "correct": true,
-     "text": "Mulberry"
+     "text": "Maulbeeren"
     },
     {
      "correct": false,
-     "text": "Raspberry"
+     "text": "Himbeeren"
     },
     {
      "correct": false,
-     "text": "Blackberry"
+     "text": "Brombeeren"
     }
    ],
-   "clue": "The nursery rhyme about it is inaccurate",
+   "clue": "Es ist keine der Standard-0815-Beeren",
    "id": "111543",
    "isEasy": false,
-   "question": "Survival check: Which of the following berries grows on a tree, not a bush?",
+   "question": "Überlebenstest: Welche der folgenden Beeren wächst an einem Baum und nicht an einem Strauch?",
    "theme": "FOREST"
   },
   {
