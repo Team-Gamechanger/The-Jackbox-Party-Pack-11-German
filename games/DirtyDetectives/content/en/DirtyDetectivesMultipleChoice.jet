@@ -4767,28 +4767,28 @@
             "evidence": [
                 {
                     "choices": [
-                        "Meine Augen!"
+                        "In meinen Augen!"
                     ],
                     "finding": "Der Verdächtige {{RED}} weiß nicht, wo sich seine Steigbügel befinden.",
                     "summary": "STEIGBÜGEL: {{RED}}FALSCH"
                 },
                 {
                     "choices": [
-                        "Meine Hände!"
+                        "In meinen Händen!"
                     ],
                     "finding": "Der Verdächtige {{RED}} weiß nicht, wo sich seine Steigbügel befinden.",
                     "summary": "STEIGBÜGEL: {{RED}}FALSCH"
                 },
                 {
                     "choices": [
-                        "Meine Ohren!"
+                        "In meinen Ohren!"
                     ],
                     "finding": "Der Verdächtige {{RED}} weiß, wo sich seine Steigbügel befinden. Wow!!!",
                     "summary": "STEIGBÜGEL: {{RED}}RICHTIG"
                 },
                 {
                     "choices": [
-                        "Meine Nase!"
+                        "In meiner Nase!"
                     ],
                     "finding": "Der Verdächtige {{RED}} weiß nicht, wo sich seine Steigbügel befinden.",
                     "summary": "STEIGBÜGEL: {{RED}}FALSCH"
@@ -4801,7 +4801,7 @@
                 "Hast du kürzlich eine Untersuchung deiner Knochen machen lassen?",
                 "Sagen dir Amboss und Hammer etwas?"
             ],
-            "question": "Wo sind deine Steigbügel?",
+            "question": "Wo befinden sich die Steigbügel in deinem Körper?",
             "reminder": "Steigbügel",
             "starterContent": true
         },
