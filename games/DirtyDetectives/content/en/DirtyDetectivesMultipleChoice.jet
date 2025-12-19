@@ -4056,7 +4056,7 @@
                         "Manchmal.",
                         "Nope!"
                     ],
-                    "finding": "Auf die Frage, ob er ein Hypochonder sei, antwortete der Verdächtige: \"{{SELECTION}}”",
+                    "finding": "Auf die Frage, ob er sich oft Sorgen um seine Gesundheit mache, antwortete der Verdächtige: \"{{SELECTION}}\"",
                     "summary": "HYPOCHONDRIKER? {{SELECTION}}"
                 }
             ],
@@ -4067,7 +4067,7 @@
                 "Gehst du bei Gesundheitsthemen immer vom Schlimmsten aus?",
                 "Wie fühlst du dich gerade?"
             ],
-            "question": "Bist du ein Hypochonder?",
+            "question": "Machst du dir oft Sorgen um deine Gesundheit?",
             "reminder": "Hypochonder?"
         },
         {
