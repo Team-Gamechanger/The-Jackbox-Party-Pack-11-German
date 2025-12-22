@@ -1587,18 +1587,18 @@
             "evidence": [
                 {
                     "choices": [
-                        "Konsens"
+                        "Rhythmus"
                     ],
-                    "finding": "Der Täter {{RED}}kann \"Konsens\" buchstabieren.",
-                    "summary": "KANN {{RED}}KONSENS BUCHSTABIEREN"
+                    "finding": "Der Täter {{RED}}kann \"Rhythmus\" buchstabieren.",
+                    "summary": "KANN {{RED}}RHYTHMUS BUCHSTABIEREN"
                 },
                 {
                     "choices": [
-                        "Konsenz",
-                        "Konzens",
-                        "Konsenes"
+                        "Rhytmus",
+                        "Rythmus",
+                        "Rytmus"
                     ],
-                    "finding": "Der Konsens ist, dass unser Täter {{RED}}nicht buchstabieren kann!",
+                    "finding": "Unser Täter kann {{RED}}nicht buchstabieren!",
                     "summary": "RECHTSCHREIBUNG: {{RED}}SCHLECHT"
                 }
             ],
