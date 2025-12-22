@@ -3,7 +3,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "In einem Wort oder zwei beschreibt der Verdächtige seine Eltern als \"{{SELECTION}}\".",
+            "evidence": "In einem Wort oder zwei beschreibt der Täter seine Eltern als \"{{SELECTION}}\".",
             "familiarity": "FRIENDS",
             "id": "107175",
             "interrogations": [
@@ -17,7 +17,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige glaubt, dass das beste Jahr seines Lebens {{SELECTION}} war.",
+            "evidence": "Der Täter glaubt, dass das beste Jahr seines Lebens {{SELECTION}} war.",
             "familiarity": "STRANGERS",
             "id": "107176",
             "interrogations": [
@@ -31,7 +31,7 @@
         {
             "appearance": "EARLY",
             "category": "TESTIMONY",
-            "evidence": "Die Heimatstadt des Verdächtigen, in einem Wort: \"{{SELECTION}}\"",
+            "evidence": "Die Heimatstadt des Täters, in einem Wort: \"{{SELECTION}}\"",
             "familiarity": "STRANGERS",
             "id": "107178",
             "interrogations": [
@@ -46,7 +46,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Wenn der Verdächtige sich ein Ein-Wort-Tattoo stechen lassen müsste, wäre es: \"{{SELECTION}}\"",
+            "evidence": "Wenn der Täter sich ein Ein-Wort-Tattoo stechen lassen müsste, wäre es: \"{{SELECTION}}\"",
             "familiarity": "FRIENDS",
             "id": "107196",
             "interrogations": [
@@ -61,7 +61,7 @@
         {
             "appearance": "EARLY",
             "category": "TESTIMONY",
-            "evidence": "Der Verdächtige denkt, er sieht in Kleidung der Farbe {{SELECTION}} am Besten aus.",
+            "evidence": "Der Täter denkt, er sieht in Kleidung der Farbe {{SELECTION}} am Besten aus.",
             "familiarity": "STRANGERS",
             "id": "107324",
             "interrogations": [
@@ -75,7 +75,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Die am häufigsten benutzte App auf dem Handy des Verdächtigen ist: {{SELECTION}}",
+            "evidence": "Die am häufigsten benutzte App auf dem Handy des Täters ist: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107325",
             "interrogations": [
@@ -90,7 +90,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Das innere Tier des Verdächtigen (und wahrscheinliche Fursona) ist: {{SELECTION}}",
+            "evidence": "Das innere Tier des Täters (und wahrscheinliche Fursona) ist: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107327",
             "interrogations": [
@@ -104,7 +104,7 @@
         {
             "appearance": "EARLY",
             "category": "TESTIMONY",
-            "evidence": "Das Gewässer, in das der Verdächtige zuletzt seine Zehen getaucht hat, war: {{SELECTION}}",
+            "evidence": "Das Gewässer, in das der Täter zuletzt seine Zehen getaucht hat, war: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107328",
             "interrogations": [
@@ -118,7 +118,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige liebt {{SELECTION}}, gibt aber zu, dass es ein sehr schlechter Film ist.",
+            "evidence": "Der Täter liebt {{SELECTION}}, gibt aber zu, dass es ein sehr schlechter Film ist.",
             "familiarity": "STRANGERS",
             "id": "107331",
             "interrogations": [
@@ -132,7 +132,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Das erste Album/Lied, das sich der Verdächtige selbst besorgt hat: {{SELECTION}}",
+            "evidence": "Das erste Album/Lied, das sich der Täter selbst besorgt hat: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107332",
             "interrogations": [
@@ -147,7 +147,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Was zuletzt im Mund des Verdächtigen war: {{SELECTION}}",
+            "evidence": "Was zuletzt im Mund des Täters war: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107452",
             "interrogations": [
@@ -162,7 +162,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige kennt den vollständigen Text von \"{{SELECTION}}\".",
+            "evidence": "Der Täter kennt den vollständigen Text von \"{{SELECTION}}\".",
             "familiarity": "STRANGERS",
             "id": "107725",
             "interrogations": [
@@ -176,7 +176,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige denkt, er könnte die Leute davon überzeugen, ihn \"{{SELECTION}}\" zu nennen.",
+            "evidence": "Der Täter denkt, er könnte die Leute davon überzeugen, ihn \"{{SELECTION}}\" zu nennen.",
             "familiarity": "STRANGERS",
             "id": "107727",
             "interrogations": [
@@ -192,7 +192,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige zeigt starke, unerschütterliche Markentreue zu: {{SELECTION}}",
+            "evidence": "Der Täter zeigt starke, unerschütterliche Markentreue zu: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107730",
             "interrogations": [
@@ -207,7 +207,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der verliebte Verdächtige hatte seinen ersten großen Promi-Schwarm für: {{SELECTION}}",
+            "evidence": "Der verliebte Täter hatte seinen ersten großen Promi-Schwarm für: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107732",
             "interrogations": [
@@ -221,7 +221,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Das letzte Live-Konzerterlebnis des Verdächtigen: {{SELECTION}}",
+            "evidence": "Das letzte Live-Konzerterlebnis des Täters: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107733",
             "interrogations": [
@@ -236,7 +236,7 @@
         {
             "appearance": "EARLY",
             "category": "FORENSICS",
-            "evidence": "Der dankbare Verdächtige hat einmal dieses tolle Geschenk erhalten: {{SELECTION}}",
+            "evidence": "Der dankbare Täter hat einmal dieses tolle Geschenk erhalten: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107734",
             "interrogations": [
@@ -250,7 +250,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige beschreibt seine aktuelle Nachbarschaft als: {{SELECTION}}",
+            "evidence": "Der Täter beschreibt seine aktuelle Nachbarschaft als: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107736",
             "interrogations": [
@@ -265,7 +265,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Jaaaaa! Der Lieblings-Muppet des Verdächtigen ist {{SELECTION}}.",
+            "evidence": "Jaaaaa! Der Lieblings-Muppet des Täters ist {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "107738",
             "interrogations": [
@@ -279,7 +279,7 @@
         {
             "appearance": "EARLY",
             "category": "FORENSICS",
-            "evidence": "Igitt. Der Verdächtige kann den Gedanken nicht ertragen, {{SELECTION}} zu essen.",
+            "evidence": "Igitt. Der Täter kann den Gedanken nicht ertragen, {{SELECTION}} zu essen.",
             "familiarity": "STRANGERS",
             "id": "107743",
             "interrogations": [
@@ -294,7 +294,7 @@
         {
             "appearance": "EARLY",
             "category": "TESTIMONY",
-            "evidence": "Die erste Berufserfahrung des Verdächtigen war: {{SELECTION}}",
+            "evidence": "Die erste Berufserfahrung des Täters war: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107745",
             "interrogations": [
@@ -309,7 +309,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Als Kind träumte der Verdächtige davon, {{SELECTION}} zu werden.",
+            "evidence": "Als Kind träumte der Täter davon, {{SELECTION}} zu werden.",
             "familiarity": "FRIENDS",
             "id": "107746",
             "interrogations": [
@@ -324,7 +324,7 @@
         {
             "appearance": "EARLY",
             "category": "TESTIMONY",
-            "evidence": "Der Verdächtige könnte aus dem Stande einen Vortrag halten über: {{SELECTION}}",
+            "evidence": "Der Täter könnte aus dem Stande einen Vortrag halten über: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107747",
             "interrogations": [
@@ -339,7 +339,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Wenn der Verdächtige ein Profi-Sportler in irgendeiner Sportart sein könnte, wäre es in: {{SELECTION}}",
+            "evidence": "Wenn der Täter ein Profi-Sportler in irgendeiner Sportart sein könnte, wäre es in: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107748",
             "interrogations": [
@@ -354,7 +354,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige wünscht, er hätte jahrelange Erfahrung in: {{SELECTION}}",
+            "evidence": "Der Täter wünscht, er hätte jahrelange Erfahrung in: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "107757",
             "interrogations": [
@@ -369,7 +369,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der letzte ausgehende Anruf des Verdächtigen ging angeblich an: {{SELECTION}}",
+            "evidence": "Der letzte ausgehende Anruf des Täters ging angeblich an: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "107764",
             "interrogations": [
@@ -385,7 +385,7 @@
         {
             "appearance": "EARLY",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige präsentiert stolz {{SELECTION}} an einer seiner Wände.",
+            "evidence": "Der Täter präsentiert stolz {{SELECTION}} an einer seiner Wände.",
             "familiarity": "STRANGERS",
             "id": "107768",
             "interrogations": [
@@ -401,7 +401,7 @@
         {
             "appearance": "EARLY",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige besitzt {{SELECTION}}, von allen Dingen! Wie einzigartig!",
+            "evidence": "Der Täter besitzt {{SELECTION}}, von allen Dingen! Wie einzigartig!",
             "familiarity": "STRANGERS",
             "id": "107947",
             "interrogations": [
@@ -416,7 +416,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige beschreibt seine Persönlichkeit als: {{SELECTION}}",
+            "evidence": "Der Täter beschreibt seine Persönlichkeit als: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "108006",
             "interrogations": [
@@ -431,7 +431,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Die erste Berufsbezeichnung des Verdächtigen: {{SELECTION}}",
+            "evidence": "Die erste Berufsbezeichnung des Täters: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "108145",
             "interrogations": [
@@ -446,7 +446,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Der raumkrümmende Verdächtige wünscht, er könnte sich teleportieren nach: {{SELECTION}}",
+            "evidence": "Der raumkrümmende Täter wünscht, er könnte sich teleportieren nach: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "108146",
             "interrogations": [
@@ -460,7 +460,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Die Geburtsregion des Verdächtigen ist: \"{{SELECTION}}\".",
+            "evidence": "Die Geburtsregion des Täters ist: \"{{SELECTION}}\".",
             "familiarity": "STRANGERS",
             "id": "108148",
             "interrogations": [
@@ -474,7 +474,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige denkt, er kann {{SELECTION}} Liegestütze in einer Minute schaffen.",
+            "evidence": "Der Täter denkt, er kann {{SELECTION}} Liegestütze in einer Minute schaffen.",
             "familiarity": "FRIENDS",
             "id": "108151",
             "interrogations": [
@@ -489,7 +489,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Motiv des neuesten Fotos in der Bildergalerie des Verdächtigen: {{SELECTION}}.",
+            "evidence": "Motiv des neuesten Fotos in der Bildergalerie des Täters: {{SELECTION}}.",
             "familiarity": "STRANGERS",
             "id": "108185",
             "interrogations": [
@@ -505,7 +505,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige verbindet das Wort \"ekelhaft\" mit: {{SELECTION}}",
+            "evidence": "Der Täter verbindet das Wort \"ekelhaft\" mit: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "108688",
             "interrogations": [
@@ -520,7 +520,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Die toxische Eigenschaft unseres Verdächtigen? {{SELECTION}}",
+            "evidence": "Die toxische Eigenschaft unseres Täters? {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "108755",
             "interrogations": [
@@ -535,7 +535,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige träumt davon, Kapitän eines Schiffes namens \"{{SELECTION}}\" zu werden.",
+            "evidence": "Der Täter träumt davon, Kapitän eines Schiffes namens \"{{SELECTION}}\" zu werden.",
             "familiarity": "FRIENDS",
             "id": "108756",
             "interrogations": [
@@ -550,7 +550,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Das Wort \"Geheimnis\" erinnert den Verdächtigen an: {{SELECTION}}.",
+            "evidence": "Das Wort \"Geheimnis\" erinnert den Täter an: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "108783",
             "interrogations": [
@@ -565,7 +565,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Wenn der Verdächtige konvertieren müsste, würde er konvertieren zu: {{SELECTION}}",
+            "evidence": "Wenn der Täter konvertieren müsste, würde er konvertieren zu: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "108790",
             "interrogations": [
@@ -580,7 +580,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige behauptet, nichts über die TV-Serie {{SELECTION}} zu wissen.",
+            "evidence": "Der Täter behauptet, nichts über die TV-Serie {{SELECTION}} zu wissen.",
             "familiarity": "STRANGERS",
             "id": "108837",
             "interrogations": [
@@ -595,7 +595,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Das Bild des Verdächtigen steht neben dem Wort \"{{SELECTION}}\" im Wörterbuch.",
+            "evidence": "Das Bild des Täters steht neben dem Wort \"{{SELECTION}}\" im Wörterbuch.",
             "familiarity": "FRIENDS",
             "id": "108839",
             "interrogations": [
@@ -609,7 +609,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Die Antwort des Verdächtigen darauf, wie lange er {{PLAYER}} schon kennt: {{SELECTION}}.",
+            "evidence": "Die Antwort des Täters darauf, wie lange er {{PLAYER}} schon kennt: {{SELECTION}}.",
             "familiarity": "STRANGERS",
             "id": "108917",
             "interrogations": [
@@ -623,7 +623,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Wie der Verdächtige eine zusätzliche Stunde seines Tages verbringen würde: {{SELECTION}}.",
+            "evidence": "Wie der Täter eine zusätzliche Stunde seines Tages verbringen würde: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "108993",
             "interrogations": [
@@ -637,7 +637,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Wenn der Verdächtige ein Videospiel-Boss wäre, wäre seine Schwachstelle: {{SELECTION}}.",
+            "evidence": "Wenn der Täter ein Videospiel-Boss wäre, wäre seine Schwachstelle: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "109037",
             "interrogations": [
@@ -652,7 +652,7 @@
         {
             "appearance": "EARLY",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige sieht sich als \"Schutzpatron von {{SELECTION}}\"",
+            "evidence": "Der Täter sieht sich als \"Schutzpatron von {{SELECTION}}\"",
             "familiarity": "STRANGERS",
             "id": "109040",
             "interrogations": [
@@ -667,7 +667,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Telefonnummer, die der Verdächtige auswendig kennt, gehört zu: {{SELECTION}}",
+            "evidence": "Telefonnummer, die der Täter auswendig kennt, gehört zu: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "109045",
             "interrogations": [
@@ -682,7 +682,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige hat {{SELECTION}} in seinen Taschen!! Gerade jetzt!!!",
+            "evidence": "Der Täter hat {{SELECTION}} in seinen Taschen!! Gerade jetzt!!!",
             "familiarity": "FRIENDS",
             "id": "109049",
             "interrogations": [
@@ -698,7 +698,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige hat viel zu zeigen (und zu erzählen!) über: {{SELECTION}}",
+            "evidence": "Der Täter hat viel zu zeigen (und zu erzählen!) über: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "109050",
             "interrogations": [
@@ -715,7 +715,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige würde total eine U-Bahn-Haltestange lecken für: {{SELECTION}}€",
+            "evidence": "Der Täter würde total eine U-Bahn-Haltestange lecken für: {{SELECTION}}€",
             "familiarity": "FRIENDS",
             "id": "109315",
             "interrogations": [
@@ -731,7 +731,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Menge an Bargeld, die der Verdächtige gerade dabei hat: {{SELECTION}}",
+            "evidence": "Menge an Bargeld, die der Täter gerade dabei hat: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "109444",
             "interrogations": [
@@ -746,7 +746,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige macht DIESE Sache nicht mehr so oft wie früher: {{SELECTION}}",
+            "evidence": "Der Täter macht DIESE Sache nicht mehr so oft wie früher: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "109476",
             "interrogations": [
@@ -760,7 +760,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der Verdächtige weiß genug über sich selbst, um zu wissen, dass er zu sehr steht auf: {{SELECTION}}.",
+            "evidence": "Der Täter weiß genug über sich selbst, um zu wissen, dass er zu sehr steht auf: {{SELECTION}}.",
             "familiarity": "STRANGERS",
             "id": "109521",
             "interrogations": [
@@ -775,7 +775,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Der Verdächtige denkt, die Ausstrahlung, die er hat, ist: {{SELECTION}}.",
+            "evidence": "Der Täter denkt, die Ausstrahlung, die er hat, ist: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "109757",
             "interrogations": [
@@ -789,7 +789,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Das möglicherweise-aspirative versteckte Talent des Verdächtigen: {{SELECTION}}",
+            "evidence": "Das möglicherweise-aspirative versteckte Talent des Täters: {{SELECTION}}",
             "familiarity": "STRANGERS",
             "id": "109758",
             "interrogations": [
@@ -803,7 +803,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Das Vorbild des Verdächtigen in seiner Jugend: {{SELECTION}}.",
+            "evidence": "Das Vorbild des Täters in seiner Jugend: {{SELECTION}}.",
             "familiarity": "STRANGERS",
             "id": "109760",
             "interrogations": [
@@ -818,7 +818,7 @@
         {
             "appearance": "LATE",
             "category": "FORENSICS",
-            "evidence": "Der ohrstöpsel-suchende Verdächtige hasst den Klang von: {{SELECTION}}.",
+            "evidence": "Der ohrstöpsel-suchende Täter hasst den Klang von: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "109762",
             "interrogations": [
@@ -835,7 +835,7 @@
         {
             "appearance": "EARLY",
             "category": "TESTIMONY",
-            "evidence": "In der Schulzeit hasste der Verdächtige den Besuch von {{SELECTION}}.",
+            "evidence": "In der Schulzeit hasste der Täter den Besuch von {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "109765",
             "interrogations": [
@@ -850,7 +850,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der Verdächtige sagt folgendes: \"Als Kind war ich {{SELECTION}}.\"",
+            "evidence": "Der Täter sagt folgendes: \"Als Kind war ich {{SELECTION}}.\"",
             "familiarity": "STRANGERS",
             "id": "109766",
             "interrogations": [
@@ -866,7 +866,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Eine Verschwörungstheorie, an die der Verdächtige schon irgendwie glaubt: {{SELECTION}}.",
+            "evidence": "Eine Verschwörungstheorie, an die der Täter schon irgendwie glaubt: {{SELECTION}}.",
             "familiarity": "FRIENDS",
             "id": "109768",
             "interrogations": [
@@ -881,7 +881,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Der extrem sterbliche Verdächtige glaubt bezüglich des Jenseits: {{SELECTION}}",
+            "evidence": "Der extrem sterbliche Täter glaubt bezüglich des Jenseits: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "112432",
             "interrogations": [
@@ -897,7 +897,7 @@
             "appearance": "LATE",
             "category": "TESTIMONY",
             "countrySpecific": false,
-            "evidence": "Ein Wort, das die Meinung des Verdächtigen über sein aktuelles Leben beschreibt: {{SELECTION}}",
+            "evidence": "Ein Wort, das die Meinung des Täters über sein aktuelles Leben beschreibt: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "112433",
             "interrogations": [
@@ -911,7 +911,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Der peinlich berührte Verdächtige wäre dankbar, wenn wir niemandem davon erzählen würden: {{SELECTION}}",
+            "evidence": "Der peinlich berührte Täter wäre dankbar, wenn wir niemandem davon erzählen würden: {{SELECTION}}",
             "familiarity": "FRIENDS",
             "id": "112437",
             "interrogations": [
@@ -926,7 +926,7 @@
         {
             "appearance": "LATE",
             "category": "PROFILE",
-            "evidence": "Der pfennigfuchsende Verdächtige denkt, dass {{SELECTION}} heutzutage viel zu viel kostet.",
+            "evidence": "Der pfennigfuchsende Täter denkt, dass {{SELECTION}} heutzutage viel zu viel kostet.",
             "familiarity": "FRIENDS",
             "id": "112439",
             "interrogations": [
@@ -941,7 +941,7 @@
         {
             "appearance": "LATE",
             "category": "TESTIMONY",
-            "evidence": "Der Verdächtige hat nur eine Sache zu euch allen zu sagen: \"{{SELECTION}}\"",
+            "evidence": "Der Täter hat nur eine Sache zu euch allen zu sagen: \"{{SELECTION}}\"",
             "familiarity": "FRIENDS",
             "id": "112440",
             "interrogations": [

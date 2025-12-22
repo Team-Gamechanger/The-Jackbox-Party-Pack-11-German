@@ -417,7 +417,7 @@
    "id": "111999",
    "soundsToRecord": [
     {
-     "prompt": "Deine beste Imitation von einem R&B-Song"
+     "prompt": "Singe langsam Fahrstuhlmusik"
     },
     {
      "direction": "Keine Wörter benutzen!",
@@ -738,7 +738,7 @@
    "id": "112691",
    "soundsToRecord": [
     {
-     "prompt": "Sing dir selbst Happy Birthday wie ein Schlagersänger"
+     "prompt": "Sing dir selbst Happy Birthday wie ein einsamer Typ"
     }
    ],
    "videoId": "112610",

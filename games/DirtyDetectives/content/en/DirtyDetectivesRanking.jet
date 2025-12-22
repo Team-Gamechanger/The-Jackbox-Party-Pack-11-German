@@ -10,7 +10,7 @@
     "Werwölfe",
     "Mumien"
    ],
-   "evidence": "Im Kampf gegen Monster würde der Verdächtige sich dafür entscheiden, zuerst {{SELECTION-1}} und zuletzt {{SELECTION-3}} zu bekämpfen.",
+   "evidence": "Im Kampf gegen Monster würde der Täter sich dafür entscheiden, zuerst {{SELECTION-1}} und zuletzt {{SELECTION-3}} zu bekämpfen.",
    "familiarity": "FRIENDS",
    "id": "107564",
    "interrogations": [
@@ -31,7 +31,7 @@
     "Schwimmen",
     "Laufen"
    ],
-   "evidence": "Der Verdächtige denkt, er wäre am besten im {{SELECTION-1}} bei einem Triathlon, und am schlechtesten im {{SELECTION-3}}.",
+   "evidence": "Der Täter denkt, er wäre am besten im {{SELECTION-1}} bei einem Triathlon, und am schlechtesten im {{SELECTION-3}}.",
    "familiarity": "FRIENDS",
    "id": "107570",
    "interrogations": [],
@@ -50,7 +50,7 @@
     "Kopfhörer",
     "Handy"
    ],
-   "evidence": "Beim Verlassen des Hauses sind dem Verdächtigen {{SELECTION-1}} wichtiger als {{SELECTION-4}}.",
+   "evidence": "Beim Verlassen des Hauses sind dem Täter {{SELECTION-1}} wichtiger als {{SELECTION-4}}.",
    "familiarity": "STRANGERS",
    "id": "107592",
    "interrogations": [
@@ -71,7 +71,7 @@
     "Schimmlige Dachrinnen putzen",
     "90 Minuten zum Flughafen fahren"
    ],
-   "evidence": "Der Verdächtige würde lieber für seinen Nachbarn {{SELECTION-1}} als {{SELECTION-4}}.",
+   "evidence": "Der Täter würde lieber für seinen Nachbarn {{SELECTION-1}} als {{SELECTION-4}}.",
    "familiarity": "FRIENDS",
    "id": "107597",
    "interrogations": [
@@ -94,7 +94,7 @@
     "Luxus",
     "Schuldenabbau"
    ],
-   "evidence": "Der lottogewinnende Verdächtige würde {{SELECTION-1}} über {{SELECTION-4}} bevorzugen.",
+   "evidence": "Der lottogewinnende Täter würde {{SELECTION-1}} über {{SELECTION-4}} bevorzugen.",
    "familiarity": "FRIENDS",
    "id": "107598",
    "interrogations": [
@@ -113,7 +113,7 @@
     "Furz",
     "Fisch"
    ],
-   "evidence": "Der Verdächtige bevorzugt den Geruch von {{SELECTION-1}} gegenüber dem Geruch von {{SELECTION-3}}.",
+   "evidence": "Der Täter bevorzugt den Geruch von {{SELECTION-1}} gegenüber dem Geruch von {{SELECTION-3}}.",
    "familiarity": "FRIENDS",
    "id": "108165",
    "interrogations": [
@@ -137,7 +137,7 @@
     "Profi-Basketball-Trainer",
     "Mathe-Lehrer"
    ],
-   "evidence": "Der Verdächtige denkt, er ist eher vorbereitet, {{SELECTION-1}} zu sein als {{SELECTION-5}}.",
+   "evidence": "Der Täter denkt, er ist eher vorbereitet, {{SELECTION-1}} zu sein als {{SELECTION-5}}.",
    "familiarity": "FRIENDS",
    "id": "108666",
    "interrogations": [
@@ -161,7 +161,7 @@
     "2000er",
     "2010er"
    ],
-   "evidence": "Der Verdächtige liebt die Musik von {{SELECTION-1}} am meisten und die Musik von {{SELECTION-4}} am wenigsten.",
+   "evidence": "Der Täter liebt die Musik von {{SELECTION-1}} am meisten und die Musik von {{SELECTION-4}} am wenigsten.",
    "familiarity": "FRIENDS",
    "id": "108796",
    "interrogations": [
@@ -186,7 +186,7 @@
     "Weisheit",
     "Charisma"
    ],
-   "evidence": "Bei D&D wäre der Verdächtige ein Charakter mit hoher {{SELECTION-1}}, niedriger {{SELECTION-6}}.",
+   "evidence": "Bei D&D wäre der Täter ein Charakter mit hoher {{SELECTION-1}}, niedriger {{SELECTION-6}}.",
    "familiarity": "FRIENDS",
    "id": "108798",
    "interrogations": [
@@ -209,7 +209,7 @@
     "Greta Thunberg",
     "{{PLAYER}}"
    ],
-   "evidence": "Der Verdächtige denkt, dass {{SELECTION-1}} cooler ist als {{SELECTION-5}}.",
+   "evidence": "Der Täter denkt, dass {{SELECTION-1}} cooler ist als {{SELECTION-5}}.",
    "familiarity": "FRIENDS",
    "id": "109029",
    "interrogations": [
@@ -233,12 +233,12 @@
     "7 vs. Wild",
     "Das Dschungelcamp"
    ],
-   "evidence": "Der Verdächtige denkt, er wäre am schlechtesten bei {{SELECTION-6}}, dicht gefolgt von {{SELECTION-5}}.",
+   "evidence": "Der Täter denkt, er wäre am schlechtesten bei {{SELECTION-6}}, dicht gefolgt von {{SELECTION-5}}.",
    "familiarity": "FRIENDS",
    "id": "109030",
    "interrogations": [
     "Was wäre ein cooler Preis in einer Spielshow?",
-    "Bitte antworte in Form einer Frage: Der Name des Verdächtigen."
+    "Bitte antworte in Form einer Frage: Der Name des Täters."
    ],
    "question": "Ordne die folgenden Reality-/Spielshows danach, wie gut du denkst, dass du bei jeder abschneiden würdest.",
    "reminder": "Reality-Gewinner",
@@ -258,7 +258,7 @@
     "Cake Wars",
     "Krieg der Sterne"
    ],
-   "evidence": "Der Verdächtige weiß vieeeeel mehr über {{SELECTION-1}} als über {{SELECTION-7}}.",
+   "evidence": "Der Täter weiß vieeeeel mehr über {{SELECTION-1}} als über {{SELECTION-7}}.",
    "familiarity": "FRIENDS",
    "id": "109660",
    "interrogations": [
@@ -282,7 +282,7 @@
     "zu Burger King"
    ],
    "countrySpecific": true,
-   "evidence": "Der Verdächtige würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
+   "evidence": "Der Täter würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
    "familiarity": "STRANGERS",
    "id": "114000",
    "interrogations": [
@@ -304,7 +304,7 @@
     "in die Antarktis",
     "zu Love Island"
    ],
-   "evidence": "Der Verdächtige würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
+   "evidence": "Der Täter würde zuerst {{SELECTION-1}} gehen, bevor er {{SELECTION-3}} geht.",
    "familiarity": "STRANGERS",
    "id": "114005",
    "interrogations": [
@@ -327,7 +327,7 @@
     "ein Pferd",
     "Streichhölzer"
    ],
-   "evidence": "Bei der Vorbereitung auf eine Zombie-Apokalypse möchte der Verdächtige vor allem {{SELECTION-1}} und am wenigsten {{SELECTION-5}}.",
+   "evidence": "Bei der Vorbereitung auf eine Zombie-Apokalypse möchte der Täter vor allem {{SELECTION-1}} und am wenigsten {{SELECTION-5}}.",
    "familiarity": "STRANGERS",
    "id": "114022",
    "interrogations": [
@@ -349,7 +349,7 @@
     "ein Bad",
     "Lesen"
    ],
-   "evidence": "Wenn es Zeit zum Energie tanken ist, bevorzugt der Verdächtige {{SELECTION-1}}, würde aber nur {{SELECTION-5}} als letzte Option wählen.",
+   "evidence": "Wenn es Zeit zum Energie tanken ist, bevorzugt der Täter {{SELECTION-1}}, würde aber nur {{SELECTION-5}} als letzte Option wählen.",
    "familiarity": "STRANGERS",
    "id": "114046",
    "interrogations": [
@@ -372,7 +372,7 @@
     "Beliebt",
     "In der Nähe"
    ],
-   "evidence": "Bei der Auswahl eines Restaurants möchte der Verdächtige, dass es {{SELECTION-1}} ist, es ist ihm egal, ob es {{SELECTION-5}} ist.",
+   "evidence": "Bei der Auswahl eines Restaurants möchte der Täter, dass es {{SELECTION-1}} ist, es ist ihm egal, ob es {{SELECTION-5}} ist.",
    "familiarity": "STRANGERS",
    "id": "114079",
    "interrogations": [
@@ -395,7 +395,7 @@
     "Steuern",
     "Social Media"
    ],
-   "evidence": "Wenn er die Wahl hätte, würde der Verdächtige zuerst {{SELECTION-1}} und zuletzt {{SELECTION-4}} loswerden wollen.",
+   "evidence": "Wenn er die Wahl hätte, würde der Täter zuerst {{SELECTION-1}} und zuletzt {{SELECTION-4}} loswerden wollen.",
    "familiarity": "STRANGERS",
    "id": "114118",
    "interrogations": [
@@ -418,7 +418,7 @@
     "Wald",
     "Bücherei"
    ],
-   "evidence": "Auf der Suche nach seinem \"Happy Place\" würde der Verdächtige {{SELECTION-1}} vor {{SELECTION-4}} bevorzugen.",
+   "evidence": "Auf der Suche nach seinem \"Happy Place\" würde der Täter {{SELECTION-1}} vor {{SELECTION-4}} bevorzugen.",
    "familiarity": "STRANGERS",
    "id": "114238",
    "interrogations": [
@@ -440,7 +440,7 @@
     "Snacks",
     "Seife"
    ],
-   "evidence": "Für den Verdächtigen wäre es am schwierigsten, ohne \"{{SELECTION-1}}\" zu leben, aber nicht schwer, ohne \"{{SELECTION-4}}\" zu leben.",
+   "evidence": "Für den Täter wäre es am schwierigsten, ohne \"{{SELECTION-1}}\" zu leben, aber nicht schwer, ohne \"{{SELECTION-4}}\" zu leben.",
    "familiarity": "STRANGERS",
    "id": "114373",
    "interrogations": [
@@ -462,7 +462,7 @@
     "Seide",
     "Zuckerwatte"
    ],
-   "evidence": "Der Verdächtige hat ausgesagt, dass {{SELECTION-1}} sich besser anfühlt als {{SELECTION-4}}.",
+   "evidence": "Der Täter hat ausgesagt, dass {{SELECTION-1}} sich besser anfühlt als {{SELECTION-4}}.",
    "familiarity": "STRANGERS",
    "id": "114419",
    "interrogations": [
