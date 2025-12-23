@@ -802,7 +802,11 @@
       "Bewegungsapparat",
       "Bewegungsorgane",
       "Bewegungssystem",
-      "Muskuloskelettal"
+      "Muskuloskelettal",
+      "Muskeln",
+      "Muskulatur",
+      "Skelett",
+      "Knochen"
      ],
      "answer": "Muskuloskelettales System"
     },
@@ -821,7 +825,8 @@
       "Skin",
       "Dermis",
       "Integumentary System",
-      "Integument"
+      "Integument",
+      "Hautsystem"
      ],
      "answer": "Haut"
     },
@@ -850,7 +855,9 @@
       "Urinary",
       "Waste",
       "Urinary System",
-      "Harn"
+      "Harn",
+      "Urin",
+      "Urinsystem"
      ],
      "answer": "Harnsystem"
     }
