@@ -9,7 +9,7 @@
       "SELECT": "Bestätigen",
       "OFF": "Aus",
       "ON": "An",
-      "OR": "Oder",
+      "LOBBY_OR": "oder",
       "GO_TO": "Gehe auf ",
       "JOIN_ON_YOUR_DEVICE": "mit deinem Gerät um beizutreten",
       "USING_CODE": "Raumcode",
