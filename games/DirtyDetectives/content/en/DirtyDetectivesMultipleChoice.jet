@@ -1885,10 +1885,12 @@
             "evidence": [
                 {
                     "choices": [
+                        "Herne",
+                        "Bochum",
+                        "Duisburg",
                         "Gelsenkirchen",
-                        "Köln",
-                        "Hamburg",
-                        "Berlin"
+                        "Recklinghausen",
+                        "Bottrop"
                     ],
                     "finding": "Der Täter denkt, Schalke 04 spielt in {{SELECTION}}.",
                     "summary": "SCHALKE: {{SELECTION}}"
