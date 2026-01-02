@@ -10,7 +10,7 @@
     "Werwölfe",
     "Mumien"
    ],
-   "evidence": "Im Kampf gegen Monster würde der Täter sich dafür entscheiden, zuerst {{SELECTION-1}} und zuletzt {{SELECTION-3}} zu bekämpfen.",
+   "evidence": "Im Kampf gegen Monster würde der Täter sich dafür entscheiden, zuerst {{SELECTION-1}} und zuletzt {{SELECTION-4}} zu bekämpfen.",
    "familiarity": "FRIENDS",
    "id": "107564",
    "interrogations": [
@@ -59,7 +59,7 @@
    ],
    "question": "In welcher Reihenfolge überprüfst du, ob du diese Gegenstände dabei hast, bevor du das Haus verlässt?",
    "reminder": "Taschen checken",
-   "summary": "{{SELECTION-2}} VOR {{SELECTION-3}}"
+   "summary": "{{SELECTION-1}} VOR {{SELECTION-4}}"
   },
   {
    "appearance": "EARLY",
@@ -91,7 +91,6 @@
     "Neues Auto",
     "Haus",
     "Bildung",
-    "Luxus",
     "Schuldenabbau"
    ],
    "evidence": "Der lottogewinnende Täter würde {{SELECTION-1}} über {{SELECTION-4}} bevorzugen.",
@@ -161,7 +160,7 @@
     "2000er",
     "2010er"
    ],
-   "evidence": "Der Täter liebt die Musik von {{SELECTION-1}} am meisten und die Musik von {{SELECTION-4}} am wenigsten.",
+   "evidence": "Der Täter liebt die Musik von {{SELECTION-1}} am meisten und die Musik von {{SELECTION-5}} am wenigsten.",
    "familiarity": "FRIENDS",
    "id": "108796",
    "interrogations": [
