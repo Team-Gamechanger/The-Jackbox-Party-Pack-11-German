@@ -1755,7 +1755,7 @@
                 {
                     "choices": [
                         "Jemandes Kleidung stehlen",
-                        "Eine mittelalterliche Burg",
+                        "Etwas dauerhaft aus dem Gedächtnis streichen",
                         "Sich verlieben"
                     ],
                     "finding": "Der Täter {{RED}}weiß nicht, was \"defenestrieren\" bedeutet.",
@@ -2857,8 +2857,7 @@
                         "Protz-Villa",
                         "Brutalistische Struktur",
                         "Einkaufszentrum",
-                        "\"Party-Scheune\"",
-                        "Parkplatz"
+                        "\"Party-Scheune\""
                     ],
                     "finding": "Der Täter denkt, die hässlichste Gebäudeart ist: {{SELECTION}}.",
                     "summary": "HÄSSLICH: {{SELECTION}}"
@@ -3362,7 +3361,7 @@
             ],
             "question": "Du fährst einen Zauberer mit deinem Auto an. Was ist dein nächster Schritt?",
             "reminder": "ZAUBERER-UNFALL",
-            "starterContent": true
+            "starterContent": false
         },
         {
             "appearance": "EARLY",
