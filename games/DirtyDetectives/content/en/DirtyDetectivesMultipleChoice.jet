@@ -4966,7 +4966,7 @@
                     "choices": [
                         "Auf jeden Fall."
                     ],
-                    "finding": "Wenn der Täter in der Natur ist, fühlt er sich ganz und gar als Teil davon.",
+                    "finding": "Wenn der Täter in der Natur ist, fühlt er sich {{RED}}ganz und gar als Teil davon.",
                     "summary": "NATUR: {{RED}}TEIL DAVON!"
                 },
                 {
