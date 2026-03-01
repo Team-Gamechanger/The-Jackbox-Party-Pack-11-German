@@ -9,12 +9,15 @@
   },
   {
    "altSpellings": [
-    "Herz"
+    "Herz",
+    "Das Herz",
+    "Ein Herz",
+    "Herzen"
    ],
    "answer": "Herz",
    "clue": "Im ständigen Konflikt mit deinem Kopf",
    "id": "106896",
-   "riddle": "Man braucht es viel auf diesem Pfad\nDenn auch hier geht es Schlag auf Schlag\nTag ein, Tag aus, stellen sie ihm Fragen\nDabei sterben sie bei dessen Versagen\n\nWas ist es?"
+   "riddle": "Man fasst es sich für diesen Pfad\nDenn auch hier geht es stets Schlag auf Schlag\nTag ein, Tag aus, stellen sie ihm Fragen\nDabei sterben sie bei dessen Versagen\n\nWas ist es?"
   },
   {
    "altSpellings": [
@@ -112,7 +115,7 @@
    "answer": "Knochen",
    "clue": "Die Antwort reimt sich mit “Rochen” und “Jochen”.",
    "id": "113137",
-   "riddle": "Ich begleite dich täglich auf all' deinen Wegen\nUnd bereite Schmerzen, sollte es mich mal zerlegen\nBei reichen Leute ziere ich die Wände\nDoch bei allen bleibe ich bis zum Ende\n\nWas bin ich?",
+   "riddle": "Ich begleite dich täglich auf all' deinen Wegen\nUnd bereite Schmerzen, sollte es mich mal zerlegen\nBei reichen Leuten ziere ich die Wände\nDoch bei allen bleibe ich bis zum Ende\n\nWas bin ich?",
    "x": false
   }
  ]
