@@ -678,7 +678,7 @@
                         "Ich liebe das Kochen!"
                     ],
                     "finding": "Der Täter {{RED}}liebt das Kochen.",
-                    "summary": "KOCHEN: {{RED}} LIEBT ES"
+                    "summary": "KOCHEN: {{RED}}LIEBT ES"
                 },
                 {
                     "choices": [
@@ -692,7 +692,7 @@
                         "Ich HASSE es."
                     ],
                     "finding": "Der Täter gibt zu, dass er das Kochen {{RED}}HASST.",
-                    "summary": "KOCHEN: {{RED}} HASST ES"
+                    "summary": "KOCHEN: {{RED}}HASST ES"
                 }
             ],
             "familiarity": "STRANGERS",
@@ -3591,7 +3591,7 @@
                     "choices": [
                         "Nein, nie."
                     ],
-                    "finding": "Der Täter {{RED}} war noch nie bei einem Wahrsager.",
+                    "finding": "Der Täter {{RED}}war noch nie bei einem Wahrsager.",
                     "summary": "WAHRSAGER: {{RED}}NIE"
                 },
                 {
@@ -3898,7 +3898,7 @@
                     "choices": [
                         "Schlecht. Ich bin sensibel."
                     ],
-                    "finding": "Der Täter {{RED}} kann keine Scherze auf seine Kosten ertragen.",
+                    "finding": "Der Täter {{RED}}kann keine Scherze auf seine Kosten ertragen.",
                     "summary": "SCHERZ ERTRAGEN? {{RED}}HASST ES"
                 },
                 {
@@ -4437,7 +4437,7 @@
                         "\"...and guide me by the hand\"",
                         "\"...to dance across the land.\""
                     ],
-                    "finding": "Der Täter {{RED}} lag falsch, als er gebeten wurde, den Songtext von My Chemical Romance zu vervollständigen.",
+                    "finding": "Der Täter {{RED}}lag falsch, als er gebeten wurde, den Songtext von My Chemical Romance zu vervollständigen.",
                     "summary": "MCR: {{RED}}FALSCH"
                 },
                 {
@@ -4733,21 +4733,21 @@
                     "choices": [
                         "Speisesalz"
                     ],
-                    "finding": "Auf die Frage, wofür die chemische Formel NH3 stehe, wusste der Täter {{RED}} nicht die Antwort.",
+                    "finding": "Auf die Frage, wofür die chemische Formel NH3 stehe, wusste der Täter {{RED}}nicht die Antwort.",
                     "summary": "NH3: {{RED}}UNWISSEND"
                 },
                 {
                     "choices": [
                         "Essigsäure"
                     ],
-                    "finding": "Auf die Frage, wofür die chemische Formel NH3 stehe, wusste der Täter {{RED}} nicht die Antwort.",
+                    "finding": "Auf die Frage, wofür die chemische Formel NH3 stehe, wusste der Täter {{RED}}nicht die Antwort.",
                     "summary": "NH3: {{RED}}UNWISSEND"
                 },
                 {
                     "choices": [
                         "Hyaluronsäure"
                     ],
-                    "finding": "Auf die Frage, wofür die chemische Formel NH3 stehe, wusste der Täter {{RED}} nicht die Antwort.",
+                    "finding": "Auf die Frage, wofür die chemische Formel NH3 stehe, wusste der Täter {{RED}}nicht die Antwort.",
                     "summary": "NH3: {{RED}}UNWISSEND"
                 }
             ],
@@ -4770,28 +4770,28 @@
                     "choices": [
                         "In meinen Augen!"
                     ],
-                    "finding": "Der Täter {{RED}} weiß nicht, wo sich seine Steigbügel befinden.",
+                    "finding": "Der Täter {{RED}}weiß nicht, wo sich seine Steigbügel befinden.",
                     "summary": "STEIGBÜGEL: {{RED}}FALSCH"
                 },
                 {
                     "choices": [
                         "In meinen Händen!"
                     ],
-                    "finding": "Der Täter {{RED}} weiß nicht, wo sich seine Steigbügel befinden.",
+                    "finding": "Der Täter {{RED}}weiß nicht, wo sich seine Steigbügel befinden.",
                     "summary": "STEIGBÜGEL: {{RED}}FALSCH"
                 },
                 {
                     "choices": [
                         "In meinen Ohren!"
                     ],
-                    "finding": "Der Täter {{RED}} weiß, wo sich seine Steigbügel befinden. Wow!!!",
+                    "finding": "Der Täter {{RED}}weiß, wo sich seine Steigbügel befinden. Wow!!!",
                     "summary": "STEIGBÜGEL: {{RED}}RICHTIG"
                 },
                 {
                     "choices": [
                         "In meiner Nase!"
                     ],
-                    "finding": "Der Täter {{RED}} weiß nicht, wo sich seine Steigbügel befinden.",
+                    "finding": "Der Täter {{RED}}weiß nicht, wo sich seine Steigbügel befinden.",
                     "summary": "STEIGBÜGEL: {{RED}}FALSCH"
                 }
             ],
